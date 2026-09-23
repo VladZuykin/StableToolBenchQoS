@@ -19,16 +19,17 @@ from tenacity import retry, wait_random_exponential, stop_after_attempt
 
 config_file='config.yml'
 CONFIG = yaml.load(open(config_file, 'r'), Loader=yaml.FullLoader)
-print(CONFIG)
 CACHE_FOLDER = CONFIG['cache_folder']
-LOG_FILE = CONFIG['log_file']
-# OpenAI API
+LOG_FILE = os.getenv("SERVER_LOG_FILE") or CONFIG['log_file']
+# The API simulator is configured independently from the inference agent.
+# Environment variables take precedence; config.yml is a legacy fallback.
 from openai import OpenAI
-if 'api_base' in CONFIG:
-    OPENAI_API_BASE=CONFIG['api_base']
-else:
-    OPENAI_API_BASE="https://api.openai.com/v1"
-OPENAI_API_KEY=CONFIG['api_key']
+SIMULATOR_API_KEY = os.getenv("SIMULATOR_API_KEY") or CONFIG.get("api_key")
+SIMULATOR_API_BASE = os.getenv("SIMULATOR_API_BASE") or CONFIG.get("api_base") or "https://api.openai.com/v1"
+SIMULATOR_MODEL = os.getenv("SIMULATOR_MODEL") or CONFIG.get("model", "gpt-4-turbo")
+SERVER_MODE = os.getenv("SERVER_MODE", "cache_only").lower()
+if SERVER_MODE not in {"cache_only", "full"}:
+    raise ValueError("SERVER_MODE must be either 'cache_only' or 'full'")
 
 limiter = Limiter(key_func=get_remote_address)
 app = FastAPI()
@@ -70,9 +71,12 @@ REQUEST: {request}
 RESPONSE: {response}
 <<<<<<<<<<<<<<<<<<<<<<<
 """
-    with open(LOG_FILE, "a") as f:
-        curr_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        f.write(log.format(curr_time=curr_time, type=type, request=request, response=response))
+    try:
+        with open(LOG_FILE, "a") as f:
+            curr_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            f.write(log.format(curr_time=curr_time, type=type, request=request, response=response))
+    except OSError as error:
+        print(f"Unable to write server log {LOG_FILE}: {error}")
 
 
 @app.post('/virtual')
@@ -121,6 +125,11 @@ def get_virtual_response(request: Request, info: Info):
                         return response_dict
     except Exception as e:
         print(f"Loading cache error: {e}")
+
+    if SERVER_MODE == "cache_only":
+        response_dict = {"error": "Cache miss", "response": ""}
+        write_log(request=info, response=response_dict, type="cache_miss")
+        return response_dict
         
     """
     Call the real api before generating fake response
@@ -339,14 +348,14 @@ Your will also be given successful examples of API calls and their expected outp
     user_prompt = {"role": "user", "content": user_prompt}
 
     client = OpenAI(
-        api_key = OPENAI_API_KEY,
-        base_url = OPENAI_API_BASE,
+        api_key = SIMULATOR_API_KEY,
+        base_url = SIMULATOR_API_BASE,
     )
     max_retries = 3 
     flag = False
     for attempt in range(max_retries):
         response = client.chat.completions.create(
-            model = CONFIG['model'],
+            model = SIMULATOR_MODEL,
             messages=[system_prompt, user_prompt],
             max_tokens = 1024,
             temperature=CONFIG['temperature'],

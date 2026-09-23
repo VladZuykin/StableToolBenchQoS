@@ -36,19 +36,17 @@ def chat_completion_request(key, base_url, messages, tools=None, tool_choice=Non
         json_data.update({"tool_choice": tool_choice})
 
     try:
-        if model.startswith("gpt"):
-            client = OpenAI(base_url=base_url, api_key=key) if base_url else OpenAI(api_key=key)
-        else:
-            raise NotImplementedError("Model not supported")
+        # OpenAI-compatible providers expose the same Chat Completions
+        # interface, so model-name based filtering is not required here.
+        client = OpenAI(base_url=base_url, api_key=key) if base_url else OpenAI(api_key=key)
         openai_response = client.chat.completions.create(**json_data)
-        json_data = openai_response.dict()
-        return json_data
-
+        if hasattr(openai_response, "model_dump"):
+            return openai_response.model_dump()
+        return openai_response.dict()
     except Exception as e:
         print("Unable to generate ChatCompletion response")
         traceback.print_exc()
-        import pdb;  pdb.set_trace()
-        return {"error": str(e), "total_tokens": 0}
+        raise RuntimeError(f"Chat completion failed for model {model}: {e}") from e
 
 class ChatGPTFunction:
     def __init__(self, model="gpt-4-turbo-2024-04-09", openai_key="", base_url=None):
