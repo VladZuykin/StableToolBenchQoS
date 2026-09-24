@@ -1,0 +1,8 @@
+# Separate environment for modern embedding and reranking models.
+# Keep this independent from requirements_win.txt used by StableToolBench.
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+sentence-transformers>=4.1,<6
+torch>=2.2
+transformers>=4.51,<6
+

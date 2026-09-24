@@ -1,0 +1,2 @@
+# Lightweight UI for manual pair annotation.
+streamlit==1.64.0
