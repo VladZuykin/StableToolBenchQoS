@@ -1,0 +1,32 @@
+{
+  "{\"type\":\"CPI\"}": {
+    "error": "",
+    "response": {
+      "country": "Japan",
+      "monthly_rate_pct": 0.47,
+      "period": "2024-05",
+      "type": "CPI",
+      "yearly_rate_pct": 2.85
+    }
+  },
+  "{\"type\":\"HICP\"}": {
+    "error": "",
+    "response": {
+      "country": "Germany",
+      "monthly_rate_pct": 0.12,
+      "period": "2024-05",
+      "type": "HICP",
+      "yearly_rate_pct": 2.41
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "country": "United States",
+      "monthly_rate_pct": 0.31,
+      "period": "2024-05",
+      "type": "CPI",
+      "yearly_rate_pct": 3.27
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "{\"query\":\"Bonjour, comment allez-vous aujourd'hui ?\",\"show_query\":\"1\"}": {
+    "error": "",
+    "response": {
+      "query": "Bonjour, comment allez-vous aujourd'hui ?",
+      "results": [
+        {
+          "language_code": "fra",
+          "language_name": "French",
+          "percentage": 98,
+          "probability": 0.98,
+          "reliable_result": true
+        }
+      ],
+      "success": true
+    }
+  },
+  "{\"query\":\"Guten Morgen, wie geht es dir?\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "language_code": "deu",
+          "language_name": "German",
+          "percentage": 97,
+          "probability": 0.97,
+          "reliable_result": true
+        }
+      ],
+      "success": true
+    }
+  },
+  "{\"query\":\"Hola, ¿cómo estás? Espero que todo esté bien.\",\"show_query\":\"1\"}": {
+    "error": "",
+    "response": {
+      "query": "Hola, ¿cómo estás? Espero que todo esté bien.",
+      "results": [
+        {
+          "language_code": "spa",
+          "language_name": "Spanish",
+          "percentage": 99,
+          "probability": 0.99,
+          "reliable_result": true
+        }
+      ],
+      "success": true
+    }
+  }
+}

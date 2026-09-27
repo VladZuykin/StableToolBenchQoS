@@ -1,0 +1,187 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "Kargo şirketleri başarıyla listelendi.",
+      "success": true,
+      "value": [
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 1,
+          "image": "https://kargomnerede.com/images/aras-kargo.png",
+          "info": null,
+          "name": "Aras Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 2,
+          "image": "https://kargomnerede.com/images/yurtici-kargo.png",
+          "info": null,
+          "name": "Yurtiçi Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 3,
+          "image": "https://kargomnerede.com/images/surat-kargo.png",
+          "info": null,
+          "name": "Sürat Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 4,
+          "image": "https://kargomnerede.com/images/ptt-kargo.png",
+          "info": null,
+          "name": "PTT Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 5,
+          "image": "https://kargomnerede.com/images/mng-kargo.png",
+          "info": null,
+          "name": "MNG Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 6,
+          "image": "https://kargomnerede.com/images/hepsijet.png",
+          "info": null,
+          "name": "HepsiJet"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 7,
+          "image": "https://kargomnerede.com/images/trendyol-express.png",
+          "info": null,
+          "name": "TrendyolExpress"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 8,
+          "image": "https://kargomnerede.com/images/ups-kargo.png",
+          "info": null,
+          "name": "UPS Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 9,
+          "image": "https://kargomnerede.com/images/byexpress-kargo.png",
+          "info": null,
+          "name": "ByExpress Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 10,
+          "image": "https://kargomnerede.com/images/kolay-gelsin.png",
+          "info": null,
+          "name": "Kolay Gelsin"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 11,
+          "image": "https://kargomnerede.com/images/horoz-lojistik.png",
+          "info": null,
+          "name": "Horoz Lojistik"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 12,
+          "image": "https://kargomnerede.com/images/canada-post.png",
+          "info": null,
+          "name": "CanadaPost"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 13,
+          "image": "https://kargomnerede.com/images/dhl-kargo.png",
+          "info": null,
+          "name": "DHL Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 14,
+          "image": "https://kargomnerede.com/images/fedex.png",
+          "info": null,
+          "name": "Fedex"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 15,
+          "image": "https://kargomnerede.com/images/tnt-kargo.png",
+          "info": null,
+          "name": "TNT Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 16,
+          "image": "https://kargomnerede.com/images/usps.png",
+          "info": null,
+          "name": "Usps"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 17,
+          "image": "https://kargomnerede.com/images/yanwen.png",
+          "info": null,
+          "name": "Yanwen"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 18,
+          "image": "https://kargomnerede.com/images/aliexpress.png",
+          "info": null,
+          "name": "AliExpress"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 19,
+          "image": "https://kargomnerede.com/images/ceva-lojistik.png",
+          "info": null,
+          "name": "Ceva Lojistik"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 20,
+          "image": "https://kargomnerede.com/images/inter-global-kargo.png",
+          "info": null,
+          "name": "İnter Global Kargo"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 21,
+          "image": "https://kargomnerede.com/images/kargoist.png",
+          "info": null,
+          "name": "Kargoİst"
+        },
+        {
+          "_list_length": 31,
+          "additionalDatas": null,
+          "id": 22,
+          "image": "https://kargomnerede.com/images/jetizz.png",
+          "info": null,
+          "name": "Jetizz"
+        }
+      ]
+    }
+  }
+}

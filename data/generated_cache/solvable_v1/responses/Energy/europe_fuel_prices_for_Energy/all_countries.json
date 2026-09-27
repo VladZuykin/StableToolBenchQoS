@@ -1,0 +1,142 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "country": "Austria",
+        "diesel_price": 1.712,
+        "gasoline_price": 1.654
+      },
+      {
+        "country": "Belgium",
+        "diesel_price": 1.789,
+        "gasoline_price": 1.702
+      },
+      {
+        "country": "Bulgaria",
+        "diesel_price": 1.354,
+        "gasoline_price": 1.298
+      },
+      {
+        "country": "Croatia",
+        "diesel_price": 1.623,
+        "gasoline_price": 1.571
+      },
+      {
+        "country": "Cyprus",
+        "diesel_price": 1.498,
+        "gasoline_price": 1.442
+      },
+      {
+        "country": "Czechia",
+        "diesel_price": 1.601,
+        "gasoline_price": 1.548
+      },
+      {
+        "country": "Denmark",
+        "diesel_price": 1.823,
+        "gasoline_price": 1.776
+      },
+      {
+        "country": "Estonia",
+        "diesel_price": 1.567,
+        "gasoline_price": 1.512
+      },
+      {
+        "country": "Finland",
+        "diesel_price": 1.901,
+        "gasoline_price": 1.845
+      },
+      {
+        "country": "France",
+        "diesel_price": 1.756,
+        "gasoline_price": 1.699
+      },
+      {
+        "country": "Germany",
+        "diesel_price": 1.734,
+        "gasoline_price": 1.688
+      },
+      {
+        "country": "Greece",
+        "diesel_price": 1.642,
+        "gasoline_price": 1.587
+      },
+      {
+        "country": "Hungary",
+        "diesel_price": 1.589,
+        "gasoline_price": 1.534
+      },
+      {
+        "country": "Ireland",
+        "diesel_price": 1.812,
+        "gasoline_price": 1.758
+      },
+      {
+        "country": "Italy",
+        "diesel_price": 1.778,
+        "gasoline_price": 1.721
+      },
+      {
+        "country": "Latvia",
+        "diesel_price": 1.556,
+        "gasoline_price": 1.501
+      },
+      {
+        "country": "Lithuania",
+        "diesel_price": 1.543,
+        "gasoline_price": 1.489
+      },
+      {
+        "country": "Luxembourg",
+        "diesel_price": 1.612,
+        "gasoline_price": 1.558
+      },
+      {
+        "country": "Malta",
+        "diesel_price": 1.421,
+        "gasoline_price": 1.367
+      },
+      {
+        "country": "Netherlands",
+        "diesel_price": 1.867,
+        "gasoline_price": 1.812
+      },
+      {
+        "country": "Poland",
+        "diesel_price": 1.512,
+        "gasoline_price": 1.458
+      },
+      {
+        "country": "Portugal",
+        "diesel_price": 1.698,
+        "gasoline_price": 1.643
+      },
+      {
+        "country": "Romania",
+        "diesel_price": 1.487,
+        "gasoline_price": 1.432
+      },
+      {
+        "country": "Slovakia",
+        "diesel_price": 1.578,
+        "gasoline_price": 1.523
+      },
+      {
+        "country": "Slovenia",
+        "diesel_price": 1.634,
+        "gasoline_price": 1.579
+      },
+      {
+        "country": "Spain",
+        "diesel_price": 1.667,
+        "gasoline_price": 1.612
+      },
+      {
+        "country": "Sweden",
+        "diesel_price": 1.889,
+        "gasoline_price": 1.834
+      }
+    ]
+  }
+}

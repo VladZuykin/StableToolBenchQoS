@@ -1,0 +1,32 @@
+{
+  "{\"accept_language\":\"en-US\",\"element_selector\":\"#hnmain\",\"format\":\"pdf\",\"fresh\":true,\"mode\":\"element\",\"prescroll\":true,\"thumbnail_height\":300,\"thumbnail_width\":400,\"url\":\"https://news.ycombinator.com\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36\"}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "extensions": {
+        "code": "200",
+        "status": 200
+      }
+    }
+  },
+  "{\"delay\":3000,\"format\":\"jpg\",\"height\":900,\"mode\":\"viewport\",\"retina\":true,\"url\":\"https://www.wikipedia.org\",\"width\":1440}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "extensions": {
+        "code": "200",
+        "status": 200
+      }
+    }
+  },
+  "{\"format\":\"png\",\"height\":1024,\"html\":\"<html><body><h1>Hello World</h1><p>Sample page</p></body></html>\",\"json\":true,\"mode\":\"fullpage\",\"width\":1280}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "extensions": {
+        "code": "200",
+        "status": 200
+      }
+    }
+  }
+}

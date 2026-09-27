@@ -1,0 +1,59 @@
+{
+  "{\"bkcolor\":\"#FFFFFF\",\"borderx\":5,\"bordery\":5,\"folder\":\"assets/diagrams\",\"format\":\"jpg\",\"fromscratch\":true,\"name\":\"diagram.wmf\",\"pageheight\":1024,\"pagewidth\":768,\"storage\":\"productionstorage\"}": {
+    "error": "",
+    "response": {
+      "image": {
+        "backgroundColor": "#FFFFFF",
+        "borderX": 5,
+        "borderY": 5,
+        "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/diagram.jpg",
+        "folder": "assets/diagrams",
+        "format": "jpg",
+        "fromScratch": true,
+        "height": 1024,
+        "name": "diagram.jpg",
+        "storage": "productionstorage",
+        "width": 768
+      },
+      "status": "OK"
+    }
+  },
+  "{\"bkcolor\":\"transparent\",\"borderx\":20,\"bordery\":25,\"folder\":\"uploads/charts\",\"format\":\"bmp\",\"fromscratch\":false,\"name\":\"chart.wmf\",\"pageheight\":1200,\"pagewidth\":900,\"storage\":\"devstorage\"}": {
+    "error": "",
+    "response": {
+      "image": {
+        "backgroundColor": "transparent",
+        "borderX": 20,
+        "borderY": 25,
+        "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/chart.bmp",
+        "folder": "uploads/charts",
+        "format": "bmp",
+        "fromScratch": false,
+        "height": 1200,
+        "name": "chart.bmp",
+        "storage": "devstorage",
+        "width": 900
+      },
+      "status": "OK"
+    }
+  },
+  "{\"bkcolor\":\"white\",\"borderx\":10,\"bordery\":15,\"folder\":\"images/wmf\",\"format\":\"png\",\"fromscratch\":false,\"name\":\"logo.wmf\",\"pageheight\":800,\"pagewidth\":600,\"storage\":\"mycloudstorage\"}": {
+    "error": "",
+    "response": {
+      "image": {
+        "backgroundColor": "white",
+        "borderX": 10,
+        "borderY": 15,
+        "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/logo.png",
+        "folder": "images/wmf",
+        "format": "png",
+        "fromScratch": false,
+        "height": 800,
+        "name": "logo.png",
+        "storage": "mycloudstorage",
+        "width": 600
+      },
+      "status": "OK"
+    }
+  }
+}

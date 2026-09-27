@@ -1,0 +1,91 @@
+{
+  "{\"keyword\":\"climate change\",\"language\":\"en\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Jane Doe",
+          "content": "Global temperatures continue to rise as nations debate policy.",
+          "description": "A look at the latest climate data.",
+          "publishedAt": "2024-06-01T08:30:00Z",
+          "source": {
+            "id": null,
+            "name": "Global News"
+          },
+          "title": "Climate Change: The Latest Reports",
+          "url": "https://globalnews.example.com/climate-change-latest",
+          "urlToImage": "https://globalnews.example.com/images/climate.jpg"
+        },
+        {
+          "author": "John Smith",
+          "content": "Renewable energy adoption accelerates worldwide.",
+          "description": "Solar and wind power see record growth.",
+          "publishedAt": "2024-05-28T14:15:00Z",
+          "source": {
+            "id": null,
+            "name": "EcoWatch"
+          },
+          "title": "Renewable Energy Surges",
+          "url": "https://ecowatch.example.com/renewable-surge",
+          "urlToImage": "https://ecowatch.example.com/images/renewable.jpg"
+        }
+      ],
+      "keyword": "climate change"
+    }
+  },
+  "{\"keyword\":\"elecciones\",\"language\":\"es\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "María López",
+          "content": "Los ciudadanos acuden a las urnas en todo el país.",
+          "description": "Cobertura especial de las elecciones generales.",
+          "publishedAt": "2024-04-15T09:00:00Z",
+          "source": {
+            "id": null,
+            "name": "Noticias Globales"
+          },
+          "title": "Elecciones generales en marcha",
+          "url": "https://noticiasglobales.example.com/elecciones",
+          "urlToImage": "https://noticiasglobales.example.com/images/elecciones.jpg"
+        }
+      ],
+      "keyword": "elecciones"
+    }
+  },
+  "{\"keyword\":\"technologie\",\"language\":\"de\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Anna Müller",
+          "content": "Neue Entwicklungen in der KI-Forschung.",
+          "description": "Ein Überblick über die neuesten Technologietrends.",
+          "publishedAt": "2024-03-10T11:45:00Z",
+          "source": {
+            "id": null,
+            "name": "Tech Heute"
+          },
+          "title": "Technologie: KI und Innovation",
+          "url": "https://techheute.example.com/ki-innovation",
+          "urlToImage": "https://techheute.example.com/images/tech.jpg"
+        },
+        {
+          "author": "Peter Schmidt",
+          "content": "Start-ups revolutionieren den Markt.",
+          "description": "Wie junge Unternehmen die Branche verändern.",
+          "publishedAt": "2024-03-09T16:20:00Z",
+          "source": {
+            "id": null,
+            "name": "Wirtschaftsblatt"
+          },
+          "title": "Start-ups im Aufwind",
+          "url": "https://wirtschaftsblatt.example.com/startups",
+          "urlToImage": "https://wirtschaftsblatt.example.com/images/startups.jpg"
+        }
+      ],
+      "keyword": "technologie"
+    }
+  }
+}

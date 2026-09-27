@@ -1,0 +1,34 @@
+{
+  "{\"vat_number\":\"DE123456789\"}": {
+    "error": "",
+    "response": {
+      "company_address": "Musterstraße 12, 10115 Berlin, Germany",
+      "company_name": "Beispiel GmbH",
+      "country_code": "DE",
+      "request_id": "req_8f3a2b1c",
+      "valid": true,
+      "vat_number": "DE123456789"
+    }
+  },
+  "{\"vat_number\":\"FR40303265045\"}": {
+    "error": "",
+    "response": {
+      "company_address": "10 Rue de la Paix, 75002 Paris, France",
+      "company_name": "Société Exemple SAS",
+      "country_code": "FR",
+      "request_id": "req_5d9e7a4f",
+      "valid": true,
+      "vat_number": "FR40303265045"
+    }
+  },
+  "{\"vat_number\":\"GB999999973\"}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": "INVALID_VAT_NUMBER",
+        "details": null,
+        "message": "The provided VAT number could not be validated."
+      }
+    }
+  }
+}

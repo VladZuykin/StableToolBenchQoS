@@ -1,0 +1,77 @@
+{
+  "{\"is_id\":\"195678234512\"}": {
+    "error": "",
+    "response": {
+      "bids": 0,
+      "condition": "Neu",
+      "images": [
+        "https://i.ebayimg.com/images/g/abc123/s-l1600.jpg",
+        "https://i.ebayimg.com/images/g/def456/s-l1600.jpg"
+      ],
+      "item_id": "195678234512",
+      "item_specifics": {
+        "Farbe": "Deep Purple",
+        "Marke": "Apple",
+        "Modell": "iPhone 14 Pro",
+        "Speicherkapazität": "128 GB"
+      },
+      "listing_type": "Sofort-Kaufen",
+      "price": {
+        "currency": "EUR",
+        "value": 899.99
+      },
+      "quantity_available": 3,
+      "returns_accepted": true,
+      "seller": {
+        "feedback_score": 15432,
+        "name": "tech_deals_berlin",
+        "positive_feedback_percent": 99.2
+      },
+      "shipping": {
+        "cost": 4.99,
+        "currency": "EUR",
+        "location": "Berlin, Deutschland"
+      },
+      "title": "Apple iPhone 14 Pro 128GB Deep Purple - Neuwertig",
+      "watchers": 87
+    }
+  },
+  "{\"is_id\":\"334821907654\"}": {
+    "error": "",
+    "response": {
+      "auction_end_time": "2024-06-15T18:30:00Z",
+      "bids": 12,
+      "condition": "Gebraucht",
+      "images": [
+        "https://i.ebayimg.com/images/g/ghi789/s-l1600.jpg"
+      ],
+      "item_id": "334821907654",
+      "item_specifics": {
+        "Farbe": "Blau",
+        "Größe": "W32 L34",
+        "Marke": "Levi's",
+        "Material": "Denim",
+        "Modell": "501"
+      },
+      "listing_type": "Auktion",
+      "price": {
+        "currency": "EUR",
+        "value": 49.95
+      },
+      "quantity_available": 1,
+      "returns_accepted": false,
+      "seller": {
+        "feedback_score": 8210,
+        "name": "retro_style_shop",
+        "positive_feedback_percent": 98.7
+      },
+      "shipping": {
+        "cost": 5.49,
+        "currency": "EUR",
+        "location": "Hamburg, Deutschland"
+      },
+      "title": "Vintage Levi's 501 Jeans Herren W32 L34 Blau",
+      "watchers": 34
+    }
+  }
+}

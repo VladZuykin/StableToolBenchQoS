@@ -1,0 +1,62 @@
+{
+  "{\"channel_id\":\"123456\",\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "created_time": "2008-05-12T14:23:45+00:00",
+      "description": "Our favorite videos, handpicked by the Vimeo team.",
+      "header": {
+        "sizes": [
+          {
+            "height": 720,
+            "link": "https://i.vimeocdn.com/channel/123456_header_1280x720.jpg",
+            "width": 1280
+          }
+        ],
+        "uri": "/users/1/pictures/67890"
+      },
+      "id": 123456,
+      "layout": "grid",
+      "modified_time": "2024-01-15T09:12:33+00:00",
+      "name": "Staff Picks",
+      "pictures": {
+        "sizes": [
+          {
+            "height": 75,
+            "link": "https://i.vimeocdn.com/channel/123456_100x75.jpg",
+            "width": 100
+          },
+          {
+            "height": 480,
+            "link": "https://i.vimeocdn.com/channel/123456_640x480.jpg",
+            "width": 640
+          }
+        ],
+        "uri": "/users/1/pictures/12345"
+      },
+      "privacy": "anybody",
+      "tags": [
+        {
+          "tag": "staffpicks",
+          "url": "https://vimeo.com/tag/staffpicks"
+        }
+      ],
+      "total_subscribers": 543210,
+      "total_videos": 9876,
+      "url": "https://vimeo.com/channels/staffpicks",
+      "user": {
+        "id": 1,
+        "name": "Vimeo",
+        "url": "https://vimeo.com/vimeo"
+      },
+      "website": "https://vimeo.com/staffpicks"
+    }
+  },
+  "{\"channel_id\":\"987654\",\"format\":\"php\"}": {
+    "error": "",
+    "response": "a:12:{s:2:\"id\";i:987654;s:4:\"name\";s:12:\"Motion Design\";s:11:\"description\";s:42:\"A showcase of the best motion design videos.\";s:3:\"url\";s:41:\"https://vimeo.com/channels/motiondesign\";s:12:\"created_time\";s:25:\"2011-09-03T18:45:12+00:00\";s:13:\"modified_time\";s:25:\"2023-11-20T07:30:00+00:00\";s:4:\"user\";a:3:{s:2:\"id\";i:42;s:4:\"name\";s:12:\"Motion Lab\";s:3:\"url\";s:28:\"https://vimeo.com/motionlab\";}s:7:\"privacy\";s:7:\"anybody\";s:6:\"layout\";s:4:\"grid\";s:12:\"total_videos\";i:4321;s:17:\"total_subscribers\";i:87654;s:7:\"website\";s:35:\"https://motionlab.example.com\";}"
+  },
+  "{\"channel_id\":\"vimeo-staff-picks\",\"format\":\"xml\"}": {
+    "error": "",
+    "response": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<channel>\n  <id>123456</id>\n  <name>Staff Picks</name>\n  <description>Our favorite videos, handpicked by the Vimeo team.</description>\n  <url>https://vimeo.com/channels/staffpicks</url>\n  <created_time>2008-05-12T14:23:45+00:00</created_time>\n  <modified_time>2024-01-15T09:12:33+00:00</modified_time>\n  <user>\n    <id>1</id>\n    <name>Vimeo</name>\n    <url>https://vimeo.com/vimeo</url>\n  </user>\n  <privacy>anybody</privacy>\n  <layout>grid</layout>\n  <total_videos>9876</total_videos>\n  <total_subscribers>543210</total_subscribers>\n  <website>https://vimeo.com/staffpicks</website>\n</channel>"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "{\"is_id\":\"1DFixLWuPkv3KT3TnV35uz\"}": {
+    "error": "",
+    "response": {
+      "artists": "Ariana Grande",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+      "releaseDate": "2019-02-08",
+      "success": true,
+      "title": "thank u, next"
+    }
+  },
+  "{\"is_id\":\"2ODvWsOgouMbaA5xf0RkJe\"}": {
+    "error": "",
+    "response": {
+      "artists": "The Weeknd",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "releaseDate": "2020-03-20",
+      "success": true,
+      "title": "After Hours"
+    }
+  },
+  "{\"is_id\":\"4aawyAB9vmqN3uQ7FjRGTy\"}": {
+    "error": "",
+    "response": {
+      "artists": "Ed Sheeran",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+      "releaseDate": "2017-03-03",
+      "success": true,
+      "title": "÷ (Deluxe)"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"number\":\"+14155552671\"}": {
+    "error": "",
+    "response": {
+      "message": "This number is likely spam."
+    }
+  },
+  "{\"number\":\"+442071838750\"}": {
+    "error": "",
+    "response": {
+      "message": "This number appears to be safe."
+    }
+  },
+  "{\"number\":\"+919876543210\"}": {
+    "error": "",
+    "response": {
+      "message": "This number has been reported as spam multiple times."
+    }
+  }
+}

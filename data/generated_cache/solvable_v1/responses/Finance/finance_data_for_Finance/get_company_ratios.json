@@ -1,0 +1,320 @@
+{
+  "{\"symbol\":\"aapl\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "EBITMargin": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 0.32
+            },
+            {
+              "date": "2023-09-30",
+              "value": 0.31
+            }
+          ],
+          "fiveYrChage": 0.07,
+          "isMain": false,
+          "tenYrChange": 0.12,
+          "twoYrChange": 0.01
+        },
+        "currentRatio": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 0.87
+            },
+            {
+              "date": "2023-09-30",
+              "value": 0.99
+            }
+          ],
+          "fiveYrChage": 0.31,
+          "isMain": true,
+          "tenYrChange": 0.45,
+          "twoYrChange": 0.12
+        },
+        "debtEquityRatio": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 1.87
+            },
+            {
+              "date": "2023-09-30",
+              "value": 1.58
+            }
+          ],
+          "fiveYrChage": 0.27,
+          "isMain": false,
+          "tenYrChange": 0.6,
+          "twoYrChange": 0.18
+        },
+        "format": "json",
+        "grossMargin": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 0.46
+            },
+            {
+              "date": "2023-09-30",
+              "value": 0.44
+            }
+          ],
+          "fiveYrChage": 0.11,
+          "isMain": true,
+          "tenYrChange": 0.19,
+          "twoYrChange": 0.03
+        },
+        "id": "ratios_aapl",
+        "longTermDebtCapital": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 0.42
+            },
+            {
+              "date": "2023-09-30",
+              "value": 0.45
+            }
+          ],
+          "fiveYrChage": 0.08,
+          "isMain": false,
+          "tenYrChange": 0.22,
+          "twoYrChange": -0.05
+        },
+        "operatingMargin": {
+          "dates": [
+            {
+              "date": "2024-09-28",
+              "value": 0.31
+            },
+            {
+              "date": "2023-09-30",
+              "value": 0.3
+            }
+          ],
+          "fiveYrChage": 0.09,
+          "isMain": false,
+          "tenYrChange": 0.15,
+          "twoYrChange": 0.02
+        },
+        "symbol": "aapl"
+      }
+    }
+  },
+  "{\"symbol\":\"msft\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "EBITMargin": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 0.46
+            },
+            {
+              "date": "2023-06-30",
+              "value": 0.44
+            }
+          ],
+          "fiveYrChage": 0.08,
+          "isMain": false,
+          "tenYrChange": 0.14,
+          "twoYrChange": 0.02
+        },
+        "currentRatio": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 1.27
+            },
+            {
+              "date": "2023-06-30",
+              "value": 1.18
+            }
+          ],
+          "fiveYrChage": 0.24,
+          "isMain": true,
+          "tenYrChange": 0.38,
+          "twoYrChange": 0.09
+        },
+        "debtEquityRatio": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 0.72
+            },
+            {
+              "date": "2023-06-30",
+              "value": 0.65
+            }
+          ],
+          "fiveYrChage": 0.2,
+          "isMain": false,
+          "tenYrChange": 0.48,
+          "twoYrChange": 0.11
+        },
+        "format": "json",
+        "grossMargin": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 0.7
+            },
+            {
+              "date": "2023-06-30",
+              "value": 0.68
+            }
+          ],
+          "fiveYrChage": 0.13,
+          "isMain": true,
+          "tenYrChange": 0.21,
+          "twoYrChange": 0.04
+        },
+        "id": "ratios_msft",
+        "longTermDebtCapital": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 0.33
+            },
+            {
+              "date": "2023-06-30",
+              "value": 0.35
+            }
+          ],
+          "fiveYrChage": 0.05,
+          "isMain": false,
+          "tenYrChange": 0.17,
+          "twoYrChange": -0.03
+        },
+        "operatingMargin": {
+          "dates": [
+            {
+              "date": "2024-06-30",
+              "value": 0.45
+            },
+            {
+              "date": "2023-06-30",
+              "value": 0.42
+            }
+          ],
+          "fiveYrChage": 0.1,
+          "isMain": false,
+          "tenYrChange": 0.18,
+          "twoYrChange": 0.03
+        },
+        "symbol": "msft"
+      }
+    }
+  },
+  "{\"symbol\":\"tsla\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "EBITMargin": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 0.1
+            },
+            {
+              "date": "2023-12-31",
+              "value": 0.1
+            }
+          ],
+          "fiveYrChage": 0.05,
+          "isMain": false,
+          "tenYrChange": 0.1,
+          "twoYrChange": 0.0
+        },
+        "currentRatio": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 2.05
+            },
+            {
+              "date": "2023-12-31",
+              "value": 1.73
+            }
+          ],
+          "fiveYrChage": 0.35,
+          "isMain": true,
+          "tenYrChange": 0.52,
+          "twoYrChange": 0.15
+        },
+        "debtEquityRatio": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 0.18
+            },
+            {
+              "date": "2023-12-31",
+              "value": 0.17
+            }
+          ],
+          "fiveYrChage": 0.14,
+          "isMain": false,
+          "tenYrChange": 0.33,
+          "twoYrChange": 0.06
+        },
+        "format": "json",
+        "grossMargin": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 0.18
+            },
+            {
+              "date": "2023-12-31",
+              "value": 0.19
+            }
+          ],
+          "fiveYrChage": 0.06,
+          "isMain": true,
+          "tenYrChange": 0.16,
+          "twoYrChange": -0.02
+        },
+        "id": "ratios_tsla",
+        "longTermDebtCapital": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 0.11
+            },
+            {
+              "date": "2023-12-31",
+              "value": 0.13
+            }
+          ],
+          "fiveYrChage": 0.02,
+          "isMain": false,
+          "tenYrChange": 0.12,
+          "twoYrChange": -0.07
+        },
+        "operatingMargin": {
+          "dates": [
+            {
+              "date": "2024-12-31",
+              "value": 0.09
+            },
+            {
+              "date": "2023-12-31",
+              "value": 0.1
+            }
+          ],
+          "fiveYrChage": 0.04,
+          "isMain": false,
+          "tenYrChange": 0.11,
+          "twoYrChange": -0.01
+        },
+        "symbol": "tsla"
+      }
+    }
+  }
+}

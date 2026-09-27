@@ -1,0 +1,54 @@
+{
+  "{\"is_id\":123456,\"page\":1}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "teamnextevents",
+      "parameters": {
+        "id": 123456,
+        "page": 1
+      },
+      "response": [
+        {
+          "event_date": "2025-05-10",
+          "event_id": 987656,
+          "event_location": "London, UK",
+          "event_name": "Bellator 300: Team D vs Team E",
+          "opponent": "Team E",
+          "status": "Scheduled"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"is_id\":465171,\"page\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "teamnextevents",
+      "parameters": {
+        "id": 465171,
+        "page": 0
+      },
+      "response": [
+        {
+          "event_date": "2025-03-15",
+          "event_id": 987654,
+          "event_location": "Las Vegas, NV",
+          "event_name": "UFC 310: Team A vs Team B",
+          "opponent": "Team B",
+          "status": "Scheduled"
+        },
+        {
+          "event_date": "2025-04-20",
+          "event_id": 987655,
+          "event_location": "New York, NY",
+          "event_name": "UFC Fight Night: Team A vs Team C",
+          "opponent": "Team C",
+          "status": "Scheduled"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

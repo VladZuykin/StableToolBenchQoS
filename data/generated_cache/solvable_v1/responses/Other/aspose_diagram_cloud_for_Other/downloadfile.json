@@ -1,0 +1,41 @@
+{
+  "{\"path\":\"/archive/org_chart.vsdx\",\"versionid\":\"3\"}": {
+    "error": "",
+    "response": {
+      "Error": {
+        "Code": "200",
+        "DateTime": "2024-06-13T18:47:12Z",
+        "Description": "File downloaded successfully",
+        "InnerError": null,
+        "Message": "OK"
+      },
+      "RequestId": "c3d4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+    }
+  },
+  "{\"path\":\"/diagrams/flowchart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Error": {
+        "Code": "200",
+        "DateTime": "2024-06-11T14:23:45Z",
+        "Description": "File downloaded successfully",
+        "InnerError": null,
+        "Message": "OK"
+      },
+      "RequestId": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    }
+  },
+  "{\"path\":\"/projects/network_topology.vsdx\",\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "Error": {
+        "Code": "200",
+        "DateTime": "2024-06-12T09:15:30Z",
+        "Description": "File downloaded successfully",
+        "InnerError": null,
+        "Message": "OK"
+      },
+      "RequestId": "b2c3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+    }
+  }
+}

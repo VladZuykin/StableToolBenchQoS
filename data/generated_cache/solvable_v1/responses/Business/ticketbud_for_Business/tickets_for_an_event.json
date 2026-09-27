@@ -1,0 +1,74 @@
+{
+  "{\"event_id\":\"EVT-2024-CHARITY-GALA-77\"}": {
+    "error": "",
+    "response": {
+      "event_id": "EVT-2024-CHARITY-GALA-77",
+      "event_name": "Annual Charity Gala Night",
+      "tickets": [
+        {
+          "currency": "USD",
+          "price": 1200.0,
+          "quantity_available": 2,
+          "quantity_sold": 18,
+          "status": "on_sale",
+          "ticket_id": "gala_std_01",
+          "ticket_type": "Standard Table"
+        },
+        {
+          "currency": "USD",
+          "price": 2500.0,
+          "quantity_available": 0,
+          "quantity_sold": 10,
+          "status": "sold_out",
+          "ticket_id": "gala_prem_02",
+          "ticket_type": "Premium Table"
+        },
+        {
+          "currency": "USD",
+          "price": 150.0,
+          "quantity_available": 36,
+          "quantity_sold": 64,
+          "status": "on_sale",
+          "ticket_id": "gala_ind_03",
+          "ticket_type": "Individual Seat"
+        }
+      ]
+    }
+  },
+  "{\"event_id\":\"evt_9f8a7b6c5d4e3f2a\"}": {
+    "error": "",
+    "response": {
+      "event_id": "evt_9f8a7b6c5d4e3f2a",
+      "event_name": "Global Tech Summit 2025",
+      "tickets": [
+        {
+          "currency": "USD",
+          "price": 149.0,
+          "quantity_available": 180,
+          "quantity_sold": 320,
+          "status": "on_sale",
+          "ticket_id": "tkt_001",
+          "ticket_type": "General Admission"
+        },
+        {
+          "currency": "USD",
+          "price": 399.0,
+          "quantity_available": 25,
+          "quantity_sold": 75,
+          "status": "on_sale",
+          "ticket_id": "tkt_002",
+          "ticket_type": "VIP"
+        },
+        {
+          "currency": "USD",
+          "price": 49.0,
+          "quantity_available": 0,
+          "quantity_sold": 110,
+          "status": "sold_out",
+          "ticket_id": "tkt_003",
+          "ticket_type": "Student"
+        }
+      ]
+    }
+  }
+}

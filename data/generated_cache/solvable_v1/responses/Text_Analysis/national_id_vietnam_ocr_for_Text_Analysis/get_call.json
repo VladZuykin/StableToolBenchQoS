@@ -1,0 +1,20 @@
+{
+  "{\"request_id\":\"550e8400-e29b-41d4-a716-446655440000\"}": {
+    "error": "",
+    "response": {
+      "message": "OCR processing failed. The uploaded document could not be recognized as a valid Vietnam National ID card."
+    }
+  },
+  "{\"request_id\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "message": "OCR processing completed successfully. Extracted data: Full Name: NGUYEN VAN AN, ID Number: 001199012345, Date of Birth: 01/01/1990, Place of Origin: Hanoi, Date of Expiry: 01/01/2030"
+    }
+  },
+  "{\"request_id\":\"f47ac10b-58cc-4372-a567-0e02b2c3d479\"}": {
+    "error": "",
+    "response": {
+      "message": "OCR processing in progress. Please retry after some time."
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "{\"is_id\":\"1\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 35,
+          "alias": "jperez",
+          "apellido": "Pérez",
+          "categoriaIva": "Responsable Inscripto",
+          "dni": "30123456",
+          "domicilio": [],
+          "email": "jperez@example.com",
+          "id": "1",
+          "nombre": "Juan"
+        }
+      ],
+      "status": "ok"
+    }
+  },
+  "{\"is_id\":\"42\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 35,
+          "alias": "lfernandez",
+          "apellido": "Fernández",
+          "categoriaIva": "Monotributo",
+          "dni": "33456789",
+          "domicilio": [],
+          "email": "lfernandez@example.com",
+          "id": "42",
+          "nombre": "Lucía"
+        }
+      ],
+      "status": "ok"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 35,
+          "alias": "jperez",
+          "apellido": "Pérez",
+          "categoriaIva": "Responsable Inscripto",
+          "dni": "30123456",
+          "domicilio": [],
+          "email": "jperez@example.com",
+          "id": "1",
+          "nombre": "Juan"
+        },
+        {
+          "_list_length": 35,
+          "alias": "mgomez",
+          "apellido": "Gómez",
+          "categoriaIva": "Monotributo",
+          "dni": "27876543",
+          "domicilio": [],
+          "email": "mgomez@example.com",
+          "id": "2",
+          "nombre": "María"
+        },
+        {
+          "_list_length": 35,
+          "alias": "clopez",
+          "apellido": "López",
+          "categoriaIva": "Consumidor Final",
+          "dni": "35678901",
+          "domicilio": [],
+          "email": "clopez@example.com",
+          "id": "3",
+          "nombre": "Carlos"
+        }
+      ],
+      "status": "ok"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "{\"parameter\":\"beyonce-mn0000363000\"}": {
+    "error": "",
+    "response": {
+      "active": "1997–present",
+      "also_known_as": "Beyoncé Knowles-Carter",
+      "biography": "Beyoncé is an American singer, songwriter, and actress, known for her powerful vocals and dynamic performances, achieving global fame as a solo artist and with Destiny's Child.",
+      "born_in": "1981",
+      "born_location": "Houston, Texas, USA",
+      "died_in": "",
+      "died_location": "",
+      "genre": "Pop",
+      "id": "mn0000363000",
+      "image": "https://www.allmusic.com/artist/beyonce-mn0000363000.jpg",
+      "name": "Beyoncé",
+      "similar_artist": [
+        {
+          "id": "mn0000363001",
+          "link": "https://www.allmusic.com/artist/rihanna-mn0000363001",
+          "name": "Rihanna"
+        },
+        {
+          "id": "mn0000363002",
+          "link": "https://www.allmusic.com/artist/lady-gaga-mn0000363002",
+          "name": "Lady Gaga"
+        }
+      ],
+      "styles": [
+        {
+          "link": "https://www.allmusic.com/style/contemporary-rb-ma0000002800",
+          "name": "Contemporary R&B"
+        },
+        {
+          "link": "https://www.allmusic.com/style/pop-ma0000002801",
+          "name": "Pop"
+        }
+      ],
+      "tagline": "A global superstar known for her vocal prowess and cultural impact."
+    }
+  },
+  "{\"parameter\":\"miles-davis-mn0000201436\"}": {
+    "error": "",
+    "response": {
+      "active": "1935–1975",
+      "also_known_as": "Miles Dewey Davis III",
+      "biography": "Miles Davis was an American jazz trumpeter, bandleader, and composer, widely considered one of the most influential figures in jazz history.",
+      "born_in": "1926",
+      "born_location": "Alton, Illinois, USA",
+      "died_in": "1991",
+      "died_location": "Santa Monica, California, USA",
+      "genre": "Jazz",
+      "id": "mn0000201436",
+      "image": "https://www.allmusic.com/artist/miles-davis-mn0000201436.jpg",
+      "name": "Miles Davis",
+      "similar_artist": [
+        {
+          "id": "mn0000201437",
+          "link": "https://www.allmusic.com/artist/john-coltrane-mn0000201437",
+          "name": "John Coltrane"
+        },
+        {
+          "id": "mn0000201438",
+          "link": "https://www.allmusic.com/artist/herbie-hancock-mn0000201438",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "styles": [
+        {
+          "link": "https://www.allmusic.com/style/modal-jazz-ma0000002700",
+          "name": "Modal Jazz"
+        },
+        {
+          "link": "https://www.allmusic.com/style/hard-bop-ma0000002701",
+          "name": "Hard Bop"
+        }
+      ],
+      "tagline": "A pivotal figure in jazz, known for his innovative trumpet playing and bandleading."
+    }
+  },
+  "{\"parameter\":\"the-beatles-mn0000754032\"}": {
+    "error": "",
+    "response": {
+      "active": "1960–1970",
+      "also_known_as": "The Fab Four",
+      "biography": "The Beatles were an English rock band formed in Liverpool in 1960, becoming the most commercially successful and critically acclaimed act in popular music history.",
+      "born_in": "1960",
+      "born_location": "Liverpool, England",
+      "died_in": "1970",
+      "died_location": "London, England",
+      "genre": "Rock",
+      "id": "mn0000754032",
+      "image": "https://www.allmusic.com/artist/the-beatles-mn0000754032.jpg",
+      "name": "The Beatles",
+      "similar_artist": [
+        {
+          "id": "mn0000754033",
+          "link": "https://www.allmusic.com/artist/the-rolling-stones-mn0000754033",
+          "name": "The Rolling Stones"
+        },
+        {
+          "id": "mn0000754034",
+          "link": "https://www.allmusic.com/artist/the-beach-boys-mn0000754034",
+          "name": "The Beach Boys"
+        }
+      ],
+      "styles": [
+        {
+          "link": "https://www.allmusic.com/style/pop-rock-ma0000002600",
+          "name": "Pop/Rock"
+        },
+        {
+          "link": "https://www.allmusic.com/style/psychedelic-pop-ma0000002601",
+          "name": "Psychedelic Pop"
+        }
+      ],
+      "tagline": "The iconic British rock band that changed music forever."
+    }
+  }
+}

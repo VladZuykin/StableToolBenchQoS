@@ -1,0 +1,13 @@
+{
+  "{\"percentage\":\"50\",\"videourl\":\"https://example.com/media/product-demo.mp4\"}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "height": 720,
+      "percentage": "50",
+      "thumbnailUrl": "https://api.example.com/thumbnails/product-demo-50.jpg",
+      "videoUrl": "https://example.com/media/product-demo.mp4",
+      "width": 1280
+    }
+  }
+}

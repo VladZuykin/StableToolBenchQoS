@@ -1,0 +1,23 @@
+{
+  "{\"folder\":\"diagrams\",\"format\":\"pdf\",\"name\":\"ProcessFlow.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "a1b2c3d4-5e6f-7890-abcd-ef1234567890"
+    }
+  },
+  "{\"folder\":\"templates/exported\",\"format\":\"svg\",\"name\":\"NetworkDiagram.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "c3d4e5f6-7081-9012-cdef-123456789012"
+    }
+  },
+  "{\"format\":\"png\",\"name\":\"OrgChart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "b2c3d4e5-6f70-8901-bcde-f12345678901"
+    }
+  }
+}

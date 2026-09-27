@@ -1,0 +1,352 @@
+{
+  "{\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "interest_list": [
+        {
+          "interest": "Music",
+          "key_id": "1",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/music_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/music_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/music_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/music_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/music_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/music.png"
+        },
+        {
+          "interest": "Sports",
+          "key_id": "2",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/sports_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/sports_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/sports_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/sports_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/sports_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/sports.png"
+        },
+        {
+          "interest": "Travel",
+          "key_id": "3",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/travel_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/travel_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/travel_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/travel_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/travel_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/travel.png"
+        },
+        {
+          "interest": "Food",
+          "key_id": "4",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/food_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/food_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/food_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/food_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/food_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/food.png"
+        },
+        {
+          "interest": "Technology",
+          "key_id": "5",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/technology_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/technology_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/technology_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/technology_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/technology_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/technology.png"
+        },
+        {
+          "interest": "Art",
+          "key_id": "6",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/art_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/art_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/art_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/art_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/art_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/art.png"
+        },
+        {
+          "interest": "Fashion",
+          "key_id": "7",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/fashion_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/fashion_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/fashion_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/fashion_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/fashion_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/fashion.png"
+        },
+        {
+          "interest": "Fitness",
+          "key_id": "8",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/fitness_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/fitness_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/fitness_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/fitness_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/fitness_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/fitness.png"
+        },
+        {
+          "interest": "Movies",
+          "key_id": "9",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/movies_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/movies_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/movies_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/movies_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/movies_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/movies.png"
+        },
+        {
+          "interest": "Books",
+          "key_id": "10",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/books_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/books_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/books_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/books_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/books_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/books.png"
+        },
+        {
+          "interest": "Photography",
+          "key_id": "11",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/photography_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/photography_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/photography_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/photography_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/photography_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/photography.png"
+        },
+        {
+          "interest": "Gaming",
+          "key_id": "12",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/gaming_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/gaming_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/gaming_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/gaming_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/gaming_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/gaming.png"
+        },
+        {
+          "interest": "Nature",
+          "key_id": "13",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/nature_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/nature_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/nature_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/nature_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/nature_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/nature.png"
+        },
+        {
+          "interest": "Science",
+          "key_id": "14",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/science_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/science_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/science_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/science_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/science_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/science.png"
+        }
+      ]
+    }
+  },
+  "{\"lang\":\"hi\"}": {
+    "error": "",
+    "response": {
+      "interest_list": [
+        {
+          "interest": "संगीत",
+          "key_id": "1",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/music_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/music_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/music_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/music_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/music_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/music.png"
+        },
+        {
+          "interest": "खेल",
+          "key_id": "2",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/sports_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/sports_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/sports_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/sports_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/sports_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/sports.png"
+        },
+        {
+          "interest": "यात्रा",
+          "key_id": "3",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/travel_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/travel_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/travel_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/travel_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/travel_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/travel.png"
+        },
+        {
+          "interest": "भोजन",
+          "key_id": "4",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/food_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/food_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/food_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/food_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/food_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/food.png"
+        },
+        {
+          "interest": "प्रौद्योगिकी",
+          "key_id": "5",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/technology_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/technology_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/technology_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/technology_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/technology_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/technology.png"
+        },
+        {
+          "interest": "कला",
+          "key_id": "6",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/art_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/art_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/art_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/art_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/art_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/art.png"
+        },
+        {
+          "interest": "फैशन",
+          "key_id": "7",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/fashion_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/fashion_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/fashion_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/fashion_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/fashion_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/fashion.png"
+        },
+        {
+          "interest": "फिटनेस",
+          "key_id": "8",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/fitness_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/fitness_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/fitness_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/fitness_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/fitness_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/fitness.png"
+        },
+        {
+          "interest": "फ़िल्में",
+          "key_id": "9",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/movies_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/movies_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/movies_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/movies_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/movies_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/movies.png"
+        },
+        {
+          "interest": "किताबें",
+          "key_id": "10",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/books_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/books_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/books_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/books_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/books_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/books.png"
+        },
+        {
+          "interest": "फोटोग्राफी",
+          "key_id": "11",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/photography_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/photography_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/photography_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/photography_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/photography_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/photography.png"
+        },
+        {
+          "interest": "गेमिंग",
+          "key_id": "12",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/gaming_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/gaming_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/gaming_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/gaming_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/gaming_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/gaming.png"
+        },
+        {
+          "interest": "प्रकृति",
+          "key_id": "13",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/nature_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/nature_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/nature_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/nature_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/nature_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/nature.png"
+        },
+        {
+          "interest": "विज्ञान",
+          "key_id": "14",
+          "thumbnails": {
+            "hdpi": "https://cdn.example.com/interests/science_hdpi.png",
+            "mdpi": "https://cdn.example.com/interests/science_mdpi.png",
+            "xhdpi": "https://cdn.example.com/interests/science_xhdpi.png",
+            "xxhdpi": "https://cdn.example.com/interests/science_xxhdpi.png",
+            "xxxhdpi": "https://cdn.example.com/interests/science_xxxhdpi.png"
+          },
+          "web_icon": "https://cdn.example.com/interests/science.png"
+        }
+      ]
+    }
+  }
+}

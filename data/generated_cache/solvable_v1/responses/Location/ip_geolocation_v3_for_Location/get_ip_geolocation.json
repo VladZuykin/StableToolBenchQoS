@@ -1,0 +1,40 @@
+{
+  "{\"ip\":\"196.25.1.1\"}": {
+    "error": "",
+    "response": {
+      "city": "Johannesburg",
+      "continent": "Africa",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR",
+      "current_time": "2024-06-15 17:23:45",
+      "flag": "🇿🇦",
+      "ip": "196.25.1.1",
+      "isp": "Telkom Internet",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "organization": "Telkom SA",
+      "region": "Gauteng",
+      "timezone": "Africa/Johannesburg"
+    }
+  },
+  "{\"ip\":\"8.8.8.8\"}": {
+    "error": "",
+    "response": {
+      "city": "Mountain View",
+      "continent": "North America",
+      "country": "United States",
+      "country_code": "US",
+      "currency": "USD",
+      "current_time": "2024-06-15 08:23:45",
+      "flag": "🇺🇸",
+      "ip": "8.8.8.8",
+      "isp": "Google LLC",
+      "latitude": 37.4056,
+      "longitude": -122.0775,
+      "organization": "Google LLC",
+      "region": "California",
+      "timezone": "America/Los_Angeles"
+    }
+  }
+}

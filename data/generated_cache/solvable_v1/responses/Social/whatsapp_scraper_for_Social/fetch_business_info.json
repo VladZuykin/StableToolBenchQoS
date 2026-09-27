@@ -1,0 +1,26 @@
+{
+  "{\"phone\":442071234567}": {
+    "error": "",
+    "response": {
+      "address": "12 Camden High Street, London NW1 0JH, United Kingdom",
+      "business hours": "Mon-Fri 07:00-18:00, Sat-Sun 08:00-16:00",
+      "category": "Coffee Shop",
+      "description": "Local artisan coffee roastery and café offering single-origin beans and pastries.",
+      "email": "hello@example-roasters.co.uk",
+      "is_whatsapp_business": true,
+      "website": "https://www.example-roasters.co.uk"
+    }
+  },
+  "{\"phone\":919876543210}": {
+    "error": "",
+    "response": {
+      "address": "4th Floor, Cyber Hub, DLF Phase 2, Gurugram, Haryana 122002, India",
+      "business hours": "Mon-Sat 10:00-19:00",
+      "category": "Marketing Agency",
+      "description": "Full-service digital marketing agency specializing in SEO, social media, and brand strategy.",
+      "email": "contact@example-agency.in",
+      "is_whatsapp_business": false,
+      "website": "https://www.example-agency.in"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "{\"city\":\"New York\",\"page\":\"1\",\"state_code\":\"NY\"}": {
+    "error": "",
+    "response": {
+      "agent_address": {
+        "city": "NEW YORK",
+        "country": "US",
+        "line": "",
+        "line2": "",
+        "postal_code": "10011",
+        "state": "",
+        "state_code": "NY"
+      },
+      "agent_bio": "David Chen Office: 212-555-0198\nEmail Me Douglas Elliman Real Estate\n575 Madison Ave\nNew York, NY 10022\n\nExperience\nWith over a decade of experience in Manhattan real estate, I specialize in luxury condos, co-ops, and investment properties. I guide clients through every step of the transaction with discretion and market insight.",
+      "agent_languages": [
+        {
+          "name": "English"
+        },
+        {
+          "name": "Mandarin"
+        }
+      ],
+      "agent_mls": [
+        {
+          "abbreviation": "NYMLS_2B3C4D5E",
+          "license_number": "03012345",
+          "member": {
+            "id": "NYMLS_1399152E133D152E0055"
+          },
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "agent_photo": "http://p.rdcpix.com/v01/ccc340422-c0o.jpg",
+      "agent_rating": 4.5,
+      "agent_recommendations_count": 8,
+      "agent_reviews_count": 19,
+      "agent_served_areas": [
+        {
+          "name": "Manhattan",
+          "state_code": "NY"
+        },
+        {
+          "name": "Brooklyn",
+          "state_code": "NY"
+        },
+        {
+          "name": "Queens",
+          "state_code": "NY"
+        }
+      ],
+      "agent_slogan": "Manhattan Real Estate, Simplified",
+      "agent_specializations": [
+        {
+          "name": "Buyer"
+        },
+        {
+          "name": "Seller"
+        },
+        {
+          "name": "Commercial"
+        },
+        {
+          "name": "Luxury"
+        }
+      ],
+      "agent_team_details": {
+        "members_count": 5,
+        "team_name": "Chen Luxury Properties"
+      }
+    }
+  },
+  "{\"city\":\"San Jose\",\"page\":\"2\",\"state_code\":\"CA\"}": {
+    "error": "",
+    "response": {
+      "agent_address": {
+        "city": "SAN JOSE",
+        "country": "US",
+        "line": "",
+        "line2": "",
+        "postal_code": "95126",
+        "state": "",
+        "state_code": "CA"
+      },
+      "agent_bio": "Maria Sanchez Office: 408-555-0142\nEmail Me Intero Real Estate Services\n10 Almaden Blvd\nSan Jose, CA 95113\n\nExperience\nAs a lifelong San Jose resident, I know the neighborhoods, schools, and market trends. Whether you are buying your first home or selling an investment property, I provide personalized service and expert negotiation.",
+      "agent_languages": [
+        {
+          "name": "English"
+        },
+        {
+          "name": "Spanish"
+        }
+      ],
+      "agent_mls": [
+        {
+          "abbreviation": "MLSL_1A2B3C4D",
+          "license_number": "01987654",
+          "member": {
+            "id": "MLSL_1399152E133D152E0042"
+          },
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "agent_photo": "http://p.rdcpix.com/v01/bbb230311-c0o.jpg",
+      "agent_rating": 4.8,
+      "agent_recommendations_count": 12,
+      "agent_reviews_count": 27,
+      "agent_served_areas": [
+        {
+          "name": "San Jose",
+          "state_code": "CA"
+        },
+        {
+          "name": "Campbell",
+          "state_code": "CA"
+        },
+        {
+          "name": "Santa Clara",
+          "state_code": "CA"
+        },
+        {
+          "name": "Cupertino",
+          "state_code": "CA"
+        }
+      ],
+      "agent_slogan": "Your Neighborhood Expert",
+      "agent_specializations": [
+        {
+          "name": "Buyer"
+        },
+        {
+          "name": "Seller"
+        },
+        {
+          "name": "First Time"
+        },
+        {
+          "name": "Investment Properties"
+        }
+      ],
+      "agent_team_details": {
+        "members_count": 3,
+        "team_name": "Sanchez Realty Group"
+      }
+    }
+  }
+}

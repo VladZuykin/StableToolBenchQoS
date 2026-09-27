@@ -1,0 +1,42 @@
+{
+  "{\"sourceid\":\"bbcnews\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "publishedAt": "2024-05-24T09:15:00Z",
+          "summary": "Regulator announces a modest decrease in the energy price cap, offering limited relief to households.",
+          "title": "Energy bills to fall slightly as price cap adjusted",
+          "url": "https://www.bbcnews.example/energy-price-cap-adjustment"
+        },
+        {
+          "publishedAt": "2024-06-02T14:40:00Z",
+          "summary": "The energy regulator cautions that global factors could still push prices higher later in the year.",
+          "title": "Ofgem warns of winter supply pressures",
+          "url": "https://www.bbcnews.example/ofgem-winter-supply-warning"
+        }
+      ],
+      "sourceId": "bbcnews"
+    }
+  },
+  "{\"sourceid\":\"reuters\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "publishedAt": "2024-05-30T07:05:00Z",
+          "summary": "Crude benchmarks rise as geopolitical tensions threaten key shipping routes.",
+          "title": "Oil prices edge higher on supply concerns",
+          "url": "https://www.reuters.example/oil-prices-supply-concerns"
+        },
+        {
+          "publishedAt": "2024-06-05T11:20:00Z",
+          "summary": "Member states debate measures to cushion consumers from sharp market swings.",
+          "title": "EU energy ministers meet to discuss price volatility",
+          "url": "https://www.reuters.example/eu-energy-ministers-meeting"
+        }
+      ],
+      "sourceId": "reuters"
+    }
+  }
+}

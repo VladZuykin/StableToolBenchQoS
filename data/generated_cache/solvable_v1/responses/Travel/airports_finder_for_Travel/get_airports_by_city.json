@@ -1,0 +1,88 @@
+{
+  "{\"city\":\"London\"}": {
+    "error": "",
+    "response": {
+      "airports": [
+        {
+          "country": "United Kingdom",
+          "iata_code": "LHR",
+          "location": {
+            "latitude": 51.47,
+            "longitude": -0.4543
+          },
+          "name": "Heathrow Airport",
+          "timezone": "Europe/London"
+        },
+        {
+          "country": "United Kingdom",
+          "iata_code": "LGW",
+          "location": {
+            "latitude": 51.1537,
+            "longitude": -0.1821
+          },
+          "name": "Gatwick Airport",
+          "timezone": "Europe/London"
+        },
+        {
+          "country": "United Kingdom",
+          "iata_code": "LCY",
+          "location": {
+            "latitude": 51.5053,
+            "longitude": 0.0553
+          },
+          "name": "London City Airport",
+          "timezone": "Europe/London"
+        },
+        {
+          "country": "United Kingdom",
+          "iata_code": "STN",
+          "location": {
+            "latitude": 51.886,
+            "longitude": 0.2389
+          },
+          "name": "Stansted Airport",
+          "timezone": "Europe/London"
+        }
+      ],
+      "city": "London"
+    }
+  },
+  "{\"city\":\"New York\"}": {
+    "error": "",
+    "response": {
+      "airports": [
+        {
+          "country": "United States",
+          "iata_code": "JFK",
+          "location": {
+            "latitude": 40.6413,
+            "longitude": -73.7781
+          },
+          "name": "John F. Kennedy International Airport",
+          "timezone": "America/New_York"
+        },
+        {
+          "country": "United States",
+          "iata_code": "LGA",
+          "location": {
+            "latitude": 40.7769,
+            "longitude": -73.874
+          },
+          "name": "LaGuardia Airport",
+          "timezone": "America/New_York"
+        },
+        {
+          "country": "United States",
+          "iata_code": "EWR",
+          "location": {
+            "latitude": 40.6895,
+            "longitude": -74.1745
+          },
+          "name": "Newark Liberty International Airport",
+          "timezone": "America/New_York"
+        }
+      ],
+      "city": "New York"
+    }
+  }
+}

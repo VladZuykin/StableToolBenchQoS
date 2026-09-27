@@ -1,0 +1,14 @@
+{
+  "{\"storagename\":\"aspose-cloud-bucket\"}": {
+    "error": "",
+    "response": true
+  },
+  "{\"storagename\":\"myexcelstorage\"}": {
+    "error": "",
+    "response": true
+  },
+  "{\"storagename\":\"sales-data-2024\"}": {
+    "error": "",
+    "response": false
+  }
+}

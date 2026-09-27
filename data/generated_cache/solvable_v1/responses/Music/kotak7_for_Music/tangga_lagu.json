@@ -1,0 +1,41 @@
+{
+  "{\"country\":\"MY\",\"index\":10,\"is_id\":33,\"lang\":\"id\",\"num\":25}": {
+    "error": "",
+    "response": {
+      "chart": {
+        "country": "MY",
+        "id": 33,
+        "index": 10,
+        "lang": "id",
+        "num": 25,
+        "songs": [
+          {
+            "album": "Album A",
+            "artist": "Artis A",
+            "duration": 215,
+            "rank": 11,
+            "release_date": "2024-03-01",
+            "title": "Lagu Contoh Satu"
+          },
+          {
+            "album": "Album B",
+            "artist": "Artis B",
+            "duration": 198,
+            "rank": 12,
+            "release_date": "2024-02-15",
+            "title": "Lagu Contoh Dua"
+          },
+          {
+            "album": "Album C",
+            "artist": "Artis C",
+            "duration": 240,
+            "rank": 13,
+            "release_date": "2024-01-20",
+            "title": "Lagu Contoh Tiga"
+          }
+        ],
+        "total": 25
+      }
+    }
+  }
+}

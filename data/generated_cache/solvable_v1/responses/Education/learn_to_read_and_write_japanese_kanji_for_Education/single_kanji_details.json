@@ -1,0 +1,257 @@
+{
+  "{\"kanji\":\"山\"}": {
+    "error": "",
+    "response": {
+      "_id": "山",
+      "_rev": "1-def",
+      "dick": "mountain",
+      "dicn": "mountain",
+      "examples": [
+        {
+          "_list_length": 4,
+          "audio": {
+            "aac": "/audio/山_1.aac",
+            "mp3": "/audio/山_1.mp3",
+            "ogg": "/audio/山_1.ogg",
+            "opus": "/audio/山_1.opus"
+          },
+          "japanese": "山に登る",
+          "meaning": {
+            "english": "climb a mountain"
+          }
+        }
+      ],
+      "grade": 1,
+      "hint_group": 3,
+      "ka_id": "山",
+      "ka_utf": "山",
+      "kname": "yama",
+      "kstroke": 3,
+      "kunyomi": "やま",
+      "kunyomi_ja": "やま",
+      "kunyomi_ka_display": "やま",
+      "kunyomi_search": [
+        "やま",
+        "やま"
+      ],
+      "luminous": "mountain",
+      "meaning": "mountain",
+      "meaning_search": [
+        "mountain"
+      ],
+      "mn_hint": "three peaks",
+      "onyomi": "サン",
+      "onyomi_ja": "サン",
+      "onyomi_search": [
+        "サン",
+        "さん"
+      ],
+      "rad_meaning": "mountain",
+      "rad_name": "mountain",
+      "rad_name_ja": "やま",
+      "rad_name_search": [
+        "やま"
+      ],
+      "rad_order": 2,
+      "rad_position": "top",
+      "rad_position_ja": "かんむり",
+      "rad_position_search": [
+        "top",
+        "かんむり"
+      ],
+      "rad_stroke": 3,
+      "rad_utf": "山",
+      "stroketimes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "txt_books": [
+        {
+          "_list_length": 6,
+          "chapter": "2",
+          "txt_bk": "Genki"
+        }
+      ]
+    }
+  },
+  "{\"kanji\":\"川\"}": {
+    "error": "",
+    "response": {
+      "_id": "川",
+      "_rev": "1-ghi",
+      "dick": "river",
+      "dicn": "river",
+      "examples": [
+        {
+          "_list_length": 4,
+          "audio": {
+            "aac": "/audio/川_1.aac",
+            "mp3": "/audio/川_1.mp3",
+            "ogg": "/audio/川_1.ogg",
+            "opus": "/audio/川_1.opus"
+          },
+          "japanese": "川で泳ぐ",
+          "meaning": {
+            "english": "swim in a river"
+          }
+        }
+      ],
+      "grade": 1,
+      "hint_group": 4,
+      "ka_id": "川",
+      "ka_utf": "川",
+      "kname": "kawa",
+      "kstroke": 3,
+      "kunyomi": "かわ",
+      "kunyomi_ja": "かわ",
+      "kunyomi_ka_display": "かわ",
+      "kunyomi_search": [
+        "かわ",
+        "かわ"
+      ],
+      "luminous": "river",
+      "meaning": "river",
+      "meaning_search": [
+        "river"
+      ],
+      "mn_hint": "flowing water",
+      "onyomi": "セン",
+      "onyomi_ja": "セン",
+      "onyomi_search": [
+        "セン",
+        "せん"
+      ],
+      "rad_meaning": "river",
+      "rad_name": "river",
+      "rad_name_ja": "かわ",
+      "rad_name_search": [
+        "かわ"
+      ],
+      "rad_order": 3,
+      "rad_position": "left",
+      "rad_position_ja": "へん",
+      "rad_position_search": [
+        "left",
+        "へん"
+      ],
+      "rad_stroke": 3,
+      "rad_utf": "川",
+      "stroketimes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "txt_books": [
+        {
+          "_list_length": 6,
+          "chapter": "3",
+          "txt_bk": "Genki"
+        }
+      ]
+    }
+  },
+  "{\"kanji\":\"水\"}": {
+    "error": "",
+    "response": {
+      "_id": "水",
+      "_rev": "1-abc",
+      "dick": "water",
+      "dicn": "water",
+      "examples": [
+        {
+          "_list_length": 4,
+          "audio": {
+            "aac": "/audio/水_1.aac",
+            "mp3": "/audio/水_1.mp3",
+            "ogg": "/audio/水_1.ogg",
+            "opus": "/audio/水_1.opus"
+          },
+          "japanese": "水を飲む",
+          "meaning": {
+            "english": "drink water"
+          }
+        }
+      ],
+      "grade": 1,
+      "hint_group": 2,
+      "ka_id": "水",
+      "ka_utf": "水",
+      "kname": "mizu",
+      "kstroke": 4,
+      "kunyomi": "みず",
+      "kunyomi_ja": "みず",
+      "kunyomi_ka_display": "みず",
+      "kunyomi_search": [
+        "みず",
+        "みず"
+      ],
+      "luminous": "water",
+      "meaning": "water",
+      "meaning_search": [
+        "water"
+      ],
+      "mn_hint": "water flowing",
+      "onyomi": "スイ",
+      "onyomi_ja": "スイ",
+      "onyomi_search": [
+        "スイ",
+        "すい"
+      ],
+      "rad_meaning": "water",
+      "rad_name": "water",
+      "rad_name_ja": "みず",
+      "rad_name_search": [
+        "みず"
+      ],
+      "rad_order": 1,
+      "rad_position": "left",
+      "rad_position_ja": "へん",
+      "rad_position_search": [
+        "left",
+        "へん"
+      ],
+      "rad_stroke": 4,
+      "rad_utf": "水",
+      "stroketimes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "txt_books": [
+        {
+          "_list_length": 6,
+          "chapter": "1",
+          "txt_bk": "Genki"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "{\"cursor\":\"t3_prevCursor99\",\"time\":\"week\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": "t3_nextCursor42",
+        "posts": [
+          {
+            "allAwardings": [
+              {
+                "awardSubType": "silver",
+                "awardType": "global",
+                "coinPrice": 100,
+                "coinReward": 0,
+                "daysOfDripExtension": null,
+                "daysOfPremium": null,
+                "description": "Silver Award",
+                "giverCoinReward": null,
+                "iconHeight": 512,
+                "iconUrl": "https://www.redditstatic.com/awards/silver.png",
+                "iconWidth": 512,
+                "id": "award_silver",
+                "isEnabled": true,
+                "isNew": false,
+                "staticIconHeight": 512,
+                "staticIconUrl": "https://www.redditstatic.com/awards/silver_static.png",
+                "staticIconWidth": 512
+              }
+            ],
+            "author": "science_daily",
+            "authorId": "t2_def002",
+            "authorIsBlocked": false,
+            "contestMode": false,
+            "created": 1711987654,
+            "discussionType": null,
+            "distinguishType": null,
+            "domain": "nature.com",
+            "gildings": {
+              "gid1": 2,
+              "gid2": 1,
+              "gid3": 0
+            },
+            "goldCount": 3,
+            "id": "t3_def456",
+            "isArchived": false,
+            "isLocked": false,
+            "isStickied": true,
+            "numComments": 1289,
+            "numDuplicates": null,
+            "postId": "def456",
+            "score": 42310,
+            "thumbnail": {
+              "height": 180,
+              "url": "https://a.thumbs.redditmedia.com/example2.png",
+              "width": 320
+            },
+            "title": "Scientists discover new species deep in the Amazon rainforest",
+            "upvoteRatio": 0.89,
+            "viewCount": 0
+          }
+        ]
+      },
+      "success": true
+    }
+  },
+  "{\"time\":\"day\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": "t3_abc123",
+        "posts": [
+          {
+            "allAwardings": [],
+            "author": "curious_mind",
+            "authorId": "t2_abc001",
+            "authorIsBlocked": false,
+            "contestMode": false,
+            "created": 1712345678,
+            "discussionType": null,
+            "distinguishType": null,
+            "domain": "self.AskReddit",
+            "gildings": {
+              "gid1": 0,
+              "gid2": 0,
+              "gid3": 0
+            },
+            "goldCount": 0,
+            "id": "t3_xyz789",
+            "isArchived": false,
+            "isLocked": false,
+            "isStickied": false,
+            "numComments": 342,
+            "numDuplicates": null,
+            "postId": "xyz789",
+            "score": 15420,
+            "thumbnail": {
+              "height": 140,
+              "url": "https://b.thumbs.redditmedia.com/example1.jpg",
+              "width": 140
+            },
+            "title": "What's a small habit that dramatically improved your life?",
+            "upvoteRatio": 0.94,
+            "viewCount": 0
+          }
+        ]
+      },
+      "success": true
+    }
+  }
+}

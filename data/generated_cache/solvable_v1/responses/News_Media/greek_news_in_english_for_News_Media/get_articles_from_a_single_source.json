@@ -1,0 +1,32 @@
+{
+  "{\"siteid\":\"ekathimerini\"}": {
+    "error": "",
+    "response": {
+      "description": "Greek Prime Minister outlines new economic reform package aimed at boosting growth.",
+      "image": "https://www.ekathimerini.com/images/2024/06/economy-reform.jpg",
+      "link": "https://www.ekathimerini.com/news/2024/06/15/greek-pm-unveils-economic-reforms/",
+      "site": "ekathimerini",
+      "title": "Greek PM Unveils New Economic Reforms"
+    }
+  },
+  "{\"siteid\":\"protothema\"}": {
+    "error": "",
+    "response": {
+      "description": "Greece announces new measures to support tourism sector ahead of summer season.",
+      "image": "https://www.protothema.gr/images/2024/06/13/tourism-support.jpg",
+      "link": "https://www.protothema.gr/en/news/2024/06/13/greece-tourism-support-measures/",
+      "site": "protothema",
+      "title": "Greece Announces New Tourism Support Measures"
+    }
+  },
+  "{\"siteid\":\"tovima\"}": {
+    "error": "",
+    "response": {
+      "description": "Archaeologists uncover a 2,500-year-old temple in the ancient city of Dodona.",
+      "image": "https://www.tovima.gr/images/2024/06/14/dodona-temple.jpg",
+      "link": "https://www.tovima.gr/2024/06/14/culture/ancient-temple-discovered-in-dodona/",
+      "site": "tovima",
+      "title": "Ancient Temple Discovered in Dodona"
+    }
+  }
+}

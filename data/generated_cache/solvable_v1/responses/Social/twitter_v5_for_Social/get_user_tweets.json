@@ -1,0 +1,119 @@
+{
+  "{\"count\":\"20\",\"user\":\"2455740283\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABGXk3Y2Q1MjM0NTY3ODkwMTIAAg",
+      "has_more": true,
+      "tweets": [
+        {
+          "created_at": "2024-06-12T14:23:11.000Z",
+          "favorite_count": 87,
+          "id": "1789456123456789012",
+          "lang": "en",
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 12,
+          "text": "Just shipped a new feature! 🚀",
+          "user": {
+            "name": "Tech Builder",
+            "rest_id": "2455740283",
+            "username": "techbuilder"
+          }
+        },
+        {
+          "created_at": "2024-06-11T09:02:45.000Z",
+          "favorite_count": 41,
+          "id": "1789456123456789013",
+          "lang": "en",
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3,
+          "text": "Coffee and code, perfect morning.",
+          "user": {
+            "name": "Tech Builder",
+            "rest_id": "2455740283",
+            "username": "techbuilder"
+          }
+        }
+      ]
+    }
+  },
+  "{\"count\":\"5\",\"cursor\":\"DAABCgABGXk3Y2Q1MjM0NTY3ODkwMTIAAg\",\"user\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "cursor": "",
+      "has_more": false,
+      "tweets": [
+        {
+          "created_at": "2024-06-10T18:45:00.000Z",
+          "favorite_count": 19,
+          "id": "1789456123456789020",
+          "lang": "en",
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "text": "Reading about distributed systems today.",
+          "user": {
+            "name": "Dev Reader",
+            "rest_id": "1234567890",
+            "username": "devreader"
+          }
+        }
+      ]
+    }
+  },
+  "{\"count\":\"50\",\"user\":\"9876543210\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABGXk3Y2Q1MjM0NTY3ODkwMzMzAAI",
+      "has_more": true,
+      "tweets": [
+        {
+          "created_at": "2024-06-09T20:12:33.000Z",
+          "favorite_count": 312,
+          "id": "1789456123456789031",
+          "lang": "en",
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 45,
+          "text": "Sunset over the bay 🌅",
+          "user": {
+            "name": "Wander Lust",
+            "rest_id": "9876543210",
+            "username": "wanderlust"
+          }
+        },
+        {
+          "created_at": "2024-06-08T11:30:00.000Z",
+          "favorite_count": 64,
+          "id": "1789456123456789032",
+          "lang": "en",
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 8,
+          "text": "New blog post is live!",
+          "user": {
+            "name": "Wander Lust",
+            "rest_id": "9876543210",
+            "username": "wanderlust"
+          }
+        },
+        {
+          "created_at": "2024-06-07T17:55:21.000Z",
+          "favorite_count": 27,
+          "id": "1789456123456789033",
+          "lang": "en",
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2,
+          "text": "Trying out a new recipe tonight.",
+          "user": {
+            "name": "Wander Lust",
+            "rest_id": "9876543210",
+            "username": "wanderlust"
+          }
+        }
+      ]
+    }
+  }
+}

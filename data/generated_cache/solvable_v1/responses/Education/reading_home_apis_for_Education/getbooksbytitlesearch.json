@@ -1,0 +1,64 @@
+{
+  "{\"page\":0,\"search\":\"The Great Gatsby\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "F. Scott Fitzgerald",
+          "cover_image": "https://example.com/gatsby.jpg",
+          "description": "A novel set in the Jazz Age.",
+          "genre": "Classic",
+          "publication_year": 1925,
+          "title": "The Great Gatsby"
+        }
+      ],
+      "page": 0,
+      "total_pages": 1,
+      "total_results": 1
+    }
+  },
+  "{\"page\":1,\"search\":\"Harry Potter\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "J.K. Rowling",
+          "cover_image": "https://example.com/hp1.jpg",
+          "description": "The first novel in the Harry Potter series.",
+          "genre": "Fantasy",
+          "publication_year": 1997,
+          "title": "Harry Potter and the Sorcerer's Stone"
+        },
+        {
+          "author": "J.K. Rowling",
+          "cover_image": "https://example.com/hp2.jpg",
+          "description": "The second novel in the Harry Potter series.",
+          "genre": "Fantasy",
+          "publication_year": 1998,
+          "title": "Harry Potter and the Chamber of Secrets"
+        }
+      ],
+      "page": 1,
+      "total_pages": 4,
+      "total_results": 7
+    }
+  },
+  "{\"page\":2,\"search\":\"Sapiens\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "Yuval Noah Harari",
+          "cover_image": "https://example.com/sapiens.jpg",
+          "description": "A book about the history of humankind.",
+          "genre": "Non-Fiction",
+          "publication_year": 2011,
+          "title": "Sapiens: A Brief History of Humankind"
+        }
+      ],
+      "page": 2,
+      "total_pages": 2,
+      "total_results": 3
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "flights": [
+        {
+          "airline": "FlightsLogic Airways",
+          "arrival_time": "2025-06-15T11:30:00Z",
+          "currency": "USD",
+          "departure_time": "2025-06-15T08:00:00Z",
+          "destination": "LAX",
+          "flight_number": "FL123",
+          "origin": "JFK",
+          "price": 299.99,
+          "seats_available": 42
+        }
+      ],
+      "status": "success"
+    }
+  }
+}

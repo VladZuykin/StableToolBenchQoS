@@ -1,0 +1,36 @@
+{
+  "{\"nftnews\":\"latest NFT drops\"}": {
+    "error": "",
+    "response": {
+      "news": [
+        {
+          "date": "2024-06-01",
+          "summary": "A highly anticipated generative art NFT collection sold out within minutes of its public mint, with secondary sales already reaching record highs.",
+          "title": "New Generative Art Collection Sells Out in Minutes"
+        },
+        {
+          "date": "2024-06-02",
+          "summary": "A global retail brand has launched an NFT-based loyalty program that rewards customers with exclusive digital collectibles and real-world perks.",
+          "title": "Major Brand Announces NFT Loyalty Program"
+        }
+      ]
+    }
+  },
+  "{\"nftnews\":\"market trends\"}": {
+    "error": "",
+    "response": {
+      "news": [
+        {
+          "date": "2024-06-03",
+          "summary": "Trading volume across major NFT marketplaces increased by 45% this week, driven by renewed interest in blue-chip collections.",
+          "title": "NFT Market Sees Surge in Trading Volume"
+        },
+        {
+          "date": "2024-06-04",
+          "summary": "New Layer 2 scaling solutions have significantly lowered gas fees for NFT minting, making digital collectibles more accessible to a broader audience.",
+          "title": "Ethereum Layer 2 Solutions Reduce NFT Minting Costs"
+        }
+      ]
+    }
+  }
+}

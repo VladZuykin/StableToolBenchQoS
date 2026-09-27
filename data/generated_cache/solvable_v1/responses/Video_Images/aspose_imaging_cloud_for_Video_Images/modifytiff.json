@@ -1,0 +1,41 @@
+{
+  "{\"bitdepth\":1,\"compression\":\"CCITT4\",\"folder\":\"archive/2024\",\"fromscratch\":false,\"horizontalresolution\":72,\"name\":\"archive_page.tiff\",\"resolutionunit\":\"none\",\"storage\":\"ArchiveStorage\",\"verticalresolution\":72}": {
+    "error": "",
+    "response": {
+      "bitDepth": 1,
+      "compression": "CCITT4",
+      "fileName": "archive_page.tiff",
+      "horizontalResolution": 72,
+      "message": "TIFF image modified successfully",
+      "resolutionUnit": "none",
+      "status": "OK",
+      "verticalResolution": 72
+    }
+  },
+  "{\"bitdepth\":16,\"compression\":\"None\",\"folder\":\"scans\",\"fromscratch\":true,\"horizontalresolution\":120,\"name\":\"photo_scan.tif\",\"resolutionunit\":\"centimeter\",\"storage\":\"DefaultStorage\",\"verticalresolution\":120}": {
+    "error": "",
+    "response": {
+      "bitDepth": 16,
+      "compression": "None",
+      "fileName": "photo_scan.tif",
+      "horizontalResolution": 120,
+      "message": "TIFF image modified successfully",
+      "resolutionUnit": "centimeter",
+      "status": "OK",
+      "verticalResolution": 120
+    }
+  },
+  "{\"bitdepth\":8,\"compression\":\"LZW\",\"folder\":\"images\",\"fromscratch\":false,\"horizontalresolution\":300,\"name\":\"sample.tiff\",\"resolutionunit\":\"inch\",\"storage\":\"MyStorage\",\"verticalresolution\":300}": {
+    "error": "",
+    "response": {
+      "bitDepth": 8,
+      "compression": "LZW",
+      "fileName": "sample.tiff",
+      "horizontalResolution": 300,
+      "message": "TIFF image modified successfully",
+      "resolutionUnit": "inch",
+      "status": "OK",
+      "verticalResolution": 300
+    }
+  }
+}

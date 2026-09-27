@@ -1,0 +1,197 @@
+{
+  "{\"info\":false}": {
+    "error": "",
+    "response": {
+      "Diesel B10": {
+        "before": "30.44",
+        "change": "-0.30",
+        "latest": "30.14"
+      },
+      "Diesel B20": {
+        "before": "29.94",
+        "change": "-0.30",
+        "latest": "29.64"
+      },
+      "Gasohol 91": {
+        "before": "35.98",
+        "change": "-0.20",
+        "latest": "35.78"
+      },
+      "Gasohol 95": {
+        "before": "36.35",
+        "change": "-0.20",
+        "latest": "36.15"
+      },
+      "Gasohol E20": {
+        "before": "33.94",
+        "change": "-0.20",
+        "latest": "33.74"
+      },
+      "Gasohol E85": {
+        "before": "31.64",
+        "change": "-0.20",
+        "latest": "31.44"
+      },
+      "Hi Premium 97 Gasohol 95": {
+        "before": "42.54",
+        "change": "-0.20",
+        "latest": "42.34"
+      },
+      "Normal Diesel": {
+        "before": "30.44",
+        "change": "-0.30",
+        "latest": "30.14"
+      },
+      "Premium Diesel B7": {
+        "before": "33.94",
+        "change": "-0.30",
+        "latest": "33.64"
+      },
+      "Super Power Gasohol 95": {
+        "before": "43.84",
+        "change": "-0.20",
+        "latest": "43.64"
+      },
+      "ULG": {
+        "before": "37.35",
+        "change": "-0.20",
+        "latest": "37.15"
+      },
+      "info": {
+        "beforeupdate": "2024-06-16",
+        "diffdays": "1",
+        "lastupdate": "2024-06-17"
+      }
+    }
+  },
+  "{\"info\":true}": {
+    "error": "",
+    "response": {
+      "Diesel B10": {
+        "before": "30.44",
+        "change": "0.00",
+        "latest": "30.44"
+      },
+      "Diesel B20": {
+        "before": "29.94",
+        "change": "0.00",
+        "latest": "29.94"
+      },
+      "Gasohol 91": {
+        "before": "35.98",
+        "change": "0.00",
+        "latest": "35.98"
+      },
+      "Gasohol 95": {
+        "before": "36.35",
+        "change": "0.00",
+        "latest": "36.35"
+      },
+      "Gasohol E20": {
+        "before": "33.94",
+        "change": "0.00",
+        "latest": "33.94"
+      },
+      "Gasohol E85": {
+        "before": "31.64",
+        "change": "0.00",
+        "latest": "31.64"
+      },
+      "Hi Premium 97 Gasohol 95": {
+        "before": "42.54",
+        "change": "0.00",
+        "latest": "42.54"
+      },
+      "Normal Diesel": {
+        "before": "30.44",
+        "change": "0.00",
+        "latest": "30.44"
+      },
+      "Premium Diesel B7": {
+        "before": "33.94",
+        "change": "0.00",
+        "latest": "33.94"
+      },
+      "Super Power Gasohol 95": {
+        "before": "43.84",
+        "change": "0.00",
+        "latest": "43.84"
+      },
+      "ULG": {
+        "before": "37.35",
+        "change": "0.00",
+        "latest": "37.35"
+      },
+      "info": {
+        "beforeupdate": "2024-06-16",
+        "diffdays": "0",
+        "lastupdate": "2024-06-16"
+      }
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "Diesel B10": {
+        "before": "29.94",
+        "change": "+0.50",
+        "latest": "30.44"
+      },
+      "Diesel B20": {
+        "before": "29.44",
+        "change": "+0.50",
+        "latest": "29.94"
+      },
+      "Gasohol 91": {
+        "before": "35.58",
+        "change": "+0.40",
+        "latest": "35.98"
+      },
+      "Gasohol 95": {
+        "before": "35.95",
+        "change": "+0.40",
+        "latest": "36.35"
+      },
+      "Gasohol E20": {
+        "before": "33.54",
+        "change": "+0.40",
+        "latest": "33.94"
+      },
+      "Gasohol E85": {
+        "before": "31.24",
+        "change": "+0.40",
+        "latest": "31.64"
+      },
+      "Hi Premium 97 Gasohol 95": {
+        "before": "42.14",
+        "change": "+0.40",
+        "latest": "42.54"
+      },
+      "Normal Diesel": {
+        "before": "29.94",
+        "change": "+0.50",
+        "latest": "30.44"
+      },
+      "Premium Diesel B7": {
+        "before": "33.44",
+        "change": "+0.50",
+        "latest": "33.94"
+      },
+      "Super Power Gasohol 95": {
+        "before": "43.44",
+        "change": "+0.40",
+        "latest": "43.84"
+      },
+      "ULG": {
+        "before": "36.95",
+        "change": "+0.40",
+        "latest": "37.35"
+      },
+      "info": {
+        "beforeupdate": "2024-06-15",
+        "diffdays": "1",
+        "lastupdate": "2024-06-16"
+      }
+    }
+  }
+}

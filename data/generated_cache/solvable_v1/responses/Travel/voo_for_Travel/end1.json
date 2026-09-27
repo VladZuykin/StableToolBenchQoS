@@ -1,0 +1,113 @@
+{
+  "{\"voo\":\"Barcelona\"}": {
+    "error": "",
+    "response": {
+      "voos": [
+        {
+          "companhia": "LATAM",
+          "data_ida": "2025-05-10",
+          "data_volta": "2025-05-24",
+          "destino": "Barcelona",
+          "escalas": 1,
+          "moeda": "BRL",
+          "origem": "São Paulo",
+          "preco": 3120.0
+        },
+        {
+          "companhia": "Iberia",
+          "data_ida": "2025-06-01",
+          "data_volta": "2025-06-15",
+          "destino": "Barcelona",
+          "escalas": 0,
+          "moeda": "USD",
+          "origem": "Buenos Aires",
+          "preco": 980.75
+        },
+        {
+          "companhia": "Ryanair",
+          "data_ida": "2025-03-03",
+          "data_volta": "2025-03-10",
+          "destino": "Barcelona",
+          "escalas": 0,
+          "moeda": "EUR",
+          "origem": "Porto",
+          "preco": 74.5
+        }
+      ]
+    }
+  },
+  "{\"voo\":\"Madrid\"}": {
+    "error": "",
+    "response": {
+      "voos": [
+        {
+          "companhia": "Iberia",
+          "data_ida": "2025-03-12",
+          "data_volta": "2025-03-26",
+          "destino": "Madrid",
+          "escalas": 1,
+          "moeda": "BRL",
+          "origem": "São Paulo",
+          "preco": 2450.9
+        },
+        {
+          "companhia": "Air Europa",
+          "data_ida": "2025-04-05",
+          "data_volta": "2025-04-19",
+          "destino": "Madrid",
+          "escalas": 1,
+          "moeda": "BRL",
+          "origem": "Rio de Janeiro",
+          "preco": 2680.5
+        },
+        {
+          "companhia": "TAP Air Portugal",
+          "data_ida": "2025-02-20",
+          "data_volta": "2025-02-27",
+          "destino": "Madrid",
+          "escalas": 0,
+          "moeda": "EUR",
+          "origem": "Lisboa",
+          "preco": 89.99
+        }
+      ]
+    }
+  },
+  "{\"voo\":\"Paris\"}": {
+    "error": "",
+    "response": {
+      "voos": [
+        {
+          "companhia": "Air France",
+          "data_ida": "2025-07-08",
+          "data_volta": "2025-07-22",
+          "destino": "Paris",
+          "escalas": 1,
+          "moeda": "BRL",
+          "origem": "São Paulo",
+          "preco": 3890.4
+        },
+        {
+          "companhia": "LATAM",
+          "data_ida": "2025-08-14",
+          "data_volta": "2025-08-28",
+          "destino": "Paris",
+          "escalas": 2,
+          "moeda": "BRL",
+          "origem": "Rio de Janeiro",
+          "preco": 4050.0
+        },
+        {
+          "companhia": "Vueling",
+          "data_ida": "2025-04-02",
+          "data_volta": "2025-04-09",
+          "destino": "Paris",
+          "escalas": 0,
+          "moeda": "EUR",
+          "origem": "Madrid",
+          "preco": 112.3
+        }
+      ]
+    }
+  }
+}

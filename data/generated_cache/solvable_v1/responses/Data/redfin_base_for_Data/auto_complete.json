@@ -1,0 +1,176 @@
+{
+  "{\"location\":\"Austin, TX\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "errorMessage": "",
+        "payload": {
+          "exactMatch": {
+            "active": true,
+            "businessMarketIds": [
+              3,
+              4
+            ],
+            "claimedHome": true,
+            "countryCode": "US",
+            "id": "city_67890",
+            "internalSearchVolume": 2000,
+            "invalidMRS": false,
+            "name": "Austin",
+            "subName": "Texas",
+            "type": "city",
+            "url": "https://www.redfin.com/city/67890/TX/Austin"
+          },
+          "extraResults": {},
+          "hasFakeResults": false,
+          "isGeocoded": true,
+          "isRedfinServiced": true,
+          "responseTime": 110,
+          "sections": [
+            {
+              "_list_length": 3,
+              "name": "Cities",
+              "rows": [
+                {
+                  "_list_length": 1,
+                  "active": true,
+                  "businessMarketIds": [
+                    3,
+                    4
+                  ],
+                  "claimedHome": true,
+                  "countryCode": "US",
+                  "id": "city_67890",
+                  "internalSearchVolume": 2000,
+                  "invalidMRS": false,
+                  "name": "Austin",
+                  "subName": "Texas",
+                  "type": "city",
+                  "url": "https://www.redfin.com/city/67890/TX/Austin"
+                }
+              ]
+            }
+          ]
+        },
+        "resultCode": 0,
+        "version": 1
+      }
+    }
+  },
+  "{\"location\":\"Miami, FL\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "errorMessage": "",
+        "payload": {
+          "exactMatch": {
+            "active": true,
+            "businessMarketIds": [
+              5,
+              6
+            ],
+            "claimedHome": false,
+            "countryCode": "US",
+            "id": "city_13579",
+            "internalSearchVolume": 1800,
+            "invalidMRS": false,
+            "name": "Miami",
+            "subName": "Florida",
+            "type": "city",
+            "url": "https://www.redfin.com/city/13579/FL/Miami"
+          },
+          "extraResults": {},
+          "hasFakeResults": false,
+          "isGeocoded": true,
+          "isRedfinServiced": true,
+          "responseTime": 130,
+          "sections": [
+            {
+              "_list_length": 3,
+              "name": "Cities",
+              "rows": [
+                {
+                  "_list_length": 1,
+                  "active": true,
+                  "businessMarketIds": [
+                    5,
+                    6
+                  ],
+                  "claimedHome": false,
+                  "countryCode": "US",
+                  "id": "city_13579",
+                  "internalSearchVolume": 1800,
+                  "invalidMRS": false,
+                  "name": "Miami",
+                  "subName": "Florida",
+                  "type": "city",
+                  "url": "https://www.redfin.com/city/13579/FL/Miami"
+                }
+              ]
+            }
+          ]
+        },
+        "resultCode": 0,
+        "version": 1
+      }
+    }
+  },
+  "{\"location\":\"Seattle, WA\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "errorMessage": "",
+        "payload": {
+          "exactMatch": {
+            "active": true,
+            "businessMarketIds": [
+              1,
+              2
+            ],
+            "claimedHome": false,
+            "countryCode": "US",
+            "id": "city_12345",
+            "internalSearchVolume": 1500,
+            "invalidMRS": false,
+            "name": "Seattle",
+            "subName": "Washington",
+            "type": "city",
+            "url": "https://www.redfin.com/city/12345/WA/Seattle"
+          },
+          "extraResults": {},
+          "hasFakeResults": false,
+          "isGeocoded": true,
+          "isRedfinServiced": true,
+          "responseTime": 120,
+          "sections": [
+            {
+              "_list_length": 3,
+              "name": "Cities",
+              "rows": [
+                {
+                  "_list_length": 1,
+                  "active": true,
+                  "businessMarketIds": [
+                    1,
+                    2
+                  ],
+                  "claimedHome": false,
+                  "countryCode": "US",
+                  "id": "city_12345",
+                  "internalSearchVolume": 1500,
+                  "invalidMRS": false,
+                  "name": "Seattle",
+                  "subName": "Washington",
+                  "type": "city",
+                  "url": "https://www.redfin.com/city/12345/WA/Seattle"
+                }
+              ]
+            }
+          ]
+        },
+        "resultCode": 0,
+        "version": 1
+      }
+    }
+  }
+}

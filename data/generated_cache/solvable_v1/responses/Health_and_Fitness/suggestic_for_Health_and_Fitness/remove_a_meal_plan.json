@@ -1,0 +1,21 @@
+{
+  "{\"auth\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0.dummy\"}": {
+    "error": "",
+    "response": {
+      "errors": []
+    }
+  },
+  "{\"auth\":\"session-token-abc123\",\"authorization\":\"demo_authorization_2\"}": {
+    "error": "",
+    "response": {
+      "errors": [
+        {
+          "extensions": {
+            "code": "MEAL_PLAN_NOT_FOUND"
+          },
+          "message": "No active meal plan found for the current profile"
+        }
+      ]
+    }
+  }
+}

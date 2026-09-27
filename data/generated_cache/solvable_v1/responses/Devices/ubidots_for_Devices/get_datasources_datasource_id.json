@@ -1,0 +1,76 @@
+{
+  "{\"datasource_id\":\"ds-5f8a1c2b9e4d7a0012ab34cd\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1698765432000,
+      "id": "ds-5f8a1c2b9e4d7a0012ab34cd",
+      "label": "weather-station-alpha",
+      "last_activity": 1699123456789,
+      "name": "Weather Station Alpha",
+      "number_of_variables": 4,
+      "variables": [
+        {
+          "id": "var-001",
+          "name": "temperature",
+          "unit": "°C"
+        },
+        {
+          "id": "var-002",
+          "name": "humidity",
+          "unit": "%"
+        },
+        {
+          "id": "var-003",
+          "name": "pressure",
+          "unit": "hPa"
+        },
+        {
+          "id": "var-004",
+          "name": "wind_speed",
+          "unit": "m/s"
+        }
+      ]
+    }
+  },
+  "{\"datasource_id\":\"ds-7c3e9f1a2b6d4e8f0a1b2c3d\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1701234567000,
+      "id": "ds-7c3e9f1a2b6d4e8f0a1b2c3d",
+      "label": "factory-line-monitor",
+      "last_activity": 1701298765432,
+      "name": "Factory Line Monitor",
+      "number_of_variables": 2,
+      "variables": [
+        {
+          "id": "var-101",
+          "name": "vibration",
+          "unit": "g"
+        },
+        {
+          "id": "var-102",
+          "name": "rpm",
+          "unit": "rpm"
+        }
+      ]
+    }
+  },
+  "{\"datasource_id\":\"ds-9a1b2c3d4e5f6a7b8c9d0e1f\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1702000000000,
+      "id": "ds-9a1b2c3d4e5f6a7b8c9d0e1f",
+      "label": "smart-meter-42",
+      "last_activity": 1702003600000,
+      "name": "Smart Meter 42",
+      "number_of_variables": 1,
+      "variables": [
+        {
+          "id": "var-201",
+          "name": "energy_consumption",
+          "unit": "kWh"
+        }
+      ]
+    }
+  }
+}

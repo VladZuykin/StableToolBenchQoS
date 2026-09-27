@@ -1,0 +1,289 @@
+{
+  "{\"page\":1,\"per_page\":5}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "id": "topic-001",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-001",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Legal"
+        },
+        {
+          "id": "topic-002",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-002",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Marketing"
+        },
+        {
+          "id": "topic-003",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-003",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Technical Documentation"
+        },
+        {
+          "id": "topic-004",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-004",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Medical"
+        },
+        {
+          "id": "topic-005",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-005",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Finance"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://api.textking.com/v1/topics?page=1&per_page=5",
+          "rel": "self"
+        },
+        {
+          "href": "https://api.textking.com/v1/topics?page=2&per_page=5",
+          "rel": "next"
+        }
+      ],
+      "page": 1,
+      "per_page": 5,
+      "total": 13
+    }
+  },
+  "{\"page\":3,\"per_page\":5}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "id": "topic-011",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-011",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Gaming"
+        },
+        {
+          "id": "topic-012",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-012",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Human Resources"
+        },
+        {
+          "id": "topic-013",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-013",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Real Estate"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://api.textking.com/v1/topics?page=3&per_page=5",
+          "rel": "self"
+        },
+        {
+          "href": "https://api.textking.com/v1/topics?page=2&per_page=5",
+          "rel": "prev"
+        }
+      ],
+      "page": 3,
+      "per_page": 5,
+      "total": 13
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "id": "topic-001",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-001",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Legal"
+        },
+        {
+          "id": "topic-002",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-002",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Marketing"
+        },
+        {
+          "id": "topic-003",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-003",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Technical Documentation"
+        },
+        {
+          "id": "topic-004",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-004",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Medical"
+        },
+        {
+          "id": "topic-005",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-005",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Finance"
+        },
+        {
+          "id": "topic-006",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-006",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "E-Commerce"
+        },
+        {
+          "id": "topic-007",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-007",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Software UI"
+        },
+        {
+          "id": "topic-008",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-008",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Travel & Tourism"
+        },
+        {
+          "id": "topic-009",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-009",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Education"
+        },
+        {
+          "id": "topic-010",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-010",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Automotive"
+        },
+        {
+          "id": "topic-011",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-011",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Gaming"
+        },
+        {
+          "id": "topic-012",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-012",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Human Resources"
+        },
+        {
+          "id": "topic-013",
+          "links": [
+            {
+              "href": "https://api.textking.com/v1/topics/topic-013",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "Real Estate"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://api.textking.com/v1/topics?page=1&per_page=100",
+          "rel": "self"
+        }
+      ],
+      "page": 1,
+      "per_page": 100,
+      "total": 13
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "forge_versions": [
+        {
+          "download_url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar",
+          "forge_version": "47.2.0",
+          "minecraft_version": "1.20.1",
+          "type": "recommended",
+          "version": "1.20.1-47.2.0"
+        },
+        {
+          "download_url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.1.0/forge-1.19.4-45.1.0-installer.jar",
+          "forge_version": "45.1.0",
+          "minecraft_version": "1.19.4",
+          "type": "latest",
+          "version": "1.19.4-45.1.0"
+        },
+        {
+          "download_url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-installer.jar",
+          "forge_version": "40.2.0",
+          "minecraft_version": "1.18.2",
+          "type": "recommended",
+          "version": "1.18.2-40.2.0"
+        },
+        {
+          "download_url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar",
+          "forge_version": "36.2.39",
+          "minecraft_version": "1.16.5",
+          "type": "recommended",
+          "version": "1.16.5-36.2.39"
+        },
+        {
+          "download_url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar",
+          "forge_version": "14.23.5.2860",
+          "minecraft_version": "1.12.2",
+          "type": "recommended",
+          "version": "1.12.2-14.23.5.2860"
+        }
+      ]
+    }
+  }
+}

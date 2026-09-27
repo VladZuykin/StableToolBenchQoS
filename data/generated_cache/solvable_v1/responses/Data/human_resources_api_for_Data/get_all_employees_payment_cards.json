@@ -1,0 +1,57 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 952,
+          "billingDate": 15,
+          "cardHolderID": 4821,
+          "cardHolderName": "Amelia Hartley",
+          "cardNumber": 4539118273645012,
+          "cardPIN": 7391,
+          "cardTypeCode": "VISA",
+          "cardTypeFullName": "Visa Platinum",
+          "ccv_ccv2": 482,
+          "creditLimit": 12000,
+          "expiryDate": "2027-08-31",
+          "issueDate": "2022-09-01",
+          "issuingBank": "Northbridge Bank"
+        },
+        {
+          "_list_length": 952,
+          "billingDate": 22,
+          "cardHolderID": 5107,
+          "cardHolderName": "Marcus Delgado",
+          "cardNumber": 5412763091847263,
+          "cardPIN": 2048,
+          "cardTypeCode": "MC",
+          "cardTypeFullName": "Mastercard World Elite",
+          "ccv_ccv2": 915,
+          "creditLimit": 25000,
+          "expiryDate": "2026-11-30",
+          "issueDate": "2021-12-01",
+          "issuingBank": "Crestline Financial"
+        },
+        {
+          "_list_length": 952,
+          "billingDate": 3,
+          "cardHolderID": 3390,
+          "cardHolderName": "Priya Raghunathan",
+          "cardNumber": 6011345678901234,
+          "cardPIN": 5567,
+          "cardTypeCode": "DISC",
+          "cardTypeFullName": "Discover Cashback",
+          "ccv_ccv2": 337,
+          "creditLimit": 8000,
+          "expiryDate": "2028-02-28",
+          "issueDate": "2023-03-01",
+          "issuingBank": "Harborview Credit Union"
+        }
+      ],
+      "metadata": {
+        "message": "Successfully retrieved 3 of 952 bank card records."
+      }
+    }
+  }
+}

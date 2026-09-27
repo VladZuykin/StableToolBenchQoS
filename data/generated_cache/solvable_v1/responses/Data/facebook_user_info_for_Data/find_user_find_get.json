@@ -1,0 +1,23 @@
+{
+  "{\"by_facebook_id\":\"100012345678901\"}": {
+    "error": "",
+    "response": {
+      "err": 0,
+      "msg": "Found user: UID 100012345678901 maps to phone +84912345678"
+    }
+  },
+  "{\"by_facebook_id\":\"100055566677788\",\"by_phone\":\"+84123456789\"}": {
+    "error": "",
+    "response": {
+      "err": 1,
+      "msg": "No matching user found for the provided Facebook ID and phone number"
+    }
+  },
+  "{\"by_phone\":\"+84987654321\"}": {
+    "error": "",
+    "response": {
+      "err": 0,
+      "msg": "Found user: phone +84987654321 maps to UID 100098765432109"
+    }
+  }
+}

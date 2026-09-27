@@ -1,0 +1,199 @@
+{
+  "{\"annotations\":\"nodes,distance\",\"bearings\":\"0,180;90,180;180,180\",\"coordinates\":\"139.6917,35.6895;139.6925,35.6900;139.6935,35.6905\",\"generate_hints\":\"false\",\"geometries\":\"polyline6\",\"overview\":\"simplified\",\"radiuses\":\"unlimited;unlimited;unlimited\"}": {
+    "error": "",
+    "response": {
+      "code": "Ok",
+      "matchings": [
+        {
+          "confidence": 0.9,
+          "distance": 150.0,
+          "duration": 15.0,
+          "geometry": "yzocA_ibpM...",
+          "legs": [
+            {
+              "distance": 150.0,
+              "duration": 15.0,
+              "steps": [],
+              "summary": "",
+              "weight": 15.0
+            }
+          ],
+          "weight": 15.0,
+          "weight_name": "routability"
+        }
+      ],
+      "tracepoints": [
+        {
+          "alternatives_count": 0,
+          "location": [
+            139.6917,
+            35.6895
+          ],
+          "matchings_index": 0,
+          "name": "Chuo-dori",
+          "waypoint_index": 0
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            139.6925,
+            35.69
+          ],
+          "matchings_index": 0,
+          "name": "Chuo-dori",
+          "waypoint_index": 1
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            139.6935,
+            35.6905
+          ],
+          "matchings_index": 0,
+          "name": "Chuo-dori",
+          "waypoint_index": 2
+        }
+      ]
+    }
+  },
+  "{\"annotations\":\"true\",\"coordinates\":\"-122.4194,37.7749;-122.4180,37.7755;-122.4165,37.7760\",\"geometries\":\"geojson\",\"overview\":\"full\",\"radiuses\":\"50;50;50\",\"steps\":\"true\",\"timestamps\":\"1620000000;1620000010;1620000020\"}": {
+    "error": "",
+    "response": {
+      "code": "Ok",
+      "matchings": [
+        {
+          "confidence": 0.95,
+          "distance": 100.0,
+          "duration": 10.0,
+          "geometry": {
+            "coordinates": [
+              [
+                -122.4194,
+                37.7749
+              ],
+              [
+                -122.418,
+                37.7755
+              ],
+              [
+                -122.4165,
+                37.776
+              ]
+            ],
+            "type": "LineString"
+          },
+          "legs": [
+            {
+              "distance": 100.0,
+              "duration": 10.0,
+              "steps": [],
+              "summary": "",
+              "weight": 10.5
+            }
+          ],
+          "weight": 10.5,
+          "weight_name": "routability"
+        }
+      ],
+      "tracepoints": [
+        {
+          "alternatives_count": 0,
+          "location": [
+            -122.4194,
+            37.7749
+          ],
+          "matchings_index": 0,
+          "name": "Market Street",
+          "waypoint_index": 0
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            -122.418,
+            37.7755
+          ],
+          "matchings_index": 0,
+          "name": "Market Street",
+          "waypoint_index": 1
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            -122.4165,
+            37.776
+          ],
+          "matchings_index": 0,
+          "name": "Market Street",
+          "waypoint_index": 2
+        }
+      ]
+    }
+  },
+  "{\"approaches\":\"curb;unrestricted\",\"coordinates\":\"2.3522,48.8566;2.3530,48.8570;2.3540,48.8575;2.3550,48.8580\",\"exclude\":\"toll\",\"gaps\":\"split\",\"tidy\":\"true\",\"timestamps\":\"1620000000;1620000030;1620000060;1620000090\",\"waypoints\":\"0;3\"}": {
+    "error": "",
+    "response": {
+      "code": "Ok",
+      "matchings": [
+        {
+          "confidence": 0.85,
+          "distance": 300.0,
+          "duration": 30.0,
+          "geometry": "yzocA_ibpM...",
+          "legs": [
+            {
+              "distance": 300.0,
+              "duration": 30.0,
+              "steps": [],
+              "summary": "",
+              "weight": 30.0
+            }
+          ],
+          "weight": 30.0,
+          "weight_name": "routability"
+        }
+      ],
+      "tracepoints": [
+        {
+          "alternatives_count": 0,
+          "location": [
+            2.3522,
+            48.8566
+          ],
+          "matchings_index": 0,
+          "name": "Rue de Rivoli",
+          "waypoint_index": 0
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            2.353,
+            48.857
+          ],
+          "matchings_index": 0,
+          "name": "Rue de Rivoli",
+          "waypoint_index": 1
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            2.354,
+            48.8575
+          ],
+          "matchings_index": 0,
+          "name": "Rue de Rivoli",
+          "waypoint_index": 2
+        },
+        {
+          "alternatives_count": 0,
+          "location": [
+            2.355,
+            48.858
+          ],
+          "matchings_index": 0,
+          "name": "Rue de Rivoli",
+          "waypoint_index": 3
+        }
+      ]
+    }
+  }
+}

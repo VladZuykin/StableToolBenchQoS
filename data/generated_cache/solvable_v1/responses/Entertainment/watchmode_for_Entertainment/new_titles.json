@@ -1,0 +1,72 @@
+{
+  "{\"end_date\":20240131,\"limit\":100,\"page\":1,\"start_date\":20240101,\"types\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "id": 1876543,
+          "type": "movie"
+        },
+        {
+          "id": 1876544,
+          "type": "movie"
+        },
+        {
+          "id": 1876550,
+          "type": "movie"
+        }
+      ]
+    }
+  },
+  "{\"end_date\":20240320,\"limit\":250,\"page\":2,\"start_date\":20240315,\"types\":\"tv_series,tv_miniseries\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "id": 2098761,
+          "type": "tv_series"
+        },
+        {
+          "id": 2098765,
+          "type": "tv_miniseries"
+        },
+        {
+          "id": 2098770,
+          "type": "tv_series"
+        },
+        {
+          "id": 2098782,
+          "type": "tv_miniseries"
+        }
+      ]
+    }
+  },
+  "{\"end_date\":20240507,\"limit\":50,\"page\":1,\"start_date\":20240501,\"types\":\"short_film,tv_special\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "id": 3344551,
+          "type": "short_film"
+        },
+        {
+          "id": 3344559,
+          "type": "tv_special"
+        },
+        {
+          "id": 3344563,
+          "type": "short_film"
+        }
+      ]
+    }
+  }
+}

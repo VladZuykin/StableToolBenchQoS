@@ -1,0 +1,136 @@
+{
+  "{\"symb\":\"AAPL\"}": {
+    "error": "",
+    "response": {
+      "adult": false,
+      "alcoholic": false,
+      "animalTesting": false,
+      "environmentPercentile": null,
+      "environmentScore": {
+        "fmt": "68.12",
+        "raw": 68.12
+      },
+      "esgPerformance": "Underperformer",
+      "governancePercentile": null,
+      "governanceScore": {
+        "fmt": "73.21",
+        "raw": 73.21
+      },
+      "highestControversy": 2,
+      "maxAge": 86400,
+      "peerCount": 45,
+      "peerEnvironmentPerformance": {
+        "avg": 68.9,
+        "max": 84.2,
+        "min": 52.4
+      },
+      "peerEsgScorePerformance": {
+        "avg": 70.1,
+        "max": 85.4,
+        "min": 58.2
+      },
+      "peerGovernancePerformance": {
+        "avg": 72.3,
+        "max": 88.1,
+        "min": 60.5
+      },
+      "peerGroup": "Technology Hardware",
+      "peerHighestControversyPerformance": {
+        "avg": 2.3,
+        "max": 4,
+        "min": 1
+      },
+      "peerSocialPerformance": {
+        "avg": 71.2,
+        "max": 86.7,
+        "min": 55.8
+      },
+      "percentile": {
+        "fmt": "42.5",
+        "raw": 42.5
+      },
+      "ratingMonth": 6,
+      "ratingYear": 2024,
+      "relatedControversy": [
+        "Data Privacy",
+        "Labor Practices"
+      ],
+      "socialPercentile": null,
+      "socialScore": {
+        "fmt": "75.45",
+        "raw": 75.45
+      },
+      "totalEsg": {
+        "fmt": "72.34",
+        "raw": 72.34
+      }
+    }
+  },
+  "{\"symb\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "adult": false,
+      "alcoholic": false,
+      "animalTesting": false,
+      "environmentPercentile": null,
+      "environmentScore": {
+        "fmt": "85.23",
+        "raw": 85.23
+      },
+      "esgPerformance": "Leader",
+      "governancePercentile": null,
+      "governanceScore": {
+        "fmt": "80.12",
+        "raw": 80.12
+      },
+      "highestControversy": 1,
+      "maxAge": 86400,
+      "peerCount": 52,
+      "peerEnvironmentPerformance": {
+        "avg": 72.1,
+        "max": 87.9,
+        "min": 55.7
+      },
+      "peerEsgScorePerformance": {
+        "avg": 74.5,
+        "max": 89.3,
+        "min": 60.1
+      },
+      "peerGovernancePerformance": {
+        "avg": 75.9,
+        "max": 90.2,
+        "min": 62.8
+      },
+      "peerGroup": "Software Infrastructure",
+      "peerHighestControversyPerformance": {
+        "avg": 2.1,
+        "max": 4,
+        "min": 1
+      },
+      "peerSocialPerformance": {
+        "avg": 73.6,
+        "max": 88.5,
+        "min": 58.4
+      },
+      "percentile": {
+        "fmt": "78.3",
+        "raw": 78.3
+      },
+      "ratingMonth": 6,
+      "ratingYear": 2024,
+      "relatedControversy": [
+        "Antitrust",
+        "Data Privacy"
+      ],
+      "socialPercentile": null,
+      "socialScore": {
+        "fmt": "79.88",
+        "raw": 79.88
+      },
+      "totalEsg": {
+        "fmt": "81.56",
+        "raw": 81.56
+      }
+    }
+  }
+}

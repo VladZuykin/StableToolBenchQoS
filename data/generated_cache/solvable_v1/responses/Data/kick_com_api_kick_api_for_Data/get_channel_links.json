@@ -1,0 +1,59 @@
+{
+  "{\"channel_name\":\"gmhikaru\"}": {
+    "error": "",
+    "response": {
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/gmhikaru"
+        },
+        {
+          "type": "youtube",
+          "url": "https://youtube.com/@gmhikaru"
+        },
+        {
+          "type": "discord",
+          "url": "https://discord.gg/gmhikaru"
+        },
+        {
+          "type": "website",
+          "url": "https://gmhikaru.com"
+        }
+      ]
+    }
+  },
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/trainwreckstv"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/trainwreckstv"
+        }
+      ]
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/xqc"
+        },
+        {
+          "type": "youtube",
+          "url": "https://youtube.com/@xqc"
+        },
+        {
+          "type": "discord",
+          "url": "https://discord.gg/xqc"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "{\"page\":\"1\",\"usitemid\":\"48874705\"}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "productId": "48874705",
+      "reviews": [
+        {
+          "author": "MikeT",
+          "helpfulVotes": 23,
+          "rating": 5,
+          "reviewDate": "2024-03-14",
+          "reviewId": "R1A2B3C4D5",
+          "reviewText": "The 4K picture is crisp and the HDR makes movies look fantastic. Setup took less than ten minutes.",
+          "title": "Great picture for the price",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "SandraL",
+          "helpfulVotes": 11,
+          "rating": 4,
+          "reviewDate": "2024-02-28",
+          "reviewId": "R6E7F8G9H0",
+          "reviewText": "Colors are vibrant and the smart features work well. Built-in speakers are a bit weak, so I added a soundbar.",
+          "title": "Solid TV, decent sound",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "DaveR",
+          "helpfulVotes": 4,
+          "rating": 3,
+          "reviewDate": "2024-01-19",
+          "reviewId": "R1J2K3L4M5",
+          "reviewText": "Works fine for casual viewing but the viewing angles could be better.",
+          "title": "Average budget TV",
+          "verifiedPurchase": false
+        }
+      ],
+      "totalPages": 12,
+      "totalReviews": 118
+    }
+  },
+  "{\"page\":\"2\",\"url\":\"https://www.walmart.com/ip/Apple-AirPods-Pro-2nd-Generation/1752657021\"}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "productId": "1752657021",
+      "reviews": [
+        {
+          "author": "PriyaK",
+          "helpfulVotes": 57,
+          "rating": 5,
+          "reviewDate": "2024-04-02",
+          "reviewId": "R9N8P7Q6R5",
+          "reviewText": "Active noise cancellation is excellent and the fit is comfortable for long listening sessions.",
+          "title": "Best earbuds I have owned",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "JordanB",
+          "helpfulVotes": 19,
+          "rating": 4,
+          "reviewDate": "2024-03-21",
+          "reviewId": "R4S3T2U1V0",
+          "reviewText": "Audio quality is top notch. Only complaint is the glossy case picks up scratches.",
+          "title": "Great sound, case scratches easily",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "ChrisM",
+          "helpfulVotes": 8,
+          "rating": 2,
+          "reviewDate": "2024-03-05",
+          "reviewId": "R8W7X6Y5Z4",
+          "reviewText": "Worked great with my phone but kept dropping connection on Windows.",
+          "title": "Disconnected often with my laptop",
+          "verifiedPurchase": false
+        }
+      ],
+      "totalPages": 48,
+      "totalReviews": 476
+    }
+  },
+  "{\"page\":\"3\",\"usitemid\":\"5037120\"}": {
+    "error": "",
+    "response": {
+      "page": 3,
+      "productId": "5037120",
+      "reviews": [
+        {
+          "author": "AmandaP",
+          "helpfulVotes": 14,
+          "rating": 5,
+          "reviewDate": "2024-02-11",
+          "reviewId": "R2A3B4C5D6",
+          "reviewText": "Sturdy build and the wheels roll smoothly on carpet and hardwood. Assembly was straightforward.",
+          "title": "Kids love it",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "TomH",
+          "helpfulVotes": 6,
+          "rating": 4,
+          "reviewDate": "2024-01-30",
+          "reviewId": "R7E8F9G0H1",
+          "reviewText": "Nice little ride-on for the price. Battery lasts about an hour of continuous use.",
+          "title": "Good value",
+          "verifiedPurchase": true
+        },
+        {
+          "author": "RachelS",
+          "helpfulVotes": 9,
+          "rating": 1,
+          "reviewDate": "2024-01-08",
+          "reviewId": "R2I3J4K5L6",
+          "reviewText": "Box was crushed and one wheel was cracked. Return process was easy though.",
+          "title": "Arrived damaged",
+          "verifiedPurchase": true
+        }
+      ],
+      "totalPages": 7,
+      "totalReviews": 64
+    }
+  }
+}

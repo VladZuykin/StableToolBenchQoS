@@ -1,0 +1,22 @@
+{
+  "{\"pagenumber\":1,\"pagesize\":20,\"searchquery\":\"python developer remote\"}": {
+    "error": "",
+    "response": {
+      "errors": {},
+      "status": 200,
+      "title": "Job Search Results",
+      "traceId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "type": "jobsearch"
+    }
+  },
+  "{\"pagenumber\":3,\"pagesize\":15,\"searchquery\":\"data scientist New York\"}": {
+    "error": "",
+    "response": {
+      "errors": {},
+      "status": 200,
+      "title": "Job Search Results",
+      "traceId": "f9e8d7c6-b5a4-3210-fedc-ba0987654321",
+      "type": "jobsearch"
+    }
+  }
+}

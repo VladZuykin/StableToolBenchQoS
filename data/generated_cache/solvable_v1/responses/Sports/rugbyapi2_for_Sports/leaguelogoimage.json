@@ -1,0 +1,38 @@
+{
+  "{\"tournamentid\":11622}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "leaguelogoimage",
+      "parameters": [
+        {
+          "tournamentId": 11622
+        }
+      ],
+      "response": [
+        {
+          "logo": "https://rugbyapi2.com/images/leagues/11622.png"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"tournamentid\":294}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "leaguelogoimage",
+      "parameters": [
+        {
+          "tournamentId": 294
+        }
+      ],
+      "response": [
+        {
+          "logo": "https://rugbyapi2.com/images/leagues/294.png"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

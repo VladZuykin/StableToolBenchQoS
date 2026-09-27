@@ -1,0 +1,110 @@
+{
+  "{\"category\":\"music\",\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "channels": [
+        {
+          "created_time": "2023-01-15T10:30:00Z",
+          "description": "A channel dedicated to music videos and live performances.",
+          "id": 12345,
+          "modified_time": "2024-02-20T14:45:00Z",
+          "name": "Music Vibes",
+          "url": "https://vimeo.com/channels/musicvibes",
+          "user": {
+            "id": 98765,
+            "name": "MusicLover",
+            "url": "https://vimeo.com/musiclover"
+          }
+        },
+        {
+          "created_time": "2022-11-05T08:15:00Z",
+          "description": "Independent music from around the world.",
+          "id": 67890,
+          "modified_time": "2024-03-10T09:20:00Z",
+          "name": "Indie Sounds",
+          "url": "https://vimeo.com/channels/indiesounds",
+          "user": {
+            "id": 54321,
+            "name": "IndieFan",
+            "url": "https://vimeo.com/indiefan"
+          }
+        }
+      ],
+      "page": 1,
+      "per_page": 25,
+      "total": 2
+    }
+  },
+  "{\"category\":\"technology\",\"format\":\"php\",\"per_page\":50}": {
+    "error": "",
+    "response": {
+      "channels": [
+        {
+          "created_time": "2020-09-01T07:45:00Z",
+          "description": "Latest in technology and gadgets.",
+          "id": 11223,
+          "modified_time": "2024-04-05T11:30:00Z",
+          "name": "Tech Talks",
+          "url": "https://vimeo.com/channels/techtalks",
+          "user": {
+            "id": 44556,
+            "name": "TechGuru",
+            "url": "https://vimeo.com/techguru"
+          }
+        },
+        {
+          "created_time": "2019-12-20T18:20:00Z",
+          "description": "Programming tutorials and coding challenges.",
+          "id": 33445,
+          "modified_time": "2024-02-28T13:10:00Z",
+          "name": "Code Chronicles",
+          "url": "https://vimeo.com/channels/codechronicles",
+          "user": {
+            "id": 77889,
+            "name": "DevDude",
+            "url": "https://vimeo.com/devdude"
+          }
+        },
+        {
+          "created_time": "2023-03-10T09:00:00Z",
+          "description": "Artificial intelligence news and discussions.",
+          "id": 55667,
+          "modified_time": "2024-03-15T10:00:00Z",
+          "name": "AI Insights",
+          "url": "https://vimeo.com/channels/aiinsights",
+          "user": {
+            "id": 99001,
+            "name": "AIEnthusiast",
+            "url": "https://vimeo.com/aienthusiast"
+          }
+        }
+      ],
+      "page": 1,
+      "per_page": 50,
+      "total": 3
+    }
+  },
+  "{\"category\":\"travel\",\"format\":\"xml\",\"page\":2,\"per_page\":10}": {
+    "error": "",
+    "response": {
+      "channels": [
+        {
+          "created_time": "2021-06-12T12:00:00Z",
+          "description": "Travel videos from every corner of the globe.",
+          "id": 24680,
+          "modified_time": "2024-01-30T16:00:00Z",
+          "name": "Wanderlust",
+          "url": "https://vimeo.com/channels/wanderlust",
+          "user": {
+            "id": 13579,
+            "name": "TravelBug",
+            "url": "https://vimeo.com/travelbug"
+          }
+        }
+      ],
+      "page": 2,
+      "per_page": 10,
+      "total": 1
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "{\"timestamp\":1698796800}": {
+    "error": "",
+    "response": {
+      "count": 4,
+      "records": [
+        {
+          "id": 2045,
+          "modifiedAt": 1698800400,
+          "name": "Lars Jensen",
+          "type": "contact"
+        },
+        {
+          "id": 2046,
+          "modifiedAt": 1698804000,
+          "number": "Q-2023-118",
+          "type": "quote"
+        },
+        {
+          "hours": 3.5,
+          "id": 2047,
+          "modifiedAt": 1698807600,
+          "type": "timeEntry"
+        },
+        {
+          "id": 2048,
+          "modifiedAt": 1698811200,
+          "name": "Nordic Design ApS",
+          "type": "customer"
+        }
+      ]
+    }
+  },
+  "{\"timestamp\":1704067200}": {
+    "error": "",
+    "response": {
+      "count": 3,
+      "records": [
+        {
+          "id": 1001,
+          "modifiedAt": 1704070800,
+          "name": "Acme Corp",
+          "type": "customer"
+        },
+        {
+          "id": 1002,
+          "modifiedAt": 1704074400,
+          "number": "INV-2024-001",
+          "type": "invoice"
+        },
+        {
+          "id": 1003,
+          "modifiedAt": 1704078000,
+          "name": "Website Redesign",
+          "type": "project"
+        }
+      ]
+    }
+  },
+  "{\"timestamp\":1711929600}": {
+    "error": "",
+    "response": {
+      "count": 0,
+      "records": []
+    }
+  }
+}

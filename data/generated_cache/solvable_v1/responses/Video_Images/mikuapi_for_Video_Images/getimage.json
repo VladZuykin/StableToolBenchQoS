@@ -1,0 +1,29 @@
+{
+  "{\"fileid\":\"miku_001\"}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "path": "/images/miku_001.png",
+      "status": 200,
+      "timestamp": "2024-06-01T12:34:56Z"
+    }
+  },
+  "{\"fileid\":\"miku_concert_2023\"}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "path": "/images/miku_concert_2023.jpg",
+      "status": 200,
+      "timestamp": "2024-06-02T08:15:30Z"
+    }
+  },
+  "{\"fileid\":\"miku_winter_ver\"}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "path": "/images/miku_winter_ver.png",
+      "status": 200,
+      "timestamp": "2024-06-03T19:45:12Z"
+    }
+  }
+}

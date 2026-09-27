@@ -1,0 +1,104 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/earnings",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "date": "2023-10-24",
+          "epsActual": 2.99,
+          "epsDifference": 0.34,
+          "epsEstimate": 2.65,
+          "quarter": "Q1 2024",
+          "surprisePercent": 12.83,
+          "symbol": "MSFT"
+        },
+        {
+          "date": "2024-01-30",
+          "epsActual": 2.93,
+          "epsDifference": 0.15,
+          "epsEstimate": 2.78,
+          "quarter": "Q2 2024",
+          "surprisePercent": 5.4,
+          "symbol": "MSFT"
+        },
+        {
+          "date": "2024-04-25",
+          "epsActual": 2.94,
+          "epsDifference": 0.12,
+          "epsEstimate": 2.82,
+          "quarter": "Q3 2024",
+          "surprisePercent": 4.26,
+          "symbol": "MSFT"
+        },
+        {
+          "date": "2024-07-30",
+          "epsActual": 2.95,
+          "epsDifference": 0.02,
+          "epsEstimate": 2.93,
+          "quarter": "Q4 2024",
+          "surprisePercent": 0.68,
+          "symbol": "MSFT"
+        }
+      ],
+      "results": 4
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/earnings",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "date": "2024-01-24",
+          "epsActual": 0.71,
+          "epsDifference": -0.03,
+          "epsEstimate": 0.74,
+          "quarter": "Q1 2024",
+          "surprisePercent": -4.05,
+          "symbol": "TSLA"
+        },
+        {
+          "date": "2024-04-23",
+          "epsActual": 0.45,
+          "epsDifference": -0.07,
+          "epsEstimate": 0.52,
+          "quarter": "Q2 2024",
+          "surprisePercent": -13.46,
+          "symbol": "TSLA"
+        },
+        {
+          "date": "2024-07-23",
+          "epsActual": 0.52,
+          "epsDifference": -0.1,
+          "epsEstimate": 0.62,
+          "quarter": "Q3 2024",
+          "surprisePercent": -16.13,
+          "symbol": "TSLA"
+        },
+        {
+          "date": "2024-10-23",
+          "epsActual": 0.72,
+          "epsDifference": 0.14,
+          "epsEstimate": 0.58,
+          "quarter": "Q4 2024",
+          "surprisePercent": 24.14,
+          "symbol": "TSLA"
+        }
+      ],
+      "results": 4
+    }
+  }
+}

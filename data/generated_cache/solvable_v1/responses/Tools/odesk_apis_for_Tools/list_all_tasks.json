@@ -1,0 +1,77 @@
+{
+  "{\"company\":24680,\"format\":\"json\",\"team\":33445,\"username\":\"mchen\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "mchen",
+          "company": 24680,
+          "due_date": "2024-08-05",
+          "id": 901,
+          "status": "open",
+          "team": 33445,
+          "title": "QA regression testing"
+        },
+        {
+          "assigned_to": "mchen",
+          "company": 24680,
+          "due_date": "2024-08-01",
+          "id": 902,
+          "status": "in_progress",
+          "team": 33445,
+          "title": "Fix payment gateway bug"
+        },
+        {
+          "assigned_to": "mchen",
+          "company": 24680,
+          "due_date": "2024-08-10",
+          "id": 903,
+          "status": "open",
+          "team": 33445,
+          "title": "Update user onboarding emails"
+        }
+      ]
+    }
+  },
+  "{\"company\":54321,\"format\":\"xml\",\"team\":99887,\"username\":\"asmith\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "asmith",
+          "company": 54321,
+          "due_date": "2024-06-30",
+          "id": 701,
+          "status": "completed",
+          "team": 99887,
+          "title": "Write API documentation"
+        }
+      ]
+    }
+  },
+  "{\"company\":98765,\"format\":\"json\",\"team\":11223,\"username\":\"jdoe\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "jdoe",
+          "company": 98765,
+          "due_date": "2024-07-15",
+          "id": 501,
+          "status": "open",
+          "team": 11223,
+          "title": "Design homepage mockup"
+        },
+        {
+          "assigned_to": "jdoe",
+          "company": 98765,
+          "due_date": "2024-07-20",
+          "id": 502,
+          "status": "in_progress",
+          "team": 11223,
+          "title": "Implement login flow"
+        }
+      ]
+    }
+  }
+}

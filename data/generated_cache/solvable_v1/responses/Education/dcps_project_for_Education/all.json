@@ -1,0 +1,87 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "displayFieldName": "OBJECTID",
+      "exceededTransferLimit": false,
+      "features": [
+        {
+          "_list_length": 1000,
+          "attributes": {
+            "ASSESSMENT_TYPE": "PARCC",
+            "CREATED_DATE": null,
+            "CREATED_USER": null,
+            "GRADE_OF_ENROLLMENT": "Grade 3",
+            "LAST_EDITED_DATE": null,
+            "LAST_EDITED_USER": null,
+            "LEA_CODE": 1,
+            "LEA_NAME": "District of Columbia Public Schools",
+            "OBJECTID": 1,
+            "PERCENT_LEVEL_1": null,
+            "PERCENT_LEVEL_2": null,
+            "PERCENT_LEVEL_3": null,
+            "PERCENT_LEVEL_3_": "0.0",
+            "PERCENT_LEVEL_4": null,
+            "PERCENT_LEVEL_5": null,
+            "PERCENT_MEETING_OR_EXCEEDING_E": "42.5",
+            "SCHOOL_CODE": 101,
+            "SCHOOL_NAME": "Amidon-Bowen ES",
+            "SCHOOL_WARD": "Ward 6",
+            "SCHOOL_YEAR": "2018-2019",
+            "SUBGROUP": "All Students",
+            "SUBGROUP_VALUE": "All",
+            "SUBJECT": "Mathematics",
+            "TESTED_GRADE_SUBJECT": "Grade 3 Mathematics",
+            "TOTAL_NUMBER_VALID_TEST_TAKERS": "58"
+          }
+        },
+        {
+          "_list_length": 1000,
+          "attributes": {
+            "ASSESSMENT_TYPE": "PARCC",
+            "CREATED_DATE": null,
+            "CREATED_USER": null,
+            "GRADE_OF_ENROLLMENT": "Grade 5",
+            "LAST_EDITED_DATE": null,
+            "LAST_EDITED_USER": null,
+            "LEA_CODE": 1,
+            "LEA_NAME": "District of Columbia Public Schools",
+            "OBJECTID": 2,
+            "PERCENT_LEVEL_1": null,
+            "PERCENT_LEVEL_2": null,
+            "PERCENT_LEVEL_3": null,
+            "PERCENT_LEVEL_3_": "0.0",
+            "PERCENT_LEVEL_4": null,
+            "PERCENT_LEVEL_5": null,
+            "PERCENT_MEETING_OR_EXCEEDING_E": "37.1",
+            "SCHOOL_CODE": 102,
+            "SCHOOL_NAME": "Bancroft ES",
+            "SCHOOL_WARD": "Ward 1",
+            "SCHOOL_YEAR": "2018-2019",
+            "SUBGROUP": "All Students",
+            "SUBGROUP_VALUE": "All",
+            "SUBJECT": "English Language Arts",
+            "TESTED_GRADE_SUBJECT": "Grade 5 English Language Arts",
+            "TOTAL_NUMBER_VALID_TEST_TAKERS": "62"
+          }
+        }
+      ],
+      "fieldAliases": {
+        "ASSESSMENT_TYPE": "Assessment Type",
+        "GRADE_OF_ENROLLMENT": "Grade of Enrollment",
+        "LEA_CODE": "LEA Code",
+        "LEA_NAME": "LEA Name",
+        "OBJECTID": "Object ID",
+        "SCHOOL_CODE": "School Code",
+        "SCHOOL_NAME": "School Name",
+        "SCHOOL_WARD": "School Ward",
+        "SCHOOL_YEAR": "School Year",
+        "SUBGROUP": "Subgroup",
+        "SUBGROUP_VALUE": "Subgroup Value",
+        "SUBJECT": "Subject",
+        "TESTED_GRADE_SUBJECT": "Tested Grade Subject",
+        "TOTAL_NUMBER_VALID_TEST_TAKERS": "Total Number Valid Test Takers"
+      }
+    }
+  }
+}

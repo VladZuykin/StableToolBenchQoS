@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://cdn.example.org/uploads/avatar.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deleted/avatar.png",
+      "message": "Image deleted successfully"
+    }
+  },
+  "{\"url\":\"https://example.com/images/photo1.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deleted/photo1.jpg",
+      "message": "Image deleted successfully"
+    }
+  },
+  "{\"url\":\"https://images.example.net/gallery/sunset.jpeg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deleted/sunset.jpeg",
+      "message": "Image deleted successfully"
+    }
+  }
+}

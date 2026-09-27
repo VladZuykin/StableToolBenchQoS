@@ -1,0 +1,89 @@
+{
+  "{\"city\":\"Austin\",\"page\":\"3\",\"school_level\":\"charter\",\"state_code\":\"TX\"}": {
+    "error": "",
+    "response": {
+      "coordinates": {
+        "lat": 30.2672,
+        "lon": -97.7431
+      },
+      "funding_type": "charter",
+      "grades": [
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "id": "480099871",
+      "location": {
+        "city": "Austin",
+        "city_slug_id": "Austin_TX",
+        "state": "TX"
+      },
+      "name": "Harmony Science Academy",
+      "parent_rating": 3,
+      "rating": 7,
+      "review_count": 18,
+      "school url": "https://www.realtor.com/local/schools/Harmony-Science-Academy-480099871"
+    }
+  },
+  "{\"city\":\"New York\",\"page\":\"1\",\"school_level\":\"high\",\"state_code\":\"NY\"}": {
+    "error": "",
+    "response": {
+      "coordinates": {
+        "lat": 40.7831,
+        "lon": -73.9712
+      },
+      "funding_type": "public",
+      "grades": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "K",
+        "1"
+      ],
+      "id": "360012345",
+      "location": {
+        "city": "New York",
+        "city_slug_id": "New-York_NY",
+        "state": "NY"
+      },
+      "name": "Stuyvesant High School",
+      "parent_rating": 5,
+      "rating": 10,
+      "review_count": 412,
+      "school url": "https://www.realtor.com/local/schools/Stuyvesant-High-School-360012345"
+    }
+  },
+  "{\"city\":\"San Jose\",\"page\":\"2\",\"school_level\":\"middle\",\"state_code\":\"CA\"}": {
+    "error": "",
+    "response": {
+      "coordinates": {
+        "lat": 37.3021,
+        "lon": -121.8723
+      },
+      "funding_type": "public",
+      "grades": [
+        "6",
+        "7",
+        "8",
+        "K",
+        "1",
+        "2"
+      ],
+      "id": "078654112",
+      "location": {
+        "city": "San Jose",
+        "city_slug_id": "San-Jose_CA",
+        "state": "CA"
+      },
+      "name": "Hoover Middle School",
+      "parent_rating": 4,
+      "rating": 8,
+      "review_count": 63,
+      "school url": "https://www.realtor.com/local/schools/Hoover-Middle-School-078654112"
+    }
+  }
+}

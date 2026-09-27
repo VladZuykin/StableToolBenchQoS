@@ -1,0 +1,428 @@
+{
+  "{\"page\":1}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "path": "/diablo4/people",
+      "title": "Diablo 4 Influencers and Top Players",
+      "value": [
+        {
+          "affiliation": {
+            "domain": "twitch.tv",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/asmongold-profile_image.png",
+                "width": 300
+              }
+            ],
+            "name": "Twitch",
+            "path": "/affiliation/twitch"
+          },
+          "bio": "Variety streamer and longtime Diablo fan known for hardcore reactions and community events.",
+          "content": "Asmongold has been covering Diablo 4 since the beta, streaming endgame builds and hardcore races.",
+          "excerpt": "Variety streamer and longtime Diablo fan.",
+          "heat": 98,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Asmongold",
+              "url": "https://cdn.example.com/people/asmongold.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Austin, TX",
+          "name": "Asmongold",
+          "path": "/people/asmongold",
+          "sourceUrl": "https://www.twitch.tv/asmongold",
+          "title": "Streamer & Content Creator",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 1200000,
+            "url": "https://twitter.com/asmongold",
+            "username": "asmongold"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.twitch.tv/asmongold",
+          "website": "https://www.twitch.tv/asmongold"
+        },
+        {
+          "affiliation": {
+            "domain": "youtube.com",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://yt3.ggpht.com/raxxanterax-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "YouTube",
+            "path": "/affiliation/youtube"
+          },
+          "bio": "Diablo 4 build guide creator and theorycrafter focused on Barbarian and Rogue optimization.",
+          "content": "Raxxanterax publishes in-depth Diablo 4 guides, tier lists, and patch analysis for the community.",
+          "excerpt": "Diablo 4 build guide creator and theorycrafter.",
+          "heat": 91,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Raxxanterax",
+              "url": "https://cdn.example.com/people/raxxanterax.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Toronto, Canada",
+          "name": "Raxxanterax",
+          "path": "/people/raxxanterax",
+          "sourceUrl": "https://www.youtube.com/@Raxxanterax",
+          "title": "Guide Creator",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 210000,
+            "url": "https://twitter.com/raxxanterax",
+            "username": "raxxanterax"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.youtube.com/@Raxxanterax",
+          "website": "https://www.youtube.com/@Raxxanterax"
+        },
+        {
+          "affiliation": {
+            "domain": "maxroll.gg",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://assets.maxroll.gg/wudijo-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "Maxroll",
+            "path": "/affiliation/maxroll"
+          },
+          "bio": "Top Diablo 4 player and Maxroll contributor specializing in speed farming and boss strategies.",
+          "content": "Wudijo is a competitive Diablo 4 player who shares high-level gameplay and build breakdowns.",
+          "excerpt": "Top Diablo 4 player and Maxroll contributor.",
+          "heat": 87,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Wudijo",
+              "url": "https://cdn.example.com/people/wudijo.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Berlin, Germany",
+          "name": "Wudijo",
+          "path": "/people/wudijo",
+          "sourceUrl": "https://maxroll.gg/author/wudijo",
+          "title": "Top Player",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 95000,
+            "url": "https://twitter.com/wudijo",
+            "username": "wudijo"
+          },
+          "type": "top_player",
+          "webUrl": "https://maxroll.gg/author/wudijo",
+          "website": "https://maxroll.gg/author/wudijo"
+        }
+      ]
+    }
+  },
+  "{\"page\":2}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "path": "/diablo4/people",
+      "title": "Diablo 4 Influencers and Top Players",
+      "value": [
+        {
+          "affiliation": {
+            "domain": "twitch.tv",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/rob2628-profile_image.png",
+                "width": 300
+              }
+            ],
+            "name": "Twitch",
+            "path": "/affiliation/twitch"
+          },
+          "bio": "Hardcore Diablo 4 streamer and world-first racer with deep knowledge of endgame systems.",
+          "content": "Rob2628 streams Diablo 4 hardcore progression, boss kills, and seasonal race coverage.",
+          "excerpt": "Hardcore Diablo 4 streamer and world-first racer.",
+          "heat": 89,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Rob2628",
+              "url": "https://cdn.example.com/people/rob2628.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Vienna, Austria",
+          "name": "Rob2628",
+          "path": "/people/rob2628",
+          "sourceUrl": "https://www.twitch.tv/rob2628",
+          "title": "Streamer",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 150000,
+            "url": "https://twitter.com/rob2628",
+            "username": "rob2628"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.twitch.tv/rob2628",
+          "website": "https://www.twitch.tv/rob2628"
+        },
+        {
+          "affiliation": {
+            "domain": "youtube.com",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://yt3.ggpht.com/macrobioboi-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "YouTube",
+            "path": "/affiliation/youtube"
+          },
+          "bio": "Diablo 4 news and build channel covering seasonal mechanics and class balance changes.",
+          "content": "MacroBioBoi produces Diablo 4 patch reviews, build guides, and gameplay commentary.",
+          "excerpt": "Diablo 4 news and build channel.",
+          "heat": 82,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "MacroBioBoi",
+              "url": "https://cdn.example.com/people/macrobioboi.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Los Angeles, CA",
+          "name": "MacroBioBoi",
+          "path": "/people/macrobioboi",
+          "sourceUrl": "https://www.youtube.com/@MacroBioBoi",
+          "title": "Content Creator",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 80000,
+            "url": "https://twitter.com/macrobioboi",
+            "username": "macrobioboi"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.youtube.com/@MacroBioBoi",
+          "website": "https://www.youtube.com/@MacroBioBoi"
+        },
+        {
+          "affiliation": {
+            "domain": "maxroll.gg",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://assets.maxroll.gg/northwar-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "Maxroll",
+            "path": "/affiliation/maxroll"
+          },
+          "bio": "Diablo 4 guide writer and top player known for Sorceress and Necromancer build optimization.",
+          "content": "Northwar contributes detailed Diablo 4 build guides and endgame strategies on Maxroll.",
+          "excerpt": "Diablo 4 guide writer and top player.",
+          "heat": 78,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Northwar",
+              "url": "https://cdn.example.com/people/northwar.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Warsaw, Poland",
+          "name": "Northwar",
+          "path": "/people/northwar",
+          "sourceUrl": "https://maxroll.gg/author/northwar",
+          "title": "Top Player",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 45000,
+            "url": "https://twitter.com/northwar",
+            "username": "northwar"
+          },
+          "type": "top_player",
+          "webUrl": "https://maxroll.gg/author/northwar",
+          "website": "https://maxroll.gg/author/northwar"
+        }
+      ]
+    }
+  },
+  "{\"page\":3}": {
+    "error": "",
+    "response": {
+      "page": 3,
+      "path": "/diablo4/people",
+      "title": "Diablo 4 Influencers and Top Players",
+      "value": [
+        {
+          "affiliation": {
+            "domain": "twitch.tv",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/datmodz-profile_image.png",
+                "width": 300
+              }
+            ],
+            "name": "Twitch",
+            "path": "/affiliation/twitch"
+          },
+          "bio": "Diablo 4 streamer and community figure focused on Druid and Barbarian builds.",
+          "content": "DatModz streams Diablo 4 gameplay, build testing, and seasonal progression with the community.",
+          "excerpt": "Diablo 4 streamer and community figure.",
+          "heat": 76,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "DatModz",
+              "url": "https://cdn.example.com/people/datmodz.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Seattle, WA",
+          "name": "DatModz",
+          "path": "/people/datmodz",
+          "sourceUrl": "https://www.twitch.tv/datmodz",
+          "title": "Streamer",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 110000,
+            "url": "https://twitter.com/datmodz",
+            "username": "datmodz"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.twitch.tv/datmodz",
+          "website": "https://www.twitch.tv/datmodz"
+        },
+        {
+          "affiliation": {
+            "domain": "youtube.com",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://yt3.ggpht.com/bluddshed-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "YouTube",
+            "path": "/affiliation/youtube"
+          },
+          "bio": "Diablo 4 guide creator covering leveling routes, seasonal content, and class tier lists.",
+          "content": "Bluddshed publishes Diablo 4 leveling guides, build overviews, and patch impressions.",
+          "excerpt": "Diablo 4 guide creator.",
+          "heat": 71,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Bluddshed",
+              "url": "https://cdn.example.com/people/bluddshed.jpg",
+              "width": 400
+            }
+          ],
+          "location": "London, UK",
+          "name": "Bluddshed",
+          "path": "/people/bluddshed",
+          "sourceUrl": "https://www.youtube.com/@Bluddshed",
+          "title": "Guide Creator",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 60000,
+            "url": "https://twitter.com/bluddshed",
+            "username": "bluddshed"
+          },
+          "type": "influencer",
+          "webUrl": "https://www.youtube.com/@Bluddshed",
+          "website": "https://www.youtube.com/@Bluddshed"
+        },
+        {
+          "affiliation": {
+            "domain": "maxroll.gg",
+            "images": [
+              {
+                "height": 300,
+                "isCached": true,
+                "url": "https://assets.maxroll.gg/slug-profile.png",
+                "width": 300
+              }
+            ],
+            "name": "Maxroll",
+            "path": "/affiliation/maxroll"
+          },
+          "bio": "Diablo 4 top player and guide author specializing in Rogue and endgame boss farming.",
+          "content": "Slug writes Diablo 4 build guides and shares top-level gameplay strategies on Maxroll.",
+          "excerpt": "Diablo 4 top player and guide author.",
+          "heat": 69,
+          "images": [
+            {
+              "height": 400,
+              "isCached": true,
+              "title": "Slug",
+              "url": "https://cdn.example.com/people/slug.jpg",
+              "width": 400
+            }
+          ],
+          "location": "Chicago, IL",
+          "name": "Slug",
+          "path": "/people/slug",
+          "sourceUrl": "https://maxroll.gg/author/slug",
+          "title": "Top Player",
+          "topics": [
+            "Diablo 4"
+          ],
+          "twitter": {
+            "followers": 30000,
+            "url": "https://twitter.com/slug",
+            "username": "slug"
+          },
+          "type": "top_player",
+          "webUrl": "https://maxroll.gg/author/slug",
+          "website": "https://maxroll.gg/author/slug"
+        }
+      ]
+    }
+  }
+}

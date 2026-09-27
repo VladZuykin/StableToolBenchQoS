@@ -1,0 +1,168 @@
+{
+  "{\"category\":\"_ico_cat_gaming,_ico_cat_finance\",\"lang_id\":2,\"sort\":\"name\",\"tabname\":\"upcoming\",\"time_utc_offset\":-18000}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 1,
+          "screen_ID": "ico_calendar_upcoming",
+          "screen_data": {
+            "icoData": {
+              "categories": [
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_gaming",
+                  "category_name": "Gaming"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_ecomm",
+                  "category_name": "E-Commerce"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_finance",
+                  "category_name": "Finance"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_healthcare",
+                  "category_name": "Healthcare"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_infrastructure",
+                  "category_name": "Infrastructure"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_media",
+                  "category_name": "Media"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_platform",
+                  "category_name": "Platform"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_privacy",
+                  "category_name": "Privacy"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_realestate",
+                  "category_name": "Real Estate"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_security",
+                  "category_name": "Security"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_social",
+                  "category_name": "Social"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_travel",
+                  "category_name": "Travel"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_other",
+                  "category_name": "Other"
+                }
+              ],
+              "tabname": "upcoming"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "{\"category\":\"_ico_cat_healthcare\",\"lang_id\":1,\"sort\":\"funds_raised\",\"tabname\":\"completed\",\"time_utc_offset\":28800}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 1,
+          "screen_ID": "ico_calendar_completed",
+          "screen_data": {
+            "icoData": {
+              "categories": [
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_gaming",
+                  "category_name": "Gaming"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_ecomm",
+                  "category_name": "E-Commerce"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_finance",
+                  "category_name": "Finance"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_healthcare",
+                  "category_name": "Healthcare"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_infrastructure",
+                  "category_name": "Infrastructure"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_media",
+                  "category_name": "Media"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_platform",
+                  "category_name": "Platform"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_privacy",
+                  "category_name": "Privacy"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_realestate",
+                  "category_name": "Real Estate"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_security",
+                  "category_name": "Security"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_social",
+                  "category_name": "Social"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_travel",
+                  "category_name": "Travel"
+                },
+                {
+                  "_list_length": 13,
+                  "category_id": "_ico_cat_other",
+                  "category_name": "Other"
+                }
+              ],
+              "tabname": "completed"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

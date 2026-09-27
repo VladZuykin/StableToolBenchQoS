@@ -1,0 +1,263 @@
+{
+  "{\"elevation\":10,\"from_date\":\"2023-06-15\",\"latitude\":40.7128,\"longitude\":-74.006,\"time\":\"22:30:00\",\"to_date\":\"2023-06-16\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "dates": {
+          "from": "2023-06-15",
+          "to": "2023-06-16"
+        },
+        "observer": {
+          "location": {
+            "elevation": 10,
+            "latitude": 40.7128,
+            "longitude": -74.006
+          }
+        },
+        "table": {
+          "header": [
+            "entry",
+            "cells"
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "date": "2023-06-15",
+                  "distance": {
+                    "fromEarth": {
+                      "au": "1.0159",
+                      "km": "151,976,000"
+                    }
+                  },
+                  "extraInfo": {
+                    "elongation": 0,
+                    "magnitude": -26.7
+                  },
+                  "id": "sun",
+                  "name": "Sun",
+                  "position": {
+                    "constellation": {
+                      "id": "tau",
+                      "name": "Taurus",
+                      "short": "Tau"
+                    },
+                    "equatorial": {
+                      "declination": {
+                        "degrees": "23.2",
+                        "string": "+23° 12' 00\""
+                      },
+                      "rightAscension": {
+                        "hours": "5.5",
+                        "string": "05h 30m 00s"
+                      }
+                    },
+                    "horizonal": {
+                      "altitude": {
+                        "degrees": "-25.1",
+                        "string": "-25° 06' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "340.2",
+                        "string": "340° 12' 00\""
+                      }
+                    },
+                    "horizontal": {
+                      "altitude": {
+                        "degrees": "-25.1",
+                        "string": "-25° 06' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "340.2",
+                        "string": "340° 12' 00\""
+                      }
+                    }
+                  }
+                }
+              ],
+              "entry": {
+                "id": "sun",
+                "name": "Sun"
+              }
+            }
+          ]
+        }
+      },
+      "message": "Success"
+    }
+  },
+  "{\"elevation\":35,\"from_date\":\"2024-01-01\",\"latitude\":51.5074,\"longitude\":-0.1278,\"time\":\"06:00:00\",\"to_date\":\"2024-01-02\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "dates": {
+          "from": "2024-01-01",
+          "to": "2024-01-02"
+        },
+        "observer": {
+          "location": {
+            "elevation": 35,
+            "latitude": 51.5074,
+            "longitude": -0.1278
+          }
+        },
+        "table": {
+          "header": [
+            "entry",
+            "cells"
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "date": "2024-01-01",
+                  "distance": {
+                    "fromEarth": {
+                      "au": "0.00257",
+                      "km": "384,400"
+                    }
+                  },
+                  "extraInfo": {
+                    "elongation": 180,
+                    "magnitude": -12.5
+                  },
+                  "id": "moon",
+                  "name": "Moon",
+                  "position": {
+                    "constellation": {
+                      "id": "gem",
+                      "name": "Gemini",
+                      "short": "Gem"
+                    },
+                    "equatorial": {
+                      "declination": {
+                        "degrees": "22.5",
+                        "string": "+22° 30' 00\""
+                      },
+                      "rightAscension": {
+                        "hours": "7.2",
+                        "string": "07h 12m 00s"
+                      }
+                    },
+                    "horizonal": {
+                      "altitude": {
+                        "degrees": "45.3",
+                        "string": "45° 18' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "270.1",
+                        "string": "270° 06' 00\""
+                      }
+                    },
+                    "horizontal": {
+                      "altitude": {
+                        "degrees": "45.3",
+                        "string": "45° 18' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "270.1",
+                        "string": "270° 06' 00\""
+                      }
+                    }
+                  }
+                }
+              ],
+              "entry": {
+                "id": "moon",
+                "name": "Moon"
+              }
+            }
+          ]
+        }
+      },
+      "message": "Success"
+    }
+  },
+  "{\"elevation\":58,\"from_date\":\"2022-09-10\",\"latitude\":-33.8688,\"longitude\":151.2093,\"time\":\"18:45:00\",\"to_date\":\"2022-09-11\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "dates": {
+          "from": "2022-09-10",
+          "to": "2022-09-11"
+        },
+        "observer": {
+          "location": {
+            "elevation": 58,
+            "latitude": -33.8688,
+            "longitude": 151.2093
+          }
+        },
+        "table": {
+          "header": [
+            "entry",
+            "cells"
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "date": "2022-09-10",
+                  "distance": {
+                    "fromEarth": {
+                      "au": "4.012",
+                      "km": "600,200,000"
+                    }
+                  },
+                  "extraInfo": {
+                    "elongation": 120,
+                    "magnitude": -2.1
+                  },
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "position": {
+                    "constellation": {
+                      "id": "ari",
+                      "name": "Aries",
+                      "short": "Ari"
+                    },
+                    "equatorial": {
+                      "declination": {
+                        "degrees": "10.4",
+                        "string": "+10° 24' 00\""
+                      },
+                      "rightAscension": {
+                        "hours": "1.8",
+                        "string": "01h 48m 00s"
+                      }
+                    },
+                    "horizonal": {
+                      "altitude": {
+                        "degrees": "30.7",
+                        "string": "30° 42' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "95.5",
+                        "string": "95° 30' 00\""
+                      }
+                    },
+                    "horizontal": {
+                      "altitude": {
+                        "degrees": "30.7",
+                        "string": "30° 42' 00\""
+                      },
+                      "azimuth": {
+                        "degrees": "95.5",
+                        "string": "95° 30' 00\""
+                      }
+                    }
+                  }
+                }
+              ],
+              "entry": {
+                "id": "jupiter",
+                "name": "Jupiter"
+              }
+            }
+          ]
+        }
+      },
+      "message": "Success"
+    }
+  }
+}

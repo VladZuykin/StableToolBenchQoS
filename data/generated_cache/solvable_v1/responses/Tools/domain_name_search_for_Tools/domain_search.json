@@ -1,0 +1,194 @@
+{
+  "{\"available_only\":true,\"currency\":\"GBP\",\"max_price\":100,\"query\":\"fitnessgear\",\"tlds\":\"com,net,org,io,co,dev,app\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "count": 4,
+        "domains": [
+          {
+            "available": false,
+            "domain": "fitnessgear.com",
+            "domain_negatives": [
+              "taken"
+            ],
+            "domain_positives": [
+              "fitness",
+              "gear",
+              "popular"
+            ],
+            "sld": "fitnessgear",
+            "tld": "com",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "fitnessgear.net",
+            "domain_negatives": [
+              "less preferred"
+            ],
+            "domain_positives": [
+              "fitness",
+              "gear",
+              "network"
+            ],
+            "sld": "fitnessgear",
+            "tld": "net",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "fitnessgear.org",
+            "domain_negatives": [
+              "nonprofit connotation"
+            ],
+            "domain_positives": [
+              "fitness",
+              "gear",
+              "organization"
+            ],
+            "sld": "fitnessgear",
+            "tld": "org",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "fitnessgear.io",
+            "domain_negatives": [
+              "expensive"
+            ],
+            "domain_positives": [
+              "fitness",
+              "gear",
+              "tech"
+            ],
+            "sld": "fitnessgear",
+            "tld": "io",
+            "valid": true
+          }
+        ]
+      },
+      "parameters": {
+        "available_only": true,
+        "currency": "GBP",
+        "max_price": 100,
+        "query": "fitnessgear",
+        "tlds": "com,net,org,io,co,dev,app"
+      },
+      "request_id": "req_ghi789",
+      "status": "success"
+    }
+  },
+  "{\"available_only\":true,\"currency\":\"USD\",\"max_price\":50,\"query\":\"techstartup\",\"tlds\":\"com,io,co\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "count": 2,
+        "domains": [
+          {
+            "available": true,
+            "domain": "techstartup.io",
+            "domain_negatives": [
+              "long"
+            ],
+            "domain_positives": [
+              "tech",
+              "startup",
+              "innovation"
+            ],
+            "sld": "techstartup",
+            "tld": "io",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "techstartup.co",
+            "domain_negatives": [
+              "less common"
+            ],
+            "domain_positives": [
+              "tech",
+              "startup",
+              "short"
+            ],
+            "sld": "techstartup",
+            "tld": "co",
+            "valid": true
+          }
+        ]
+      },
+      "parameters": {
+        "available_only": true,
+        "currency": "USD",
+        "max_price": 50,
+        "query": "techstartup",
+        "tlds": "com,io,co"
+      },
+      "request_id": "req_abc123",
+      "status": "success"
+    }
+  },
+  "{\"currency\":\"EUR\",\"query\":\"bestcoffee\",\"tlds\":\"com,net,org\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "count": 3,
+        "domains": [
+          {
+            "available": false,
+            "domain": "bestcoffee.com",
+            "domain_negatives": [
+              "taken"
+            ],
+            "domain_positives": [
+              "best",
+              "coffee",
+              "popular"
+            ],
+            "sld": "bestcoffee",
+            "tld": "com",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "bestcoffee.net",
+            "domain_negatives": [
+              "less preferred"
+            ],
+            "domain_positives": [
+              "best",
+              "coffee",
+              "network"
+            ],
+            "sld": "bestcoffee",
+            "tld": "net",
+            "valid": true
+          },
+          {
+            "available": true,
+            "domain": "bestcoffee.org",
+            "domain_negatives": [
+              "nonprofit connotation"
+            ],
+            "domain_positives": [
+              "best",
+              "coffee",
+              "organization"
+            ],
+            "sld": "bestcoffee",
+            "tld": "org",
+            "valid": true
+          }
+        ]
+      },
+      "parameters": {
+        "available_only": false,
+        "currency": "EUR",
+        "max_price": null,
+        "query": "bestcoffee",
+        "tlds": "com,net,org"
+      },
+      "request_id": "req_def456",
+      "status": "success"
+    }
+  }
+}

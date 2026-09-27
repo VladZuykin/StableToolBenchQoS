@@ -1,0 +1,83 @@
+{
+  "{\"item_id\":\"ITEM-9001\",\"user_id\":\"U-55012\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/readiness",
+      "messages": "Readiness data retrieved successfully.",
+      "parameters": [
+        {
+          "name": "user_id",
+          "value": "U-55012"
+        },
+        {
+          "name": "item_id",
+          "value": "ITEM-9001"
+        }
+      ],
+      "response": [
+        {
+          "item_id": "ITEM-9001",
+          "readiness": 0.65,
+          "status": "partially_ready",
+          "user_id": "U-55012"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"item_id\":\"concept-204\",\"user_id\":\"learner-77\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/readiness",
+      "messages": "User is not yet ready for this item.",
+      "parameters": [
+        {
+          "name": "user_id",
+          "value": "learner-77"
+        },
+        {
+          "name": "item_id",
+          "value": "concept-204"
+        }
+      ],
+      "response": [
+        {
+          "item_id": "concept-204",
+          "readiness": 0.32,
+          "status": "not_ready",
+          "user_id": "learner-77"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"item_id\":\"item_88421\",\"user_id\":\"user_10293\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/readiness",
+      "messages": "User is ready for this item.",
+      "parameters": [
+        {
+          "name": "user_id",
+          "value": "user_10293"
+        },
+        {
+          "name": "item_id",
+          "value": "item_88421"
+        }
+      ],
+      "response": [
+        {
+          "item_id": "item_88421",
+          "readiness": 0.87,
+          "status": "ready",
+          "user_id": "user_10293"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

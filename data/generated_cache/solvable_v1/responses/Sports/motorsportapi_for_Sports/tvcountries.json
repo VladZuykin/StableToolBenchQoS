@@ -1,0 +1,87 @@
+{
+  "{\"is_id\":10974920}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "channels": [
+            "Sky Sports Football",
+            "BBC One"
+          ],
+          "country": "United Kingdom"
+        },
+        {
+          "channels": [
+            "ESPN+",
+            "NBC Sports"
+          ],
+          "country": "United States"
+        },
+        {
+          "channels": [
+            "Sky Sport Bundesliga"
+          ],
+          "country": "Germany"
+        }
+      ],
+      "match_id": 10974920
+    }
+  },
+  "{\"is_id\":10974921}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "channels": [
+            "Movistar LaLiga",
+            "DAZN"
+          ],
+          "country": "Spain"
+        },
+        {
+          "channels": [
+            "Canal+ Sport"
+          ],
+          "country": "France"
+        },
+        {
+          "channels": [
+            "DAZN Italia",
+            "Sky Sport Serie A"
+          ],
+          "country": "Italy"
+        }
+      ],
+      "match_id": 10974921
+    }
+  },
+  "{\"is_id\":10974922}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "channels": [
+            "Globo",
+            "SporTV"
+          ],
+          "country": "Brazil"
+        },
+        {
+          "channels": [
+            "TyC Sports",
+            "ESPN Premium"
+          ],
+          "country": "Argentina"
+        },
+        {
+          "channels": [
+            "TUDN",
+            "ESPN Mexico"
+          ],
+          "country": "Mexico"
+        }
+      ],
+      "match_id": 10974922
+    }
+  }
+}

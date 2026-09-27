@@ -1,0 +1,92 @@
+{
+  "{\"domain\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "domain": "example.com",
+      "propagation_percentage": 100,
+      "records": {
+        "A": [
+          "93.184.216.34"
+        ],
+        "MX": [
+          "mail.example.com"
+        ],
+        "NS": [
+          "a.iana-servers.net",
+          "b.iana-servers.net"
+        ]
+      },
+      "regions": [
+        {
+          "region": "North America",
+          "servers_checked": 8,
+          "servers_propagated": 8,
+          "status": "propagated"
+        },
+        {
+          "region": "Europe",
+          "servers_checked": 8,
+          "servers_propagated": 8,
+          "status": "propagated"
+        },
+        {
+          "region": "Asia",
+          "servers_checked": 8,
+          "servers_propagated": 8,
+          "status": "propagated"
+        }
+      ],
+      "servers_checked": 24,
+      "servers_pending": 0,
+      "servers_propagated": 24,
+      "status": "propagated"
+    }
+  },
+  "{\"domain\":\"mynewsite.org\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<dns_propagation_checker>\n  <domain>mynewsite.org</domain>\n  <status>propagating</status>\n  <propagation_percentage>75</propagation_percentage>\n  <servers_checked>24</servers_checked>\n  <servers_propagated>18</servers_propagated>\n  <servers_pending>6</servers_pending>\n  <regions>\n    <region name=\"North America\" status=\"propagated\" servers_checked=\"8\" servers_propagated=\"8\"/>\n    <region name=\"Europe\" status=\"propagated\" servers_checked=\"8\" servers_propagated=\"8\"/>\n    <region name=\"Asia\" status=\"propagating\" servers_checked=\"8\" servers_propagated=\"2\"/>\n  </regions>\n  <records>\n    <A>198.51.100.42</A>\n    <NS>ns1.mynewsite.org</NS>\n    <NS>ns2.mynewsite.org</NS>\n  </records>\n</dns_propagation_checker>"
+  },
+  "{\"domain\":\"shop.example.net\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "domain": "shop.example.net",
+      "propagation_percentage": 12,
+      "records": {
+        "A": [
+          "203.0.113.77"
+        ],
+        "CNAME": [
+          "shop.example.net.cdnprovider.com"
+        ],
+        "NS": [
+          "ns1.example.net",
+          "ns2.example.net"
+        ]
+      },
+      "regions": [
+        {
+          "region": "North America",
+          "servers_checked": 8,
+          "servers_propagated": 2,
+          "status": "propagating"
+        },
+        {
+          "region": "Europe",
+          "servers_checked": 8,
+          "servers_propagated": 1,
+          "status": "not_propagated"
+        },
+        {
+          "region": "Asia",
+          "servers_checked": 8,
+          "servers_propagated": 0,
+          "status": "not_propagated"
+        }
+      ],
+      "servers_checked": 24,
+      "servers_pending": 21,
+      "servers_propagated": 3,
+      "status": "not_propagated"
+    }
+  }
+}

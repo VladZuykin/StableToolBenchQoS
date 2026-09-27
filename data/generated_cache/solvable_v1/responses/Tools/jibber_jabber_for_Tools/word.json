@@ -1,0 +1,10 @@
+{
+  "{\"maximumwordlength\":10,\"minimumwordlength\":5}": {
+    "error": "",
+    "response": "garden"
+  },
+  "{\"wordlength\":7}": {
+    "error": "",
+    "response": "lantern"
+  }
+}

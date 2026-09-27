@@ -1,0 +1,60 @@
+{
+  "{\"regionid\":\"asia-pacific\"}": {
+    "error": "",
+    "response": {
+      "regionId": "asia-pacific",
+      "sources": [
+        {
+          "coverage": "regional",
+          "id": "ap-001",
+          "language": "en",
+          "name": "Asia Energy Monitor",
+          "url": "https://asiaenergymonitor.example.com"
+        },
+        {
+          "coverage": "national",
+          "id": "ap-002",
+          "language": "en",
+          "name": "Pacific Utilities Journal",
+          "url": "https://pacificutilities.example.com"
+        },
+        {
+          "coverage": "sector",
+          "id": "ap-003",
+          "language": "en",
+          "name": "LNG Markets Asia",
+          "url": "https://lngmarketsasia.example.com"
+        }
+      ]
+    }
+  },
+  "{\"regionid\":\"north-america\"}": {
+    "error": "",
+    "response": {
+      "regionId": "north-america",
+      "sources": [
+        {
+          "coverage": "regional",
+          "id": "na-001",
+          "language": "en",
+          "name": "Energy Watch North America",
+          "url": "https://energywatch-na.example.com"
+        },
+        {
+          "coverage": "national",
+          "id": "na-002",
+          "language": "en",
+          "name": "Continental Power Report",
+          "url": "https://continentalpower.example.com"
+        },
+        {
+          "coverage": "sector",
+          "id": "na-003",
+          "language": "en",
+          "name": "Grid & Gas Daily",
+          "url": "https://gridgasdaily.example.com"
+        }
+      ]
+    }
+  }
+}

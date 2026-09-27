@@ -1,0 +1,14 @@
+{
+  "{\"sport\":\"basketball\"}": {
+    "error": "",
+    "response": {
+      "message": "Countries supporting basketball: United States, Spain, France, Australia, Serbia, Greece, Lithuania, Argentina, Turkey, Italy"
+    }
+  },
+  "{\"sport\":\"football\"}": {
+    "error": "",
+    "response": {
+      "message": "Countries supporting football: England, Spain, Germany, Italy, France, Brazil, Argentina, Portugal, Netherlands, Belgium"
+    }
+  }
+}

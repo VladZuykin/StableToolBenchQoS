@@ -1,0 +1,39 @@
+{
+  "{\"date\":\"2023-08-20\"}": {
+    "error": "",
+    "response": {
+      "date": "2023-08-20",
+      "diesel": "3.88",
+      "gasoline": "3.42",
+      "mid_grade": "3.72",
+      "premium": "4.02",
+      "state": "Iowa"
+    }
+  },
+  "{\"date\":\"2024-01-15\"}": {
+    "error": "",
+    "response": {
+      "country": "US",
+      "date": "2024-01-15",
+      "gasoline": {
+        "diesel": {
+          "price": 3.72,
+          "unit": "USD/gallon"
+        },
+        "midgrade": {
+          "price": 3.21,
+          "unit": "USD/gallon"
+        },
+        "premium": {
+          "price": 3.54,
+          "unit": "USD/gallon"
+        },
+        "regular": {
+          "price": 2.89,
+          "unit": "USD/gallon"
+        }
+      },
+      "state": "Iowa"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "{\"accuracyradiuskm\":50,\"country\":\"US,MX\",\"language\":\"es\",\"latitude\":32.7157,\"limit\":5,\"longitude\":-117.1611,\"q\":\"San\",\"type\":\"CITY,ADMIN_DIVISION_1\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "places",
+      "parameters": [
+        {
+          "name": "q",
+          "value": "San"
+        },
+        {
+          "name": "country",
+          "value": "US,MX"
+        },
+        {
+          "name": "type",
+          "value": "CITY,ADMIN_DIVISION_1"
+        },
+        {
+          "name": "limit",
+          "value": 5
+        },
+        {
+          "name": "language",
+          "value": "es"
+        },
+        {
+          "name": "latitude",
+          "value": 32.7157
+        },
+        {
+          "name": "longitude",
+          "value": -117.1611
+        },
+        {
+          "name": "accuracyRadiusKm",
+          "value": 50
+        }
+      ],
+      "response": [
+        {
+          "adminDivision1Id": "US.CA",
+          "adminDivision2Id": "US.CA.San_Diego",
+          "countryId": "US",
+          "id": "US.CA.San_Diego",
+          "latitude": 32.7157,
+          "localizedName": "San Diego",
+          "longitude": -117.1611,
+          "name": "San Diego",
+          "type": "CITY"
+        },
+        {
+          "adminDivision1Id": "US.CA",
+          "adminDivision2Id": null,
+          "countryId": "US",
+          "id": "US.CA",
+          "latitude": 36.7783,
+          "localizedName": "California",
+          "longitude": -119.4179,
+          "name": "California",
+          "type": "ADMIN_DIVISION_1"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

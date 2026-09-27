@@ -1,0 +1,65 @@
+{
+  "{\"company\":11223,\"format\":\"json\",\"team\":\"team-gamma\",\"username\":\"kwilliams\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "kwilliams",
+          "created_at": "2024-05-10T10:05:00Z",
+          "id": 3001,
+          "status": "open",
+          "title": "Prepare quarterly report"
+        }
+      ]
+    }
+  },
+  "{\"company\":54321,\"format\":\"xml\",\"team\":\"team-beta\",\"username\":\"mchen\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "mchen",
+          "created_at": "2024-04-20T14:00:00Z",
+          "id": 2001,
+          "status": "completed",
+          "title": "Write API documentation"
+        },
+        {
+          "assigned_to": "rpatel",
+          "created_at": "2024-04-22T08:45:00Z",
+          "id": 2002,
+          "status": "open",
+          "title": "Review pull requests"
+        },
+        {
+          "assigned_to": "mchen",
+          "created_at": "2024-04-25T16:20:00Z",
+          "id": 2003,
+          "status": "in_progress",
+          "title": "Update dependencies"
+        }
+      ]
+    }
+  },
+  "{\"company\":98765,\"format\":\"json\",\"team\":\"team-alpha\",\"username\":\"jdoe\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "jdoe",
+          "created_at": "2024-05-01T09:15:00Z",
+          "id": 1001,
+          "status": "open",
+          "title": "Design homepage mockup"
+        },
+        {
+          "assigned_to": "asmith",
+          "created_at": "2024-05-02T11:30:00Z",
+          "id": 1002,
+          "status": "in_progress",
+          "title": "Fix login bug"
+        }
+      ]
+    }
+  }
+}

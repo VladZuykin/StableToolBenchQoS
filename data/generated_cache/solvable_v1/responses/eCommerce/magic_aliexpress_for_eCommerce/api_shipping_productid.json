@@ -1,0 +1,134 @@
+{
+  "{\"productid\":1005002345678901,\"tocountry\":\"US\"}": {
+    "error": "",
+    "response": {
+      "freightResult": [
+        {
+          "commitDay": "20",
+          "compagny": "ePacket",
+          "currency": "USD",
+          "deliveryDate": "2024-08-05",
+          "freightAmount": {
+            "currency": "USD",
+            "formatedAmount": "$3.45",
+            "value": 3.45
+          },
+          "sendGoodsCountry": "CN",
+          "sendGoodsCountryFullName": "China",
+          "time": "20-40",
+          "tracking": true
+        },
+        {
+          "commitDay": "5",
+          "compagny": "FedEx",
+          "currency": "USD",
+          "deliveryDate": "2024-07-21",
+          "freightAmount": {
+            "currency": "USD",
+            "formatedAmount": "$24.90",
+            "value": 24.9
+          },
+          "sendGoodsCountry": "US",
+          "sendGoodsCountryFullName": "United States",
+          "time": "5-8",
+          "tracking": true
+        }
+      ],
+      "packageInfo": {
+        "height": 10.0,
+        "length": 30.0,
+        "lot": true,
+        "weight": 1.2,
+        "width": 25.0
+      }
+    }
+  },
+  "{\"productid\":3284567890123,\"tocountry\":\"DE\"}": {
+    "error": "",
+    "response": {
+      "freightResult": [
+        {
+          "commitDay": "12",
+          "compagny": "China Post Registered Air Mail",
+          "currency": "EUR",
+          "deliveryDate": "2024-07-19",
+          "freightAmount": {
+            "currency": "EUR",
+            "formatedAmount": "€1.75",
+            "value": 1.75
+          },
+          "sendGoodsCountry": "CN",
+          "sendGoodsCountryFullName": "China",
+          "time": "12-25",
+          "tracking": true
+        },
+        {
+          "commitDay": "9",
+          "compagny": "DHL",
+          "currency": "EUR",
+          "deliveryDate": "2024-07-16",
+          "freightAmount": {
+            "currency": "EUR",
+            "formatedAmount": "€12.30",
+            "value": 12.3
+          },
+          "sendGoodsCountry": "DE",
+          "sendGoodsCountryFullName": "Germany",
+          "time": "9-15",
+          "tracking": true
+        }
+      ],
+      "packageInfo": {
+        "height": 3.5,
+        "length": 12.0,
+        "lot": false,
+        "weight": 0.18,
+        "width": 8.5
+      }
+    }
+  },
+  "{\"productid\":4000961087745,\"tocountry\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "freightResult": [
+        {
+          "commitDay": "15",
+          "compagny": "AliExpress Standard Shipping",
+          "currency": "EUR",
+          "deliveryDate": "2024-07-22",
+          "freightAmount": {
+            "currency": "EUR",
+            "formatedAmount": "€2.99",
+            "value": 2.99
+          },
+          "sendGoodsCountry": "CN",
+          "sendGoodsCountryFullName": "China",
+          "time": "15-30",
+          "tracking": true
+        },
+        {
+          "commitDay": "7",
+          "compagny": "DHL",
+          "currency": "EUR",
+          "deliveryDate": "2024-07-14",
+          "freightAmount": {
+            "currency": "EUR",
+            "formatedAmount": "€18.50",
+            "value": 18.5
+          },
+          "sendGoodsCountry": "CN",
+          "sendGoodsCountryFullName": "China",
+          "time": "7-12",
+          "tracking": true
+        }
+      ],
+      "packageInfo": {
+        "height": 5.2,
+        "length": 20.5,
+        "lot": false,
+        "weight": 0.35,
+        "width": 15.0
+      }
+    }
+  }
+}

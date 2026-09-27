@@ -1,0 +1,44 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "sports": [
+        {
+          "description": "Association football, commonly known as football or soccer",
+          "events_count": 1245,
+          "id": 1,
+          "is_active": true,
+          "name": "Soccer"
+        },
+        {
+          "description": "A team sport in which two teams of five players each try to score points",
+          "events_count": 832,
+          "id": 2,
+          "is_active": true,
+          "name": "Basketball"
+        },
+        {
+          "description": "A racket sport played individually or in doubles",
+          "events_count": 567,
+          "id": 3,
+          "is_active": true,
+          "name": "Tennis"
+        },
+        {
+          "description": "A bat-and-ball game played between two teams of eleven players",
+          "events_count": 410,
+          "id": 4,
+          "is_active": true,
+          "name": "Cricket"
+        },
+        {
+          "description": "A contact team sport played on ice",
+          "events_count": 0,
+          "id": 5,
+          "is_active": false,
+          "name": "Ice Hockey"
+        }
+      ]
+    }
+  }
+}

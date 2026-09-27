@@ -1,0 +1,74 @@
+{
+  "{\"limit\":10,\"offset\":0,\"q\":\"oscars 2024\"}": {
+    "error": "",
+    "response": {
+      "body": {
+        "results": [
+          {
+            "_id": "news_003",
+            "_list_length": 1,
+            "author": "Emily Chen",
+            "img": "https://example.com/images/oscars2024.jpg",
+            "publishedDate": "2024-03-11T22:00:00Z",
+            "sentiment": "neutral",
+            "snippet": "The 96th Academy Awards delivered surprises and memorable moments.",
+            "source": "Hollywood Reporter",
+            "title": "Oscars 2024: Highlights and Winners",
+            "type": "article",
+            "url": "https://example.com/news/oscars-2024-highlights"
+          }
+        ],
+        "totalArticles": 1
+      },
+      "success": true
+    }
+  },
+  "{\"limit\":2,\"offset\":0,\"q\":\"inception\"}": {
+    "error": "",
+    "response": {
+      "body": {
+        "results": [
+          {
+            "_id": "news_001",
+            "_list_length": 1,
+            "author": "Jane Doe",
+            "img": "https://example.com/images/inception.jpg",
+            "publishedDate": "2024-05-12T08:30:00Z",
+            "sentiment": "positive",
+            "snippet": "Christopher Nolan's Inception continues to be celebrated for its mind-bending plot and practical effects.",
+            "source": "Cinema Daily",
+            "title": "Inception: A Decade Later",
+            "type": "article",
+            "url": "https://example.com/news/inception-decade-later"
+          }
+        ],
+        "totalArticles": 1
+      },
+      "success": true
+    }
+  },
+  "{\"limit\":5,\"offset\":10,\"q\":\"dune part two\"}": {
+    "error": "",
+    "response": {
+      "body": {
+        "results": [
+          {
+            "_id": "news_002",
+            "_list_length": 1,
+            "author": "Mark Rivera",
+            "img": "https://example.com/images/dune2.jpg",
+            "publishedDate": "2024-03-01T14:15:00Z",
+            "sentiment": "positive",
+            "snippet": "Dune: Part Two dominates the box office with stunning visuals and epic storytelling.",
+            "source": "Film Weekly",
+            "title": "Dune: Part Two Breaks Records",
+            "type": "article",
+            "url": "https://example.com/news/dune-part-two-records"
+          }
+        ],
+        "totalArticles": 1
+      },
+      "success": true
+    }
+  }
+}

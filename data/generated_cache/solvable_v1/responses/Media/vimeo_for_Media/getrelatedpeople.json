@@ -1,0 +1,77 @@
+{
+  "{\"category\":\"animation\",\"format\":\"json\",\"page\":2,\"per_page\":10}": {
+    "error": "",
+    "response": {
+      "generated_in": "0.0187",
+      "page": 2,
+      "people": [
+        {
+          "bio": "2D animator and illustrator.",
+          "followers": 3210,
+          "id": "23456",
+          "name": "Alice Chen",
+          "profile_url": "https://vimeo.com/alicechen"
+        },
+        {
+          "bio": "Stop-motion artist.",
+          "followers": 987,
+          "id": "34567",
+          "name": "Bob Lee",
+          "profile_url": "https://vimeo.com/boblee"
+        }
+      ],
+      "per_page": 10,
+      "stat": "ok",
+      "total": 34
+    }
+  },
+  "{\"category\":\"documentary\",\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "generated_in": "0.0231",
+      "people": [
+        {
+          "bio": "Documentary filmmaker based in NYC.",
+          "followers": 1520,
+          "id": "12345",
+          "name": "Jane Doe",
+          "profile_url": "https://vimeo.com/janedoe"
+        },
+        {
+          "bio": "Award-winning documentarian.",
+          "followers": 8432,
+          "id": "67890",
+          "name": "John Smith",
+          "profile_url": "https://vimeo.com/johnsmith"
+        }
+      ],
+      "stat": "ok"
+    }
+  },
+  "{\"category\":\"music\",\"format\":\"json\",\"per_page\":50}": {
+    "error": "",
+    "response": {
+      "generated_in": "0.0412",
+      "page": 1,
+      "people": [
+        {
+          "bio": "Music video director.",
+          "followers": 12045,
+          "id": "45678",
+          "name": "Maria Garcia",
+          "profile_url": "https://vimeo.com/mariagarcia"
+        },
+        {
+          "bio": "Live concert cinematographer.",
+          "followers": 6721,
+          "id": "56789",
+          "name": "David Kim",
+          "profile_url": "https://vimeo.com/davidkim"
+        }
+      ],
+      "per_page": 50,
+      "stat": "ok",
+      "total": 128
+    }
+  }
+}

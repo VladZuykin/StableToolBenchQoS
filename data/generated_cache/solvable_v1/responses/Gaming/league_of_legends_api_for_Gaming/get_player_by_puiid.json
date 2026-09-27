@@ -1,0 +1,25 @@
+{
+  "{\"puuid\":\"qorSH3-x2S4Mi34VTL4QeRenrGeRkUKnVVcQa2e9gQXyDHJvl8CH7xotdh20FG3A5Hac43FM4rX3VA\",\"region\":\"EUW\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "summoner profile",
+      "parameters": [
+        "puuid",
+        "region"
+      ],
+      "response": [
+        {
+          "accountId": "aBcD1234EfGh5678IjKl",
+          "id": "R3nTz9kLqWvB2mXp",
+          "name": "ShadowStrike",
+          "profileIconId": 4568,
+          "puuid": "qorSH3-x2S4Mi34VTL4QeRenrGeRkUKnVVcQa2e9gQXyDHJvl8CH7xotdh20FG3A5Hac43FM4rX3VA",
+          "revisionDate": 1712345678000,
+          "summonerLevel": 312
+        }
+      ],
+      "results": 1
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "{\"gl\":\"au\",\"google_domain\":\"google.com.au\",\"hl\":\"en\",\"location\":\"Sydney, New South Wales, Australia\",\"page\":1,\"product_id\":\"11223344556677889900\",\"product_type\":\"specifications\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "Sydney, New South Wales, Australia",
+      "product_id": "11223344556677889900",
+      "product_type": "specifications",
+      "specifications": [
+        {
+          "specifications": [
+            {
+              "name": "Brand",
+              "value": "Sony"
+            },
+            {
+              "name": "Model",
+              "value": "WH-1000XM5"
+            },
+            {
+              "name": "Color",
+              "value": "Black"
+            },
+            {
+              "name": "Release Date",
+              "value": "2022-05-12"
+            }
+          ],
+          "title": "General"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Driver Unit",
+              "value": "30 mm"
+            },
+            {
+              "name": "Frequency Response",
+              "value": "4 Hz - 40,000 Hz"
+            },
+            {
+              "name": "Noise Cancellation",
+              "value": "Yes, Dual Noise Sensor"
+            }
+          ],
+          "title": "Audio"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Battery Life",
+              "value": "30 hours (NC on)"
+            },
+            {
+              "name": "Charging Time",
+              "value": "3 hours"
+            },
+            {
+              "name": "Quick Charge",
+              "value": "3 hours playback from 10 min charge"
+            }
+          ],
+          "title": "Battery"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Bluetooth Version",
+              "value": "5.2"
+            },
+            {
+              "name": "Supported Codecs",
+              "value": "SBC, AAC, LDAC"
+            }
+          ],
+          "title": "Connectivity"
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"uk\",\"google_domain\":\"google.co.uk\",\"hl\":\"en\",\"location\":\"London, England, United Kingdom\",\"page\":2,\"product_id\":\"98765432109876543210\",\"product_type\":\"specifications\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "London, England, United Kingdom",
+      "product_id": "98765432109876543210",
+      "product_type": "specifications",
+      "specifications": [
+        {
+          "specifications": [
+            {
+              "name": "Brand",
+              "value": "Apple"
+            },
+            {
+              "name": "Model",
+              "value": "MacBook Pro 14-inch (2023)"
+            },
+            {
+              "name": "Color",
+              "value": "Space Gray"
+            },
+            {
+              "name": "Release Date",
+              "value": "2023-01-17"
+            }
+          ],
+          "title": "General"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Chip",
+              "value": "Apple M2 Pro"
+            },
+            {
+              "name": "CPU Cores",
+              "value": "10-core"
+            },
+            {
+              "name": "GPU Cores",
+              "value": "16-core"
+            }
+          ],
+          "title": "Processor"
+        },
+        {
+          "specifications": [
+            {
+              "name": "RAM",
+              "value": "16 GB"
+            },
+            {
+              "name": "Storage",
+              "value": "512 GB SSD"
+            }
+          ],
+          "title": "Memory"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Screen Size",
+              "value": "14.2 inches"
+            },
+            {
+              "name": "Resolution",
+              "value": "3024 x 1964 pixels"
+            },
+            {
+              "name": "Technology",
+              "value": "Liquid Retina XDR"
+            }
+          ],
+          "title": "Display"
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"us\",\"google_domain\":\"google.com\",\"hl\":\"en\",\"location\":\"Austin, Texas, United States\",\"page\":1,\"product_id\":\"12345678901234567890\",\"product_type\":\"specifications\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "Austin, Texas, United States",
+      "product_id": "12345678901234567890",
+      "product_type": "specifications",
+      "specifications": [
+        {
+          "specifications": [
+            {
+              "name": "Brand",
+              "value": "Samsung"
+            },
+            {
+              "name": "Model",
+              "value": "Galaxy S23 Ultra"
+            },
+            {
+              "name": "Color",
+              "value": "Phantom Black"
+            },
+            {
+              "name": "Release Date",
+              "value": "2023-02-17"
+            }
+          ],
+          "title": "General"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Screen Size",
+              "value": "6.8 inches"
+            },
+            {
+              "name": "Resolution",
+              "value": "1440 x 3088 pixels"
+            },
+            {
+              "name": "Refresh Rate",
+              "value": "120 Hz"
+            }
+          ],
+          "title": "Display"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Main Camera",
+              "value": "200 MP"
+            },
+            {
+              "name": "Front Camera",
+              "value": "12 MP"
+            },
+            {
+              "name": "Video Recording",
+              "value": "8K@30fps"
+            }
+          ],
+          "title": "Camera"
+        },
+        {
+          "specifications": [
+            {
+              "name": "Capacity",
+              "value": "5000 mAh"
+            },
+            {
+              "name": "Charging",
+              "value": "45W wired, 15W wireless"
+            }
+          ],
+          "title": "Battery"
+        }
+      ]
+    }
+  }
+}

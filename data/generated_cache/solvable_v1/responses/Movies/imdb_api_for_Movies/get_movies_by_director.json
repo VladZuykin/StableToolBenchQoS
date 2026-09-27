@@ -1,0 +1,66 @@
+{
+  "{\"movie_director\":\"Christopher Nolan\"}": {
+    "error": "",
+    "response": [
+      {
+        "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy",
+        "director": "Christopher Nolan",
+        "id": 1375666,
+        "rank": 13,
+        "rating": 8.8,
+        "title": "Inception",
+        "year": 2010
+      },
+      {
+        "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+        "director": "Christopher Nolan",
+        "id": 468569,
+        "rank": 4,
+        "rating": 9.0,
+        "title": "The Dark Knight",
+        "year": 2008
+      },
+      {
+        "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",
+        "director": "Christopher Nolan",
+        "id": 816692,
+        "rank": 30,
+        "rating": 8.6,
+        "title": "Interstellar",
+        "year": 2014
+      }
+    ]
+  },
+  "{\"movie_director\":\"Steven Spielberg\"}": {
+    "error": "",
+    "response": [
+      {
+        "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",
+        "director": "Steven Spielberg",
+        "id": 109305,
+        "rank": 6,
+        "rating": 8.9,
+        "title": "Schindler's List",
+        "year": 1993
+      },
+      {
+        "cast": "Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",
+        "director": "Steven Spielberg",
+        "id": 120815,
+        "rank": 25,
+        "rating": 8.6,
+        "title": "Saving Private Ryan",
+        "year": 1998
+      },
+      {
+        "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",
+        "director": "Steven Spielberg",
+        "id": 718155,
+        "rank": 154,
+        "rating": 8.1,
+        "title": "Jaws",
+        "year": 1975
+      }
+    ]
+  }
+}

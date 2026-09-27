@@ -1,0 +1,64 @@
+{
+  "{\"user_id\":1337,\"with_recently_downloaded\":true}": {
+    "error": "",
+    "response": {
+      "downloaded": 20480,
+      "email": "torrentmaster@example.com",
+      "group": "VIP",
+      "joined_date": "2019-11-02 08:14:55",
+      "last_login": "2024-06-10 21:03:17",
+      "ratio": 2.5,
+      "recently_downloaded": [
+        {
+          "downloaded_at": "2024-06-09 22:11:04",
+          "movie_id": 11234,
+          "quality": "1080p",
+          "title": "The Matrix",
+          "type": "bluray",
+          "year": 1999
+        },
+        {
+          "downloaded_at": "2024-06-08 14:37:52",
+          "movie_id": 9876,
+          "quality": "720p",
+          "title": "Inception",
+          "type": "web",
+          "year": 2010
+        }
+      ],
+      "uploaded": 51200,
+      "user_id": 1337,
+      "username": "torrentmaster"
+    }
+  },
+  "{\"user_id\":42}": {
+    "error": "",
+    "response": {
+      "downloaded": 128,
+      "email": "cinephile42@example.com",
+      "group": "User",
+      "joined_date": "2021-03-15 10:22:31",
+      "last_login": "2024-06-01 18:45:02",
+      "ratio": 0.0,
+      "recently_downloaded": [],
+      "uploaded": 0,
+      "user_id": 42,
+      "username": "cinephile42"
+    }
+  },
+  "{\"user_id\":7,\"with_recently_downloaded\":false}": {
+    "error": "",
+    "response": {
+      "downloaded": 0,
+      "email": "newbie7@example.com",
+      "group": "User",
+      "joined_date": "2024-05-20 12:00:00",
+      "last_login": "2024-05-21 09:30:45",
+      "ratio": 0.0,
+      "recently_downloaded": [],
+      "uploaded": 0,
+      "user_id": 7,
+      "username": "newbie7"
+    }
+  }
+}

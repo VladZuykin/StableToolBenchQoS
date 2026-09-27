@@ -1,0 +1,44 @@
+{
+  "{\"securityname\":\"cardano\"}": {
+    "error": "",
+    "response": {
+      "dataTimeStamp": "2023-10-05T00:00:00Z",
+      "followers": 890000,
+      "followersChange": -1.5,
+      "mentions": 3200,
+      "mentionsChange": -5.3,
+      "securityName": "Cardano",
+      "securityTicker": "ADA",
+      "sentiment": 65.3,
+      "sentimentChange": -2.1
+    }
+  },
+  "{\"securityname\":\"ethereum\"}": {
+    "error": "",
+    "response": {
+      "dataTimeStamp": "2023-10-05T00:00:00Z",
+      "followers": 1250000,
+      "followersChange": 3.8,
+      "mentions": 4500,
+      "mentionsChange": 12.5,
+      "securityName": "Ethereum",
+      "securityTicker": "ETH",
+      "sentiment": 72.5,
+      "sentimentChange": 5.2
+    }
+  },
+  "{\"securityname\":\"solana\"}": {
+    "error": "",
+    "response": {
+      "dataTimeStamp": "2023-10-05T00:00:00Z",
+      "followers": 2100000,
+      "followersChange": 15.2,
+      "mentions": 7800,
+      "mentionsChange": 22.4,
+      "securityName": "Solana",
+      "securityTicker": "SOL",
+      "sentiment": 80.1,
+      "sentimentChange": 8.7
+    }
+  }
+}

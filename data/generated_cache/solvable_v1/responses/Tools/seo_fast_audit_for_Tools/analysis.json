@@ -1,0 +1,326 @@
+{
+  "{\"url\":\"https://news.example.org/article/tech-trends\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "a": {
+          "counts": 38,
+          "data": [
+            {
+              "href": "https://news.example.org/tech",
+              "text": "Tech News",
+              "words": 2
+            },
+            {
+              "href": "https://external.com/ai",
+              "text": "AI Article",
+              "words": 2
+            }
+          ],
+          "tag": "a"
+        },
+        "b": {
+          "counts": 0,
+          "data": [],
+          "tag": "b"
+        },
+        "facebookPixel": true,
+        "googleAnalytics": true,
+        "h1": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Tech Trends",
+              "words": 2
+            }
+          ],
+          "tag": "h1"
+        },
+        "h2": {
+          "counts": 4,
+          "data": [
+            {
+              "text": "AI",
+              "words": 1
+            },
+            {
+              "text": "Blockchain",
+              "words": 1
+            }
+          ],
+          "tag": "h2"
+        },
+        "h3": {
+          "counts": 3,
+          "data": [
+            {
+              "text": "Machine Learning",
+              "words": 2
+            }
+          ],
+          "tag": "h3"
+        },
+        "img": {
+          "counts": 10,
+          "data": [
+            {
+              "alt": "Trend",
+              "src": "trend.jpg"
+            }
+          ],
+          "tag": "img"
+        },
+        "links": {
+          "external": 18,
+          "follow": 30,
+          "internal": 20,
+          "noFollow": 8
+        },
+        "meta": {
+          "counts": 6,
+          "data": [
+            {
+              "charset": "UTF-8"
+            }
+          ],
+          "tag": "meta"
+        },
+        "prestashop": false,
+        "shopify": false,
+        "strong": {
+          "counts": 0,
+          "data": [],
+          "tag": "strong"
+        },
+        "title": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Tech Trends 2025",
+              "words": 3
+            }
+          ],
+          "tag": "title"
+        },
+        "wordpress": false,
+        "wordsCounts": 1500
+      }
+    }
+  },
+  "{\"url\":\"https://shop.example-store.com/products/widget\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "a": {
+          "counts": 12,
+          "data": [
+            {
+              "href": "/cart",
+              "text": "Cart",
+              "words": 1
+            },
+            {
+              "href": "https://supplier.com",
+              "text": "Supplier",
+              "words": 1
+            }
+          ],
+          "tag": "a"
+        },
+        "b": {
+          "counts": 0,
+          "data": [],
+          "tag": "b"
+        },
+        "facebookPixel": true,
+        "googleAnalytics": false,
+        "h1": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Widget Product",
+              "words": 2
+            }
+          ],
+          "tag": "h1"
+        },
+        "h2": {
+          "counts": 2,
+          "data": [
+            {
+              "text": "Description",
+              "words": 1
+            }
+          ],
+          "tag": "h2"
+        },
+        "h3": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Reviews",
+              "words": 1
+            }
+          ],
+          "tag": "h3"
+        },
+        "img": {
+          "counts": 5,
+          "data": [
+            {
+              "alt": "Widget",
+              "src": "widget.jpg"
+            }
+          ],
+          "tag": "img"
+        },
+        "links": {
+          "external": 4,
+          "follow": 10,
+          "internal": 8,
+          "noFollow": 2
+        },
+        "meta": {
+          "counts": 3,
+          "data": [
+            {
+              "charset": "UTF-8"
+            }
+          ],
+          "tag": "meta"
+        },
+        "prestashop": false,
+        "shopify": true,
+        "strong": {
+          "counts": 0,
+          "data": [],
+          "tag": "strong"
+        },
+        "title": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Buy Widget Online",
+              "words": 3
+            }
+          ],
+          "tag": "title"
+        },
+        "wordpress": false,
+        "wordsCounts": 800
+      }
+    }
+  },
+  "{\"url\":\"https://www.example.com/blog/seo-tips\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "a": {
+          "counts": 25,
+          "data": [
+            {
+              "href": "https://www.example.com/about",
+              "text": "About Us",
+              "words": 2
+            },
+            {
+              "href": "https://external.com",
+              "text": "External Link",
+              "words": 2
+            }
+          ],
+          "tag": "a"
+        },
+        "b": {
+          "counts": 0,
+          "data": [],
+          "tag": "b"
+        },
+        "facebookPixel": false,
+        "googleAnalytics": true,
+        "h1": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "Welcome to SEO Tips",
+              "words": 4
+            }
+          ],
+          "tag": "h1"
+        },
+        "h2": {
+          "counts": 3,
+          "data": [
+            {
+              "text": "Introduction",
+              "words": 1
+            },
+            {
+              "text": "Best Practices",
+              "words": 2
+            }
+          ],
+          "tag": "h2"
+        },
+        "h3": {
+          "counts": 2,
+          "data": [
+            {
+              "text": "Keyword Research",
+              "words": 2
+            }
+          ],
+          "tag": "h3"
+        },
+        "img": {
+          "counts": 8,
+          "data": [
+            {
+              "alt": "SEO Image",
+              "src": "image1.jpg"
+            },
+            {
+              "alt": "Another Image",
+              "src": "image2.jpg"
+            }
+          ],
+          "tag": "img"
+        },
+        "links": {
+          "external": 10,
+          "follow": 20,
+          "internal": 15,
+          "noFollow": 5
+        },
+        "meta": {
+          "counts": 5,
+          "data": [
+            {
+              "charset": "UTF-8"
+            }
+          ],
+          "tag": "meta"
+        },
+        "prestashop": false,
+        "shopify": false,
+        "strong": {
+          "counts": 0,
+          "data": [],
+          "tag": "strong"
+        },
+        "title": {
+          "counts": 1,
+          "data": [
+            {
+              "text": "SEO Tips for Beginners",
+              "words": 4
+            }
+          ],
+          "tag": "title"
+        },
+        "wordpress": true,
+        "wordsCounts": 1250
+      }
+    }
+  }
+}

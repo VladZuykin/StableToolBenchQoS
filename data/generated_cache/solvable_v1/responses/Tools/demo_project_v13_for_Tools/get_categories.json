@@ -1,0 +1,43 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "categories",
+      "parameters": [],
+      "response": [
+        {
+          "id": 1,
+          "name": "Electronics",
+          "parent_id": null,
+          "slug": "electronics"
+        },
+        {
+          "id": 2,
+          "name": "Home & Kitchen",
+          "parent_id": null,
+          "slug": "home-kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Books",
+          "parent_id": null,
+          "slug": "books"
+        },
+        {
+          "id": 4,
+          "name": "Clothing",
+          "parent_id": null,
+          "slug": "clothing"
+        },
+        {
+          "id": 5,
+          "name": "Sports & Outdoors",
+          "parent_id": null,
+          "slug": "sports-outdoors"
+        }
+      ],
+      "results": 5
+    }
+  }
+}

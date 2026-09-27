@@ -1,0 +1,74 @@
+{
+  "{\"zip_code\":\"10001\"}": {
+    "error": "",
+    "response": {
+      "stores": [
+        {
+          "address": "500 E 34th St, New York, NY 10016",
+          "distance_miles": 1.2,
+          "hours": "6:00 AM - 11:00 PM",
+          "phone": "(212) 555-0142",
+          "store_id": "5241",
+          "store_name": "Walmart Supercenter"
+        },
+        {
+          "address": "75 W 125th St, New York, NY 10027",
+          "distance_miles": 4.6,
+          "hours": "7:00 AM - 10:00 PM",
+          "phone": "(212) 555-0198",
+          "store_id": "2873",
+          "store_name": "Walmart Neighborhood Market"
+        }
+      ],
+      "zip_code": "10001"
+    }
+  },
+  "{\"zip_code\":\"60601\"}": {
+    "error": "",
+    "response": {
+      "stores": [
+        {
+          "address": "2650 N Elston Ave, Chicago, IL 60647",
+          "distance_miles": 3.4,
+          "hours": "6:00 AM - 11:00 PM",
+          "phone": "(773) 555-0165",
+          "store_id": "5620",
+          "store_name": "Walmart Supercenter"
+        },
+        {
+          "address": "1101 S Canal St, Chicago, IL 60607",
+          "distance_miles": 1.9,
+          "hours": "7:00 AM - 10:00 PM",
+          "phone": "(312) 555-0121",
+          "store_id": "1988",
+          "store_name": "Walmart Neighborhood Market"
+        }
+      ],
+      "zip_code": "60601"
+    }
+  },
+  "{\"zip_code\":\"90210\"}": {
+    "error": "",
+    "response": {
+      "stores": [
+        {
+          "address": "8500 Beverly Blvd, Los Angeles, CA 90048",
+          "distance_miles": 2.8,
+          "hours": "6:00 AM - 12:00 AM",
+          "phone": "(310) 555-0177",
+          "store_id": "3310",
+          "store_name": "Walmart Supercenter"
+        },
+        {
+          "address": "1234 Wilshire Blvd, Santa Monica, CA 90401",
+          "distance_miles": 6.1,
+          "hours": "7:00 AM - 11:00 PM",
+          "phone": "(310) 555-0134",
+          "store_id": "4419",
+          "store_name": "Walmart Neighborhood Market"
+        }
+      ],
+      "zip_code": "90210"
+    }
+  }
+}

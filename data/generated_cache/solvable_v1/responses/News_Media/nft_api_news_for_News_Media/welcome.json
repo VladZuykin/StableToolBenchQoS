@@ -1,0 +1,14 @@
+{
+  "{\"nft\":\"collections\"}": {
+    "error": "",
+    "response": {
+      "externalDocs": {}
+    }
+  },
+  "{\"nft\":\"trending\"}": {
+    "error": "",
+    "response": {
+      "externalDocs": {}
+    }
+  }
+}

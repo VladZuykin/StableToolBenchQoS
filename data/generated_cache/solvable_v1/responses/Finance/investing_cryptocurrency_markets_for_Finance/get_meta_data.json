@@ -1,0 +1,164 @@
+{
+  "{\"lang_id\":1,\"locale_info\":\"en_US\",\"time_utc_offset\":28800}": {
+    "error": "",
+    "response": {
+      "all_langs": [
+        {
+          "_list_length": 38,
+          "ci": "en_US",
+          "is_currency_onright": false,
+          "iso_639_lang_code": "en",
+          "lang_ID": 1,
+          "lang_dir": "ltr",
+          "lang_foreign": "English"
+        }
+      ],
+      "countries": [
+        {
+          "_list_length": 222,
+          "cc": "US",
+          "ci": "us",
+          "cname": "United States",
+          "country_international_phone_code": "1",
+          "country_name_translated": "United States",
+          "flag_image_32x32": "https://example.com/flags/us_32.png",
+          "flag_image_32x32_flat": "https://example.com/flags/us_32_flat.png",
+          "is_default_earn_cal_country": true,
+          "is_default_economic_cal_country": true,
+          "is_earn_cal_country": true,
+          "is_economic_cal_country": true
+        }
+      ],
+      "countries_market": "US,GB,DE,JP",
+      "countries_popular": "US,GB,DE,JP,CN",
+      "default_ipo_countries": [
+        1,
+        2,
+        3
+      ],
+      "edition_currency_id": 1,
+      "edition_currency_short_name": "USD",
+      "ipo_countries": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "market_default_country": {
+        "country_ID": 1,
+        "flag": "us",
+        "flag_image_32x32": "https://example.com/flags/us_32.png",
+        "flag_image_32x32_flat": "https://example.com/flags/us_32_flat.png"
+      }
+    }
+  },
+  "{\"lang_id\":12,\"locale_info\":\"ja_JP\",\"time_utc_offset\":32400}": {
+    "error": "",
+    "response": {
+      "all_langs": [
+        {
+          "_list_length": 38,
+          "ci": "ja_JP",
+          "is_currency_onright": false,
+          "iso_639_lang_code": "ja",
+          "lang_ID": 12,
+          "lang_dir": "ltr",
+          "lang_foreign": "日本語"
+        }
+      ],
+      "countries": [
+        {
+          "_list_length": 222,
+          "cc": "JP",
+          "ci": "jp",
+          "cname": "Japan",
+          "country_international_phone_code": "81",
+          "country_name_translated": "日本",
+          "flag_image_32x32": "https://example.com/flags/jp_32.png",
+          "flag_image_32x32_flat": "https://example.com/flags/jp_32_flat.png",
+          "is_default_earn_cal_country": true,
+          "is_default_economic_cal_country": true,
+          "is_earn_cal_country": true,
+          "is_economic_cal_country": true
+        }
+      ],
+      "countries_market": "JP,KR,TW,HK",
+      "countries_popular": "JP,KR,TW,HK,SG",
+      "default_ipo_countries": [
+        7,
+        8,
+        9
+      ],
+      "edition_currency_id": 3,
+      "edition_currency_short_name": "JPY",
+      "ipo_countries": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_default_country": {
+        "country_ID": 7,
+        "flag": "jp",
+        "flag_image_32x32": "https://example.com/flags/jp_32.png",
+        "flag_image_32x32_flat": "https://example.com/flags/jp_32_flat.png"
+      }
+    }
+  },
+  "{\"lang_id\":5,\"locale_info\":\"de_DE\",\"time_utc_offset\":3600}": {
+    "error": "",
+    "response": {
+      "all_langs": [
+        {
+          "_list_length": 38,
+          "ci": "de_DE",
+          "is_currency_onright": true,
+          "iso_639_lang_code": "de",
+          "lang_ID": 5,
+          "lang_dir": "ltr",
+          "lang_foreign": "Deutsch"
+        }
+      ],
+      "countries": [
+        {
+          "_list_length": 222,
+          "cc": "DE",
+          "ci": "de",
+          "cname": "Germany",
+          "country_international_phone_code": "49",
+          "country_name_translated": "Deutschland",
+          "flag_image_32x32": "https://example.com/flags/de_32.png",
+          "flag_image_32x32_flat": "https://example.com/flags/de_32_flat.png",
+          "is_default_earn_cal_country": true,
+          "is_default_economic_cal_country": true,
+          "is_earn_cal_country": true,
+          "is_economic_cal_country": true
+        }
+      ],
+      "countries_market": "DE,AT,CH,FR",
+      "countries_popular": "DE,AT,CH,FR,IT",
+      "default_ipo_countries": [
+        4,
+        5,
+        6
+      ],
+      "edition_currency_id": 2,
+      "edition_currency_short_name": "EUR",
+      "ipo_countries": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "market_default_country": {
+        "country_ID": 4,
+        "flag": "de",
+        "flag_image_32x32": "https://example.com/flags/de_32.png",
+        "flag_image_32x32_flat": "https://example.com/flags/de_32_flat.png"
+      }
+    }
+  }
+}

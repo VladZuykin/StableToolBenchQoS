@@ -1,0 +1,38 @@
+{
+  "{\"authorization\":\"demo_authorization_1\",\"is_id\":\"61d096c5d9aaba03c45cd012\"}": {
+    "error": "",
+    "response": {
+      "body": "Hi there,\n\nA sign in attempt requires further verification because we did not recognize your device. To complete the sign in, enter the verification code on the unrecognized device.\n\nVerification code: 482913\n\nIf you did not attempt to sign in, please secure your account.\n\nThanks,\nThe GitHub Team",
+      "from": "noreply@github.com",
+      "id": "61d096c5d9aaba03c45cd012",
+      "isRead": false,
+      "receivedAt": "2022-01-02T09:14:33.000Z",
+      "subject": "[GitHub] Please verify your device",
+      "to": "kqxm9421@plutomail.com"
+    }
+  },
+  "{\"authorization\":\"demo_authorization_2\",\"is_id\":\"61d1a7f3b2c4e5091a8f3d21\"}": {
+    "error": "",
+    "response": {
+      "body": "Hi,\n\nThanks for your payment of $15.49 for your Netflix subscription.\n\nPayment method: Visa ending in 4242\nNext billing date: February 2, 2022\n\nManage your account at netflix.com/account.\n\nEnjoy!",
+      "from": "billing@netflix.com",
+      "id": "61d1a7f3b2c4e5091a8f3d21",
+      "isRead": true,
+      "receivedAt": "2022-01-03T18:02:11.000Z",
+      "subject": "Your Netflix receipt",
+      "to": "zntv7730@dropboxmail.net"
+    }
+  },
+  "{\"authorization\":\"demo_authorization_3\",\"is_id\":\"61d2b9c4e5f6a7b8c9d0e1f2\"}": {
+    "error": "",
+    "response": {
+      "body": "Hello,\n\nYour package with the following items has shipped:\n\n1 x USB-C Charging Cable\n1 x Wireless Mouse\n\nEstimated delivery: January 6, 2022\nTracking number: 1Z999AA10123456784\n\nTrack your package at amazon.com/orders.",
+      "from": "support@amazonses.com",
+      "id": "61d2b9c4e5f6a7b8c9d0e1f2",
+      "isRead": false,
+      "receivedAt": "2022-01-04T07:45:59.000Z",
+      "subject": "Your Amazon.com order has shipped",
+      "to": "mocha8888@tempmail.org"
+    }
+  }
+}

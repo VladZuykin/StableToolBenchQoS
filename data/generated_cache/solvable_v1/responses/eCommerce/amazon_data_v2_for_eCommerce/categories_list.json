@@ -1,0 +1,34 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "categories": [
+        {
+          "id": "aps",
+          "name": "Amazon Devices & Accessories",
+          "parent_id": null
+        },
+        {
+          "id": "electronics",
+          "name": "Electronics",
+          "parent_id": null
+        },
+        {
+          "id": "books",
+          "name": "Books",
+          "parent_id": null
+        },
+        {
+          "id": "home",
+          "name": "Home & Kitchen",
+          "parent_id": null
+        },
+        {
+          "id": "fashion",
+          "name": "Clothing, Shoes & Jewelry",
+          "parent_id": null
+        }
+      ]
+    }
+  }
+}

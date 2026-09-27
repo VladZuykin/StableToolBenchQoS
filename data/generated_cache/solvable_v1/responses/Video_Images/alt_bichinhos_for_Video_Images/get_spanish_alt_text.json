@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "alt": "Un perro marrón sentado en la hierba",
+      "file": "https://images.example.com/pets/perro-marron.jpg",
+      "id": "pet_es_001"
+    }
+  }
+}

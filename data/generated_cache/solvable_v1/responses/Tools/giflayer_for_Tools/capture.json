@@ -1,0 +1,25 @@
+{
+  "{\"crop\":\"200x200\",\"end\":10,\"start\":0,\"trailer\":1,\"url\":\"https://example.com/media/clip.mp4\"}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": 422,
+        "info": "Unable to fetch the provided video URL",
+        "type": "invalid_request_error"
+      },
+      "success": false
+    }
+  },
+  "{\"duration\":6.75,\"end\":52.25,\"fps\":24,\"size\":\"640x480\",\"start\":45.5,\"url\":\"https://vimeo.com/76979871\"}": {
+    "error": "",
+    "response": {
+      "success": true
+    }
+  },
+  "{\"end\":18,\"start\":12,\"url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "success": true
+    }
+  }
+}

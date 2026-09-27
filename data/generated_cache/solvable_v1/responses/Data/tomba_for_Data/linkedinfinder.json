@@ -1,0 +1,131 @@
+{
+  "{\"url\":\"https://www.linkedin.com/in/elon-musk-9b8a7c6\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "accept_all": true,
+        "company": "Tesla",
+        "country": "United States",
+        "disposable": false,
+        "email": "elon.musk@tesla.com",
+        "first_name": "Elon",
+        "full_name": "Elon Musk",
+        "gender": "male",
+        "last_name": "Musk",
+        "linkedin": "https://www.linkedin.com/in/elon-musk-9b8a7c6",
+        "phone_number": null,
+        "position": "CEO",
+        "score": 92,
+        "sources": [
+          {
+            "extracted_on": "2023-03-01",
+            "last_seen_on": "2024-06-10",
+            "still_on_page": true,
+            "uri": "https://www.tesla.com/elon-musk",
+            "website_url": "https://www.tesla.com"
+          },
+          {
+            "extracted_on": "2022-07-15",
+            "last_seen_on": "2024-04-01",
+            "still_on_page": true,
+            "uri": "https://www.spacex.com/leadership/elon-musk",
+            "website_url": "https://www.spacex.com"
+          }
+        ],
+        "twitter": "elonmusk",
+        "verification": {
+          "date": null,
+          "status": null
+        },
+        "webmail": false,
+        "website_url": "https://www.tesla.com"
+      }
+    }
+  },
+  "{\"url\":\"https://www.linkedin.com/in/marie-curie-12345678\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "accept_all": false,
+        "company": "University of Paris",
+        "country": "France",
+        "disposable": false,
+        "email": "marie.curie@uparis.fr",
+        "first_name": "Marie",
+        "full_name": "Marie Curie",
+        "gender": "female",
+        "last_name": "Curie",
+        "linkedin": "https://www.linkedin.com/in/marie-curie-12345678",
+        "phone_number": null,
+        "position": "Professor of Physics",
+        "score": 88,
+        "sources": [
+          {
+            "extracted_on": "2021-05-10",
+            "last_seen_on": "2023-12-01",
+            "still_on_page": false,
+            "uri": "https://www.sorbonne-universite.fr/annuaire/marie-curie",
+            "website_url": "https://www.sorbonne-universite.fr"
+          },
+          {
+            "extracted_on": "2020-09-15",
+            "last_seen_on": "2022-08-20",
+            "still_on_page": false,
+            "uri": "https://www.nobelprize.org/prizes/physics/1903/curie/facts/",
+            "website_url": "https://www.nobelprize.org"
+          }
+        ],
+        "twitter": null,
+        "verification": {
+          "date": null,
+          "status": null
+        },
+        "webmail": false,
+        "website_url": "https://www.sorbonne-universite.fr"
+      }
+    }
+  },
+  "{\"url\":\"https://www.linkedin.com/in/satya-nadella-3a5b1b1\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "accept_all": true,
+        "company": "Microsoft",
+        "country": "United States",
+        "disposable": false,
+        "email": "satya.nadella@microsoft.com",
+        "first_name": "Satya",
+        "full_name": "Satya Nadella",
+        "gender": "male",
+        "last_name": "Nadella",
+        "linkedin": "https://www.linkedin.com/in/satya-nadella-3a5b1b1",
+        "phone_number": null,
+        "position": "Chief Executive Officer",
+        "score": 95,
+        "sources": [
+          {
+            "extracted_on": "2023-01-15",
+            "last_seen_on": "2024-06-01",
+            "still_on_page": true,
+            "uri": "https://www.microsoft.com/en-us/leadership/satya-nadella",
+            "website_url": "https://www.microsoft.com"
+          },
+          {
+            "extracted_on": "2022-11-20",
+            "last_seen_on": "2024-05-15",
+            "still_on_page": true,
+            "uri": "https://news.microsoft.com/executives/satya-nadella/",
+            "website_url": "https://news.microsoft.com"
+          }
+        ],
+        "twitter": "satyanadella",
+        "verification": {
+          "date": null,
+          "status": null
+        },
+        "webmail": false,
+        "website_url": "https://www.microsoft.com"
+      }
+    }
+  }
+}

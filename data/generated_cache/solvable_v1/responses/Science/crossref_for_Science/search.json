@@ -1,0 +1,372 @@
+{
+  "{\"query\":\"climate change\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "facets": {},
+        "items": [
+          {
+            "DOI": "10.1016/j.gloenvcha.2024.102789",
+            "abstract": "An analysis of global climate change impacts on biodiversity.",
+            "author": [
+              {
+                "affiliation": [],
+                "family": "Garcia",
+                "given": "Maria",
+                "sequence": "first"
+              }
+            ],
+            "container-title": [
+              "Global Environmental Change"
+            ],
+            "content-domain": {
+              "crossmark-restriction": false,
+              "domain": []
+            },
+            "created": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  2
+                ]
+              ],
+              "date-time": "2024-01-02T08:30:00Z",
+              "timestamp": 1704184200000
+            },
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  2
+                ]
+              ],
+              "date-time": "2024-01-02T08:35:00Z",
+              "timestamp": 1704184500000
+            },
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  20
+                ]
+              ],
+              "date-time": "2024-01-20T11:45:00Z",
+              "timestamp": 1705741500000
+            },
+            "is-referenced-by-count": 12,
+            "member": "78",
+            "original-title": [],
+            "page": "102789",
+            "prefix": "10.1016",
+            "published-online": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  2
+                ]
+              ]
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "publisher": "Elsevier",
+            "reference-count": 88,
+            "source": "Crossref",
+            "title": [
+              "Climate Change and Biodiversity"
+            ],
+            "type": "journal-article"
+          }
+        ],
+        "total-results": 1
+      },
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "status": "ok"
+    }
+  },
+  "{\"query\":\"machine learning\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "facets": {},
+        "items": [
+          {
+            "DOI": "10.1145/3571234.3571250",
+            "abstract": "A survey of machine learning techniques for predictive analytics.",
+            "author": [
+              {
+                "affiliation": [],
+                "family": "Doe",
+                "given": "Jane",
+                "sequence": "first"
+              }
+            ],
+            "container-title": [
+              "Journal of Data Science"
+            ],
+            "content-domain": {
+              "crossmark-restriction": false,
+              "domain": []
+            },
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  2
+                ]
+              ],
+              "date-time": "2023-04-02T10:15:00Z",
+              "timestamp": 1680516900000
+            },
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  2
+                ]
+              ],
+              "date-time": "2023-04-02T10:20:00Z",
+              "timestamp": 1680517200000
+            },
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  5,
+                  12
+                ]
+              ],
+              "date-time": "2023-05-12T08:21:33Z",
+              "timestamp": 1683879693000
+            },
+            "is-referenced-by-count": 17,
+            "member": "320",
+            "original-title": [],
+            "page": "1-24",
+            "prefix": "10.1145",
+            "published-online": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  2
+                ]
+              ]
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  1
+                ]
+              ]
+            },
+            "publisher": "Association for Computing Machinery",
+            "reference-count": 42,
+            "source": "Crossref",
+            "title": [
+              "Machine Learning for Predictive Analytics"
+            ],
+            "type": "journal-article"
+          },
+          {
+            "DOI": "10.1007/s10462-022-10234-5",
+            "abstract": "Deep learning approaches for natural language processing.",
+            "author": [
+              {
+                "affiliation": [],
+                "family": "Smith",
+                "given": "John",
+                "sequence": "first"
+              }
+            ],
+            "container-title": [
+              "Artificial Intelligence Review"
+            ],
+            "content-domain": {
+              "crossmark-restriction": true,
+              "domain": []
+            },
+            "created": {
+              "date-parts": [
+                [
+                  2022,
+                  10,
+                  16
+                ]
+              ],
+              "date-time": "2022-10-16T09:00:00Z",
+              "timestamp": 1665907200000
+            },
+            "deposited": {
+              "date-parts": [
+                [
+                  2022,
+                  10,
+                  16
+                ]
+              ],
+              "date-time": "2022-10-16T09:05:00Z",
+              "timestamp": 1665907500000
+            },
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  11,
+                  3
+                ]
+              ],
+              "date-time": "2022-11-03T14:05:12Z",
+              "timestamp": 1667484312000
+            },
+            "is-referenced-by-count": 55,
+            "member": "297",
+            "original-title": [],
+            "page": "501-530",
+            "prefix": "10.1007",
+            "published-online": {
+              "date-parts": [
+                [
+                  2022,
+                  10,
+                  16
+                ]
+              ]
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2022,
+                  10,
+                  15
+                ]
+              ]
+            },
+            "publisher": "Springer",
+            "reference-count": 30,
+            "source": "Crossref",
+            "title": [
+              "Deep Learning for NLP"
+            ],
+            "type": "journal-article"
+          }
+        ],
+        "total-results": 2
+      },
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "status": "ok"
+    }
+  },
+  "{\"query\":\"quantum computing\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "facets": {},
+        "items": [
+          {
+            "DOI": "10.1109/TQC.2023.1234567",
+            "abstract": "Recent advances in quantum computing algorithms.",
+            "author": [
+              {
+                "affiliation": [],
+                "family": "Chen",
+                "given": "Li",
+                "sequence": "first"
+              }
+            ],
+            "container-title": [
+              "IEEE Transactions on Quantum Computing"
+            ],
+            "content-domain": {
+              "crossmark-restriction": true,
+              "domain": []
+            },
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2023-08-02T12:00:00Z",
+              "timestamp": 1690977600000
+            },
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2023-08-02T12:05:00Z",
+              "timestamp": 1690977900000
+            },
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  9,
+                  5
+                ]
+              ],
+              "date-time": "2023-09-05T16:20:00Z",
+              "timestamp": 1693930800000
+            },
+            "is-referenced-by-count": 8,
+            "member": "263",
+            "original-title": [],
+            "page": "123-145",
+            "prefix": "10.1109",
+            "published-online": {
+              "date-parts": [
+                [
+                  2023,
+                  8,
+                  2
+                ]
+              ]
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2023,
+                  8,
+                  1
+                ]
+              ]
+            },
+            "publisher": "IEEE",
+            "reference-count": 25,
+            "source": "Crossref",
+            "title": [
+              "Advances in Quantum Computing"
+            ],
+            "type": "journal-article"
+          }
+        ],
+        "total-results": 1
+      },
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "status": "ok"
+    }
+  }
+}

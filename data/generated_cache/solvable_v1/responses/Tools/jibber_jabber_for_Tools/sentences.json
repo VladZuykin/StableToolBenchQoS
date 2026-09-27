@@ -1,0 +1,16 @@
+{
+  "{\"maximumnumberofwords\":12,\"minimumnumberofwords\":5,\"numberofsentences\":3}": {
+    "error": "",
+    "response": [
+      "Bright rivers wander through silent valleys.",
+      "Curious foxes leap over mossy stones.",
+      "Gentle winds carry whispers across the meadow."
+    ]
+  },
+  "{\"maximumwordlength\":9,\"minimumwordlength\":4,\"numberofwords\":6}": {
+    "error": "",
+    "response": [
+      "Ancient lanterns glow softly beneath distant stars."
+    ]
+  }
+}

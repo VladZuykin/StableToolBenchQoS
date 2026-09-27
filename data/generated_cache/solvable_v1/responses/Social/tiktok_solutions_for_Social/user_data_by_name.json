@@ -1,0 +1,224 @@
+{
+  "{\"username\":\"bellapoarch\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "status_code": 0,
+        "user": {
+          "account_type": 3,
+          "avatar_168x168": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_168x168.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_168x168.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_168x168.jpeg"
+            ]
+          },
+          "avatar_300x300": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_300x300.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_300x300.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_300x300.jpeg"
+            ]
+          },
+          "avatar_larger": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_1080x1080.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_1080x1080.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_1080x1080.jpeg"
+            ]
+          },
+          "avatar_medium": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_720x720.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_720x720.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_720x720.jpeg"
+            ]
+          },
+          "avatar_thumb": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_100x100.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_100x100.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/ghi789~c5_100x100.jpeg"
+            ]
+          },
+          "aweme_count": 1567,
+          "commerce_user_info": {
+            "ad_experience_entry": false,
+            "ad_experience_text": "",
+            "ad_revenue_rits": []
+          },
+          "custom_verify": "",
+          "follower_count": 92400000,
+          "following_count": 842,
+          "ins_id": "bellapoarch",
+          "nickname": "Bella Poarch",
+          "original_musician": {
+            "digg_count": 0,
+            "music_count": 0,
+            "music_used_count": 0
+          },
+          "privacy_setting": {
+            "following_visibility": 0
+          },
+          "sec_uid": "MS4wLjABAAAAy9kUwXlDMOnP3qR5sT7uV8wX9yZ0aB1cD2eF3gH4i",
+          "share_info": {
+            "bool_persist": 0,
+            "share_desc": "Check out Bella Poarch on TikTok",
+            "share_desc_info": "Bella Poarch (@bellapoarch) on TikTok",
+            "share_title": "Bella Poarch",
+            "share_url": "https://www.tiktok.com/@bellapoarch"
+          }
+        }
+      },
+      "status": "success"
+    }
+  },
+  "{\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "status_code": 0,
+        "user": {
+          "account_type": 3,
+          "avatar_168x168": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_168x168.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_168x168.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_168x168.jpeg"
+            ]
+          },
+          "avatar_300x300": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_300x300.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_300x300.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_300x300.jpeg"
+            ]
+          },
+          "avatar_larger": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_1080x1080.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_1080x1080.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_1080x1080.jpeg"
+            ]
+          },
+          "avatar_medium": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_720x720.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_720x720.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_720x720.jpeg"
+            ]
+          },
+          "avatar_thumb": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_100x100.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_100x100.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/abc123~c5_100x100.jpeg"
+            ]
+          },
+          "aweme_count": 2841,
+          "commerce_user_info": {
+            "ad_experience_entry": false,
+            "ad_experience_text": "",
+            "ad_revenue_rits": []
+          },
+          "custom_verify": "",
+          "follower_count": 155300000,
+          "following_count": 1214,
+          "ins_id": "charlidamelio",
+          "nickname": "Charli D'Amelio",
+          "original_musician": {
+            "digg_count": 0,
+            "music_count": 0,
+            "music_used_count": 0
+          },
+          "privacy_setting": {
+            "following_visibility": 0
+          },
+          "sec_uid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_1Zg8s1k2l3m4n5o6p7q8r9s0t",
+          "share_info": {
+            "bool_persist": 0,
+            "share_desc": "Check out Charli D'Amelio on TikTok",
+            "share_desc_info": "Charli D'Amelio (@charlidamelio) on TikTok",
+            "share_title": "Charli D'Amelio",
+            "share_url": "https://www.tiktok.com/@charlidamelio"
+          }
+        }
+      },
+      "status": "success"
+    }
+  },
+  "{\"username\":\"khaby.lame\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "status_code": 0,
+        "user": {
+          "account_type": 3,
+          "avatar_168x168": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_168x168.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_168x168.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_168x168.jpeg"
+            ]
+          },
+          "avatar_300x300": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_300x300.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_300x300.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_300x300.jpeg"
+            ]
+          },
+          "avatar_larger": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_1080x1080.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_1080x1080.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_1080x1080.jpeg"
+            ]
+          },
+          "avatar_medium": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_720x720.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_720x720.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_720x720.jpeg"
+            ]
+          },
+          "avatar_thumb": {
+            "uri": "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_100x100.jpeg",
+            "url_list": [
+              "https://p16-sign.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_100x100.jpeg",
+              "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068/def456~c5_100x100.jpeg"
+            ]
+          },
+          "aweme_count": 1023,
+          "commerce_user_info": {
+            "ad_experience_entry": true,
+            "ad_experience_text": "Ad experience",
+            "ad_revenue_rits": []
+          },
+          "custom_verify": "Verified account",
+          "follower_count": 162800000,
+          "following_count": 0,
+          "ins_id": "khabylame",
+          "nickname": "Khabane Lame",
+          "original_musician": {
+            "digg_count": 0,
+            "music_count": 0,
+            "music_used_count": 0
+          },
+          "privacy_setting": {
+            "following_visibility": 1
+          },
+          "sec_uid": "MS4wLjABAAAAx8jTvVkELHNmO2pQ3rS4tU5vW6xY7zA8bC9dE0fG1h",
+          "share_info": {
+            "bool_persist": 0,
+            "share_desc": "Check out Khabane Lame on TikTok",
+            "share_desc_info": "Khabane Lame (@khaby.lame) on TikTok",
+            "share_title": "Khabane Lame",
+            "share_url": "https://www.tiktok.com/@khaby.lame"
+          }
+        }
+      },
+      "status": "success"
+    }
+  }
+}

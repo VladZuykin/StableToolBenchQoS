@@ -1,0 +1,94 @@
+{
+  "{\"size\":3}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": 4821,
+          "name": "Bitcoin",
+          "price": "$43,215.67",
+          "symbol": "BTC",
+          "uid": "crypto-8f3a1b"
+        },
+        {
+          "id": 7392,
+          "name": "Ethereum",
+          "price": "$2,318.44",
+          "symbol": "ETH",
+          "uid": "crypto-2d9e7c"
+        },
+        {
+          "id": 1057,
+          "name": "Solana",
+          "price": "$98.12",
+          "symbol": "SOL",
+          "uid": "crypto-6b4f0a"
+        }
+      ],
+      "info": {
+        "disclaimer": "This data is generated for testing purposes only and is not real financial information.",
+        "version": "1.0.0"
+      }
+    }
+  },
+  "{\"size\":7}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": 2048,
+          "name": "Cardano",
+          "price": "$0.52",
+          "symbol": "ADA",
+          "uid": "crypto-1a2b3c"
+        },
+        {
+          "id": 9134,
+          "name": "Polkadot",
+          "price": "$7.89",
+          "symbol": "DOT",
+          "uid": "crypto-4d5e6f"
+        },
+        {
+          "id": 6671,
+          "name": "Chainlink",
+          "price": "$14.23",
+          "symbol": "LINK",
+          "uid": "crypto-7g8h9i"
+        },
+        {
+          "id": 3390,
+          "name": "Avalanche",
+          "price": "$36.75",
+          "symbol": "AVAX",
+          "uid": "crypto-0j1k2l"
+        },
+        {
+          "id": 5582,
+          "name": "Polygon",
+          "price": "$0.89",
+          "symbol": "MATIC",
+          "uid": "crypto-3m4n5o"
+        },
+        {
+          "id": 7719,
+          "name": "Uniswap",
+          "price": "$6.41",
+          "symbol": "UNI",
+          "uid": "crypto-6p7q8r"
+        },
+        {
+          "id": 4403,
+          "name": "Litecoin",
+          "price": "$72.58",
+          "symbol": "LTC",
+          "uid": "crypto-9s0t1u"
+        }
+      ],
+      "info": {
+        "disclaimer": "This data is generated for testing purposes only and is not real financial information.",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

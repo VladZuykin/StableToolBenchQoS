@@ -1,0 +1,53 @@
+{
+  "{\"template_id\":\"5f4d3c2b1a0987654321fedcba098765\"}": {
+    "error": "",
+    "response": {
+      "roles": [
+        {
+          "name": "Approver",
+          "signing_order": "1",
+          "unique_id": "role_00112233445566778899aabbccddeeff"
+        },
+        {
+          "name": "Witness",
+          "signing_order": "2",
+          "unique_id": "role_ffeeddccbbaa99887766554433221100"
+        },
+        {
+          "name": "Notary",
+          "signing_order": "3",
+          "unique_id": "role_0a1b2c3d4e5f60718293a4b5c6d7e8f9"
+        }
+      ]
+    }
+  },
+  "{\"template_id\":\"a1b2c3d4e5f6789012345678abcdef01\"}": {
+    "error": "",
+    "response": {
+      "roles": [
+        {
+          "name": "Signer 1",
+          "signing_order": "1",
+          "unique_id": "role_9f8e7d6c5b4a3210fedcba9876543210"
+        },
+        {
+          "name": "Signer 2",
+          "signing_order": "2",
+          "unique_id": "role_1234567890abcdef1234567890abcdef"
+        }
+      ]
+    }
+  },
+  "{\"template_id\":\"tpl_9876543210fedcba9876543210fedcba\"}": {
+    "error": "",
+    "response": {
+      "roles": [
+        {
+          "name": "Client",
+          "signing_order": "1",
+          "unique_id": "role_abcdefabcdefabcdefabcdefabcdefab"
+        }
+      ]
+    }
+  }
+}

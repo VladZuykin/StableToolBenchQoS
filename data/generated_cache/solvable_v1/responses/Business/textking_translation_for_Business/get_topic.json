@@ -1,0 +1,44 @@
+{
+  "{\"topicid\":\"3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6a7b\"}": {
+    "error": "",
+    "response": {
+      "id": "3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6a7b",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/topics/3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6a7b",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "en",
+      "name": "Marketing"
+    }
+  },
+  "{\"topicid\":\"8576549a-097f-45b3-8c59-fb3d6a03147d\"}": {
+    "error": "",
+    "response": {
+      "id": "8576549a-097f-45b3-8c59-fb3d6a03147d",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/topics/8576549a-097f-45b3-8c59-fb3d6a03147d",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "fr",
+      "name": "Technical Documentation"
+    }
+  },
+  "{\"topicid\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/topics/a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "de",
+      "name": "Legal Documents"
+    }
+  }
+}

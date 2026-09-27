@@ -1,0 +1,44 @@
+{
+  "{\"message_id\":\"a1b2c3d4e5f6\"}": {
+    "error": "",
+    "response": {
+      "attachments": [],
+      "body": "Your one-time verification code is 847291. It expires in 10 minutes.",
+      "date": "2024-06-11T10:02:15Z",
+      "from": "no-reply@verify.io",
+      "id": "a1b2c3d4e5f6",
+      "subject": "Your Verification Code",
+      "to": "tempuser4821@tempmail.dev"
+    }
+  },
+  "{\"message_id\":\"msg_9f3a2b7c1d\"}": {
+    "error": "",
+    "response": {
+      "attachments": [],
+      "body": "Hi there,\n\nThanks for signing up! Please confirm your email address to get started.\n\nBest regards,\nThe Team",
+      "date": "2024-06-11T09:24:33Z",
+      "from": "newsletter@example.com",
+      "id": "msg_9f3a2b7c1d",
+      "subject": "Welcome to Our Service",
+      "to": "tempuser4821@tempmail.dev"
+    }
+  },
+  "{\"message_id\":\"z9y8x7w6v5u4\"}": {
+    "error": "",
+    "response": {
+      "attachments": [
+        {
+          "content_type": "application/pdf",
+          "filename": "invoice_58213.pdf",
+          "size": 20480
+        }
+      ],
+      "body": "Thank you for your purchase!\n\nOrder #58213\nTotal: $42.99\nEstimated delivery: June 15, 2024",
+      "date": "2024-06-11T11:47:58Z",
+      "from": "billing@shopmart.com",
+      "id": "z9y8x7w6v5u4",
+      "subject": "Your Order Confirmation #58213",
+      "to": "tempuser4821@tempmail.dev"
+    }
+  }
+}

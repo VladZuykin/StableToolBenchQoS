@@ -1,0 +1,43 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "__v": 0,
+        "_id": "5f8a3c2b9d1e4a0017b3c9d1",
+        "alie_category_id": 200001234,
+        "alie_category_name": "Wireless Earbuds",
+        "alie_parent_id": 200000987,
+        "api_category_id": 509,
+        "api_parent_id": 312,
+        "category_name": "Wireless Earbuds",
+        "modificationDate": "2024-11-05T14:22:31.000Z",
+        "provider": "HYBRID"
+      },
+      {
+        "__v": 0,
+        "_id": "5f8a3c2b9d1e4a0017b3c9d2",
+        "alie_category_id": null,
+        "alie_category_name": null,
+        "alie_parent_id": null,
+        "api_category_id": 312,
+        "api_parent_id": null,
+        "category_name": "Smart Home Lighting",
+        "modificationDate": "2024-10-28T09:03:12.000Z",
+        "provider": "API"
+      },
+      {
+        "__v": 0,
+        "_id": "5f8a3c2b9d1e4a0017b3c9d3",
+        "alie_category_id": 200002876,
+        "alie_category_name": "Phone Cases & Covers",
+        "alie_parent_id": 200002100,
+        "api_category_id": null,
+        "api_parent_id": null,
+        "category_name": "Phone Cases & Covers",
+        "modificationDate": "2024-11-12T18:47:55.000Z",
+        "provider": "WEBSITE"
+      }
+    ]
+  }
+}

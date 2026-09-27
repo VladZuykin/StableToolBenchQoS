@@ -1,0 +1,392 @@
+{
+  "{\"endyear\":2020,\"genre\":\"Comedy\",\"limit\":10,\"page\":\"1\",\"sort\":\"year.decr\",\"startyear\":2015,\"titletype\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "entries": 10,
+      "next": null,
+      "page": 1,
+      "results": [
+        {
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": "tt4513678",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjU5MTk4ODE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Ghostbusters",
+          "plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+          "rating": 5.3,
+          "releaseDate": "2016-07-15",
+          "runtime": 116,
+          "title": "Ghostbusters",
+          "type": "movie",
+          "votes": 245000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+          ],
+          "id": "tt2704998",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjQxM2YyNjMtZjllYi00OWQxLWE4YzItZjFhYjA5YjA5YjA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Game Night",
+          "plot": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+          "rating": 6.9,
+          "releaseDate": "2018-02-23",
+          "runtime": 100,
+          "title": "Game Night",
+          "type": "movie",
+          "votes": 289000,
+          "year": 2018
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "id": "tt1478338",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjAyOTM0NDEzOF5BMl5BanBnXkFtZTcwOTk1NjEyNw@@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Bridesmaids",
+          "plot": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+          "rating": 6.8,
+          "releaseDate": "2011-05-13",
+          "runtime": 125,
+          "title": "Bridesmaids",
+          "type": "movie",
+          "votes": 310000,
+          "year": 2011
+        },
+        {
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "id": "tt1985949",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU4OTE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "The Angry Birds Movie",
+          "plot": "When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+          "rating": 6.3,
+          "releaseDate": "2016-05-20",
+          "runtime": 97,
+          "title": "The Angry Birds Movie",
+          "type": "movie",
+          "votes": 105000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": "tt1386697",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Suicide Squad",
+          "plot": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force.",
+          "rating": 6.0,
+          "releaseDate": "2016-08-05",
+          "runtime": 123,
+          "title": "Suicide Squad",
+          "type": "movie",
+          "votes": 720000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+          ],
+          "id": "tt2381941",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTQ2MzA1OV5BMl5BanBnXkFtZTgwNTQ0MTQ0MzE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Focus",
+          "plot": "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+          "rating": 6.6,
+          "releaseDate": "2015-02-27",
+          "runtime": 105,
+          "title": "Focus",
+          "type": "movie",
+          "votes": 260000,
+          "year": 2015
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt2561572",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjQyMTU0N15BMl5BanBnXkFtZTgwNjU5MTU4OTE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "The Boss",
+          "plot": "A titan of industry is sent to prison after she's caught for insider trading.",
+          "rating": 5.4,
+          "releaseDate": "2016-04-08",
+          "runtime": 99,
+          "title": "The Boss",
+          "type": "movie",
+          "votes": 52000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt1860213",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjM1NDU2NjU4N15BMl5BanBnXkFtZTgwNzU5MTU4OTE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Dirty Grandpa",
+          "plot": "Right before his wedding, an uptight guy is tricked into driving his grandfather, a lecherous former Army Lieutenant Colonel, to Florida for Spring Break.",
+          "rating": 5.9,
+          "releaseDate": "2016-01-22",
+          "runtime": 102,
+          "title": "Dirty Grandpa",
+          "type": "movie",
+          "votes": 130000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "id": "tt3553976",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTg1N15BMl5BanBnXkFtZTgwNTU5MTU4OTE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Captain Fantastic",
+          "plot": "In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world.",
+          "rating": 7.8,
+          "releaseDate": "2016-07-29",
+          "runtime": 118,
+          "title": "Captain Fantastic",
+          "type": "movie",
+          "votes": 230000,
+          "year": 2016
+        },
+        {
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+          ],
+          "id": "tt2277860",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTI5ODE@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Finding Dory",
+          "plot": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.",
+          "rating": 7.3,
+          "releaseDate": "2016-06-17",
+          "runtime": 97,
+          "title": "Finding Dory",
+          "type": "movie",
+          "votes": 290000,
+          "year": 2016
+        }
+      ]
+    }
+  },
+  "{\"info\":\"base_info\",\"limit\":5,\"list\":\"top_rated_series_250\",\"page\":\"2\"}": {
+    "error": "",
+    "response": {
+      "entries": 5,
+      "next": "3",
+      "page": 2,
+      "results": [
+        {
+          "endYear": 2013,
+          "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "id": "tt0903747",
+          "originalTitle": "Breaking Bad",
+          "plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+          "rating": 9.5,
+          "runtime": 49,
+          "title": "Breaking Bad",
+          "type": "series",
+          "votes": 2100000,
+          "year": 2008
+        },
+        {
+          "endYear": 2004,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": "tt0108778",
+          "originalTitle": "Friends",
+          "plot": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+          "rating": 8.9,
+          "runtime": 22,
+          "title": "Friends",
+          "type": "series",
+          "votes": 1100000,
+          "year": 1994
+        },
+        {
+          "endYear": 2019,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "id": "tt0944947",
+          "originalTitle": "Game of Thrones",
+          "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+          "rating": 9.2,
+          "runtime": 57,
+          "title": "Game of Thrones",
+          "type": "series",
+          "votes": 2300000,
+          "year": 2011
+        },
+        {
+          "endYear": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+          ],
+          "id": "tt4574334",
+          "originalTitle": "Stranger Things",
+          "plot": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+          "rating": 8.7,
+          "runtime": 51,
+          "title": "Stranger Things",
+          "type": "series",
+          "votes": 1300000,
+          "year": 2016
+        },
+        {
+          "endYear": 2013,
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt0108778",
+          "originalTitle": "The Office",
+          "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+          "rating": 9.0,
+          "runtime": 22,
+          "title": "The Office",
+          "type": "series",
+          "votes": 700000,
+          "year": 2005
+        }
+      ]
+    }
+  },
+  "{\"info\":\"image\",\"limit\":3,\"sort\":\"year.incr\",\"titletype\":\"movie\",\"year\":1994}": {
+    "error": "",
+    "response": {
+      "entries": 3,
+      "next": null,
+      "page": 1,
+      "results": [
+        {
+          "genres": [
+            "Drama"
+          ],
+          "id": "tt0111161",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "The Shawshank Redemption",
+          "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+          "rating": 9.3,
+          "releaseDate": "1994-10-14",
+          "runtime": 142,
+          "title": "The Shawshank Redemption",
+          "type": "movie",
+          "votes": 2800000,
+          "year": 1994
+        },
+        {
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "id": "tt0109830",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Forrest Gump",
+          "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+          "rating": 8.8,
+          "releaseDate": "1994-07-06",
+          "runtime": 142,
+          "title": "Forrest Gump",
+          "type": "movie",
+          "votes": 2200000,
+          "year": 1994
+        },
+        {
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "id": "tt0110413",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BODZmYjMwNzEtNzNhZS00OGYxLWE2YzQtYzM2YjA5YjA5YjA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "width": 1382
+          },
+          "originalTitle": "Léon",
+          "plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered.",
+          "rating": 8.5,
+          "releaseDate": "1994-11-18",
+          "runtime": 110,
+          "title": "Léon: The Professional",
+          "type": "movie",
+          "votes": 1200000,
+          "year": 1994
+        }
+      ]
+    }
+  }
+}

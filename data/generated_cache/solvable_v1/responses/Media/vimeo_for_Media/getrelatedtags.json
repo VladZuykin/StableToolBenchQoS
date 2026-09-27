@@ -1,0 +1,109 @@
+{
+  "{\"category\":\"animation\",\"format\":\"php\",\"page\":1,\"per_page\":5}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "per_page": 5,
+      "tags": [
+        {
+          "count": 41,
+          "tag": "stopmotion"
+        },
+        {
+          "count": 36,
+          "tag": "2d"
+        },
+        {
+          "count": 29,
+          "tag": "3d"
+        },
+        {
+          "count": 23,
+          "tag": "cartoon"
+        },
+        {
+          "count": 17,
+          "tag": "motiongraphics"
+        }
+      ],
+      "total": 22
+    }
+  },
+  "{\"category\":\"music\",\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "tags": [
+        {
+          "count": 128,
+          "tag": "indie"
+        },
+        {
+          "count": 94,
+          "tag": "live"
+        },
+        {
+          "count": 61,
+          "tag": "acoustic"
+        },
+        {
+          "count": 57,
+          "tag": "electronic"
+        },
+        {
+          "count": 43,
+          "tag": "hiphop"
+        }
+      ]
+    }
+  },
+  "{\"category\":\"travel\",\"format\":\"xml\",\"page\":2,\"per_page\":10}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "per_page": 10,
+      "tags": [
+        {
+          "count": 88,
+          "tag": "adventure"
+        },
+        {
+          "count": 52,
+          "tag": "backpacking"
+        },
+        {
+          "count": 47,
+          "tag": "roadtrip"
+        },
+        {
+          "count": 39,
+          "tag": "beach"
+        },
+        {
+          "count": 31,
+          "tag": "citybreak"
+        },
+        {
+          "count": 28,
+          "tag": "hiking"
+        },
+        {
+          "count": 24,
+          "tag": "camping"
+        },
+        {
+          "count": 19,
+          "tag": "sightseeing"
+        },
+        {
+          "count": 15,
+          "tag": "foodie"
+        },
+        {
+          "count": 12,
+          "tag": "photography"
+        }
+      ],
+      "total": 37
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"currency_from\":\"btc\",\"currency_to\":\"eth\"}": {
+    "error": "",
+    "response": {
+      "currency_from": "btc",
+      "currency_to": "eth",
+      "min_amount": 0.00017345
+    }
+  },
+  "{\"currency_from\":\"ltc\",\"currency_to\":\"usdterc20\"}": {
+    "error": "",
+    "response": {
+      "currency_from": "ltc",
+      "currency_to": "usdterc20",
+      "min_amount": 0.0892
+    }
+  },
+  "{\"currency_from\":\"usdttrc20\",\"currency_to\":\"btc\"}": {
+    "error": "",
+    "response": {
+      "currency_from": "usdttrc20",
+      "currency_to": "btc",
+      "min_amount": 12.5
+    }
+  }
+}

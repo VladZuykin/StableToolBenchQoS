@@ -1,0 +1,209 @@
+{
+  "{\"dates\":\"2022-02-20\",\"game_ids\":\"2002\",\"player_ids\":\"3002\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 1,
+          "ast": 7,
+          "blk": 0,
+          "dreb": 5,
+          "fg3_pct": 0.333,
+          "fg3a": 6,
+          "fg3m": 2,
+          "fg_pct": 0.45,
+          "fga": 20,
+          "fgm": 9,
+          "ft_pct": 0.75,
+          "fta": 4,
+          "ftm": 3,
+          "game": {
+            "date": "2022-02-20",
+            "home_team_id": 3,
+            "home_team_score": 98,
+            "id": 2002,
+            "period": 4,
+            "postseason": false,
+            "season": 2022,
+            "status": "Final",
+            "time": "8:00 PM",
+            "visitor_team_id": 4,
+            "visitor_team_score": 102
+          },
+          "id": 1002,
+          "min": "38:00",
+          "oreb": 1,
+          "pf": 2,
+          "player": {
+            "first_name": "Jane",
+            "height_feet": 5,
+            "height_inches": 10,
+            "id": 3002,
+            "last_name": "Smith",
+            "position": "Guard",
+            "team_id": 3,
+            "weight_pounds": 180
+          },
+          "pts": 23,
+          "reb": 6,
+          "stl": 1,
+          "team": {
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "Western",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "id": 3,
+            "name": "Warriors"
+          },
+          "turnover": 3
+        }
+      ],
+      "meta": {
+        "current_page": 1,
+        "next_page": null,
+        "per_page": 25,
+        "total_count": 1,
+        "total_pages": 1
+      }
+    }
+  },
+  "{\"page\":\"1\",\"per_page\":\"10\",\"seasons\":\"2022\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 10,
+          "ast": 5,
+          "blk": 1,
+          "dreb": 7,
+          "fg3_pct": 0.4,
+          "fg3a": 5,
+          "fg3m": 2,
+          "fg_pct": 0.5,
+          "fga": 10,
+          "fgm": 5,
+          "ft_pct": 0.8,
+          "fta": 5,
+          "ftm": 4,
+          "game": {
+            "date": "2022-01-15",
+            "home_team_id": 1,
+            "home_team_score": 110,
+            "id": 2001,
+            "period": 4,
+            "postseason": false,
+            "season": 2022,
+            "status": "Final",
+            "time": "7:00 PM",
+            "visitor_team_id": 2,
+            "visitor_team_score": 105
+          },
+          "id": 1001,
+          "min": "35:00",
+          "oreb": 2,
+          "pf": 3,
+          "player": {
+            "first_name": "John",
+            "height_feet": 6,
+            "height_inches": 8,
+            "id": 3001,
+            "last_name": "Doe",
+            "position": "Forward",
+            "team_id": 1,
+            "weight_pounds": 220
+          },
+          "pts": 16,
+          "reb": 9,
+          "stl": 2,
+          "team": {
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "Western",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "id": 1,
+            "name": "Lakers"
+          },
+          "turnover": 2
+        }
+      ],
+      "meta": {
+        "current_page": 1,
+        "next_page": null,
+        "per_page": 10,
+        "total_count": 1,
+        "total_pages": 1
+      }
+    }
+  },
+  "{\"page\":\"2\",\"per_page\":\"5\",\"seasons\":\"2021\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 5,
+          "ast": 4,
+          "blk": 2,
+          "dreb": 8,
+          "fg3_pct": 0.25,
+          "fg3a": 4,
+          "fg3m": 1,
+          "fg_pct": 0.4,
+          "fga": 15,
+          "fgm": 6,
+          "ft_pct": 0.9,
+          "fta": 10,
+          "ftm": 9,
+          "game": {
+            "date": "2021-12-25",
+            "home_team_id": 5,
+            "home_team_score": 115,
+            "id": 2003,
+            "period": 4,
+            "postseason": false,
+            "season": 2021,
+            "status": "Final",
+            "time": "5:00 PM",
+            "visitor_team_id": 6,
+            "visitor_team_score": 112
+          },
+          "id": 1003,
+          "min": "40:00",
+          "oreb": 3,
+          "pf": 4,
+          "player": {
+            "first_name": "Mike",
+            "height_feet": 7,
+            "height_inches": 0,
+            "id": 3003,
+            "last_name": "Johnson",
+            "position": "Center",
+            "team_id": 5,
+            "weight_pounds": 250
+          },
+          "pts": 22,
+          "reb": 11,
+          "stl": 0,
+          "team": {
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "Eastern",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "id": 5,
+            "name": "Celtics"
+          },
+          "turnover": 1
+        }
+      ],
+      "meta": {
+        "current_page": 2,
+        "next_page": 3,
+        "per_page": 5,
+        "total_count": 11,
+        "total_pages": 3
+      }
+    }
+  }
+}

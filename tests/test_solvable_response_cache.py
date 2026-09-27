@@ -7,6 +7,7 @@ from scripts.build_solvable_response_cache import (
     canonical_input,
     parse_model_output,
     request_example_count,
+    sanitize_credentials,
     stable_seed,
     target_example_count,
 )
@@ -52,6 +53,23 @@ class SolvableResponseCacheTests(unittest.TestCase):
             {'{"b":2,"a":1}': {}},
         )
         self.assertEqual(len(keys), 1)
+
+    def test_credentials_are_replaced_with_explicit_placeholders(self):
+        value = {
+            "api_key": "looks-like-a-real-key",
+            "nested": {"authorization": "Bearer token", "query": "weather"},
+        }
+
+        self.assertEqual(
+            sanitize_credentials(value, 2),
+            {
+                "api_key": "demo_api_key_2",
+                "nested": {
+                    "authorization": "demo_authorization_2",
+                    "query": "weather",
+                },
+            },
+        )
 
     def test_endpoint_seed_is_stable_and_endpoint_specific(self):
         self.assertEqual(stable_seed(42, "a/b/c"), stable_seed(42, "a/b/c"))

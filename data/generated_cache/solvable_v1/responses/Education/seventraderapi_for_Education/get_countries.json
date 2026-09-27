@@ -1,0 +1,35 @@
+{
+  "{\"x_apisports_key\":\"api-football-v1.p.rapidapi.com\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "code": "GB-ENG",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "name": "England"
+        },
+        {
+          "code": "ES",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "name": "Spain"
+        },
+        {
+          "code": "IT",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "name": "Italy"
+        },
+        {
+          "code": "DE",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "name": "Germany"
+        },
+        {
+          "code": "FR",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "name": "France"
+        }
+      ],
+      "message": "Countries retrieved successfully"
+    }
+  }
+}

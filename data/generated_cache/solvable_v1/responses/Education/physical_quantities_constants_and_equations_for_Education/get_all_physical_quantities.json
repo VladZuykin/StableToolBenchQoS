@@ -1,0 +1,21 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "category": "Mechanics",
+      "description": "Length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second",
+      "locals": {
+        "de": {
+          "description": "Länge der Strecke, die das Licht im Vakuum während der Dauer 1/299792458 Sekunde zurücklegt",
+          "name": "Meter",
+          "wikipedia": "https://de.wikipedia.org/wiki/Meter"
+        }
+      },
+      "name": "metre",
+      "pack": "SI base units",
+      "symbol": "m",
+      "vector": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Metre"
+    }
+  }
+}

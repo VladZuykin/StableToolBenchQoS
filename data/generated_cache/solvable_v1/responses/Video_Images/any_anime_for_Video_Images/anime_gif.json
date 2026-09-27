@@ -1,0 +1,15 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "anime": "Naruto",
+      "category": "pfp",
+      "character": "Naruto Uzumaki",
+      "format": "gif",
+      "height": 500,
+      "type": "gif",
+      "url": "https://api.anyanime.com/v1/anime-gif/random",
+      "width": 500
+    }
+  }
+}

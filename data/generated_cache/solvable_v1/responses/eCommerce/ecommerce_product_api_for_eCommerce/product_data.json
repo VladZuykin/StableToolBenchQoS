@@ -1,0 +1,62 @@
+{
+  "{\"page\":1,\"product\":\"laptop\"}": {
+    "error": "",
+    "response": {
+      "message": "Product data for 'laptop' retrieved successfully.",
+      "product": {
+        "category": "Electronics",
+        "currency": "USD",
+        "description": "High-performance laptop with 16GB RAM and 512GB SSD.",
+        "images": [
+          "https://example.com/images/laptop-1.jpg",
+          "https://example.com/images/laptop-2.jpg"
+        ],
+        "name": "laptop",
+        "price": 999.99,
+        "rating": 4.6,
+        "reviews": 128,
+        "stock": 42
+      }
+    }
+  },
+  "{\"page\":2,\"product\":\"wireless headphones\"}": {
+    "error": "",
+    "response": {
+      "message": "Product data for 'wireless headphones' retrieved successfully.",
+      "product": {
+        "category": "Audio",
+        "currency": "USD",
+        "description": "Noise-cancelling over-ear wireless headphones with 30-hour battery life.",
+        "images": [
+          "https://example.com/images/headphones-1.jpg",
+          "https://example.com/images/headphones-2.jpg"
+        ],
+        "name": "wireless headphones",
+        "price": 199.5,
+        "rating": 4.4,
+        "reviews": 87,
+        "stock": 15
+      }
+    }
+  },
+  "{\"page\":3,\"product\":\"coffee maker\"}": {
+    "error": "",
+    "response": {
+      "message": "Product data for 'coffee maker' retrieved successfully.",
+      "product": {
+        "category": "Kitchen Appliances",
+        "currency": "USD",
+        "description": "Programmable 12-cup coffee maker with built-in grinder and thermal carafe.",
+        "images": [
+          "https://example.com/images/coffee-maker-1.jpg",
+          "https://example.com/images/coffee-maker-2.jpg"
+        ],
+        "name": "coffee maker",
+        "price": 89.99,
+        "rating": 4.2,
+        "reviews": 54,
+        "stock": 23
+      }
+    }
+  }
+}

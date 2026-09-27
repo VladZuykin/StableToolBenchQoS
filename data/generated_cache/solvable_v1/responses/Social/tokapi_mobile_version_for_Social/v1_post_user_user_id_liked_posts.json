@@ -1,0 +1,138 @@
+{
+  "{\"count\":10,\"offset\":10,\"user_id\":\"MS4wLjABAAAA1234567890abcdef\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "hasMore": 0,
+        "max_cursor": 0,
+        "posts": [
+          {
+            "author": {
+              "uid": "MS4wLjABAAAA1234567890abcdef",
+              "unique_id": "chefmaster"
+            },
+            "create_time": 1698765000,
+            "desc": "Cooking tutorial 🍳",
+            "id": "7293847561029384760",
+            "stats": {
+              "comment_count": 120,
+              "digg_count": 4500,
+              "play_count": 98000,
+              "share_count": 60
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover3.jpg",
+              "duration": 45,
+              "play_addr": "https://v16-web.tiktokcdn.com/video3.mp4"
+            }
+          }
+        ]
+      },
+      "message": "success"
+    }
+  },
+  "{\"count\":3,\"offset\":0,\"user_id\":\"6546356850533602319\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "hasMore": 1,
+        "max_cursor": 1698760000000,
+        "posts": [
+          {
+            "author": {
+              "uid": "6546356850533602319",
+              "unique_id": "catlover99"
+            },
+            "create_time": 1698759000,
+            "desc": "Funny cat 😂",
+            "id": "7293847561029384770",
+            "stats": {
+              "comment_count": 75,
+              "digg_count": 2300,
+              "play_count": 56000,
+              "share_count": 20
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover4.jpg",
+              "duration": 10,
+              "play_addr": "https://v16-web.tiktokcdn.com/video4.mp4"
+            }
+          },
+          {
+            "author": {
+              "uid": "6546356850533602319",
+              "unique_id": "catlover99"
+            },
+            "create_time": 1698758000,
+            "desc": "Travel vlog ✈️",
+            "id": "7293847561029384771",
+            "stats": {
+              "comment_count": 55,
+              "digg_count": 1800,
+              "play_count": 42000,
+              "share_count": 15
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover5.jpg",
+              "duration": 60,
+              "play_addr": "https://v16-web.tiktokcdn.com/video5.mp4"
+            }
+          }
+        ]
+      },
+      "message": "success"
+    }
+  },
+  "{\"count\":5,\"offset\":0,\"user_id\":\"6758392017463829014\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "hasMore": 1,
+        "max_cursor": 1698765432000,
+        "posts": [
+          {
+            "author": {
+              "uid": "6758392017463829014",
+              "unique_id": "sunsetlover"
+            },
+            "create_time": 1698765432,
+            "desc": "Sunset vibes 🌅",
+            "id": "7293847561029384756",
+            "stats": {
+              "comment_count": 45,
+              "digg_count": 1200,
+              "play_count": 34000,
+              "share_count": 12
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover1.jpg",
+              "duration": 15,
+              "play_addr": "https://v16-web.tiktokcdn.com/video1.mp4"
+            }
+          },
+          {
+            "author": {
+              "uid": "6758392017463829014",
+              "unique_id": "sunsetlover"
+            },
+            "create_time": 1698765400,
+            "desc": "Dance challenge 💃",
+            "id": "7293847561029384757",
+            "stats": {
+              "comment_count": 30,
+              "digg_count": 890,
+              "play_count": 21000,
+              "share_count": 8
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover2.jpg",
+              "duration": 22,
+              "play_addr": "https://v16-web.tiktokcdn.com/video2.mp4"
+            }
+          }
+        ]
+      },
+      "message": "success"
+    }
+  }
+}

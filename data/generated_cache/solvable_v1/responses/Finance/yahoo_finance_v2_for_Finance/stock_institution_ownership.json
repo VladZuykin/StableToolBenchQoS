@@ -1,0 +1,134 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/institution-ownership",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "institutionOwnership": [
+            {
+              "organization": "Vanguard Group Inc",
+              "pctChange": 0.0134,
+              "pctHeld": 0.0821,
+              "position": 612345678,
+              "reportDate": "2024-06-30",
+              "value": 245678901234
+            },
+            {
+              "organization": "Blackrock Inc",
+              "pctChange": -0.0056,
+              "pctHeld": 0.0712,
+              "position": 531234567,
+              "reportDate": "2024-06-30",
+              "value": 213456789012
+            },
+            {
+              "organization": "State Street Corporation",
+              "pctChange": 0.0021,
+              "pctHeld": 0.0398,
+              "position": 296789012,
+              "reportDate": "2024-06-30",
+              "value": 119234567890
+            }
+          ],
+          "symbol": "MSFT"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"NVDA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/institution-ownership",
+      "parameters": [
+        {
+          "symbol": "NVDA"
+        }
+      ],
+      "response": [
+        {
+          "institutionOwnership": [
+            {
+              "organization": "Vanguard Group Inc",
+              "pctChange": 0.0219,
+              "pctHeld": 0.0867,
+              "position": 2134567890,
+              "reportDate": "2024-06-30",
+              "value": 287654321098
+            },
+            {
+              "organization": "Blackrock Inc",
+              "pctChange": 0.0176,
+              "pctHeld": 0.0745,
+              "position": 1834567890,
+              "reportDate": "2024-06-30",
+              "value": 247654321098
+            },
+            {
+              "organization": "FMR LLC",
+              "pctChange": -0.0098,
+              "pctHeld": 0.0412,
+              "position": 1012345678,
+              "reportDate": "2024-06-30",
+              "value": 136789012345
+            }
+          ],
+          "symbol": "NVDA"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/institution-ownership",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "institutionOwnership": [
+            {
+              "organization": "Vanguard Group Inc",
+              "pctChange": 0.0087,
+              "pctHeld": 0.0714,
+              "position": 228765432,
+              "reportDate": "2024-06-30",
+              "value": 51234567890
+            },
+            {
+              "organization": "Blackrock Inc",
+              "pctChange": 0.0142,
+              "pctHeld": 0.0589,
+              "position": 188654321,
+              "reportDate": "2024-06-30",
+              "value": 42345678901
+            },
+            {
+              "organization": "Capital World Investors",
+              "pctChange": -0.0033,
+              "pctHeld": 0.0231,
+              "position": 74123456,
+              "reportDate": "2024-06-30",
+              "value": 16789012345
+            }
+          ],
+          "symbol": "TSLA"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

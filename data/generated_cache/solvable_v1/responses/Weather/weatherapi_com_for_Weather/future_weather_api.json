@@ -1,0 +1,185 @@
+{
+  "{\"dt\":\"2025-06-15\",\"q\":\"Paris\"}": {
+    "error": "",
+    "response": {
+      "forecast": {
+        "forecastday": [
+          {
+            "date": "2025-06-15",
+            "day": {
+              "avghumidity": 60,
+              "avgtemp_c": 19.8,
+              "condition": {
+                "code": 1003,
+                "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+                "text": "Partly cloudy"
+              },
+              "maxtemp_c": 24.5,
+              "maxwind_kph": 18.0,
+              "mintemp_c": 15.2,
+              "totalprecip_mm": 0.0
+            },
+            "hour": [
+              {
+                "chance_of_rain": 0,
+                "condition": {
+                  "code": 1000,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+                  "text": "Clear"
+                },
+                "humidity": 70,
+                "temp_c": 16.0,
+                "time": "2025-06-15 00:00",
+                "wind_kph": 10.0
+              },
+              {
+                "chance_of_rain": 0,
+                "condition": {
+                  "code": 1000,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+                  "text": "Clear"
+                },
+                "humidity": 75,
+                "temp_c": 15.2,
+                "time": "2025-06-15 03:00",
+                "wind_kph": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "country": "France",
+        "lat": 48.87,
+        "localtime": "2025-06-15 12:00",
+        "localtime_epoch": 1750000000,
+        "lon": 2.33,
+        "name": "Paris",
+        "region": "Ile-de-France",
+        "tz_id": "Europe/Paris"
+      }
+    }
+  },
+  "{\"dt\":\"2025-08-01\",\"q\":\"10001\"}": {
+    "error": "",
+    "response": {
+      "forecast": {
+        "forecastday": [
+          {
+            "date": "2025-08-01",
+            "day": {
+              "avghumidity": 65,
+              "avgtemp_c": 26.0,
+              "condition": {
+                "code": 1063,
+                "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                "text": "Patchy rain nearby"
+              },
+              "maxtemp_c": 30.1,
+              "maxwind_kph": 22.0,
+              "mintemp_c": 22.4,
+              "totalprecip_mm": 1.2
+            },
+            "hour": [
+              {
+                "chance_of_rain": 10,
+                "condition": {
+                  "code": 1000,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+                  "text": "Clear"
+                },
+                "humidity": 70,
+                "temp_c": 23.0,
+                "time": "2025-08-01 00:00",
+                "wind_kph": 12.0
+              },
+              {
+                "chance_of_rain": 30,
+                "condition": {
+                  "code": 1063,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+                  "text": "Patchy rain nearby"
+                },
+                "humidity": 75,
+                "temp_c": 22.4,
+                "time": "2025-08-01 03:00",
+                "wind_kph": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "country": "United States of America",
+        "lat": 40.71,
+        "localtime": "2025-08-01 08:00",
+        "localtime_epoch": 1754000000,
+        "lon": -74.01,
+        "name": "New York",
+        "region": "New York",
+        "tz_id": "America/New_York"
+      }
+    }
+  },
+  "{\"dt\":\"2025-10-10\",\"lang\":\"fr\",\"q\":\"48.8567,2.3508\"}": {
+    "error": "",
+    "response": {
+      "forecast": {
+        "forecastday": [
+          {
+            "date": "2025-10-10",
+            "day": {
+              "avghumidity": 70,
+              "avgtemp_c": 14.0,
+              "condition": {
+                "code": 1003,
+                "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+                "text": "Partiellement nuageux"
+              },
+              "maxtemp_c": 18.0,
+              "maxwind_kph": 20.0,
+              "mintemp_c": 10.5,
+              "totalprecip_mm": 0.5
+            },
+            "hour": [
+              {
+                "chance_of_rain": 0,
+                "condition": {
+                  "code": 1000,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+                  "text": "Clair"
+                },
+                "humidity": 80,
+                "temp_c": 11.0,
+                "time": "2025-10-10 00:00",
+                "wind_kph": 10.0
+              },
+              {
+                "chance_of_rain": 10,
+                "condition": {
+                  "code": 1003,
+                  "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+                  "text": "Partiellement nuageux"
+                },
+                "humidity": 85,
+                "temp_c": 10.5,
+                "time": "2025-10-10 03:00",
+                "wind_kph": 12.0
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "country": "France",
+        "lat": 48.86,
+        "localtime": "2025-10-10 14:00",
+        "localtime_epoch": 1760000000,
+        "lon": 2.35,
+        "name": "Paris",
+        "region": "Ile-de-France",
+        "tz_id": "Europe/Paris"
+      }
+    }
+  }
+}

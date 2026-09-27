@@ -1,0 +1,379 @@
+{
+  "{\"url\":\"https://www.trulia.com/p/az/scottsdale/10225-e-sheena-dr-scottsdale-az-85255--2113678451\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "agent_name": "Sarah Mitchell",
+        "bathrooms": 3,
+        "bathrooms_formatted": "3 ba",
+        "bedrooms": 4,
+        "bedrooms_formatted": "4 bd",
+        "broker_name": "Desert Sky Realty",
+        "date_listed": "03/12/2024",
+        "description": {
+          "contact_phone_number": null,
+          "date_last_updated_formatted": "03/15/2024",
+          "markdown": null,
+          "subheader": null,
+          "text": null,
+          "value": "Stunning single-family home in North Scottsdale with mountain views, open floor plan, and a resort-style backyard."
+        },
+        "features": [
+          {
+            "attributes": [
+              "Open Floor Plan",
+              "Vaulted Ceilings"
+            ],
+            "name": "Interior"
+          },
+          {
+            "attributes": [
+              "Private Pool",
+              "Covered Patio"
+            ],
+            "name": "Exterior"
+          }
+        ],
+        "floor_space": 3200.0,
+        "floor_space_formatted": "3,200 sqft",
+        "highlights": [
+          {
+            "name": "Bedrooms",
+            "value": "4"
+          },
+          {
+            "name": "Bathrooms",
+            "value": "3"
+          },
+          {
+            "name": "Floor Space",
+            "value": "3,200 sqft"
+          },
+          {
+            "name": "Lot Size",
+            "value": "0.35 acres"
+          },
+          {
+            "name": "Property Type",
+            "value": "Single Family"
+          },
+          {
+            "name": "Year Built",
+            "value": "2005"
+          }
+        ],
+        "is_empty": false,
+        "location": {
+          "city": "Scottsdale",
+          "city_state_zip_address": "Scottsdale, AZ 85255",
+          "formatted_location": "Scottsdale, AZ 85255",
+          "full_location": "10225 E Sheena Dr, Scottsdale, AZ 85255",
+          "latitude": 33.6789,
+          "longitude": -111.8765,
+          "neighborhood_name": null,
+          "state_code": "AZ",
+          "street_address": "10225 E Sheena Dr",
+          "zip_code": "85255"
+        },
+        "lot_size": 15246.0,
+        "lot_size_formatted": "0.35 acres",
+        "photos": [
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/1.jpg",
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/2.jpg"
+        ],
+        "price": {
+          "branch_banner_price": null,
+          "currency_code": "USD",
+          "formatted_price": "$1,250,000",
+          "price": 1250000
+        },
+        "price_change": null,
+        "price_history": [
+          {
+            "event": "Listed",
+            "formatted_data": "Listed on 03/12/2024",
+            "price": {
+              "branch_banner_price": null,
+              "currency_code": null,
+              "formatted_price": "$1,250,000",
+              "price": 1250000
+            },
+            "source": "Trulia"
+          }
+        ],
+        "property_type": "Single Family",
+        "selling_soon_information": null,
+        "status": {
+          "is_active_for_rent": false,
+          "is_active_for_sale": true,
+          "is_foreclosure": false,
+          "is_off_market": false,
+          "is_recently_rented": false,
+          "is_recently_sold": false
+        },
+        "tags": [
+          "Single Family",
+          "For Sale"
+        ],
+        "url": "https://www.trulia.com/p/az/scottsdale/10225-e-sheena-dr-scottsdale-az-85255--2113678451"
+      },
+      "description": "Home details retrieved successfully",
+      "status": 200
+    }
+  },
+  "{\"url\":\"https://www.trulia.com/p/ca/san-diego/1234-ocean-view-ave-san-diego-ca-92107--2113712345\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "agent_name": "Emily Chen",
+        "bathrooms": 3,
+        "bathrooms_formatted": "3 ba",
+        "bedrooms": 3,
+        "bedrooms_formatted": "3 bd",
+        "broker_name": "Pacific Coast Realty",
+        "date_listed": "04/01/2024",
+        "description": {
+          "contact_phone_number": null,
+          "date_last_updated_formatted": "04/03/2024",
+          "markdown": null,
+          "subheader": null,
+          "text": null,
+          "value": "Modern coastal home just steps from the beach with panoramic ocean views and a rooftop deck."
+        },
+        "features": [
+          {
+            "attributes": [
+              "Smart Home System",
+              "Walk-In Closet"
+            ],
+            "name": "Interior"
+          },
+          {
+            "attributes": [
+              "Rooftop Deck",
+              "Ocean Views"
+            ],
+            "name": "Exterior"
+          }
+        ],
+        "floor_space": 2800.0,
+        "floor_space_formatted": "2,800 sqft",
+        "highlights": [
+          {
+            "name": "Bedrooms",
+            "value": "3"
+          },
+          {
+            "name": "Bathrooms",
+            "value": "3"
+          },
+          {
+            "name": "Floor Space",
+            "value": "2,800 sqft"
+          },
+          {
+            "name": "Lot Size",
+            "value": "0.18 acres"
+          },
+          {
+            "name": "Property Type",
+            "value": "Single Family"
+          },
+          {
+            "name": "Year Built",
+            "value": "2012"
+          }
+        ],
+        "is_empty": false,
+        "location": {
+          "city": "San Diego",
+          "city_state_zip_address": "San Diego, CA 92107",
+          "formatted_location": "San Diego, CA 92107",
+          "full_location": "1234 Ocean View Ave, San Diego, CA 92107",
+          "latitude": 32.7157,
+          "longitude": -117.1611,
+          "neighborhood_name": null,
+          "state_code": "CA",
+          "street_address": "1234 Ocean View Ave",
+          "zip_code": "92107"
+        },
+        "lot_size": 7840.0,
+        "lot_size_formatted": "0.18 acres",
+        "photos": [
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/5.jpg",
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/6.jpg"
+        ],
+        "price": {
+          "branch_banner_price": null,
+          "currency_code": "USD",
+          "formatted_price": "$3,450,000",
+          "price": 3450000
+        },
+        "price_change": null,
+        "price_history": [
+          {
+            "event": "Listed",
+            "formatted_data": "Listed on 04/01/2024",
+            "price": {
+              "branch_banner_price": null,
+              "currency_code": null,
+              "formatted_price": "$3,450,000",
+              "price": 3450000
+            },
+            "source": "Trulia"
+          }
+        ],
+        "property_type": "Single Family",
+        "selling_soon_information": null,
+        "status": {
+          "is_active_for_rent": false,
+          "is_active_for_sale": true,
+          "is_foreclosure": false,
+          "is_off_market": false,
+          "is_recently_rented": false,
+          "is_recently_sold": false
+        },
+        "tags": [
+          "Single Family",
+          "For Sale"
+        ],
+        "url": "https://www.trulia.com/p/ca/san-diego/1234-ocean-view-ave-san-diego-ca-92107--2113712345"
+      },
+      "description": "Home details retrieved successfully",
+      "status": 200
+    }
+  },
+  "{\"url\":\"https://www.trulia.com/p/tx/austin/4501-westlake-dr-austin-tx-78746--2113699123\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "agent_name": "Michael Torres",
+        "bathrooms": 4,
+        "bathrooms_formatted": "4 ba",
+        "bedrooms": 5,
+        "bedrooms_formatted": "5 bd",
+        "broker_name": "Lone Star Properties",
+        "date_listed": "01/05/2024",
+        "description": {
+          "contact_phone_number": null,
+          "date_last_updated_formatted": "02/20/2024",
+          "markdown": null,
+          "subheader": null,
+          "text": null,
+          "value": "Elegant Westlake estate with hill country views, chef's kitchen, and spacious outdoor living areas."
+        },
+        "features": [
+          {
+            "attributes": [
+              "Chef's Kitchen",
+              "Home Office"
+            ],
+            "name": "Interior"
+          },
+          {
+            "attributes": [
+              "Hill Country Views",
+              "Three-Car Garage"
+            ],
+            "name": "Exterior"
+          }
+        ],
+        "floor_space": 4100.0,
+        "floor_space_formatted": "4,100 sqft",
+        "highlights": [
+          {
+            "name": "Bedrooms",
+            "value": "5"
+          },
+          {
+            "name": "Bathrooms",
+            "value": "4"
+          },
+          {
+            "name": "Floor Space",
+            "value": "4,100 sqft"
+          },
+          {
+            "name": "Lot Size",
+            "value": "0.52 acres"
+          },
+          {
+            "name": "Property Type",
+            "value": "Single Family"
+          },
+          {
+            "name": "Year Built",
+            "value": "1998"
+          }
+        ],
+        "is_empty": false,
+        "location": {
+          "city": "Austin",
+          "city_state_zip_address": "Austin, TX 78746",
+          "formatted_location": "Austin, TX 78746",
+          "full_location": "4501 Westlake Dr, Austin, TX 78746",
+          "latitude": 30.2672,
+          "longitude": -97.7431,
+          "neighborhood_name": null,
+          "state_code": "TX",
+          "street_address": "4501 Westlake Dr",
+          "zip_code": "78746"
+        },
+        "lot_size": 22651.0,
+        "lot_size_formatted": "0.52 acres",
+        "photos": [
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/3.jpg",
+          "https://www.trulia.com/pictures/thumbs_6/zillowstatic/4.jpg"
+        ],
+        "price": {
+          "branch_banner_price": null,
+          "currency_code": "USD",
+          "formatted_price": "$1,975,000",
+          "price": 1975000
+        },
+        "price_change": null,
+        "price_history": [
+          {
+            "event": "Listed",
+            "formatted_data": "Listed on 01/05/2024",
+            "price": {
+              "branch_banner_price": null,
+              "currency_code": null,
+              "formatted_price": "$2,100,000",
+              "price": 2100000
+            },
+            "source": "Trulia"
+          },
+          {
+            "event": "Price Changed",
+            "formatted_data": "Price changed on 02/20/2024",
+            "price": {
+              "branch_banner_price": null,
+              "currency_code": null,
+              "formatted_price": "$1,975,000",
+              "price": 1975000
+            },
+            "source": "Trulia"
+          }
+        ],
+        "property_type": "Single Family",
+        "selling_soon_information": null,
+        "status": {
+          "is_active_for_rent": false,
+          "is_active_for_sale": true,
+          "is_foreclosure": false,
+          "is_off_market": false,
+          "is_recently_rented": false,
+          "is_recently_sold": false
+        },
+        "tags": [
+          "Single Family",
+          "For Sale"
+        ],
+        "url": "https://www.trulia.com/p/tx/austin/4501-westlake-dr-austin-tx-78746--2113699123"
+      },
+      "description": "Home details retrieved successfully",
+      "status": 200
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "{\"videoid\":\"9bZkp7q19f0\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/9bZkp7q19f0/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/9bZkp7q19f0/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/9bZkp7q19f0/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/9bZkp7q19f0/480p.mp4",
+          "width": 854
+        },
+        {
+          "height": 720,
+          "quality": "720p",
+          "size": 20971520,
+          "url": "https://example.com/videos/9bZkp7q19f0/720p.mp4",
+          "width": 1280
+        },
+        {
+          "height": 1080,
+          "quality": "1080p",
+          "size": 41943040,
+          "url": "https://example.com/videos/9bZkp7q19f0/1080p.mp4",
+          "width": 1920
+        },
+        {
+          "height": 1440,
+          "quality": "1440p",
+          "size": 83886080,
+          "url": "https://example.com/videos/9bZkp7q19f0/1440p.mp4",
+          "width": 2560
+        },
+        {
+          "height": 2160,
+          "quality": "2160p",
+          "size": 167772160,
+          "url": "https://example.com/videos/9bZkp7q19f0/2160p.mp4",
+          "width": 3840
+        },
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/9bZkp7q19f0/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/9bZkp7q19f0/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/9bZkp7q19f0/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/9bZkp7q19f0/480p.mp4",
+          "width": 854
+        }
+      ]
+    }
+  },
+  "{\"videoid\":\"dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/480p.mp4",
+          "width": 854
+        },
+        {
+          "height": 720,
+          "quality": "720p",
+          "size": 20971520,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/720p.mp4",
+          "width": 1280
+        },
+        {
+          "height": 1080,
+          "quality": "1080p",
+          "size": 41943040,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/1080p.mp4",
+          "width": 1920
+        },
+        {
+          "height": 1440,
+          "quality": "1440p",
+          "size": 83886080,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/1440p.mp4",
+          "width": 2560
+        },
+        {
+          "height": 2160,
+          "quality": "2160p",
+          "size": 167772160,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/2160p.mp4",
+          "width": 3840
+        },
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/dQw4w9WgXcQ/480p.mp4",
+          "width": 854
+        }
+      ]
+    }
+  },
+  "{\"videoid\":\"kJQP7kiw5Fk\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/480p.mp4",
+          "width": 854
+        },
+        {
+          "height": 720,
+          "quality": "720p",
+          "size": 20971520,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/720p.mp4",
+          "width": 1280
+        },
+        {
+          "height": 1080,
+          "quality": "1080p",
+          "size": 41943040,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/1080p.mp4",
+          "width": 1920
+        },
+        {
+          "height": 1440,
+          "quality": "1440p",
+          "size": 83886080,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/1440p.mp4",
+          "width": 2560
+        },
+        {
+          "height": 2160,
+          "quality": "2160p",
+          "size": 167772160,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/2160p.mp4",
+          "width": 3840
+        },
+        {
+          "height": 144,
+          "quality": "144p",
+          "size": 1048576,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/144p.mp4",
+          "width": 256
+        },
+        {
+          "height": 240,
+          "quality": "240p",
+          "size": 2097152,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/240p.mp4",
+          "width": 426
+        },
+        {
+          "height": 360,
+          "quality": "360p",
+          "size": 5242880,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/360p.mp4",
+          "width": 640
+        },
+        {
+          "height": 480,
+          "quality": "480p",
+          "size": 10485760,
+          "url": "https://example.com/videos/kJQP7kiw5Fk/480p.mp4",
+          "width": 854
+        }
+      ]
+    }
+  }
+}

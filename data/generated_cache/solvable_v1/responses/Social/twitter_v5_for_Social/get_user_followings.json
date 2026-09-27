@@ -1,0 +1,80 @@
+{
+  "{\"count\":\"10\",\"user\":\"9876543210\"}": {
+    "error": "",
+    "response": {
+      "cursor": "",
+      "followings": [
+        {
+          "followers_count": 50000,
+          "following_count": 1000,
+          "id": "6789012345",
+          "is_verified": true,
+          "name": "Data Scientist",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/6789012345/data_scientist.jpg",
+          "username": "data_scientist"
+        }
+      ]
+    }
+  },
+  "{\"count\":\"20\",\"user\":\"2455740283\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABGXl0dXJlX2N1cnNvchAAAA",
+      "followings": [
+        {
+          "followers_count": 15000,
+          "following_count": 300,
+          "id": "1234567890",
+          "is_verified": true,
+          "name": "Tech Guru",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/1234567890/tech_guru.jpg",
+          "username": "tech_guru"
+        },
+        {
+          "followers_count": 800,
+          "following_count": 200,
+          "id": "2345678901",
+          "is_verified": false,
+          "name": "Dev Life",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/2345678901/dev_life.jpg",
+          "username": "dev_life"
+        }
+      ]
+    }
+  },
+  "{\"count\":\"50\",\"cursor\":\"DAABCgABGXl0dXJlX2N1cnNvchAAAA\",\"user\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABGXl0dXJlX2N1cnNvchBBBB",
+      "followings": [
+        {
+          "followers_count": 25000,
+          "following_count": 500,
+          "id": "3456789012",
+          "is_verified": true,
+          "name": "Code Master",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/3456789012/code_master.jpg",
+          "username": "code_master"
+        },
+        {
+          "followers_count": 1200,
+          "following_count": 150,
+          "id": "4567890123",
+          "is_verified": false,
+          "name": "AI Enthusiast",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/4567890123/ai_enthusiast.jpg",
+          "username": "ai_enthusiast"
+        },
+        {
+          "followers_count": 3000,
+          "following_count": 400,
+          "id": "5678901234",
+          "is_verified": false,
+          "name": "Web Developer",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/5678901234/web_dev.jpg",
+          "username": "web_dev"
+        }
+      ]
+    }
+  }
+}

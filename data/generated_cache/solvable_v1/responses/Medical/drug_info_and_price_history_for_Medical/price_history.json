@@ -1,0 +1,25 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "Price history retrieved successfully",
+      "price_history": [
+        {
+          "date": "2024-01-15",
+          "price": 12.99,
+          "source": "GoodRx"
+        },
+        {
+          "date": "2024-02-15",
+          "price": 11.49,
+          "source": "GoodRx"
+        },
+        {
+          "date": "2024-03-15",
+          "price": 13.75,
+          "source": "GoodRx"
+        }
+      ]
+    }
+  }
+}

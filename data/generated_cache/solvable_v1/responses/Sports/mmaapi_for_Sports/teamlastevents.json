@@ -1,0 +1,110 @@
+{
+  "{\"is_id\":123456,\"page\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "team-last-events",
+      "parameters": [
+        {
+          "id": 123456,
+          "page": 0
+        }
+      ],
+      "response": [
+        {
+          "eventDate": "2023-10-07",
+          "eventId": 54321,
+          "eventName": "Bellator 300: Nurmagomedov vs. Primus",
+          "method": "Decision",
+          "opponent": "Usman Nurmagomedov",
+          "result": "Loss",
+          "round": 5,
+          "time": "5:00"
+        },
+        {
+          "eventDate": "2023-02-04",
+          "eventId": 54320,
+          "eventName": "Bellator 290: Bader vs. Fedor 2",
+          "method": "KO/TKO",
+          "opponent": "Ryan Bader",
+          "result": "Loss",
+          "round": 1,
+          "time": "2:30"
+        },
+        {
+          "eventDate": "2022-08-12",
+          "eventId": 54319,
+          "eventName": "Bellator 284: Gracie vs. Ruth",
+          "method": "Submission",
+          "opponent": "Neiman Gracie",
+          "result": "Win",
+          "round": 2,
+          "time": "4:15"
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"is_id\":465171,\"page\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "team-last-events",
+      "parameters": [
+        {
+          "id": 465171,
+          "page": 0
+        }
+      ],
+      "response": [
+        {
+          "eventDate": "2024-04-13",
+          "eventId": 12345,
+          "eventName": "UFC 300: Pereira vs. Hill",
+          "method": "KO/TKO",
+          "opponent": "Alex Pereira",
+          "result": "Loss",
+          "round": 1,
+          "time": "3:14"
+        },
+        {
+          "eventDate": "2023-11-18",
+          "eventId": 12344,
+          "eventName": "UFC Fight Night: Allen vs. Craig",
+          "method": "Decision",
+          "opponent": "Brendan Allen",
+          "result": "Win",
+          "round": 3,
+          "time": "5:00"
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"is_id\":465171,\"page\":1}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "team-last-events",
+      "parameters": [
+        {
+          "id": 465171,
+          "page": 1
+        }
+      ],
+      "response": [
+        {
+          "eventDate": "2023-07-08",
+          "eventId": 12343,
+          "eventName": "UFC 290: Volkanovski vs. Rodriguez",
+          "method": "Decision",
+          "opponent": "Yair Rodriguez",
+          "result": "Win",
+          "round": 5,
+          "time": "5:00"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "{\"is_id\":12345678}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {
+          "current": 245,
+          "display": 245,
+          "innings": {
+            "inning1": {
+              "overs": 48.3,
+              "score": 245,
+              "wickets": 8
+            }
+          }
+        },
+        "awayTeam": {
+          "country": {},
+          "fullName": "Australia",
+          "gender": "M",
+          "id": 42,
+          "name": "Australia",
+          "nameCode": "AUS",
+          "national": true,
+          "shortName": "AUS",
+          "slug": "australia",
+          "sport": {
+            "id": 1,
+            "name": "Cricket",
+            "slug": "cricket"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#FFD700",
+            "secondary": "#006400",
+            "text": "#000000"
+          },
+          "type": 1,
+          "userCount": 15230
+        },
+        "bet365ExcludedCountryCodes": [
+          "US",
+          "CA",
+          "FR",
+          "DE",
+          "IT",
+          "ES"
+        ],
+        "changes": {
+          "changeTimestamp": 1698765432,
+          "changes": [
+            "score",
+            "wicket",
+            "overs"
+          ]
+        },
+        "coverage": 1,
+        "cricketBallProperties": [
+          "dot",
+          "four",
+          "six",
+          "wicket",
+          "wide",
+          "no-ball",
+          "bye",
+          "leg-bye",
+          "single",
+          "double",
+          "triple",
+          "five",
+          "penalty",
+          "free-hit",
+          "review",
+          "retired",
+          "obstruction",
+          "timeout",
+          "dead-ball"
+        ],
+        "crowdsourcingDataDisplayEnabled": true,
+        "currentBattingTeamId": 42,
+        "customId": "AUSvENG_20231029",
+        "endTimestamp": 1698770000,
+        "fanRatingEvent": false,
+        "finalResultOnly": false,
+        "hasBet365LiveStream": true,
+        "hasGlobalHighlights": true,
+        "homeScore": {
+          "current": 248,
+          "display": 248,
+          "innings": {
+            "inning1": {
+              "overs": 49.1,
+              "score": 248,
+              "wickets": 7
+            }
+          }
+        },
+        "homeTeam": {
+          "country": {},
+          "fullName": "England",
+          "gender": "M",
+          "id": 43,
+          "name": "England",
+          "nameCode": "ENG",
+          "national": true,
+          "shortName": "ENG",
+          "slug": "england",
+          "sport": {
+            "id": 1,
+            "name": "Cricket",
+            "slug": "cricket"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#FFFFFF",
+            "secondary": "#000080",
+            "text": "#000000"
+          },
+          "type": 1,
+          "userCount": 14890
+        },
+        "id": 12345678,
+        "startTimestamp": 1698750000,
+        "status": "live",
+        "tournament": {
+          "id": 101,
+          "name": "ICC Cricket World Cup",
+          "slug": "icc-cricket-world-cup"
+        }
+      }
+    }
+  },
+  "{\"is_id\":98765432}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {
+          "current": 156,
+          "display": 156,
+          "innings": {
+            "inning1": {
+              "overs": 20.0,
+              "score": 156,
+              "wickets": 6
+            }
+          }
+        },
+        "awayTeam": {
+          "country": {},
+          "fullName": "India",
+          "gender": "M",
+          "id": 55,
+          "name": "India",
+          "nameCode": "IND",
+          "national": true,
+          "shortName": "IND",
+          "slug": "india",
+          "sport": {
+            "id": 1,
+            "name": "Cricket",
+            "slug": "cricket"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#0000FF",
+            "secondary": "#FF9933",
+            "text": "#FFFFFF"
+          },
+          "type": 1,
+          "userCount": 21000
+        },
+        "bet365ExcludedCountryCodes": [
+          "US",
+          "CA",
+          "FR",
+          "DE",
+          "IT",
+          "ES"
+        ],
+        "changes": {
+          "changeTimestamp": 1699123456,
+          "changes": [
+            "score",
+            "wicket"
+          ]
+        },
+        "coverage": 1,
+        "cricketBallProperties": [
+          "dot",
+          "four",
+          "six",
+          "wicket",
+          "wide",
+          "no-ball",
+          "bye",
+          "leg-bye",
+          "single",
+          "double",
+          "triple",
+          "five",
+          "penalty",
+          "free-hit",
+          "review",
+          "retired",
+          "obstruction",
+          "timeout",
+          "dead-ball"
+        ],
+        "crowdsourcingDataDisplayEnabled": false,
+        "currentBattingTeamId": 55,
+        "customId": "INDvPAK_20231105",
+        "endTimestamp": 1699130000,
+        "fanRatingEvent": true,
+        "finalResultOnly": false,
+        "hasBet365LiveStream": false,
+        "hasGlobalHighlights": true,
+        "homeScore": {
+          "current": 160,
+          "display": 160,
+          "innings": {
+            "inning1": {
+              "overs": 20.0,
+              "score": 160,
+              "wickets": 4
+            }
+          }
+        },
+        "homeTeam": {
+          "country": {},
+          "fullName": "Pakistan",
+          "gender": "M",
+          "id": 56,
+          "name": "Pakistan",
+          "nameCode": "PAK",
+          "national": true,
+          "shortName": "PAK",
+          "slug": "pakistan",
+          "sport": {
+            "id": 1,
+            "name": "Cricket",
+            "slug": "cricket"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#006400",
+            "secondary": "#FFFFFF",
+            "text": "#000000"
+          },
+          "type": 1,
+          "userCount": 19500
+        },
+        "id": 98765432,
+        "startTimestamp": 1699110000,
+        "status": "finished",
+        "tournament": {
+          "id": 102,
+          "name": "Asia Cup",
+          "slug": "asia-cup"
+        }
+      }
+    }
+  }
+}

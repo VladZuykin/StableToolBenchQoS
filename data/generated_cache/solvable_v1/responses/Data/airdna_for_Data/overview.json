@@ -1,0 +1,8 @@
+{
+  "{\"currency\":\"USD\",\"location\":\"Austin\"}": {
+    "error": "",
+    "response": {
+      "message": "Overview stats for Austin: ADR $245, OCC 68%, Revenue $62,000"
+    }
+  }
+}

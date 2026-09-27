@@ -1,0 +1,51 @@
+{
+  "{\"endpointid\":\"ep-7c41d8e2\",\"userid\":\"user-9f3a2b\"}": {
+    "error": "",
+    "response": {
+      "active": true,
+      "apiId": 1042,
+      "apiNickName": "Daily Health Check",
+      "apiUrl": "https://api.example.com/health",
+      "cronString": "0 0/15 * * * ?",
+      "emailForNotifications": "ops-team@example.com",
+      "emailOnError": true,
+      "emailOnSuccess": false,
+      "jobAuth": {
+        "claims": [
+          {
+            "claimName": "Authorization",
+            "claimValue": "Bearer abc123token"
+          }
+        ],
+        "enable": true
+      },
+      "lastUpdated": "2024-06-11T08:45:12Z",
+      "mostRecentResult": {
+        "dateAndTime": "2024-06-11T08:45:10Z",
+        "results": "{\"status\":\"ok\",\"latencyMs\":142}",
+        "runId": 58231,
+        "statusResult": "Success"
+      },
+      "postBody": "",
+      "redirectSuccess": true,
+      "requestMethod": 0,
+      "results": [
+        {
+          "dateAndTime": "2024-06-11T08:45:10Z",
+          "results": "{\"status\":\"ok\",\"latencyMs\":142}",
+          "runId": 58231,
+          "statusResult": "Success"
+        },
+        {
+          "dateAndTime": "2024-06-11T08:30:09Z",
+          "results": "{\"status\":\"ok\",\"latencyMs\":138}",
+          "runId": 58230,
+          "statusResult": "Success"
+        }
+      ],
+      "saveResponses": true,
+      "timeZone": "America/New_York",
+      "timeoutLength": 30
+    }
+  }
+}

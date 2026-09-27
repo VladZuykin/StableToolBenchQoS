@@ -1,0 +1,278 @@
+{
+  "{\"gl\":\"de\",\"lr\":\"lang_de\",\"num\":20,\"q\":\"modern architecture glass building\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "contextLink": "https://example.com/architecture/berlin-glass",
+          "height": 2000,
+          "originalImageUrl": "https://example.com/images/berlin-glass.jpg",
+          "size": "5.6 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/berlin-glass.jpg",
+          "title": "Modern Glass Office Building in Berlin",
+          "width": 3000
+        },
+        {
+          "contextLink": "https://example.com/design/glass-facade",
+          "height": 1600,
+          "originalImageUrl": "https://example.com/images/glass-facade.jpg",
+          "size": "3.8 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-facade.jpg",
+          "title": "Contemporary Glass Facade Architecture",
+          "width": 2400
+        },
+        {
+          "contextLink": "https://example.com/urban/futuristic-skyscraper",
+          "height": 1867,
+          "originalImageUrl": "https://example.com/images/futuristic-skyscraper.jpg",
+          "size": "4.9 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/futuristic-skyscraper.jpg",
+          "title": "Futuristic Skyscraper with Glass Panels",
+          "width": 2800
+        },
+        {
+          "contextLink": "https://example.com/architecture/minimalist-glass",
+          "height": 1280,
+          "originalImageUrl": "https://example.com/images/minimalist-glass.jpg",
+          "size": "2.7 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/minimalist-glass.jpg",
+          "title": "Minimalist Glass Building Design",
+          "width": 1920
+        },
+        {
+          "contextLink": "https://example.com/construction/curtain-wall",
+          "height": 1467,
+          "originalImageUrl": "https://example.com/images/curtain-wall.jpg",
+          "size": "3.3 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/curtain-wall.jpg",
+          "title": "Glass Curtain Wall Building",
+          "width": 2200
+        },
+        {
+          "contextLink": "https://example.com/business/corporate-glass",
+          "height": 1733,
+          "originalImageUrl": "https://example.com/images/corporate-glass.jpg",
+          "size": "4.1 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/corporate-glass.jpg",
+          "title": "Modern Corporate Headquarters Glass",
+          "width": 2600
+        },
+        {
+          "contextLink": "https://example.com/architecture/glass-tower-sunset",
+          "height": 2133,
+          "originalImageUrl": "https://example.com/images/glass-tower-sunset.jpg",
+          "size": "6.2 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-tower-sunset.jpg",
+          "title": "Reflective Glass Tower at Sunset",
+          "width": 3200
+        },
+        {
+          "contextLink": "https://example.com/design/geometric-glass",
+          "height": 1333,
+          "originalImageUrl": "https://example.com/images/geometric-glass.jpg",
+          "size": "2.9 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/geometric-glass.jpg",
+          "title": "Geometric Glass Architecture Pattern",
+          "width": 2000
+        },
+        {
+          "contextLink": "https://example.com/interiors/glass-atrium",
+          "height": 1600,
+          "originalImageUrl": "https://example.com/images/glass-atrium.jpg",
+          "size": "3.5 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-atrium.jpg",
+          "title": "Glass Building Interior Atrium",
+          "width": 2400
+        },
+        {
+          "contextLink": "https://example.com/green/eco-glass",
+          "height": 1200,
+          "originalImageUrl": "https://example.com/images/eco-glass.jpg",
+          "size": "2.2 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/eco-glass.jpg",
+          "title": "Eco-Friendly Glass Architecture",
+          "width": 1800
+        },
+        {
+          "contextLink": "https://example.com/urban/glass-cityscape",
+          "height": 2400,
+          "originalImageUrl": "https://example.com/images/glass-cityscape.jpg",
+          "size": "7.8 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-cityscape.jpg",
+          "title": "Glass Skyscraper Cityscape",
+          "width": 3600
+        },
+        {
+          "contextLink": "https://example.com/culture/glass-museum",
+          "height": 1867,
+          "originalImageUrl": "https://example.com/images/glass-museum.jpg",
+          "size": "5.1 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-museum.jpg",
+          "title": "Modern Glass Museum Building",
+          "width": 2800
+        },
+        {
+          "contextLink": "https://example.com/architecture/glass-tower-night",
+          "height": 1467,
+          "originalImageUrl": "https://example.com/images/glass-tower-night.jpg",
+          "size": "3.6 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-tower-night.jpg",
+          "title": "Glass Office Tower Night View",
+          "width": 2200
+        },
+        {
+          "contextLink": "https://example.com/design/glass-pavilion",
+          "height": 1067,
+          "originalImageUrl": "https://example.com/images/glass-pavilion.jpg",
+          "size": "1.9 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-pavilion.jpg",
+          "title": "Contemporary Glass Pavilion",
+          "width": 1600
+        },
+        {
+          "contextLink": "https://example.com/architecture/glass-sky",
+          "height": 2000,
+          "originalImageUrl": "https://example.com/images/glass-sky.jpg",
+          "size": "5.4 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-sky.jpg",
+          "title": "Glass Facade with Blue Sky Reflection",
+          "width": 3000
+        },
+        {
+          "contextLink": "https://example.com/residential/glass-residential",
+          "height": 1333,
+          "originalImageUrl": "https://example.com/images/glass-residential.jpg",
+          "size": "2.8 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-residential.jpg",
+          "title": "Modern Glass Residential Building",
+          "width": 2000
+        },
+        {
+          "contextLink": "https://example.com/architecture/glass-detail",
+          "height": 933,
+          "originalImageUrl": "https://example.com/images/glass-detail.jpg",
+          "size": "1.5 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-detail.jpg",
+          "title": "Glass Architecture Detail Close-up",
+          "width": 1400
+        },
+        {
+          "contextLink": "https://example.com/sustainable/glass-green",
+          "height": 1733,
+          "originalImageUrl": "https://example.com/images/glass-green.jpg",
+          "size": "4.3 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-green.jpg",
+          "title": "Glass Building with Green Wall",
+          "width": 2600
+        },
+        {
+          "contextLink": "https://example.com/transport/glass-airport",
+          "height": 2267,
+          "originalImageUrl": "https://example.com/images/glass-airport.jpg",
+          "size": "6.9 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-airport.jpg",
+          "title": "Modern Glass Airport Terminal",
+          "width": 3400
+        },
+        {
+          "contextLink": "https://example.com/art/glass-abstract",
+          "height": 1200,
+          "originalImageUrl": "https://example.com/images/glass-abstract.jpg",
+          "size": "2.4 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/glass-abstract.jpg",
+          "title": "Glass Architecture Abstract Composition",
+          "width": 1800
+        }
+      ],
+      "status": "success"
+    }
+  },
+  "{\"gl\":\"fr\",\"lr\":\"lang_fr\",\"num\":5,\"q\":\"Eiffel Tower at sunset\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "contextLink": "https://example.com/paris/eiffel-tower-sunset",
+          "height": 1080,
+          "originalImageUrl": "https://example.com/images/eiffel-sunset.jpg",
+          "size": "2.4 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/eiffel-sunset.jpg",
+          "title": "Eiffel Tower Sunset - Paris, France",
+          "width": 1920
+        },
+        {
+          "contextLink": "https://example.com/photography/golden-hour-eiffel",
+          "height": 1200,
+          "originalImageUrl": "https://example.com/images/golden-hour-eiffel.jpg",
+          "size": "1.8 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/golden-hour-eiffel.jpg",
+          "title": "Golden Hour at the Eiffel Tower",
+          "width": 1600
+        },
+        {
+          "contextLink": "https://example.com/travel/eiffel-silhouette",
+          "height": 1365,
+          "originalImageUrl": "https://example.com/images/eiffel-silhouette.jpg",
+          "size": "3.1 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/eiffel-silhouette.jpg",
+          "title": "Eiffel Tower Silhouette Against Orange Sky",
+          "width": 2048
+        },
+        {
+          "contextLink": "https://example.com/cities/paris-dusk",
+          "height": 1440,
+          "originalImageUrl": "https://example.com/images/paris-dusk.jpg",
+          "size": "4.2 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/paris-dusk.jpg",
+          "title": "Paris Skyline with Eiffel Tower at Dusk",
+          "width": 2560
+        },
+        {
+          "contextLink": "https://example.com/landmarks/eiffel-twilight",
+          "height": 960,
+          "originalImageUrl": "https://example.com/images/eiffel-twilight.jpg",
+          "size": "1.2 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/eiffel-twilight.jpg",
+          "title": "Eiffel Tower Illuminated at Twilight",
+          "width": 1280
+        }
+      ],
+      "status": "success"
+    }
+  },
+  "{\"gl\":\"jp\",\"lr\":\"lang_ja\",\"num\":3,\"q\":\"red panda climbing tree\",\"start\":\"10\"}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "contextLink": "https://example.com/animals/red-panda-tree",
+          "height": 800,
+          "originalImageUrl": "https://example.com/images/red-panda-tree.jpg",
+          "size": "950 KB",
+          "thumbnailImageUrl": "https://example.com/thumbs/red-panda-tree.jpg",
+          "title": "レッサーパンダが木を登る - かわいい動物",
+          "width": 1200
+        },
+        {
+          "contextLink": "https://example.com/wildlife/red-panda-forest",
+          "height": 1200,
+          "originalImageUrl": "https://example.com/images/red-panda-forest.jpg",
+          "size": "2.1 MB",
+          "thumbnailImageUrl": "https://example.com/thumbs/red-panda-forest.jpg",
+          "title": "Red Panda Climbing in Forest Habitat",
+          "width": 1800
+        },
+        {
+          "contextLink": "https://example.com/nature/red-panda-branch",
+          "height": 768,
+          "originalImageUrl": "https://example.com/images/red-panda-branch.jpg",
+          "size": "780 KB",
+          "thumbnailImageUrl": "https://example.com/thumbs/red-panda-branch.jpg",
+          "title": "Cute Red Panda on Branch",
+          "width": 1024
+        }
+      ],
+      "status": "success"
+    }
+  }
+}

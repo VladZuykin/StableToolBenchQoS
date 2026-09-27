@@ -1,0 +1,115 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "chapter_number": 1,
+        "name": "Arjuna Visada Yoga",
+        "translation": "The Yoga of Arjuna's Dejection",
+        "verses_count": 47
+      },
+      {
+        "chapter_number": 2,
+        "name": "Sankhya Yoga",
+        "translation": "The Yoga of Knowledge",
+        "verses_count": 72
+      },
+      {
+        "chapter_number": 3,
+        "name": "Karma Yoga",
+        "translation": "The Yoga of Action",
+        "verses_count": 43
+      },
+      {
+        "chapter_number": 4,
+        "name": "Jnana Karma Sanyasa Yoga",
+        "translation": "The Yoga of Knowledge and the Disciplines of Action",
+        "verses_count": 42
+      },
+      {
+        "chapter_number": 5,
+        "name": "Karma Sanyasa Yoga",
+        "translation": "The Yoga of Renunciation of Action",
+        "verses_count": 29
+      },
+      {
+        "chapter_number": 6,
+        "name": "Dhyana Yoga",
+        "translation": "The Yoga of Meditation",
+        "verses_count": 47
+      },
+      {
+        "chapter_number": 7,
+        "name": "Jnana Vijnana Yoga",
+        "translation": "The Yoga of Knowledge and Wisdom",
+        "verses_count": 30
+      },
+      {
+        "chapter_number": 8,
+        "name": "Aksara Brahma Yoga",
+        "translation": "The Yoga of the Imperishable Brahman",
+        "verses_count": 28
+      },
+      {
+        "chapter_number": 9,
+        "name": "Raja Vidya Raja Guhya Yoga",
+        "translation": "The Yoga of Royal Knowledge and Royal Secret",
+        "verses_count": 34
+      },
+      {
+        "chapter_number": 10,
+        "name": "Vibhuti Yoga",
+        "translation": "The Yoga of Divine Glories",
+        "verses_count": 42
+      },
+      {
+        "chapter_number": 11,
+        "name": "Visvarupa Darsana Yoga",
+        "translation": "The Yoga of the Vision of the Universal Form",
+        "verses_count": 55
+      },
+      {
+        "chapter_number": 12,
+        "name": "Bhakti Yoga",
+        "translation": "The Yoga of Devotion",
+        "verses_count": 20
+      },
+      {
+        "chapter_number": 13,
+        "name": "Kshetra Kshetrajna Vibhaga Yoga",
+        "translation": "The Yoga of the Field and the Knower of the Field",
+        "verses_count": 35
+      },
+      {
+        "chapter_number": 14,
+        "name": "Gunatraya Vibhaga Yoga",
+        "translation": "The Yoga of the Division of the Three Gunas",
+        "verses_count": 27
+      },
+      {
+        "chapter_number": 15,
+        "name": "Purushottama Yoga",
+        "translation": "The Yoga of the Supreme Person",
+        "verses_count": 20
+      },
+      {
+        "chapter_number": 16,
+        "name": "Daivasura Sampad Vibhaga Yoga",
+        "translation": "The Yoga of the Division between the Divine and the Demonic",
+        "verses_count": 24
+      },
+      {
+        "chapter_number": 17,
+        "name": "Sraddhatraya Vibhaga Yoga",
+        "translation": "The Yoga of the Threefold Faith",
+        "verses_count": 28
+      },
+      {
+        "chapter_number": 18,
+        "name": "Moksha Sanyasa Yoga",
+        "translation": "The Yoga of Liberation through Renunciation",
+        "verses_count": 78
+      }
+    ]
+  }
+}

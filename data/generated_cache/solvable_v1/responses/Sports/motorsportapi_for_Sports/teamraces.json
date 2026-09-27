@@ -1,0 +1,157 @@
+{
+  "{\"is_id\":191417,\"seasonid\":188804}": {
+    "error": "",
+    "response": {
+      "races": [
+        {
+          "points": 25,
+          "position": 1,
+          "stage": {
+            "competitorResults": true,
+            "country": {
+              "alpha2": "IT",
+              "name": "Italy"
+            },
+            "description": "Italian Grand Prix",
+            "endDateTimestamp": 1694361600,
+            "flag": "it",
+            "id": 305001,
+            "info": {
+              "circuit": "Autodromo Nazionale Monza",
+              "circuitCity": "Monza",
+              "circuitCountry": "Italy",
+              "circuitLength": 5793,
+              "laps": 53,
+              "raceDistance": 306829,
+              "weather": "Sunny"
+            },
+            "name": "Italian Grand Prix",
+            "seasonStageName": "Race",
+            "slug": "italian-grand-prix",
+            "stageParent": {
+              "description": "Formula 1 2023",
+              "id": 188804,
+              "startDateTimestamp": 1672531200
+            },
+            "startDateTimestamp": 1694275200,
+            "status": {
+              "description": "Finished",
+              "type": "finished"
+            },
+            "teamResults": true,
+            "type": {
+              "id": 1,
+              "name": "Race"
+            },
+            "uniqueStage": {
+              "category": {
+                "flag": "f1",
+                "id": 1,
+                "name": "Formula 1",
+                "slug": "formula-1",
+                "sport": {
+                  "id": 1,
+                  "name": "Motorsport",
+                  "slug": "motorsport"
+                }
+              },
+              "id": 305001,
+              "name": "Italian Grand Prix",
+              "slug": "italian-grand-prix"
+            },
+            "winner": {
+              "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+              },
+              "disabled": false,
+              "gender": "M",
+              "id": 9001,
+              "name": "Max Verstappen",
+              "nameCode": "VER",
+              "national": false,
+              "parentTeam": {
+                "id": 191417,
+                "name": "Red Bull Racing"
+              }
+            }
+          }
+        },
+        {
+          "points": 18,
+          "position": 2,
+          "stage": {
+            "competitorResults": true,
+            "country": {
+              "alpha2": "BE",
+              "name": "Belgium"
+            },
+            "description": "Belgian Grand Prix",
+            "endDateTimestamp": 1690128000,
+            "flag": "be",
+            "id": 305002,
+            "info": {
+              "circuit": "Circuit de Spa-Francorchamps",
+              "circuitCity": "Stavelot",
+              "circuitCountry": "Belgium",
+              "circuitLength": 7004,
+              "laps": 44,
+              "raceDistance": 308052,
+              "weather": "Cloudy"
+            },
+            "name": "Belgian Grand Prix",
+            "seasonStageName": "Race",
+            "slug": "belgian-grand-prix",
+            "stageParent": {
+              "description": "Formula 1 2023",
+              "id": 188804,
+              "startDateTimestamp": 1672531200
+            },
+            "startDateTimestamp": 1690041600,
+            "status": {
+              "description": "Finished",
+              "type": "finished"
+            },
+            "teamResults": true,
+            "type": {
+              "id": 1,
+              "name": "Race"
+            },
+            "uniqueStage": {
+              "category": {
+                "flag": "f1",
+                "id": 1,
+                "name": "Formula 1",
+                "slug": "formula-1",
+                "sport": {
+                  "id": 1,
+                  "name": "Motorsport",
+                  "slug": "motorsport"
+                }
+              },
+              "id": 305002,
+              "name": "Belgian Grand Prix",
+              "slug": "belgian-grand-prix"
+            },
+            "winner": {
+              "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+              },
+              "disabled": false,
+              "gender": "M",
+              "id": 9001,
+              "name": "Max Verstappen",
+              "nameCode": "VER",
+              "national": false,
+              "parentTeam": {
+                "id": 191417,
+                "name": "Red Bull Racing"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

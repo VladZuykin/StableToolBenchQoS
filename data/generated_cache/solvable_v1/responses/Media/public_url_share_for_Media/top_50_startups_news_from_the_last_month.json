@@ -1,0 +1,18 @@
+{
+  "{\"apikey\":\"demo_apikey_1\",\"is_from\":\"2023-01-15\",\"language\":\"en\",\"sourcegroup\":\"top50\",\"topic\":\"Startups\"}": {
+    "error": "",
+    "response": {
+      "message": "Top 50 startups news from the last month retrieved successfully",
+      "status": 200,
+      "timestamp": 1673779200
+    }
+  },
+  "{\"apikey\":\"demo_apikey_2\",\"is_from\":\"2023-02-01\",\"language\":\"es\",\"sourcegroup\":\"top100\",\"topic\":\"Startups\"}": {
+    "error": "",
+    "response": {
+      "message": "Top 50 startups news from the last month retrieved successfully",
+      "status": 200,
+      "timestamp": 1675296000
+    }
+  }
+}

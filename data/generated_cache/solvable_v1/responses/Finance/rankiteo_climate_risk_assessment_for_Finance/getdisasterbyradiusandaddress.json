@@ -1,0 +1,74 @@
+{
+  "{\"address\":\"Sydney,Australia\",\"end_date\":\"31-12-2023\",\"radius_km\":\"150\",\"start_date\":\"01-09-2023\"}": {
+    "error": "",
+    "response": {
+      "disasters": [
+        {
+          "affected_population": 31000,
+          "date": "02-11-2023",
+          "disaster_id": "D-2023-1102",
+          "distance_km": 42.7,
+          "location": {
+            "address": "Sydney,Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093
+          },
+          "severity": "high",
+          "type": "Bushfire"
+        },
+        {
+          "affected_population": 17500,
+          "date": "15-12-2023",
+          "disaster_id": "D-2023-1215",
+          "distance_km": 23.9,
+          "location": {
+            "address": "Parramatta,Australia",
+            "latitude": -33.75,
+            "longitude": 151.05
+          },
+          "severity": "moderate",
+          "type": "Flood"
+        }
+      ],
+      "page_number": 1,
+      "radius_km": 150,
+      "total_results": 2
+    }
+  },
+  "{\"address\":\"Tokyo,Japan\",\"end_date\":\"30-06-2023\",\"page_number\":\"2\",\"radius_km\":\"200\",\"start_date\":\"01-03-2023\"}": {
+    "error": "",
+    "response": {
+      "disasters": [
+        {
+          "affected_population": 125000,
+          "date": "12-04-2023",
+          "disaster_id": "D-2023-0417",
+          "distance_km": 18.4,
+          "location": {
+            "address": "Tokyo,Japan",
+            "latitude": 35.6762,
+            "longitude": 139.6503
+          },
+          "magnitude": 6.2,
+          "type": "Earthquake"
+        },
+        {
+          "affected_population": 89000,
+          "category": 3,
+          "date": "29-05-2023",
+          "disaster_id": "D-2023-0529",
+          "distance_km": 27.1,
+          "location": {
+            "address": "Yokohama,Japan",
+            "latitude": 35.4437,
+            "longitude": 139.638
+          },
+          "type": "Typhoon"
+        }
+      ],
+      "page_number": 2,
+      "radius_km": 200,
+      "total_results": 2
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "appUrl": "https://store.epicgames.com/en-US/p/fall-guys",
+      "currencyCode": "USD",
+      "description": "Stumble through chaotic obstacle courses and compete in hilarious multiplayer challenges to be the last one standing.",
+      "discountPrice": 0,
+      "name": "Fall Guys",
+      "offerImageTall": "https://cdn1.epicgames.com/offer/fallguys/tall.jpg",
+      "offerImageWide": "https://cdn1.epicgames.com/offer/fallguys/wide.jpg",
+      "originalPrice": 1999,
+      "publisher": "Mediatonic"
+    }
+  }
+}

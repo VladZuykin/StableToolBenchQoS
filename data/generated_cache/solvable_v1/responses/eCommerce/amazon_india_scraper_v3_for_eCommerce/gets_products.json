@@ -1,0 +1,59 @@
+{
+  "{\"is_id\":\"B07FZ8S74R\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "boAt",
+      "category": "Electronics > Headphones",
+      "currency": "INR",
+      "description": "Bluetooth on-ear headphones with 15 hours playback and immersive sound.",
+      "id": "B07FZ8S74R",
+      "images": [
+        "https://m.media-amazon.com/images/I/61b0l7KQK-L._SL1500_.jpg"
+      ],
+      "price": 1499,
+      "rating": 4.2,
+      "reviews_count": 89231,
+      "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic",
+      "url": "https://www.amazon.in/dp/B07FZ8S74R"
+    }
+  },
+  "{\"is_id\":\"B08N5WRWNW\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "Amazon",
+      "category": "Electronics > Smart Home > Speakers",
+      "currency": "INR",
+      "description": "Meet the all-new Echo Dot - Our most popular smart speaker with Alexa.",
+      "id": "B08N5WRWNW",
+      "images": [
+        "https://m.media-amazon.com/images/I/714Rq4k05UL._SL1500_.jpg"
+      ],
+      "price": 4499,
+      "rating": 4.5,
+      "reviews_count": 128934,
+      "title": "Echo Dot (4th Gen) | Smart speaker with Alexa | White",
+      "url": "https://www.amazon.in/dp/B08N5WRWNW"
+    }
+  },
+  "{\"is_id\":\"B09G9FPHY6\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "Redmi",
+      "category": "Electronics > Mobile Phones",
+      "currency": "INR",
+      "description": "Redmi Note 11 with 90Hz AMOLED display and 50MP quad camera.",
+      "id": "B09G9FPHY6",
+      "images": [
+        "https://m.media-amazon.com/images/I/81lQ0Z0Z0ZL._SL1500_.jpg"
+      ],
+      "price": 12999,
+      "rating": 4.1,
+      "reviews_count": 45210,
+      "title": "Redmi Note 11 (Horizon Blue, 6GB RAM, 64GB Storage)",
+      "url": "https://www.amazon.in/dp/B09G9FPHY6"
+    }
+  }
+}

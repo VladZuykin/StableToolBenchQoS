@@ -1,0 +1,26 @@
+{
+  "{\"minecraftversion\":\"1.18.2\"}": {
+    "error": "",
+    "response": {
+      "type": "release",
+      "url": "https://example.com/minecraft/1.18.2.json",
+      "version": "1.18.2"
+    }
+  },
+  "{\"minecraftversion\":\"1.19.4\"}": {
+    "error": "",
+    "response": {
+      "type": "release",
+      "url": "https://example.com/minecraft/1.19.4.json",
+      "version": "1.19.4"
+    }
+  },
+  "{\"minecraftversion\":\"1.20.1\"}": {
+    "error": "",
+    "response": {
+      "type": "release",
+      "url": "https://example.com/minecraft/1.20.1.json",
+      "version": "1.20.1"
+    }
+  }
+}

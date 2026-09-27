@@ -1,0 +1,14 @@
+{
+  "{\"account_id\":\"98765\",\"source_name\":\"interview_clip.mp4\",\"video_id\":\"67890\"}": {
+    "error": "",
+    "response": {
+      "access_key_id": "AKIAIOSFODNN7EXAMPLE",
+      "api_request_url": "https://api.brightcove.com/v1/accounts/98765/videos/67890/upload-urls",
+      "bucket": "brightcove-uploads-98765",
+      "object_key": "uploads/67890/interview_clip.mp4",
+      "secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+      "session_token": "FQoGZXIvYXdzEBEaDEXAMPLESESSIONTOKEN1234567890",
+      "signed_url": "https://brightcove-uploads-98765.s3.amazonaws.com/uploads/67890/interview_clip.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIOSFODNN7EXAMPLE%2F20240101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240101T000000Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=examplesignature1234567890abcdef"
+    }
+  }
+}

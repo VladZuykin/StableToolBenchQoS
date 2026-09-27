@@ -1,0 +1,166 @@
+{
+  "{\"curpage\":1,\"filters\":\"material~Teak&filters=seatingCapacity~6\",\"itemsperpage\":12,\"keyword\":\"outdoor patio dining set\",\"sortby\":1}": {
+    "error": "",
+    "response": {
+      "response": {
+        "keyword": "outdoor patio dining set",
+        "product_collection": [
+          {
+            "average_overall_rating": 4.7,
+            "b_has_list_price": true,
+            "color_option_count": 2,
+            "free_ship_text": "Free Shipping",
+            "has_stock": true,
+            "image_resource_id": "img-res-20345",
+            "image_url": "https://images.wayfair.com/patio-dining-set-1.jpg",
+            "is_b2b_exclusive": false,
+            "is_eligible_for_designer_commission": false,
+            "is_return_sales": true,
+            "list_price": 2199.5,
+            "manufacturer_id": 7788,
+            "manufacturer_name": "Outdoor Oasis",
+            "name": "7-Piece Teak Patio Dining Set with Umbrella",
+            "num_star_ratings": 5,
+            "number_of_reviews": 512,
+            "option_category_count": 4,
+            "schema_id": "product.v1",
+            "selected_image_id": "sel-img-20345",
+            "selected_image_model": {
+              "height": 750,
+              "id": 20345,
+              "name": "Teak 7-Piece Dining Set",
+              "raw_id": 66021,
+              "schema_id": "image.v1",
+              "width": 1000
+            },
+            "size_option_count": 3
+          },
+          {
+            "average_overall_rating": 4.3,
+            "b_has_list_price": false,
+            "color_option_count": 1,
+            "free_ship_text": "Ships in 2-3 weeks",
+            "has_stock": false,
+            "image_resource_id": "img-res-20346",
+            "image_url": "https://images.wayfair.com/patio-dining-set-2.jpg",
+            "is_b2b_exclusive": true,
+            "is_eligible_for_designer_commission": false,
+            "is_return_sales": false,
+            "list_price": 1899.0,
+            "manufacturer_id": 7789,
+            "manufacturer_name": "Garden Craft",
+            "name": "6-Seater Teak Outdoor Dining Set",
+            "num_star_ratings": 4,
+            "number_of_reviews": 89,
+            "option_category_count": 3,
+            "schema_id": "product.v1",
+            "selected_image_id": "sel-img-20346",
+            "selected_image_model": {
+              "height": 750,
+              "id": 20346,
+              "name": "Teak 6-Seater Dining Set",
+              "raw_id": 66022,
+              "schema_id": "image.v1",
+              "width": 1000
+            },
+            "size_option_count": 2
+          }
+        ],
+        "product_count": 64,
+        "schema_id": "wayfair.search.v1"
+      },
+      "summary": {
+        "cache_always_check_server": true,
+        "cache_seconds": 600,
+        "page_type": "search",
+        "request_id": "req-9c4d5e6f",
+        "response_hash": "f6e5d4c3b2a1",
+        "response_matches_prior_hash": true,
+        "spv_custom_vars": "campaign=summer",
+        "transaction_id": "txn-7a8b9c0d"
+      }
+    }
+  },
+  "{\"curpage\":2,\"filters\":\"colorList~Gray\",\"itemsperpage\":24,\"keyword\":\"modern sectional sofa\",\"sortby\":3}": {
+    "error": "",
+    "response": {
+      "response": {
+        "keyword": "modern sectional sofa",
+        "product_collection": [
+          {
+            "average_overall_rating": 4.5,
+            "b_has_list_price": true,
+            "color_option_count": 4,
+            "free_ship_text": "Free Shipping",
+            "has_stock": true,
+            "image_resource_id": "img-res-10234",
+            "image_url": "https://images.wayfair.com/modern-sectional-sofa-1.jpg",
+            "is_b2b_exclusive": false,
+            "is_eligible_for_designer_commission": true,
+            "is_return_sales": false,
+            "list_price": 1299.99,
+            "manufacturer_id": 4521,
+            "manufacturer_name": "HomeStyle Co",
+            "name": "Modern L-Shaped Sectional Sofa with Chaise",
+            "num_star_ratings": 5,
+            "number_of_reviews": 342,
+            "option_category_count": 3,
+            "schema_id": "product.v1",
+            "selected_image_id": "sel-img-10234",
+            "selected_image_model": {
+              "height": 600,
+              "id": 10234,
+              "name": "Gray L-Shaped Sectional",
+              "raw_id": 55012,
+              "schema_id": "image.v1",
+              "width": 800
+            },
+            "size_option_count": 2
+          },
+          {
+            "average_overall_rating": 4.2,
+            "b_has_list_price": false,
+            "color_option_count": 3,
+            "free_ship_text": "Free Shipping",
+            "has_stock": true,
+            "image_resource_id": "img-res-10235",
+            "image_url": "https://images.wayfair.com/modern-sectional-sofa-2.jpg",
+            "is_b2b_exclusive": false,
+            "is_eligible_for_designer_commission": true,
+            "is_return_sales": false,
+            "list_price": 1599.0,
+            "manufacturer_id": 4522,
+            "manufacturer_name": "Urban Living",
+            "name": "U-Shaped Sectional Sofa in Charcoal",
+            "num_star_ratings": 4,
+            "number_of_reviews": 128,
+            "option_category_count": 2,
+            "schema_id": "product.v1",
+            "selected_image_id": "sel-img-10235",
+            "selected_image_model": {
+              "height": 600,
+              "id": 10235,
+              "name": "Charcoal U-Shaped Sectional",
+              "raw_id": 55013,
+              "schema_id": "image.v1",
+              "width": 800
+            },
+            "size_option_count": 1
+          }
+        ],
+        "product_count": 187,
+        "schema_id": "wayfair.search.v1"
+      },
+      "summary": {
+        "cache_always_check_server": false,
+        "cache_seconds": 300,
+        "page_type": "search",
+        "request_id": "req-8f3a2b1c",
+        "response_hash": "a1b2c3d4e5f6",
+        "response_matches_prior_hash": false,
+        "spv_custom_vars": "",
+        "transaction_id": "txn-4d9e7f2a"
+      }
+    }
+  }
+}

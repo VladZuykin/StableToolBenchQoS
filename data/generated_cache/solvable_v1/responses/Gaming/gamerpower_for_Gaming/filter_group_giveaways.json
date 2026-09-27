@@ -1,0 +1,44 @@
+{
+  "{\"platform\":\"epic-games-store\",\"type\":\"game\"}": {
+    "error": "",
+    "response": {
+      "description": "Free full game available on the Epic Games Store for a limited time.",
+      "end_date": "2025-12-05",
+      "gamerpower_url": "https://www.gamerpower.com/epic-free-game",
+      "id": 7392,
+      "image": "https://www.gamerpower.com/images/epic-free-game.jpg",
+      "instructions": "Add the game to your Epic Games Store library before the offer expires.",
+      "open_giveaway": "https://store.epicgames.com/free-game",
+      "open_giveaway_url": "https://store.epicgames.com/free-game",
+      "platforms": "epic-games-store",
+      "published_date": "2025-11-28",
+      "status": "Active",
+      "thumbnail": "https://www.gamerpower.com/thumbs/epic-free-game.jpg",
+      "title": "Epic Free Game",
+      "type": "game",
+      "users": 98234,
+      "worth": "$29.99"
+    }
+  },
+  "{\"platform\":\"steam\",\"type\":\"loot\"}": {
+    "error": "",
+    "response": {
+      "description": "Claim a free in-game loot bundle for Steam players.",
+      "end_date": "2025-12-31",
+      "gamerpower_url": "https://www.gamerpower.com/steam-loot-bundle",
+      "id": 4821,
+      "image": "https://www.gamerpower.com/images/steam-loot-bundle.jpg",
+      "instructions": "Log in to Steam and redeem the key from your inventory.",
+      "open_giveaway": "https://store.steampowered.com/redeem/4821",
+      "open_giveaway_url": "https://store.steampowered.com/redeem/4821",
+      "platforms": "steam",
+      "published_date": "2025-11-15",
+      "status": "Active",
+      "thumbnail": "https://www.gamerpower.com/thumbs/steam-loot-bundle.jpg",
+      "title": "Steam Loot Bundle",
+      "type": "loot",
+      "users": 15420,
+      "worth": "$19.99"
+    }
+  }
+}

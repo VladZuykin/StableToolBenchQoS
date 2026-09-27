@@ -1,0 +1,86 @@
+{
+  "{\"is_id\":101}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "concept",
+      "messages": "Concept details retrieved successfully.",
+      "parameters": [
+        {
+          "name": "id",
+          "value": 101
+        }
+      ],
+      "response": [
+        {
+          "description": "Basic concepts of neural networks including neurons, weights, and activation functions.",
+          "difficulty": "beginner",
+          "id": 101,
+          "name": "Introduction to Neural Networks",
+          "tags": [
+            "machine learning",
+            "neural networks",
+            "AI"
+          ]
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"is_id\":245}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "concept",
+      "messages": "Concept details retrieved successfully.",
+      "parameters": [
+        {
+          "name": "id",
+          "value": 245
+        }
+      ],
+      "response": [
+        {
+          "description": "Probabilistic reasoning using Bayes' theorem for updating beliefs with evidence.",
+          "difficulty": "advanced",
+          "id": 245,
+          "name": "Bayesian Inference",
+          "tags": [
+            "statistics",
+            "probability",
+            "inference"
+          ]
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"is_id\":378}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "concept",
+      "messages": "Concept details retrieved successfully.",
+      "parameters": [
+        {
+          "name": "id",
+          "value": 378
+        }
+      ],
+      "response": [
+        {
+          "description": "Learning technique that involves reviewing information at increasing intervals to enhance long-term retention.",
+          "difficulty": "intermediate",
+          "id": 378,
+          "name": "Spaced Repetition",
+          "tags": [
+            "memory",
+            "learning",
+            "retention"
+          ]
+        }
+      ],
+      "results": 1
+    }
+  }
+}

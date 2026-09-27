@@ -1,0 +1,71 @@
+{
+  "{\"code1_code2_coden\":\"BUG-123;BUG-124;BUG-125\",\"code1_code2_coden_format\":\"BUG-123\",\"company\":12345,\"format\":\"json\",\"team\":45678,\"username\":\"myuser\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "myuser",
+          "code": "BUG-123",
+          "description": "Users cannot log in with special characters",
+          "due_date": "2024-02-01",
+          "status": "open",
+          "title": "Fix login error"
+        },
+        {
+          "assigned_to": "myuser",
+          "code": "BUG-124",
+          "description": "Upgrade to latest versions",
+          "due_date": "2024-02-10",
+          "status": "in_progress",
+          "title": "Update dependencies"
+        },
+        {
+          "assigned_to": "myuser",
+          "code": "BUG-125",
+          "description": "Optimize database queries",
+          "due_date": "2024-02-20",
+          "status": "open",
+          "title": "Improve performance"
+        }
+      ]
+    }
+  },
+  "{\"code1_code2_coden\":\"PROJ-001\",\"code1_code2_coden_format\":\"PROJ-001\",\"company\":12345,\"format\":\"xml\",\"team\":45678,\"username\":\"myuser\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "myuser",
+          "code": "PROJ-001",
+          "description": "Initial project meeting",
+          "due_date": "2023-11-30",
+          "status": "completed",
+          "title": "Project kickoff"
+        }
+      ]
+    }
+  },
+  "{\"code1_code2_coden\":\"TASK-101;TASK-102\",\"code1_code2_coden_format\":\"TASK-101\",\"company\":12345,\"format\":\"json\",\"team\":45678,\"username\":\"myuser\"}": {
+    "error": "",
+    "response": {
+      "tasks": [
+        {
+          "assigned_to": "myuser",
+          "code": "TASK-101",
+          "description": "Create a new homepage design",
+          "due_date": "2023-12-31",
+          "status": "open",
+          "title": "Design homepage"
+        },
+        {
+          "assigned_to": "myuser",
+          "code": "TASK-102",
+          "description": "Implement login functionality",
+          "due_date": "2024-01-15",
+          "status": "in_progress",
+          "title": "Develop login page"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "{\"co2\":{\"year\":\"2020\"}}": {
+    "error": "",
+    "response": {
+      "co2": [
+        {
+          "_list_length": 3799,
+          "cycle": "str",
+          "day": "str",
+          "month": "str",
+          "trend": "str",
+          "year": "str"
+        }
+      ]
+    }
+  },
+  "{\"co2\":{}}": {
+    "error": "",
+    "response": {
+      "co2": [
+        {
+          "_list_length": 3799,
+          "cycle": "str",
+          "day": "str",
+          "month": "str",
+          "trend": "str",
+          "year": "str"
+        }
+      ]
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "co2": [
+        {
+          "_list_length": 3799,
+          "cycle": "str",
+          "day": "str",
+          "month": "str",
+          "trend": "str",
+          "year": "str"
+        }
+      ]
+    }
+  }
+}

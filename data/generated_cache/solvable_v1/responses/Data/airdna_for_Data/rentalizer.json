@@ -1,0 +1,130 @@
+{
+  "{\"accommodates\":\"8\",\"address\":\"1600 Pennsylvania Ave NW, Washington, DC 20500\",\"bathrooms\":3.5,\"bedrooms\":4,\"currency\":\"USD\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "comps": [
+          {
+            "_list_length": 12,
+            "accommodates": 6.0,
+            "airbnb_property_id": "12345678",
+            "bathrooms": 3.0,
+            "bedrooms": 3.0,
+            "cover_img": "https://example.com/img1.jpg",
+            "distance_meters": 420,
+            "listing_url": "https://www.airbnb.com/rooms/12345678",
+            "location": {
+              "lat": 38.8977,
+              "lng": -77.0365
+            },
+            "platforms": {
+              "airbnb_property_id": "12345678",
+              "vrbo_property_id": null
+            },
+            "property_type": "House",
+            "rating": 4.85,
+            "reviews": 112,
+            "room_type": "Entire home/apt",
+            "stats": {
+              "adr": {
+                "ltm": 310
+              },
+              "days_available": {
+                "ltm": 198
+              },
+              "occupancy": {
+                "ltm": 0.62
+              },
+              "revenue": {
+                "ltm": 38000
+              },
+              "revenue_potential": {
+                "ltm": 52000
+              }
+            },
+            "title": "Historic District Townhome"
+          },
+          {
+            "_list_length": 12,
+            "accommodates": 8.0,
+            "airbnb_property_id": null,
+            "bathrooms": 3.5,
+            "bedrooms": 4.0,
+            "cover_img": "https://example.com/img2.jpg",
+            "distance_meters": 780,
+            "listing_url": "https://www.vrbo.com/9876543",
+            "location": {
+              "lat": 38.9001,
+              "lng": -77.0342
+            },
+            "platforms": {
+              "airbnb_property_id": null,
+              "vrbo_property_id": "9876543"
+            },
+            "property_type": "Townhouse",
+            "rating": 4.7,
+            "reviews": 64,
+            "room_type": "Entire home/apt",
+            "stats": {
+              "adr": {
+                "ltm": 355
+              },
+              "days_available": {
+                "ltm": 172
+              },
+              "occupancy": {
+                "ltm": 0.58
+              },
+              "revenue": {
+                "ltm": 35400
+              },
+              "revenue_potential": {
+                "ltm": 61000
+              }
+            },
+            "title": "Spacious Capitol Hill Retreat"
+          }
+        ],
+        "load_city": null,
+        "property_details": {
+          "accommodates": 8,
+          "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+          "address_city_id": 8421,
+          "address_lookup": "1600 Pennsylvania Ave NW, Washington, DC 20500, USA",
+          "address_region_id": [
+            110
+          ],
+          "bathrooms": 3.5,
+          "bedrooms": 4,
+          "currency_symbol": "$",
+          "location": {
+            "lat": 38.8977,
+            "lng": -77.0365
+          },
+          "property_value": 985000,
+          "zipcode": "20500"
+        },
+        "property_stats": {
+          "adr": {
+            "2023": {
+              "10": 342.5,
+              "11": 318.0
+            }
+          },
+          "occupancy": {
+            "2023": {
+              "10": 0.61,
+              "11": 0.57
+            }
+          },
+          "revenue": {
+            "2023": {
+              "10": 6480,
+              "11": 5430
+            }
+          }
+        }
+      }
+    }
+  }
+}

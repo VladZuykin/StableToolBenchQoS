@@ -1,0 +1,35 @@
+{
+  "{\"destination\":\"https://news.site.org/articles/2024/technology-trends\",\"domain_fullname\":\"news.site.org\",\"slashtag\":\"tech-trends\"}": {
+    "error": "",
+    "response": {
+      "createdAt": "2024-06-11T14:27:12Z",
+      "destination": "https://news.site.org/articles/2024/technology-trends",
+      "domain": "news.site.org",
+      "id": "news.site.org/tech-trends",
+      "shortUrl": "https://news.site.org/tech-trends",
+      "slashtag": "tech-trends"
+    }
+  },
+  "{\"destination\":\"https://shop.mystore.io/products/summer-sale\",\"domain_id\":\"mybrand\",\"slashtag\":\"summer-sale\"}": {
+    "error": "",
+    "response": {
+      "createdAt": "2024-06-11T14:25:47Z",
+      "destination": "https://shop.mystore.io/products/summer-sale",
+      "domain": "mybrand",
+      "id": "mybrand/summer-sale",
+      "shortUrl": "https://mybrand.rebrand.ly/summer-sale",
+      "slashtag": "summer-sale"
+    }
+  },
+  "{\"destination\":\"https://www.example.com/blog/how-to-use-apis\"}": {
+    "error": "",
+    "response": {
+      "createdAt": "2024-06-11T14:23:05Z",
+      "destination": "https://www.example.com/blog/how-to-use-apis",
+      "domain": "rebrand.ly",
+      "id": "rebrand.ly/9f3k2a",
+      "shortUrl": "https://rebrand.ly/9f3k2a",
+      "slashtag": "9f3k2a"
+    }
+  }
+}

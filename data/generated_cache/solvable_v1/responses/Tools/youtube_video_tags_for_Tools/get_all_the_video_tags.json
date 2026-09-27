@@ -1,0 +1,56 @@
+{
+  "{\"url\":\"https://www.youtube.com/watch?v=9bZkp7q19f0\"}": {
+    "error": "",
+    "response": {
+      "tags": [
+        "psy",
+        "gangnam style",
+        "kpop",
+        "강남스타일",
+        "gangnam",
+        "psy gangnam style",
+        "k-pop",
+        "dance",
+        "viral",
+        "official video"
+      ],
+      "title": "PSY - GANGNAM STYLE(강남스타일) M/V"
+    }
+  },
+  "{\"url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "tags": [
+        "rick astley",
+        "never gonna give you up",
+        "rickroll",
+        "80s music",
+        "pop",
+        "official music video",
+        "rca records",
+        "rick astley official",
+        "never gonna give you up lyrics",
+        "classic hits"
+      ],
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)"
+    }
+  },
+  "{\"url\":\"https://www.youtube.com/watch?v=kJQP7kiw5Fk\"}": {
+    "error": "",
+    "response": {
+      "tags": [
+        "despacito",
+        "luis fonsi",
+        "daddy yankee",
+        "latin",
+        "reggaeton",
+        "despacito lyrics",
+        "latin music",
+        "summer hits",
+        "universal music",
+        "spanish music"
+      ],
+      "title": "Luis Fonsi - Despacito ft. Daddy Yankee"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "{\"locale\":\"DE\",\"player_id\":28003}": {
+    "error": "",
+    "response": {
+      "data": {
+        "_list_length": 34,
+        "playerAchievements": [
+          {
+            "_list_length": 1,
+            "achievementID": "GER1_CHAMPION",
+            "additionalData": [
+              {
+                "clubID": "27",
+                "competitionID": "L1",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2022/2023",
+                "seasonID": "2022",
+                "type": "champion"
+              }
+            ],
+            "title": "German Champion",
+            "value": "3"
+          },
+          {
+            "_list_length": 1,
+            "achievementID": "UCL_WINNER",
+            "additionalData": [
+              {
+                "clubID": "27",
+                "competitionID": "CL",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2019/2020",
+                "seasonID": "2019",
+                "type": "winner"
+              }
+            ],
+            "title": "UEFA Champions League Winner",
+            "value": "1"
+          }
+        ],
+        "share": {
+          "description": "Player progress and achievements of the player",
+          "title": "Player Progress",
+          "url": "https://www.transfermarkt.com/player-progress/player/28003"
+        }
+      }
+    }
+  },
+  "{\"locale\":\"EN\",\"player_id\":8198}": {
+    "error": "",
+    "response": {
+      "data": {
+        "_list_length": 34,
+        "playerAchievements": [
+          {
+            "_list_length": 1,
+            "achievementID": "ESP1_CHAMPION",
+            "additionalData": [
+              {
+                "clubID": "418",
+                "competitionID": "L1",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2021/2022",
+                "seasonID": "2021",
+                "type": "champion"
+              }
+            ],
+            "title": "Spanish Champion",
+            "value": "2"
+          },
+          {
+            "_list_length": 1,
+            "achievementID": "COPA_DEL_REY",
+            "additionalData": [
+              {
+                "clubID": "418",
+                "competitionID": "CDR",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2020/2021",
+                "seasonID": "2020",
+                "type": "winner"
+              }
+            ],
+            "title": "Copa del Rey Winner",
+            "value": "1"
+          }
+        ],
+        "share": {
+          "description": "Player progress and achievements of the player",
+          "title": "Player Progress",
+          "url": "https://www.transfermarkt.com/player-progress/player/8198"
+        }
+      }
+    }
+  },
+  "{\"locale\":\"FR\",\"player_id\":583}": {
+    "error": "",
+    "response": {
+      "data": {
+        "_list_length": 34,
+        "playerAchievements": [
+          {
+            "_list_length": 1,
+            "achievementID": "ITA1_CHAMPION",
+            "additionalData": [
+              {
+                "clubID": "506",
+                "competitionID": "L1",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2018/2019",
+                "seasonID": "2018",
+                "type": "champion"
+              }
+            ],
+            "title": "Italian Champion",
+            "value": "1"
+          },
+          {
+            "_list_length": 1,
+            "achievementID": "ITA_CUP",
+            "additionalData": [
+              {
+                "clubID": "506",
+                "competitionID": "CIT",
+                "competitionTypeID": "1",
+                "countryID": null,
+                "cycle": "2017/2018",
+                "seasonID": "2017",
+                "type": "winner"
+              }
+            ],
+            "title": "Coppa Italia Winner",
+            "value": "2"
+          }
+        ],
+        "share": {
+          "description": "Player progress and achievements of the player",
+          "title": "Player Progress",
+          "url": "https://www.transfermarkt.com/player-progress/player/583"
+        }
+      }
+    }
+  }
+}

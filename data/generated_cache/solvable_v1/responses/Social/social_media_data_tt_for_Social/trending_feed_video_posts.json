@@ -1,0 +1,102 @@
+{
+  "{\"limit\":20}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author": {
+            "nickname": "Dance King",
+            "unique_id": "danceking",
+            "verified": true
+          },
+          "create_time": 1712345800,
+          "desc": "Street dance challenge gone viral 🔥",
+          "id": "7312456789012345680",
+          "stats": {
+            "comment_count": 12000,
+            "digg_count": 980000,
+            "play_count": 15000000,
+            "share_count": 45000
+          },
+          "video": {
+            "cover": "https://p16-sign.example.com/cover3.jpg",
+            "duration": 30,
+            "play_addr": "https://v16-webapp.example.com/video3.mp4"
+          }
+        },
+        {
+          "author": {
+            "nickname": "Paws of Joy",
+            "unique_id": "pawsofjoy",
+            "verified": false
+          },
+          "create_time": 1712345900,
+          "desc": "Cute puppy tries first snow ❄️🐶",
+          "id": "7312456789012345681",
+          "stats": {
+            "comment_count": 6700,
+            "digg_count": 560000,
+            "play_count": 7800000,
+            "share_count": 23000
+          },
+          "video": {
+            "cover": "https://p16-sign.example.com/cover4.jpg",
+            "duration": 22,
+            "play_addr": "https://v16-webapp.example.com/video4.mp4"
+          }
+        }
+      ],
+      "message": "Trending video posts retrieved successfully"
+    }
+  },
+  "{\"limit\":5}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author": {
+            "nickname": "Sam Travels",
+            "unique_id": "travelwithsam",
+            "verified": false
+          },
+          "create_time": 1712345678,
+          "desc": "Sunset timelapse over the ocean #nature #vibes",
+          "id": "7312456789012345678",
+          "stats": {
+            "comment_count": 340,
+            "digg_count": 45200,
+            "play_count": 890000,
+            "share_count": 1200
+          },
+          "video": {
+            "cover": "https://p16-sign.example.com/cover1.jpg",
+            "duration": 15,
+            "play_addr": "https://v16-webapp.example.com/video1.mp4"
+          }
+        },
+        {
+          "author": {
+            "nickname": "Chef Maria",
+            "unique_id": "chefmaria",
+            "verified": true
+          },
+          "create_time": 1712345700,
+          "desc": "Easy 5-minute pasta recipe 🍝",
+          "id": "7312456789012345679",
+          "stats": {
+            "comment_count": 1500,
+            "digg_count": 120300,
+            "play_count": 2100000,
+            "share_count": 8900
+          },
+          "video": {
+            "cover": "https://p16-sign.example.com/cover2.jpg",
+            "duration": 42,
+            "play_addr": "https://v16-webapp.example.com/video2.mp4"
+          }
+        }
+      ],
+      "message": "Trending video posts retrieved successfully"
+    }
+  }
+}

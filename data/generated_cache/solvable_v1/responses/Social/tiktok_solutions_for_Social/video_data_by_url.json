@@ -1,0 +1,221 @@
+{
+  "{\"url\":\"https://www.tiktok.com/@bellapoarch/video/7301234567890123456\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "aweme_detail": {
+          "desc": "new single out now! #music #newrelease",
+          "distribute_type": 2,
+          "has_vs_entry": false,
+          "is_ads": true,
+          "is_hash_tag": 1,
+          "is_pgcshow": true,
+          "music": {
+            "album": "Single",
+            "author": "bellapoarch",
+            "cover_large": {
+              "height": 720,
+              "uri": "cover_large_uri_3",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_large_5.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_large_6.jpg"
+              ],
+              "width": 720
+            },
+            "cover_medium": {
+              "height": 360,
+              "uri": "cover_medium_uri_3",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_medium_5.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_medium_6.jpg"
+              ],
+              "width": 360
+            },
+            "cover_thumb": {
+              "height": 100,
+              "uri": "cover_thumb_uri_3",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_thumb_5.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_thumb_6.jpg"
+              ],
+              "width": 100
+            },
+            "id": 7345678901234567890,
+            "id_str": "7345678901234567890",
+            "title": "original sound - bellapoarch"
+          },
+          "need_vs_entry": true,
+          "prevent_download": false,
+          "rate": 5,
+          "share_url": "https://www.tiktok.com/@bellapoarch/video/7301234567890123456",
+          "status": {
+            "allow_comment": true,
+            "allow_share": true,
+            "aweme_id": "7301234567890123456",
+            "download_status": 0,
+            "in_reviewing": false,
+            "is_delete": false,
+            "is_prohibited": false,
+            "private_status": 0,
+            "review_result": {
+              "review_status": 0
+            },
+            "reviewed": 1,
+            "self_see": false,
+            "video_mute": {
+              "is_mute": false,
+              "mute_desc": ""
+            }
+          }
+        }
+      },
+      "status": "success"
+    }
+  },
+  "{\"url\":\"https://www.tiktok.com/@charlidamelio/video/7152345678901234567\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "aweme_detail": {
+          "desc": "dance challenge with friends #fyp",
+          "distribute_type": 0,
+          "has_vs_entry": false,
+          "is_ads": false,
+          "is_hash_tag": 1,
+          "is_pgcshow": false,
+          "music": {
+            "album": "",
+            "author": "charlidamelio",
+            "cover_large": {
+              "height": 720,
+              "uri": "cover_large_uri",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_large_1.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_large_2.jpg"
+              ],
+              "width": 720
+            },
+            "cover_medium": {
+              "height": 360,
+              "uri": "cover_medium_uri",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_medium_1.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_medium_2.jpg"
+              ],
+              "width": 360
+            },
+            "cover_thumb": {
+              "height": 100,
+              "uri": "cover_thumb_uri",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_thumb_1.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_thumb_2.jpg"
+              ],
+              "width": 100
+            },
+            "id": 7123456789012345678,
+            "id_str": "7123456789012345678",
+            "title": "original sound"
+          },
+          "need_vs_entry": false,
+          "prevent_download": false,
+          "rate": 0,
+          "share_url": "https://www.tiktok.com/@charlidamelio/video/7152345678901234567",
+          "status": {
+            "allow_comment": true,
+            "allow_share": true,
+            "aweme_id": "7152345678901234567",
+            "download_status": 0,
+            "in_reviewing": false,
+            "is_delete": false,
+            "is_prohibited": false,
+            "private_status": 0,
+            "review_result": {
+              "review_status": 0
+            },
+            "reviewed": 1,
+            "self_see": false,
+            "video_mute": {
+              "is_mute": false,
+              "mute_desc": ""
+            }
+          }
+        }
+      },
+      "status": "success"
+    }
+  },
+  "{\"url\":\"https://www.tiktok.com/@khaby.lame/video/7209876543210987654\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "aweme_detail": {
+          "desc": "when you try to be funny but fail",
+          "distribute_type": 1,
+          "has_vs_entry": true,
+          "is_ads": false,
+          "is_hash_tag": 0,
+          "is_pgcshow": false,
+          "music": {
+            "album": "Comedy Hits",
+            "author": "khaby.lame",
+            "cover_large": {
+              "height": 720,
+              "uri": "cover_large_uri_2",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_large_3.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_large_4.jpg"
+              ],
+              "width": 720
+            },
+            "cover_medium": {
+              "height": 360,
+              "uri": "cover_medium_uri_2",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_medium_3.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_medium_4.jpg"
+              ],
+              "width": 360
+            },
+            "cover_thumb": {
+              "height": 100,
+              "uri": "cover_thumb_uri_2",
+              "url_list": [
+                "https://p16-sign.tiktokcdn.com/cover_thumb_3.jpg",
+                "https://p16-sign.tiktokcdn.com/cover_thumb_4.jpg"
+              ],
+              "width": 100
+            },
+            "id": 7234567890123456789,
+            "id_str": "7234567890123456789",
+            "title": "funny background music"
+          },
+          "need_vs_entry": false,
+          "prevent_download": true,
+          "rate": 0,
+          "share_url": "https://www.tiktok.com/@khaby.lame/video/7209876543210987654",
+          "status": {
+            "allow_comment": false,
+            "allow_share": true,
+            "aweme_id": "7209876543210987654",
+            "download_status": 1,
+            "in_reviewing": false,
+            "is_delete": false,
+            "is_prohibited": false,
+            "private_status": 0,
+            "review_result": {
+              "review_status": 0
+            },
+            "reviewed": 1,
+            "self_see": false,
+            "video_mute": {
+              "is_mute": true,
+              "mute_desc": "Audio muted due to copyright"
+            }
+          }
+        }
+      },
+      "status": "success"
+    }
+  }
+}

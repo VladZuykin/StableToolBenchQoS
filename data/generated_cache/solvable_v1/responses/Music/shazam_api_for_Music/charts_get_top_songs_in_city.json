@@ -1,0 +1,56 @@
+{
+  "{\"city_name\":\"Chicago\",\"country_code\":\"US\"}": {
+    "error": "",
+    "response": {
+      "apple_music_url": "https://music.apple.com/us/album/anti-hero/1649434000?i=1649434001",
+      "artist_id": "1234567890",
+      "key": 1,
+      "photo_url": null,
+      "ringtone": "https://www.shazam.com/ringtone/anti-hero",
+      "sections": [],
+      "shazam_url": "https://www.shazam.com/track/anti-hero",
+      "spotify_uri": null,
+      "spotify_uri_query": null,
+      "spotify_url": null,
+      "subtitle": "Taylor Swift",
+      "title": "Anti-Hero",
+      "youtube_link": null
+    }
+  },
+  "{\"city_name\":\"London\",\"country_code\":\"GB\"}": {
+    "error": "",
+    "response": {
+      "apple_music_url": "https://music.apple.com/gb/album/as-it-was/1615584999?i=1615585000",
+      "artist_id": "9876543210",
+      "key": 2,
+      "photo_url": null,
+      "ringtone": "https://www.shazam.com/ringtone/as-it-was",
+      "sections": [],
+      "shazam_url": "https://www.shazam.com/track/as-it-was",
+      "spotify_uri": null,
+      "spotify_uri_query": null,
+      "spotify_url": null,
+      "subtitle": "Harry Styles",
+      "title": "As It Was",
+      "youtube_link": null
+    }
+  },
+  "{\"city_name\":\"Tokyo\",\"country_code\":\"JP\"}": {
+    "error": "",
+    "response": {
+      "apple_music_url": "https://music.apple.com/jp/album/idol/1691234567?i=1691234568",
+      "artist_id": "1122334455",
+      "key": 3,
+      "photo_url": null,
+      "ringtone": "https://www.shazam.com/ringtone/idol",
+      "sections": [],
+      "shazam_url": "https://www.shazam.com/track/idol",
+      "spotify_uri": null,
+      "spotify_uri_query": null,
+      "spotify_url": null,
+      "subtitle": "YOASOBI",
+      "title": "Idol",
+      "youtube_link": null
+    }
+  }
+}

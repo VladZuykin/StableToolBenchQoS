@@ -1,0 +1,52 @@
+{
+  "{\"store_id\":1764,\"tcin\":84643211}": {
+    "error": "",
+    "response": {
+      "product": {
+        "availability": "LIMITED_STOCK",
+        "brand": "Goodfellow & Co",
+        "category": "Men's Clothing",
+        "description": "Slim-fit chinos crafted from stretch cotton twill.",
+        "images": [
+          "https://target.scene7.com/is/image/Target/84643211"
+        ],
+        "price": {
+          "currency": "USD",
+          "current_price": 29.99
+        },
+        "rating": {
+          "average": 4.2,
+          "count": 57
+        },
+        "store_id": 1764,
+        "tcin": "84643211",
+        "title": "Men's Slim Fit Chino Pants"
+      }
+    }
+  },
+  "{\"store_id\":911,\"tcin\":54191097}": {
+    "error": "",
+    "response": {
+      "product": {
+        "availability": "IN_STOCK",
+        "brand": "A New Day",
+        "category": "Women's Clothing",
+        "description": "A soft cotton crewneck tee with a relaxed fit.",
+        "images": [
+          "https://target.scene7.com/is/image/Target/54191097"
+        ],
+        "price": {
+          "currency": "USD",
+          "current_price": 8.0
+        },
+        "rating": {
+          "average": 4.5,
+          "count": 128
+        },
+        "store_id": 911,
+        "tcin": "54191097",
+        "title": "Women's Short Sleeve Crewneck T-Shirt"
+      }
+    }
+  }
+}

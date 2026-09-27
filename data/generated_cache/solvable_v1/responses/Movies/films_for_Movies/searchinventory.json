@@ -1,0 +1,124 @@
+{
+  "{\"limit\":10,\"searchstring\":\"matrix\",\"skip\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/films?searchString=matrix&limit=10&skip=0",
+      "parameters": [
+        {
+          "name": "searchString",
+          "value": "matrix"
+        },
+        {
+          "name": "limit",
+          "value": 10
+        },
+        {
+          "name": "skip",
+          "value": 0
+        }
+      ],
+      "response": [
+        {
+          "id": "3",
+          "manufacturer": {
+            "homePage": "https://www.warnerbros.com",
+            "name": "Warner Bros. Pictures",
+            "phone": "+1 818-954-6000"
+          },
+          "name": "The Matrix",
+          "releaseDate": "1999-03-31"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"limit\":2,\"searchstring\":\"\",\"skip\":4}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/films?searchString=&limit=2&skip=4",
+      "parameters": [
+        {
+          "name": "searchString",
+          "value": ""
+        },
+        {
+          "name": "limit",
+          "value": 2
+        },
+        {
+          "name": "skip",
+          "value": 4
+        }
+      ],
+      "response": [
+        {
+          "id": "5",
+          "manufacturer": {
+            "homePage": "https://www.starwars.com",
+            "name": "Lucasfilm Ltd.",
+            "phone": "+1 415-623-1000"
+          },
+          "name": "The Empire Strikes Back",
+          "releaseDate": "1980-05-21"
+        },
+        {
+          "id": "6",
+          "manufacturer": {
+            "homePage": "https://www.starwars.com",
+            "name": "Lucasfilm Ltd.",
+            "phone": "+1 415-623-1000"
+          },
+          "name": "Return of the Jedi",
+          "releaseDate": "1983-05-25"
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"limit\":5,\"searchstring\":\"star wars\",\"skip\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/films?searchString=star+wars&limit=5&skip=0",
+      "parameters": [
+        {
+          "name": "searchString",
+          "value": "star wars"
+        },
+        {
+          "name": "limit",
+          "value": 5
+        },
+        {
+          "name": "skip",
+          "value": 0
+        }
+      ],
+      "response": [
+        {
+          "id": "1",
+          "manufacturer": {
+            "homePage": "https://www.starwars.com",
+            "name": "Lucasfilm Ltd.",
+            "phone": "+1 415-623-1000"
+          },
+          "name": "A New Hope",
+          "releaseDate": "1977-05-25"
+        },
+        {
+          "id": "5",
+          "manufacturer": {
+            "homePage": "https://www.starwars.com",
+            "name": "Lucasfilm Ltd.",
+            "phone": "+1 415-623-1000"
+          },
+          "name": "The Empire Strikes Back",
+          "releaseDate": "1980-05-21"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

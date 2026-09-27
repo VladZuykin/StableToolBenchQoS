@@ -1,0 +1,67 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "attendee_count": 1842,
+          "created_at": "2024-06-15T14:22:10Z",
+          "description": "Annual technology conference featuring startups, investors, and industry leaders.",
+          "end_time": "2024-10-30T18:00:00Z",
+          "id": "evt_10293847",
+          "location": {
+            "address": "747 Howard St",
+            "city": "San Francisco",
+            "country": "US",
+            "latitude": 37.7842,
+            "longitude": -122.4014,
+            "postal_code": "94103",
+            "state": "CA",
+            "venue": "Moscone Center"
+          },
+          "start_time": "2024-10-28T09:00:00Z",
+          "status": "published",
+          "ticket_sales": {
+            "currency": "USD",
+            "gross_revenue": 276300.0,
+            "total_available": 2500,
+            "total_sold": 1842
+          },
+          "timezone": "America/Los_Angeles",
+          "title": "TechCrunch Disrupt 2024",
+          "updated_at": "2024-10-20T11:05:33Z",
+          "url": "https://ticketbud.com/events/evt_10293847"
+        },
+        {
+          "attendee_count": 975,
+          "created_at": "2024-07-02T09:45:00Z",
+          "description": "A weekend of tastings, chef demonstrations, and live music.",
+          "end_time": "2024-11-10T22:00:00Z",
+          "id": "evt_56473829",
+          "location": {
+            "address": "900 W Riverside Dr",
+            "city": "Austin",
+            "country": "US",
+            "latitude": 30.2611,
+            "longitude": -97.7503,
+            "postal_code": "78704",
+            "state": "TX",
+            "venue": "Auditorium Shores"
+          },
+          "start_time": "2024-11-08T12:00:00Z",
+          "status": "published",
+          "ticket_sales": {
+            "currency": "USD",
+            "gross_revenue": 146250.0,
+            "total_available": 1500,
+            "total_sold": 975
+          },
+          "timezone": "America/Chicago",
+          "title": "Austin Food & Wine Festival",
+          "updated_at": "2024-10-18T16:30:12Z",
+          "url": "https://ticketbud.com/events/evt_56473829"
+        }
+      ]
+    }
+  }
+}

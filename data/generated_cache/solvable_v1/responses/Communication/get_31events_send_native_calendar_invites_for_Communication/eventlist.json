@@ -1,0 +1,51 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "attendees": [
+            {
+              "email": "john.doe@example.com",
+              "name": "John Doe",
+              "status": "accepted"
+            }
+          ],
+          "description": "Join us for the unveiling of our new product line.",
+          "end_time": "2024-07-15T15:00:00Z",
+          "id": "evt_10293",
+          "location": "Online",
+          "organizer": {
+            "email": "jane.smith@example.com",
+            "name": "Jane Smith"
+          },
+          "start_time": "2024-07-15T14:00:00Z",
+          "status": "confirmed",
+          "timezone": "America/New_York",
+          "title": "Product Launch Webinar"
+        },
+        {
+          "attendees": [
+            {
+              "email": "alice.brown@example.com",
+              "name": "Alice Brown",
+              "status": "pending"
+            }
+          ],
+          "description": "Mandatory training for all staff.",
+          "end_time": "2024-08-05T11:00:00Z",
+          "id": "evt_10294",
+          "location": "Conference Room A",
+          "organizer": {
+            "email": "mark.johnson@example.com",
+            "name": "Mark Johnson"
+          },
+          "start_time": "2024-08-05T09:00:00Z",
+          "status": "tentative",
+          "timezone": "Europe/London",
+          "title": "Quarterly Training Session"
+        }
+      ]
+    }
+  }
+}

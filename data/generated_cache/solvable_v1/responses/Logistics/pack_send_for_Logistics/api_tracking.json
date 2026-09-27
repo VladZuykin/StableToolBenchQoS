@@ -1,0 +1,96 @@
+{
+  "{\"reference\":\"PS123456789AU\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/api/Tracking/",
+      "parameters": [
+        {
+          "name": "reference",
+          "value": "PS123456789AU"
+        }
+      ],
+      "response": [
+        {
+          "estimatedDelivery": "2024-06-15",
+          "events": [
+            {
+              "date": "2024-06-10",
+              "description": "Picked up from sender"
+            },
+            {
+              "date": "2024-06-11",
+              "description": "Departed sorting facility"
+            }
+          ],
+          "location": "Sydney, NSW",
+          "reference": "PS123456789AU",
+          "status": "In Transit"
+        }
+      ],
+      "results": 1,
+      "status": 200,
+      "title": "Tracking information retrieved successfully",
+      "traceId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "type": "success"
+    }
+  },
+  "{\"reference\":\"PS555666777GB\"}": {
+    "error": "",
+    "response": {
+      "errors": [
+        "Reference number not found"
+      ],
+      "get": "/api/Tracking/",
+      "parameters": [
+        {
+          "name": "reference",
+          "value": "PS555666777GB"
+        }
+      ],
+      "response": [],
+      "results": 0,
+      "status": 404,
+      "title": "No tracking information found for the provided reference number",
+      "traceId": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "type": "error"
+    }
+  },
+  "{\"reference\":\"PS987654321NZ\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/api/Tracking/",
+      "parameters": [
+        {
+          "name": "reference",
+          "value": "PS987654321NZ"
+        }
+      ],
+      "response": [
+        {
+          "deliveredDate": "2024-06-08",
+          "events": [
+            {
+              "date": "2024-06-06",
+              "description": "Arrived at local depot"
+            },
+            {
+              "date": "2024-06-08",
+              "description": "Delivered"
+            }
+          ],
+          "location": "Auckland, NZ",
+          "reference": "PS987654321NZ",
+          "signedBy": "J. Smith",
+          "status": "Delivered"
+        }
+      ],
+      "results": 1,
+      "status": 200,
+      "title": "Tracking information retrieved successfully",
+      "traceId": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "type": "success"
+    }
+  }
+}

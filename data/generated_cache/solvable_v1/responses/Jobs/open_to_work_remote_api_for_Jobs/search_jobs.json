@@ -1,0 +1,214 @@
+{
+  "{\"company\":\"Stripe\",\"page\":\"2\",\"salarymin\":\"120000\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "company": "Stripe",
+          "date": "2024-06-12",
+          "featured": 0,
+          "id": 51902,
+          "location": "Remote, US",
+          "logo": "https://cdn.opentoworkremote.com/logos/stripe.png",
+          "publicationDate": "2024-06-12T11:00:00Z",
+          "salaryMax": 180000,
+          "salaryMin": 120000,
+          "salaryRange": "$120k - $180k",
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "Backend Engineer, Payments",
+          "url": "https://remoteok.com/remote-jobs/51902"
+        },
+        {
+          "company": "Stripe",
+          "date": "2024-06-08",
+          "featured": 1,
+          "id": 51903,
+          "location": "Remote, Europe",
+          "logo": "https://cdn.opentoworkremote.com/logos/stripe.png",
+          "publicationDate": "2024-06-08T16:20:00Z",
+          "salaryMax": 190000,
+          "salaryMin": 130000,
+          "salaryRange": "$130k - $190k",
+          "slug": null,
+          "source": "weworkremotely",
+          "tags": [],
+          "title": "Infrastructure Engineer",
+          "url": "https://weworkremotely.com/jobs/51903"
+        },
+        {
+          "company": "Stripe",
+          "date": "2024-06-05",
+          "featured": 0,
+          "id": 51904,
+          "location": "Remote, Worldwide",
+          "logo": "https://cdn.opentoworkremote.com/logos/stripe.png",
+          "publicationDate": "2024-06-05T07:15:00Z",
+          "salaryMax": 175000,
+          "salaryMin": 125000,
+          "salaryRange": "$125k - $175k",
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "Full Stack Engineer",
+          "url": "https://remoteok.com/remote-jobs/51904"
+        },
+        {
+          "company": "Stripe",
+          "date": "2024-06-03",
+          "featured": 0,
+          "id": 51905,
+          "location": "Remote, Canada",
+          "logo": "https://cdn.opentoworkremote.com/logos/stripe.png",
+          "publicationDate": "2024-06-03T13:40:00Z",
+          "salaryMax": 200000,
+          "salaryMin": 140000,
+          "salaryRange": "$140k - $200k",
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "Data Engineer",
+          "url": "https://remoteok.com/remote-jobs/51905"
+        },
+        {
+          "company": "Stripe",
+          "date": "2024-06-01",
+          "featured": 0,
+          "id": 51906,
+          "location": "Remote, US",
+          "logo": "https://cdn.opentoworkremote.com/logos/stripe.png",
+          "publicationDate": "2024-06-01T10:10:00Z",
+          "salaryMax": 210000,
+          "salaryMin": 150000,
+          "salaryRange": "$150k - $210k",
+          "slug": null,
+          "source": "weworkremotely",
+          "tags": [],
+          "title": "Security Engineer",
+          "url": "https://weworkremotely.com/jobs/51906"
+        }
+      ],
+      "pagesInfo": {
+        "nextPage": "3",
+        "page": 2,
+        "perPage": 5,
+        "totalJobs": 23,
+        "totalpages": 5
+      }
+    }
+  },
+  "{\"location\":\"remote\",\"perpage\":\"3\",\"title\":\"React Developer\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "company": "GitLab",
+          "date": "2024-06-11",
+          "featured": 0,
+          "id": 48213,
+          "location": "Remote, Worldwide",
+          "logo": "https://cdn.opentoworkremote.com/logos/gitlab.png",
+          "publicationDate": "2024-06-11T08:30:00Z",
+          "salaryMax": null,
+          "salaryMin": null,
+          "salaryRange": null,
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "React Developer",
+          "url": "https://remoteok.com/remote-jobs/48213"
+        },
+        {
+          "company": "Automattic",
+          "date": "2024-06-10",
+          "featured": 1,
+          "id": 48214,
+          "location": "Remote, Europe",
+          "logo": "https://cdn.opentoworkremote.com/logos/automattic.png",
+          "publicationDate": "2024-06-10T14:05:00Z",
+          "salaryMax": null,
+          "salaryMin": null,
+          "salaryRange": null,
+          "slug": null,
+          "source": "weworkremotely",
+          "tags": [],
+          "title": "Senior React Developer",
+          "url": "https://weworkremotely.com/jobs/48214"
+        },
+        {
+          "company": "Toptal",
+          "date": "2024-06-09",
+          "featured": 0,
+          "id": 48215,
+          "location": "Remote, Anywhere",
+          "logo": "https://cdn.opentoworkremote.com/logos/toptal.png",
+          "publicationDate": "2024-06-09T09:45:00Z",
+          "salaryMax": null,
+          "salaryMin": null,
+          "salaryRange": null,
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "React Developer (Frontend)",
+          "url": "https://remoteok.com/remote-jobs/48215"
+        }
+      ],
+      "pagesInfo": {
+        "nextPage": "2",
+        "page": 1,
+        "perPage": 3,
+        "totalJobs": 87,
+        "totalpages": 29
+      }
+    }
+  },
+  "{\"page\":\"1\",\"perpage\":\"2\",\"source\":\"remoteok\",\"tag\":\"python\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "company": "Doist",
+          "date": "2024-06-13",
+          "featured": 1,
+          "id": 60311,
+          "location": "Remote, Worldwide",
+          "logo": "https://cdn.opentoworkremote.com/logos/doist.png",
+          "publicationDate": "2024-06-13T09:00:00Z",
+          "salaryMax": null,
+          "salaryMin": null,
+          "salaryRange": null,
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "Python Engineer",
+          "url": "https://remoteok.com/remote-jobs/60311"
+        },
+        {
+          "company": "Zapier",
+          "date": "2024-06-12",
+          "featured": 0,
+          "id": 60312,
+          "location": "Remote, US",
+          "logo": "https://cdn.opentoworkremote.com/logos/zapier.png",
+          "publicationDate": "2024-06-12T18:25:00Z",
+          "salaryMax": null,
+          "salaryMin": null,
+          "salaryRange": null,
+          "slug": null,
+          "source": "remoteok",
+          "tags": [],
+          "title": "Senior Python Developer",
+          "url": "https://remoteok.com/remote-jobs/60312"
+        }
+      ],
+      "pagesInfo": {
+        "nextPage": "2",
+        "page": 1,
+        "perPage": 2,
+        "totalJobs": 41,
+        "totalpages": 21
+      }
+    }
+  }
+}

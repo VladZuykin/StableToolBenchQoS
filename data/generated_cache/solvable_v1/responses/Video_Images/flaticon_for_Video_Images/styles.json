@@ -1,0 +1,102 @@
+{
+  "{\"limit\":10,\"page\":1}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "description": "Simple line-based icons",
+          "id": 1,
+          "name": "lineal"
+        },
+        {
+          "description": "Full color icons",
+          "id": 2,
+          "name": "color"
+        },
+        {
+          "description": "Line icons with color accents",
+          "id": 3,
+          "name": "lineal color"
+        },
+        {
+          "description": "Flat design icons",
+          "id": 4,
+          "name": "flat"
+        },
+        {
+          "description": "Solid glyph icons",
+          "id": 5,
+          "name": "glyph"
+        },
+        {
+          "description": "Outlined icons",
+          "id": 6,
+          "name": "outline"
+        },
+        {
+          "description": "Filled icons",
+          "id": 7,
+          "name": "filled"
+        },
+        {
+          "description": "Two-tone icons",
+          "id": 8,
+          "name": "duotone"
+        },
+        {
+          "description": "Gradient-filled icons",
+          "id": 9,
+          "name": "gradient"
+        },
+        {
+          "description": "Hand-drawn style icons",
+          "id": 10,
+          "name": "hand-drawn"
+        }
+      ],
+      "limit": 10,
+      "message": "Styles retrieved successfully",
+      "page": 1,
+      "status": "success",
+      "total": 10
+    }
+  },
+  "{\"limit\":100,\"page\":3}": {
+    "error": "",
+    "response": {
+      "data": [],
+      "limit": 100,
+      "message": "Styles retrieved successfully",
+      "page": 3,
+      "status": "success",
+      "total": 10
+    }
+  },
+  "{\"limit\":50,\"page\":2}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "description": "Simple line-based icons",
+          "id": 1,
+          "name": "lineal"
+        },
+        {
+          "description": "Full color icons",
+          "id": 2,
+          "name": "color"
+        },
+        {
+          "description": "Line icons with color accents",
+          "id": 3,
+          "name": "lineal color"
+        }
+      ],
+      "limit": 50,
+      "message": "Styles retrieved successfully",
+      "page": 2,
+      "status": "success",
+      "total": 3
+    }
+  }
+}

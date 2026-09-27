@@ -1,0 +1,20 @@
+{
+  "{\"gameid\":\"4820193\"}": {
+    "error": "",
+    "response": {
+      "message": "Game statistics for game 4820193: 9 shots, 4 on target, 41% possession, 3 corners, 14 fouls."
+    }
+  },
+  "{\"gameid\":\"7712046\"}": {
+    "error": "",
+    "response": {
+      "message": "Game statistics for game 7712046: 17 shots, 8 on target, 52% possession, 6 corners, 9 fouls."
+    }
+  },
+  "{\"gameid\":\"9576185\"}": {
+    "error": "",
+    "response": {
+      "message": "Game statistics for game 9576185: 24 shots, 12 on target, 58% possession, 7 corners, 11 fouls."
+    }
+  }
+}

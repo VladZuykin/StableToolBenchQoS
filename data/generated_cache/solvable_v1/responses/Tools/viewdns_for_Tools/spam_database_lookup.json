@@ -1,0 +1,54 @@
+{
+  "{\"ip\":\"192.0.2.88\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "blacklists": [
+        {
+          "name": "Spamhaus ZEN",
+          "reason": null,
+          "status": "not listed"
+        },
+        {
+          "name": "Barracuda",
+          "reason": "127.0.0.2",
+          "status": "listed"
+        },
+        {
+          "name": "SORBS",
+          "reason": null,
+          "status": "not listed"
+        }
+      ],
+      "ip": "192.0.2.88",
+      "listed": true
+    }
+  },
+  "{\"ip\":\"198.51.100.7\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": "<spam_database_lookup><ip>198.51.100.7</ip><listed>false</listed><blacklists><blacklist><name>Spamhaus ZEN</name><status>not listed</status><reason/></blacklist><blacklist><name>Barracuda</name><status>not listed</status><reason/></blacklist><blacklist><name>SORBS</name><status>not listed</status><reason/></blacklist></blacklists></spam_database_lookup>"
+  },
+  "{\"ip\":\"203.0.113.45\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "blacklists": [
+        {
+          "name": "Spamhaus ZEN",
+          "reason": "127.0.0.2",
+          "status": "listed"
+        },
+        {
+          "name": "Barracuda",
+          "reason": null,
+          "status": "not listed"
+        },
+        {
+          "name": "SORBS",
+          "reason": "127.0.0.4",
+          "status": "listed"
+        }
+      ],
+      "ip": "203.0.113.45",
+      "listed": true
+    }
+  }
+}

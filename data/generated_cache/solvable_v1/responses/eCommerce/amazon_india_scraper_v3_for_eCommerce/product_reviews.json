@@ -1,0 +1,122 @@
+{
+  "{\"is_id\":\"B07XJ8C8F5\"}": {
+    "error": "",
+    "response": {
+      "average_rating": 3.5,
+      "product_id": "B07XJ8C8F5",
+      "reviews": [
+        {
+          "helpful_votes": 210,
+          "rating": 5,
+          "review_date": "2024-04-02",
+          "review_id": "R4U5V6W7X8Y9Z0",
+          "review_text": "Lightweight and comfortable. I wear it all day without any discomfort.",
+          "reviewer_name": "Sneha Iyer",
+          "title": "Perfect for daily use",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 45,
+          "rating": 2,
+          "review_date": "2024-03-15",
+          "review_id": "R5A6B7C8D9E0F1",
+          "review_text": "Color was different from the listing photos. Return process was smooth but disappointing.",
+          "reviewer_name": "Vikram Singh",
+          "title": "Not as described",
+          "verified_purchase": true
+        }
+      ],
+      "total_reviews": 2
+    }
+  },
+  "{\"is_id\":\"B08L5NP6NG\"}": {
+    "error": "",
+    "response": {
+      "average_rating": 4.0,
+      "product_id": "B08L5NP6NG",
+      "reviews": [
+        {
+          "helpful_votes": 128,
+          "rating": 5,
+          "review_date": "2024-03-12",
+          "review_id": "R1A2B3C4D5E6F7",
+          "review_text": "Using it for a month now, works flawlessly. Battery life is great and the finish feels premium.",
+          "reviewer_name": "Aarav Sharma",
+          "title": "Excellent build quality",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 64,
+          "rating": 4,
+          "review_date": "2024-02-28",
+          "review_id": "R2G3H4J5K6L7M8",
+          "review_text": "Sound quality is impressive for the price. Only minor issue is the slightly tight fit.",
+          "reviewer_name": "Priya Nair",
+          "title": "Good value for money",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 12,
+          "rating": 3,
+          "review_date": "2024-01-19",
+          "review_id": "R3N4P5Q6R7S8T9",
+          "review_text": "Does the job but nothing extraordinary. Delivery was quick though.",
+          "reviewer_name": "Rohan Mehta",
+          "title": "Average performance",
+          "verified_purchase": false
+        }
+      ],
+      "total_reviews": 3
+    }
+  },
+  "{\"is_id\":\"B09K3M7P2Q\"}": {
+    "error": "",
+    "response": {
+      "average_rating": 3.75,
+      "product_id": "B09K3M7P2Q",
+      "reviews": [
+        {
+          "helpful_votes": 302,
+          "rating": 5,
+          "review_date": "2024-04-20",
+          "review_id": "R6G7H8I9J0K1L2",
+          "review_text": "Photos come out sharp even in low light. Totally worth the upgrade.",
+          "reviewer_name": "Ananya Das",
+          "title": "Superb camera",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 87,
+          "rating": 4,
+          "review_date": "2024-04-05",
+          "review_id": "R7M8N9O0P1Q2R3",
+          "review_text": "No lag while gaming. Heating is manageable during long sessions.",
+          "reviewer_name": "Karthik Reddy",
+          "title": "Fast and smooth",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 156,
+          "rating": 1,
+          "review_date": "2024-03-22",
+          "review_id": "R8S9T0U1V2W3X4",
+          "review_text": "Screen had dead pixels on arrival. Replacement took over a week.",
+          "reviewer_name": "Meera Joshi",
+          "title": "Defective unit received",
+          "verified_purchase": true
+        },
+        {
+          "helpful_votes": 41,
+          "rating": 5,
+          "review_date": "2024-02-11",
+          "review_id": "R9Y0Z1A2B3C4D5",
+          "review_text": "Performance is top-notch and the display is gorgeous. Highly recommended.",
+          "reviewer_name": "Arjun Kapoor",
+          "title": "Best in segment",
+          "verified_purchase": false
+        }
+      ],
+      "total_reviews": 4
+    }
+  }
+}

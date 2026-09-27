@@ -1,0 +1,284 @@
+{
+  "{\"list\":\"PL9tY0BWXOZFsjB0F0l0l0l0l0l0l0l0l0\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "channel": {
+          "icon": "https://yt3.ggpht.com/ytc/ghi789",
+          "id": "UCBJycsmduvYEL83R_U4JriQ",
+          "name": "Marques Brownlee",
+          "url": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+        },
+        "id": "PL9tY0BWXOZFsjB0F0l0l0l0l0l0l0l0l0",
+        "last_update": "2024-06-20T14:30:00Z",
+        "link": "https://www.youtube.com/playlist?list=PL9tY0BWXOZFsjB0F0l0l0l0l0l0l0l0l0",
+        "thumbnail": {
+          "height": 720,
+          "id": null,
+          "url": "https://i.ytimg.com/vi/1l0l0l0l0l0/hqdefault.jpg",
+          "width": 1280
+        },
+        "title": "Tech Reviews 2024",
+        "url": "https://www.youtube.com/playlist?list=PL9tY0BWXOZFsjB0F0l0l0l0l0l0l0l0l0",
+        "video_count": 2,
+        "videos": [
+          {
+            "channel": {
+              "icon": null,
+              "id": "UCBJycsmduvYEL83R_U4JriQ",
+              "name": "Marques Brownlee"
+            },
+            "description": null,
+            "duration": 900,
+            "duration_formatted": "15:00",
+            "id": "1l0l0l0l0l0",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 200,
+              "likes": 28000
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/1l0l0l0l0l0",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "1l0l0l0l0l0",
+              "url": "https://i.ytimg.com/vi/1l0l0l0l0l0/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "iPhone 16 Pro Review",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=1l0l0l0l0l0",
+            "views": 4500000
+          },
+          {
+            "channel": {
+              "icon": null,
+              "id": "UCBJycsmduvYEL83R_U4JriQ",
+              "name": "Marques Brownlee"
+            },
+            "description": null,
+            "duration": 780,
+            "duration_formatted": "13:00",
+            "id": "2l0l0l0l0l0",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 180,
+              "likes": 22000
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/2l0l0l0l0l0",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "2l0l0l0l0l0",
+              "url": "https://i.ytimg.com/vi/2l0l0l0l0l0/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "Samsung Galaxy S24 Ultra Review",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=2l0l0l0l0l0",
+            "views": 3900000
+          }
+        ],
+        "views": 8400000
+      }
+    }
+  },
+  "{\"list\":\"PLBCF2DAC6FFB574DE\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "channel": {
+          "icon": "https://yt3.ggpht.com/ytc/abc123",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "name": "Google Developers",
+          "url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"
+        },
+        "id": "PLBCF2DAC6FFB574DE",
+        "last_update": "2023-08-14T10:22:31Z",
+        "link": "https://www.youtube.com/playlist?list=PLBCF2DAC6FFB574DE",
+        "thumbnail": {
+          "height": 720,
+          "id": null,
+          "url": "https://i.ytimg.com/vi/8aGhZQkoFbQ/hqdefault.jpg",
+          "width": 1280
+        },
+        "title": "Google I/O 2012",
+        "url": "https://www.youtube.com/playlist?list=PLBCF2DAC6FFB574DE",
+        "video_count": 2,
+        "videos": [
+          {
+            "channel": {
+              "icon": null,
+              "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "name": "Google Developers"
+            },
+            "description": null,
+            "duration": 3600,
+            "duration_formatted": "1:00:00",
+            "id": "8aGhZQkoFbQ",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 120,
+              "likes": 5400
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/8aGhZQkoFbQ",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "8aGhZQkoFbQ",
+              "url": "https://i.ytimg.com/vi/8aGhZQkoFbQ/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "Google I/O 2012 - Keynote",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+            "views": 1250000
+          },
+          {
+            "channel": {
+              "icon": null,
+              "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "name": "Google Developers"
+            },
+            "description": null,
+            "duration": 2400,
+            "duration_formatted": "40:00",
+            "id": "9bZkp7q19f0",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 80,
+              "likes": 3200
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/9bZkp7q19f0",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "9bZkp7q19f0",
+              "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "Google I/O 2012 - Day 2",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "views": 870000
+          }
+        ],
+        "views": 2120000
+      }
+    }
+  },
+  "{\"list\":\"PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "channel": {
+          "icon": "https://yt3.ggpht.com/ytc/def456",
+          "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+          "name": "Kurzgesagt – In a Nutshell",
+          "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+        },
+        "id": "PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf",
+        "last_update": "2024-01-05T18:45:00Z",
+        "link": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf",
+        "thumbnail": {
+          "height": 720,
+          "id": null,
+          "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/hqdefault.jpg",
+          "width": 1280
+        },
+        "title": "The Universe",
+        "url": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf",
+        "video_count": 2,
+        "videos": [
+          {
+            "channel": {
+              "icon": null,
+              "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+              "name": "Kurzgesagt – In a Nutshell"
+            },
+            "description": null,
+            "duration": 600,
+            "duration_formatted": "10:00",
+            "id": "5MuIMqhT8DM",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 300,
+              "likes": 45000
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/5MuIMqhT8DM",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "5MuIMqhT8DM",
+              "url": "https://i.ytimg.com/vi/5MuIMqhT8DM/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "The Beginning of Everything",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=5MuIMqhT8DM",
+            "views": 9800000
+          },
+          {
+            "channel": {
+              "icon": null,
+              "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+              "name": "Kurzgesagt – In a Nutshell"
+            },
+            "description": null,
+            "duration": 720,
+            "duration_formatted": "12:00",
+            "id": "Q9zWl0d1x3E",
+            "live": false,
+            "nsfw": false,
+            "private": false,
+            "ratings": {
+              "dislikes": 150,
+              "likes": 38000
+            },
+            "shorts": false,
+            "shorts_url": "https://www.youtube.com/shorts/Q9zWl0d1x3E",
+            "tags": {},
+            "thumbnail": {
+              "height": 720,
+              "id": "Q9zWl0d1x3E",
+              "url": "https://i.ytimg.com/vi/Q9zWl0d1x3E/hqdefault.jpg",
+              "width": 1280
+            },
+            "title": "Black Holes Explained",
+            "type": "video",
+            "unlisted": false,
+            "uploadedAt": null,
+            "url": "https://www.youtube.com/watch?v=Q9zWl0d1x3E",
+            "views": 7600000
+          }
+        ],
+        "views": 17400000
+      }
+    }
+  }
+}

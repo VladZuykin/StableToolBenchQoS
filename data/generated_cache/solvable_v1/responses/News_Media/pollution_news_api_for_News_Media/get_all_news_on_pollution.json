@@ -1,0 +1,32 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "source": "Reuters",
+        "title": "Kenya's Nairobi River Pollution Crisis Deepens as Industrial Waste Surges",
+        "url": "https://www.reuters.com/world/africa/kenya-nairobi-river-pollution-crisis-2024"
+      },
+      {
+        "source": "BBC News",
+        "title": "Nigeria's Oil Spills Leave Niger Delta Communities Fighting for Clean Water",
+        "url": "https://www.bbc.com/news/world-africa-nigeria-oil-pollution"
+      },
+      {
+        "source": "Al Jazeera",
+        "title": "South Africa's Air Quality Worsens as Coal Plants Expand in Mpumalanga",
+        "url": "https://www.aljazeera.com/news/africa-south-africa-air-pollution-coal"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Ghana's E-Waste Dump Agbogbloshie Contaminates Soil and Water",
+        "url": "https://www.theguardian.com/global-development/ghana-ewaste-pollution"
+      },
+      {
+        "source": "AP News",
+        "title": "Egypt's Nile Delta Faces Rising Pollution from Agricultural Runoff",
+        "url": "https://apnews.com/article/egypt-nile-delta-pollution"
+      }
+    ]
+  }
+}

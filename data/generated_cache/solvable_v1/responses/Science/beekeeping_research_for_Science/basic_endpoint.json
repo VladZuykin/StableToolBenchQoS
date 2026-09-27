@@ -1,0 +1,51 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "hives": [
+        {
+          "hive_id": "hive-001",
+          "location": {
+            "country": "France",
+            "latitude": 48.8566,
+            "longitude": 2.3522
+          },
+          "readings": {
+            "humidity_percent": 58.1,
+            "temperature_c": 34.2,
+            "weight_kg": 42.7
+          },
+          "timestamp": "2024-06-15T14:30:00Z"
+        },
+        {
+          "hive_id": "hive-002",
+          "location": {
+            "country": "United States",
+            "latitude": 40.7128,
+            "longitude": -74.006
+          },
+          "readings": {
+            "humidity_percent": 61.4,
+            "temperature_c": 35.8,
+            "weight_kg": 38.9
+          },
+          "timestamp": "2024-06-15T14:30:00Z"
+        },
+        {
+          "hive_id": "hive-003",
+          "location": {
+            "country": "Australia",
+            "latitude": -33.8688,
+            "longitude": 151.2093
+          },
+          "readings": {
+            "humidity_percent": 55.7,
+            "temperature_c": 33.1,
+            "weight_kg": 45.3
+          },
+          "timestamp": "2024-06-15T14:30:00Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "{\"answercount\":1,\"count\":3,\"freshness\":\"Month\",\"mkt\":\"en-US\",\"offset\":10,\"promote\":[\"Images\"],\"q\":\"NASA Mars rover latest images site:nasa.gov\",\"responsefilter\":[\"Images\",\"Videos\"],\"safesearch\":\"Strict\",\"setlang\":\"EN\",\"textdecorations\":false,\"textformat\":\"Raw\"}": {
+    "error": "",
+    "response": {
+      "_type": "SearchResponse",
+      "images": {
+        "id": "https://www.bing.com/api/v7/#Images",
+        "readLink": "https://www.bing.com/images/search?q=NASA+Mars+rover+latest+images+site%3Anasa.gov",
+        "value": [
+          {
+            "contentUrl": "https://mars.nasa.gov/system/resources/detail_files/12345_PIA12345-web.jpg",
+            "datePublished": "2024-03-10T00:00:00Z",
+            "height": 1080,
+            "hostPageDisplayUrl": "mars.nasa.gov/news/12345",
+            "hostPageUrl": "https://mars.nasa.gov/news/12345/perseverance-rover-captures-new-panorama/",
+            "name": "Perseverance rover captures new panorama of Jezero Crater",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.abc123&pid=Api",
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&id=ABC123",
+            "width": 1920
+          }
+        ],
+        "webSearchUrl": "https://www.bing.com/images/search?q=NASA+Mars+rover+latest+images+site%3Anasa.gov"
+      },
+      "queryContext": {
+        "askUserForLocation": false,
+        "isTransactional": false,
+        "originalQuery": "NASA Mars rover latest images site:nasa.gov"
+      },
+      "rankingResponse": {
+        "mainline": {
+          "items": [
+            {
+              "answerType": "Images",
+              "resultIndex": 0
+            },
+            {
+              "answerType": "Videos",
+              "resultIndex": 0
+            }
+          ]
+        }
+      },
+      "videos": {
+        "id": "https://www.bing.com/api/v7/#Videos",
+        "readLink": "https://www.bing.com/videos/search?q=NASA+Mars+rover+latest+images+site%3Anasa.gov",
+        "value": [
+          {
+            "contentUrl": "https://www.youtube.com/watch?v=xyz789",
+            "datePublished": "2024-03-12T00:00:00Z",
+            "description": "NASA's Perseverance rover continues to explore Jezero Crater.",
+            "duration": "PT5M30S",
+            "hostPageDisplayUrl": "www.youtube.com/watch?v=xyz789",
+            "hostPageUrl": "https://www.youtube.com/watch?v=xyz789",
+            "name": "Mars Rover Perseverance: Latest Images and Discoveries",
+            "publisher": [
+              {
+                "_type": "Organization",
+                "name": "NASA"
+              }
+            ],
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.def456&pid=Api",
+            "viewCount": 125000,
+            "webSearchUrl": "https://www.bing.com/videos/search?q=NASA+Mars+rover+latest+images+site%3Anasa.gov"
+          }
+        ],
+        "webSearchUrl": "https://www.bing.com/videos/search?q=NASA+Mars+rover+latest+images+site%3Anasa.gov"
+      }
+    }
+  },
+  "{\"answercount\":2,\"count\":10,\"freshness\":\"Week\",\"mkt\":\"en-US\",\"offset\":0,\"q\":\"best coffee shops in Seattle\",\"responsefilter\":[\"Webpages\",\"News\"],\"safesearch\":\"Moderate\",\"setlang\":\"EN\",\"textdecorations\":true,\"textformat\":\"HTML\"}": {
+    "error": "",
+    "response": {
+      "_type": "SearchResponse",
+      "news": {
+        "id": "https://www.bing.com/api/v7/#News",
+        "value": [
+          {
+            "datePublished": "2024-03-19T14:30:00Z",
+            "description": "A new study ranks Seattle among the top cities for coffee lovers.",
+            "name": "Seattle's coffee culture ranked among the best in the US",
+            "provider": [
+              {
+                "_type": "Organization",
+                "name": "KING 5"
+              }
+            ],
+            "url": "https://www.king5.com/article/news/local/seattle-coffee-culture-ranking/281-abc123"
+          }
+        ]
+      },
+      "queryContext": {
+        "askUserForLocation": false,
+        "isTransactional": false,
+        "originalQuery": "best coffee shops in Seattle"
+      },
+      "rankingResponse": {
+        "mainline": {
+          "items": [
+            {
+              "answerType": "WebPages",
+              "resultIndex": 0
+            },
+            {
+              "answerType": "WebPages",
+              "resultIndex": 1
+            },
+            {
+              "answerType": "News",
+              "resultIndex": 0
+            }
+          ]
+        }
+      },
+      "webPages": {
+        "totalEstimatedMatches": 1280000,
+        "value": [
+          {
+            "dateLastCrawled": "2024-03-18T00:00:00Z",
+            "displayUrl": "www.seattlemet.com/food-and-drink",
+            "id": "https://www.bing.com/api/v7/#WebPages.0",
+            "language": "en",
+            "name": "15 Best Coffee Shops in Seattle - Seattle Met",
+            "snippet": "From <b>Espresso</b> Vivace to Victrola, these are the <b>coffee shops</b> locals love in <b>Seattle</b>.",
+            "url": "https://www.seattlemet.com/food-and-drink/2024/03/best-coffee-shops-seattle"
+          },
+          {
+            "dateLastCrawled": "2024-03-15T00:00:00Z",
+            "displayUrl": "www.theinfatuation.com/seattle/guides",
+            "id": "https://www.bing.com/api/v7/#WebPages.1",
+            "language": "en",
+            "name": "The 20 Best Coffee Shops in Seattle (2024) - The Infatuation",
+            "snippet": "Our guide to the best <b>coffee shops</b> in <b>Seattle</b>, from Capitol Hill to Ballard.",
+            "url": "https://www.theinfatuation.com/seattle/guides/best-coffee-shops-seattle"
+          }
+        ],
+        "webSearchUrl": "https://www.bing.com/search?q=best+coffee+shops+in+Seattle"
+      }
+    }
+  }
+}

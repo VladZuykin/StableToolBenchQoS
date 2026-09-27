@@ -1,0 +1,47 @@
+{
+  "{\"query\":\"Adele Hello\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "artist": "Adele",
+          "audio_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/adele_hello.mp3",
+          "cover_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/adele_hello_cover.jpg",
+          "duration": 295,
+          "id": "music_adele_hello_001",
+          "title": "Hello"
+        }
+      ]
+    }
+  },
+  "{\"query\":\"Ed Sheeran Shape of You\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "artist": "Ed Sheeran",
+          "audio_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/ed_sheeran_shape.mp3",
+          "cover_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/ed_sheeran_shape_cover.jpg",
+          "duration": 233,
+          "id": "music_ed_sheeran_shape_002",
+          "title": "Shape of You"
+        }
+      ]
+    }
+  },
+  "{\"query\":\"The Weeknd Blinding Lights\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "artist": "The Weeknd",
+          "audio_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/weeknd_blinding.mp3",
+          "cover_url": "https://instagram.fsx1-1.fna.fbcdn.net/v/t51.2885-15/music/weeknd_blinding_cover.jpg",
+          "duration": 200,
+          "id": "music_weeknd_blinding_003",
+          "title": "Blinding Lights"
+        }
+      ]
+    }
+  }
+}

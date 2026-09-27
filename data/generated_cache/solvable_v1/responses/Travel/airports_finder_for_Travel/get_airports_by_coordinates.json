@@ -1,0 +1,20 @@
+{
+  "{\"lat\":\"35.6895\",\"lon\":\"139.6917\"}": {
+    "error": "",
+    "response": {
+      "message": "Airports found near latitude 35.6895, longitude 139.6917: Narita International Airport (NRT), Tokyo International Airport (HND)"
+    }
+  },
+  "{\"lat\":\"40.7128\",\"lon\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "message": "Airports found near latitude 40.7128, longitude -74.0060: John F. Kennedy International Airport (JFK), LaGuardia Airport (LGA), Newark Liberty International Airport (EWR)"
+    }
+  },
+  "{\"lat\":\"51.5074\",\"lon\":\"-0.1278\"}": {
+    "error": "",
+    "response": {
+      "message": "Airports found near latitude 51.5074, longitude -0.1278: Heathrow Airport (LHR), Gatwick Airport (LGW), London City Airport (LCY)"
+    }
+  }
+}

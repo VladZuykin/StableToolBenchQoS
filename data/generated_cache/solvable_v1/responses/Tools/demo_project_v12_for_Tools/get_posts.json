@@ -1,0 +1,25 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "posts",
+      "parameters": [],
+      "response": [
+        {
+          "body": "This is the first sample post.",
+          "id": 1,
+          "title": "Welcome to the demo project",
+          "userId": 1
+        },
+        {
+          "body": "Use the Get Posts endpoint to retrieve all posts.",
+          "id": 2,
+          "title": "Getting started with the API",
+          "userId": 1
+        }
+      ],
+      "results": 2
+    }
+  }
+}

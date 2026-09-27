@@ -1,0 +1,39 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "categories": [
+        {
+          "description": "Initial setup and onboarding steps",
+          "id": "getting_started",
+          "name": "Getting Started"
+        },
+        {
+          "description": "Manage and organize your projects",
+          "id": "projects",
+          "name": "Projects"
+        },
+        {
+          "description": "Create and track tasks",
+          "id": "tasks",
+          "name": "Tasks"
+        },
+        {
+          "description": "Invite and manage team members",
+          "id": "team",
+          "name": "Team"
+        },
+        {
+          "description": "Connect third-party tools and services",
+          "id": "integrations",
+          "name": "Integrations"
+        },
+        {
+          "description": "Plans, invoices, and payment methods",
+          "id": "billing",
+          "name": "Billing"
+        }
+      ]
+    }
+  }
+}

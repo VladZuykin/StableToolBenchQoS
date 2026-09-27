@@ -1,0 +1,30 @@
+{
+  "{\"is_id\":12345678}": {
+    "error": "",
+    "response": {
+      "awayTeam": {
+        "form": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "D"
+        ],
+        "position": 3,
+        "value": "New York Yankees"
+      },
+      "homeTeam": {
+        "form": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "position": 7,
+        "value": "Boston Red Sox"
+      },
+      "label": "Pre-Match Form"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "{\"limit\":\"10\",\"orderby\":\"asc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "artist_004",
+        "name": "Deavid Soul",
+        "stats": {
+          "albums": 1,
+          "tracks": 2
+        }
+      },
+      {
+        "id": "artist_005",
+        "name": "F-Fields",
+        "stats": {
+          "albums": 1,
+          "tracks": 3
+        }
+      },
+      {
+        "id": "artist_006",
+        "name": "Toronto",
+        "stats": {
+          "albums": 2,
+          "tracks": 4
+        }
+      },
+      {
+        "id": "artist_007",
+        "name": "Scapegoat Wax",
+        "stats": {
+          "albums": 2,
+          "tracks": 6
+        }
+      },
+      {
+        "id": "artist_008",
+        "name": "The Latch Brothers",
+        "stats": {
+          "albums": 3,
+          "tracks": 8
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"desc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "artist_003",
+        "name": "Rob Zombie",
+        "stats": {
+          "albums": 1,
+          "tracks": 1
+        }
+      },
+      {
+        "id": "artist_002",
+        "name": "Hideki Naganuma",
+        "stats": {
+          "albums": 3,
+          "tracks": 12
+        }
+      },
+      {
+        "id": "artist_001",
+        "name": "Guitar Vader",
+        "stats": {
+          "albums": 2,
+          "tracks": 5
+        }
+      }
+    ]
+  }
+}

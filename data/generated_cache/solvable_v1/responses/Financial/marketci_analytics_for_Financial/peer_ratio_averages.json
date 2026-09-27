@@ -1,0 +1,82 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "assetTurnoverTTM": 0.51,
+        "cashPerShareTTM": 8.76,
+        "cashRatioTTM": 1.42,
+        "currentRatioTTM": 1.77,
+        "debtEquityRatioTTM": 0.45,
+        "debtRatioTTM": 0.31,
+        "dividendPerShareTTM": 2.72,
+        "dividendYielTTM": 0.0089,
+        "dividendYieldTTM": 0.0089,
+        "ebitPerRevenueTTM": 0.42,
+        "ebtPerEbitTTM": 0.94,
+        "effectiveTaxRateTTM": 0.18,
+        "fixedAssetTurnoverTTM": 2.41,
+        "grossProfitMarginTTM": 0.69,
+        "interestCoverageTTM": 28.6,
+        "inventoryTurnoverTTM": 9.35,
+        "netIncomePerEBTTTM": 0.79,
+        "netProfitMarginTTM": 0.36,
+        "operatingCycleTTM": 118.4,
+        "payablesTurnoverTTM": 4.12,
+        "payoutRatioTTM": 0.27,
+        "peRatioTTM": 32.14,
+        "pegRatioTTM": 2.18,
+        "pretaxProfitMarginTTM": 0.44,
+        "priceCashFlowRatioTTM": 24.18,
+        "priceFairValueTTM": 1.12,
+        "priceSalesRatioTTM": 11.62,
+        "priceToBookRatioTTM": 12.84,
+        "priceToSalesRatioTTM": 11.62,
+        "quickRatioTTM": 1.58,
+        "returnOnAssetsTTM": 0.18,
+        "returnOnEquityTTM": 0.39
+      },
+      "symbol": "MSFT"
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "assetTurnoverTTM": 0.92,
+        "cashPerShareTTM": 12.34,
+        "cashRatioTTM": 1.86,
+        "currentRatioTTM": 1.84,
+        "debtEquityRatioTTM": 0.22,
+        "debtRatioTTM": 0.18,
+        "dividendPerShareTTM": 0.0,
+        "dividendYielTTM": 0.0,
+        "dividendYieldTTM": 0.0,
+        "ebitPerRevenueTTM": 0.13,
+        "ebtPerEbitTTM": 0.97,
+        "effectiveTaxRateTTM": 0.16,
+        "fixedAssetTurnoverTTM": 1.74,
+        "grossProfitMarginTTM": 0.18,
+        "interestCoverageTTM": 41.2,
+        "inventoryTurnoverTTM": 5.63,
+        "netIncomePerEBTTTM": 0.81,
+        "netProfitMarginTTM": 0.12,
+        "operatingCycleTTM": 74.6,
+        "payablesTurnoverTTM": 6.78,
+        "payoutRatioTTM": 0.0,
+        "peRatioTTM": 58.73,
+        "pegRatioTTM": 3.41,
+        "pretaxProfitMarginTTM": 0.14,
+        "priceCashFlowRatioTTM": 36.42,
+        "priceFairValueTTM": 0.87,
+        "priceSalesRatioTTM": 7.94,
+        "priceToBookRatioTTM": 13.56,
+        "priceToSalesRatioTTM": 7.94,
+        "quickRatioTTM": 1.52,
+        "returnOnAssetsTTM": 0.11,
+        "returnOnEquityTTM": 0.21
+      },
+      "symbol": "TSLA"
+    }
+  }
+}

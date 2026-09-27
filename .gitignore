@@ -161,7 +161,14 @@ cython_debug/
 server_raw
 server/tool_response_cache
 server/tools
-data
+data/*
+!data/generated_cache/
+data/generated_cache/*
+!data/generated_cache/solvable_v1/
+data/generated_cache/solvable_v1/*
+!data/generated_cache/solvable_v1/metadata.json
+!data/generated_cache/solvable_v1/responses/
+!data/generated_cache/solvable_v1/responses/**
 toolenv
 server/server_cache.tar.gz
 .idea

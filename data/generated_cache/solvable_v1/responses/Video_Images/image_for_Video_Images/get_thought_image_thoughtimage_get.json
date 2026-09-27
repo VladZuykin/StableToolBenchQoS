@@ -1,0 +1,23 @@
+{
+  "{\"text\":\"Dagpi is awesome!\",\"url\":\"https://i.imgur.com/8Km9tLL.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/thoughtimage/ghi789.png",
+      "message": "Image generated successfully"
+    }
+  },
+  "{\"text\":\"Hello World\",\"url\":\"https://example.com/photo.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/thoughtimage/abc123.png",
+      "message": "Image generated successfully"
+    }
+  },
+  "{\"text\":\"This is a thought\",\"url\":\"https://images.unsplash.com/photo-1506744038136-46273834b3fb\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/thoughtimage/def456.png",
+      "message": "Image generated successfully"
+    }
+  }
+}

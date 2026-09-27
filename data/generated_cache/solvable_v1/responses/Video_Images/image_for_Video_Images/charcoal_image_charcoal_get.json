@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://example.com/photos/sunset-beach.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/charcoal/8f3a2b1c9d.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://i.imgur.com/8Km9tLL.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/charcoal/c2b9f0e5a1.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://images.unsplash.com/photo-1506744038136-46273834b3fb\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/charcoal/4e7d1a6b2f.png",
+      "message": "Image processed successfully"
+    }
+  }
+}

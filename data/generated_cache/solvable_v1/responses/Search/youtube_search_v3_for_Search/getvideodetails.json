@@ -1,0 +1,130 @@
+{
+  "{\"is_id\":\"UCBJycsmduvYEL83R_U4JriQ\"}": {
+    "error": "",
+    "response": {
+      "channel": {
+        "id": "UCBJycsmduvYEL83R_U4JriQ",
+        "name": "Marques Brownlee",
+        "thumbnails": [
+          {
+            "height": 88,
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniLz1s2Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88
+          },
+          {
+            "height": 176,
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniLz1s2Q=s176-c-k-c0x00ffffff-no-rj",
+            "width": 176
+          }
+        ]
+      },
+      "date": "2024-06-01",
+      "description": "MKBHD: Quality Tech Videos. Reviews, comparisons, and the latest in consumer technology.",
+      "isLive": true,
+      "relativeDate": "2 weeks ago",
+      "subscribers": "18.9M",
+      "suggestion": [
+        {
+          "id": "L_jWHffIx5E",
+          "isLive": false,
+          "length": "12:45",
+          "publishedTime": "2024-05-20",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/L_jWHffIx5E/hqdefault.jpg",
+              "width": 480
+            }
+          ],
+          "title": "The Truth About Foldable Phones in 2024",
+          "type": "video",
+          "videoEndpoint": "/watch?v=L_jWHffIx5E",
+          "viewCount": "3,456,789"
+        },
+        {
+          "id": "kJQP7kiw5Fk",
+          "isLive": true,
+          "length": "0:00",
+          "publishedTime": "2024-06-10",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/hqdefault.jpg",
+              "width": 480
+            }
+          ],
+          "title": "LIVE: Apple WWDC 2024 Reaction",
+          "type": "video",
+          "videoEndpoint": "/watch?v=kJQP7kiw5Fk",
+          "viewCount": "12,345"
+        }
+      ],
+      "title": "Marques Brownlee",
+      "viewCount": "1,234,567,890"
+    }
+  },
+  "{\"is_id\":\"UC_x5XG1OV2P6uZZ5FSM9Ttw\"}": {
+    "error": "",
+    "response": {
+      "channel": {
+        "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "name": "Google Developers",
+        "thumbnails": [
+          {
+            "height": 88,
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniLz1s2Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88
+          },
+          {
+            "height": 176,
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniLz1s2Q=s176-c-k-c0x00ffffff-no-rj",
+            "width": 176
+          }
+        ]
+      },
+      "date": "2024-03-15",
+      "description": "Welcome to the official Google Developers channel, where you can find talks, tutorials, and news about Google's developer products and platforms.",
+      "isLive": false,
+      "relativeDate": "3 months ago",
+      "subscribers": "2.4M",
+      "suggestion": [
+        {
+          "id": "dQw4w9WgXcQ",
+          "isLive": false,
+          "length": "3:33",
+          "publishedTime": "2009-10-25",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+              "width": 480
+            }
+          ],
+          "title": "Google I/O 2024 Keynote Highlights",
+          "type": "video",
+          "videoEndpoint": "/watch?v=dQw4w9WgXcQ",
+          "viewCount": "1,234,567"
+        },
+        {
+          "id": "9bZkp7q19f0",
+          "isLive": false,
+          "length": "4:12",
+          "publishedTime": "2012-07-15",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+              "width": 480
+            }
+          ],
+          "title": "Building with Flutter: A Beginner's Guide",
+          "type": "video",
+          "videoEndpoint": "/watch?v=9bZkp7q19f0",
+          "viewCount": "987,654"
+        }
+      ],
+      "title": "Google Developers",
+      "viewCount": "45,678,901"
+    }
+  }
+}

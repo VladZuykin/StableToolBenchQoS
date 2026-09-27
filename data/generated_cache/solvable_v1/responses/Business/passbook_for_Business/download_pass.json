@@ -1,0 +1,14 @@
+{
+  "{\"passtypeidentifier\":\"pass.com.acme.loyalty\",\"serialnumber\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.apple.pkpass",
+      "downloadUrl": "https://api.passslot.com/v1/passes/pass.com.acme.loyalty/a1b2c3d4-e5f6-7890-abcd-ef1234567890/download",
+      "fileSize": 24576,
+      "message": "Pass downloaded successfully",
+      "passTypeIdentifier": "pass.com.acme.loyalty",
+      "serialNumber": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "status": "success"
+    }
+  }
+}

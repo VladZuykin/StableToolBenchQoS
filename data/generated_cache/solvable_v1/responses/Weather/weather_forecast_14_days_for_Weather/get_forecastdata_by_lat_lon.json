@@ -1,0 +1,167 @@
+{
+  "{\"lang\":\"en\",\"lat\":40.7128,\"lon\":-74.006}": {
+    "error": "",
+    "response": {
+      "6_hourly_forecast": [
+        {
+          "FCTTIME": "2024-06-01 00:00:00",
+          "pres": "1013",
+          "rain": "0",
+          "rain_chance_0.3mm": "5",
+          "rh": "65",
+          "symbol": "1",
+          "symbol_text": "Clear",
+          "tdew": "12",
+          "temp": "22",
+          "wind": "10",
+          "wind_bft": "3",
+          "wind_direction": "SW",
+          "wind_direction_dez": "225",
+          "wind_gust": "18"
+        }
+      ],
+      "ActualsYesterday": [
+        {
+          "TIME": {
+            "mday": "31",
+            "mon": "05",
+            "weekday": "Friday",
+            "year": "2024"
+          },
+          "Tmax": "26",
+          "Tmin": "17",
+          "sunshine_hours": "9",
+          "symbol": "2",
+          "symbol_text": "Partly Cloudy"
+        }
+      ],
+      "description": "14-day forecast for New York",
+      "generator": "WeatherAPI",
+      "link": "http://api.weatherapi.com/v1/forecast.json?key=YOUR_KEY&q=40.7128,-74.006",
+      "location": {
+        "CEL": "22",
+        "SI": "22",
+        "SIU": "22",
+        "city": "New York",
+        "country": "US",
+        "country_name": "United States",
+        "lat": "40.7128",
+        "lon": "-74.006",
+        "tz_long": "America/New_York",
+        "wmo": "744860"
+      },
+      "modified": "2024-06-01T00:00:00Z",
+      "title": "Weather Forecast for New York"
+    }
+  },
+  "{\"lang\":\"fr\",\"lat\":48.8566,\"lon\":2.3522}": {
+    "error": "",
+    "response": {
+      "6_hourly_forecast": [
+        {
+          "FCTTIME": "2024-06-01 06:00:00",
+          "pres": "1015",
+          "rain": "0.2",
+          "rain_chance_0.3mm": "20",
+          "rh": "70",
+          "symbol": "3",
+          "symbol_text": "Cloudy",
+          "tdew": "11",
+          "temp": "18",
+          "wind": "12",
+          "wind_bft": "4",
+          "wind_direction": "W",
+          "wind_direction_dez": "270",
+          "wind_gust": "20"
+        }
+      ],
+      "ActualsYesterday": [
+        {
+          "TIME": {
+            "mday": "31",
+            "mon": "05",
+            "weekday": "Vendredi",
+            "year": "2024"
+          },
+          "Tmax": "24",
+          "Tmin": "15",
+          "sunshine_hours": "7",
+          "symbol": "4",
+          "symbol_text": "Nuageux"
+        }
+      ],
+      "description": "Prévisions sur 14 jours pour Paris",
+      "generator": "WeatherAPI",
+      "link": "http://api.weatherapi.com/v1/forecast.json?key=YOUR_KEY&q=48.8566,2.3522",
+      "location": {
+        "CEL": "18",
+        "SI": "18",
+        "SIU": "18",
+        "city": "Paris",
+        "country": "FR",
+        "country_name": "France",
+        "lat": "48.8566",
+        "lon": "2.3522",
+        "tz_long": "Europe/Paris",
+        "wmo": "071490"
+      },
+      "modified": "2024-06-01T06:00:00Z",
+      "title": "Météo pour Paris"
+    }
+  },
+  "{\"lang\":\"ja\",\"lat\":35.6895,\"lon\":139.6917}": {
+    "error": "",
+    "response": {
+      "6_hourly_forecast": [
+        {
+          "FCTTIME": "2024-06-01 12:00:00",
+          "pres": "1010",
+          "rain": "0",
+          "rain_chance_0.3mm": "10",
+          "rh": "60",
+          "symbol": "1",
+          "symbol_text": "晴れ",
+          "tdew": "14",
+          "temp": "25",
+          "wind": "8",
+          "wind_bft": "2",
+          "wind_direction": "E",
+          "wind_direction_dez": "90",
+          "wind_gust": "15"
+        }
+      ],
+      "ActualsYesterday": [
+        {
+          "TIME": {
+            "mday": "31",
+            "mon": "05",
+            "weekday": "金曜日",
+            "year": "2024"
+          },
+          "Tmax": "27",
+          "Tmin": "19",
+          "sunshine_hours": "8",
+          "symbol": "2",
+          "symbol_text": "一部曇り"
+        }
+      ],
+      "description": "東京の14日間予報",
+      "generator": "WeatherAPI",
+      "link": "http://api.weatherapi.com/v1/forecast.json?key=YOUR_KEY&q=35.6895,139.6917",
+      "location": {
+        "CEL": "25",
+        "SI": "25",
+        "SIU": "25",
+        "city": "Tokyo",
+        "country": "JP",
+        "country_name": "Japan",
+        "lat": "35.6895",
+        "lon": "139.6917",
+        "tz_long": "Asia/Tokyo",
+        "wmo": "476620"
+      },
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "東京の天気予報"
+    }
+  }
+}

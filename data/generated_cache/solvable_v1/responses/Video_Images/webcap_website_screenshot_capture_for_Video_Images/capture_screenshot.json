@@ -1,0 +1,29 @@
+{
+  "{\"url\":\"https://github.com/features\"}": {
+    "error": "",
+    "response": {
+      "cache": true,
+      "data": "https://cdn.example.com/screenshots/github-features-20240517.png",
+      "status": "success",
+      "timestamp": 1715961601
+    }
+  },
+  "{\"url\":\"https://news.ycombinator.com\"}": {
+    "error": "",
+    "response": {
+      "cache": false,
+      "data": "https://cdn.example.com/screenshots/hackernews-20240517.png",
+      "status": "success",
+      "timestamp": 1715961602
+    }
+  },
+  "{\"url\":\"https://www.wikipedia.org\"}": {
+    "error": "",
+    "response": {
+      "cache": true,
+      "data": "https://cdn.example.com/screenshots/wikipedia-org-20240517.png",
+      "status": "success",
+      "timestamp": 1715961600
+    }
+  }
+}

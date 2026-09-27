@@ -1,0 +1,88 @@
+{
+  "{\"sport\":\"basketball\"}": {
+    "error": "",
+    "response": {
+      "games": [
+        {
+          "away_score": 91,
+          "away_team": "Boston Celtics",
+          "clock": "04:12",
+          "home_score": 88,
+          "home_team": "Los Angeles Lakers",
+          "id": "bb-5521",
+          "league": "NBA",
+          "period": "Q3",
+          "status": "live"
+        },
+        {
+          "away_score": 39,
+          "away_team": "Panathinaikos",
+          "clock": "01:58",
+          "home_score": 45,
+          "home_team": "Real Madrid",
+          "id": "bb-5522",
+          "league": "EuroLeague",
+          "period": "Q2",
+          "status": "live"
+        }
+      ],
+      "message": "Live basketball games retrieved successfully"
+    }
+  },
+  "{\"sport\":\"football\"}": {
+    "error": "",
+    "response": {
+      "games": [
+        {
+          "away_score": 1,
+          "away_team": "Liverpool",
+          "home_score": 1,
+          "home_team": "Manchester United",
+          "id": "fb-10231",
+          "league": "Premier League",
+          "minute": 67,
+          "status": "live"
+        },
+        {
+          "away_score": 0,
+          "away_team": "Real Madrid",
+          "home_score": 2,
+          "home_team": "Barcelona",
+          "id": "fb-10232",
+          "league": "La Liga",
+          "minute": 34,
+          "status": "live"
+        }
+      ],
+      "message": "Live football games retrieved successfully"
+    }
+  },
+  "{\"sport\":\"tennis\"}": {
+    "error": "",
+    "response": {
+      "games": [
+        {
+          "current_set_score": "4-3",
+          "id": "tn-7781",
+          "player_away": "Carlos Alcaraz",
+          "player_home": "Novak Djokovic",
+          "sets_away": 1,
+          "sets_home": 1,
+          "status": "live",
+          "tournament": "Wimbledon"
+        },
+        {
+          "current_set_score": "2-5",
+          "id": "tn-7782",
+          "player_away": "Aryna Sabalenka",
+          "player_home": "Iga Swiatek",
+          "sets_away": 1,
+          "sets_home": 0,
+          "status": "live",
+          "tournament": "Wimbledon"
+        }
+      ],
+      "message": "Live tennis games retrieved successfully"
+    }
+  }
+}

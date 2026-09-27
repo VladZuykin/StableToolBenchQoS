@@ -1,0 +1,64 @@
+{
+  "{\"statid\":\"02671\",\"year\":\"2023\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "64f1c2a9e13b4a0012ab34cd"
+      },
+      "name": "FedExCup Standings",
+      "previousTourn": {
+        "endDate": "2023-08-27",
+        "name": "TOUR Championship",
+        "tournId": "R2023014"
+      },
+      "rankings": [
+        {
+          "events": "20",
+          "firstName": "Scottie",
+          "lastName": "Scheffler",
+          "numTop10s": "13",
+          "numWins": "4",
+          "playerId": "34046",
+          "pointsBehind": "0",
+          "previousRank": "1",
+          "rank": "1",
+          "totalPoints": "4,218",
+          "totalPointsProjected": "4,218"
+        },
+        {
+          "events": "19",
+          "firstName": "Rory",
+          "lastName": "McIlroy",
+          "numTop10s": "11",
+          "numWins": "3",
+          "playerId": "28237",
+          "pointsBehind": "612",
+          "previousRank": "3",
+          "rank": "2",
+          "totalPoints": "3,606",
+          "totalPointsProjected": "3,606"
+        },
+        {
+          "events": "21",
+          "firstName": "Jon",
+          "lastName": "Rahm",
+          "numTop10s": "10",
+          "numWins": "4",
+          "playerId": "34448",
+          "pointsBehind": "845",
+          "previousRank": "2",
+          "rank": "3",
+          "totalPoints": "3,373",
+          "totalPointsProjected": "3,373"
+        }
+      ],
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1693526400000"
+        }
+      },
+      "tourAvg": "72.184",
+      "year": "2023"
+    }
+  }
+}

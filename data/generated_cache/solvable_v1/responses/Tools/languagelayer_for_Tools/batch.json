@@ -1,0 +1,77 @@
+{
+  "{\"query\":[\"Bonjour tout le monde\",\"Hola amigo\",\"Guten Tag\"],\"show_query\":1}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "code": "fr",
+          "confidence": 98.5,
+          "language": "French",
+          "query": "Bonjour tout le monde"
+        },
+        {
+          "code": "es",
+          "confidence": 97.2,
+          "language": "Spanish",
+          "query": "Hola amigo"
+        },
+        {
+          "code": "de",
+          "confidence": 99.1,
+          "language": "German",
+          "query": "Guten Tag"
+        }
+      ],
+      "success": true
+    }
+  },
+  "{\"query\":[\"Olá, como vai você?\",\"Ciao, come stai?\",\"Привет, как дела?\"],\"show_query\":1}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "code": "pt",
+          "confidence": 97.9,
+          "language": "Portuguese",
+          "query": "Olá, como vai você?"
+        },
+        {
+          "code": "it",
+          "confidence": 98.3,
+          "language": "Italian",
+          "query": "Ciao, come stai?"
+        },
+        {
+          "code": "ru",
+          "confidence": 99.0,
+          "language": "Russian",
+          "query": "Привет, как дела?"
+        }
+      ],
+      "success": true
+    }
+  },
+  "{\"query\":[\"こんにちは世界\",\"안녕하세요\",\"你好世界\"]}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "code": "ja",
+          "confidence": 96.8,
+          "language": "Japanese"
+        },
+        {
+          "code": "ko",
+          "confidence": 95.4,
+          "language": "Korean"
+        },
+        {
+          "code": "zh",
+          "confidence": 94.7,
+          "language": "Chinese"
+        }
+      ],
+      "success": true
+    }
+  }
+}

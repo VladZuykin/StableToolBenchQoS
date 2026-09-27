@@ -1,0 +1,82 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": [
+        {
+          "calendarEventID": "14-745804-2024-06-15",
+          "content": {
+            "link": "/api/v1/game/745804/content"
+          },
+          "dayNight": "day",
+          "doubleHeader": "N",
+          "gameDate": "2024-06-15T18:10:00Z",
+          "gameNumber": 1,
+          "gamePk": 745804,
+          "gameType": "R",
+          "gamedayType": "P",
+          "gamesInSeries": 3,
+          "ifNecessary": "N",
+          "ifNecessaryDescription": "Normal Game",
+          "inningBreakLength": 120,
+          "officialDate": "2024-06-15",
+          "publicFacing": true,
+          "recordSource": "S",
+          "reverseHomeAwayStatus": false,
+          "scheduledInnings": 9,
+          "season": "2024",
+          "seasonDisplay": "2024",
+          "seriesDescription": "Regular Season",
+          "seriesGameNumber": 2,
+          "status": {
+            "abstractGameCode": "F",
+            "abstractGameState": "Final",
+            "codedGameState": "F",
+            "detailedState": "Final",
+            "startTimeTBD": false,
+            "statusCode": "F"
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "losses": 32,
+                "pct": ".543",
+                "wins": 38
+              },
+              "score": 5,
+              "seriesNumber": 22,
+              "splitSquad": false,
+              "team": {
+                "id": 147,
+                "name": "New York Yankees"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "losses": 29,
+                "pct": ".586",
+                "wins": 41
+              },
+              "score": 3,
+              "seriesNumber": 22,
+              "splitSquad": false,
+              "team": {
+                "id": 111,
+                "name": "Boston Red Sox"
+              }
+            }
+          },
+          "tiebreaker": "N",
+          "venue": {
+            "id": 3,
+            "name": "Fenway Park"
+          }
+        }
+      ]
+    }
+  }
+}

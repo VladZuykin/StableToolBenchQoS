@@ -1,0 +1,233 @@
+{
+  "{\"name\":\"cooking\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/cookingwithsam.jpg",
+          "digg": 1890,
+          "fans": 845000,
+          "following": 312,
+          "heart": 12500000,
+          "id": "6789012345678901234",
+          "name": "cookingwithsam",
+          "nickName": "Sam Cooks",
+          "secUid": "MS4wLjABAAAAcookingwithsam",
+          "signature": "Simple recipes for busy people 🍳",
+          "verified": true,
+          "video": 420
+        },
+        "commentCount": 1450,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/default.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/dynamic.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/origin.jpg"
+        },
+        "createTime": 1717420800,
+        "diggCount": 45200,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/cooking.jpg",
+            "id": "12345",
+            "name": "cooking",
+            "title": "cooking"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/pasta.jpg",
+            "id": "67890",
+            "name": "pasta",
+            "title": "pasta"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/foodie.jpg",
+            "id": "24680",
+            "name": "foodie",
+            "title": "foodie"
+          }
+        ],
+        "id": "7234567890123456789",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/large.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/medium.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/thumb.jpg",
+          "duration": 28,
+          "musicAlbum": "",
+          "musicAuthor": "Sam Cooks",
+          "musicId": "7123456789012345678",
+          "musicName": "original sound - Sam Cooks",
+          "musicOriginal": true,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/music/cooking-sound.mp3"
+        },
+        "playCount": 890000,
+        "secretID": "7234567890123456789",
+        "shareCount": 3200,
+        "text": "Easy 15-minute pasta recipe you need to try! #cooking #pasta #foodie",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/cooking-nwm",
+        "videoMeta": {
+          "duration": 28,
+          "height": 1024,
+          "width": 576
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/cooking-with-watermark.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/cooking-no-watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@cookingwithsam/video/7234567890123456789"
+      }
+    ]
+  },
+  "{\"name\":\"diycrafts\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/craftyclaire.jpg",
+          "digg": 2100,
+          "fans": 56000,
+          "following": 890,
+          "heart": 980000,
+          "id": "8901234567890123456",
+          "name": "craftyclaire",
+          "nickName": "Claire Makes",
+          "secUid": "MS4wLjABAAAAcraftyclaire",
+          "signature": "DIY projects & craft tutorials 🎨",
+          "verified": false,
+          "video": 95
+        },
+        "commentCount": 890,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/macrame-default.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/macrame-dynamic.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/macrame-origin.jpg"
+        },
+        "createTime": 1717593600,
+        "diggCount": 23400,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/diycrafts.jpg",
+            "id": "11223",
+            "name": "diycrafts",
+            "title": "diycrafts"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/macrame.jpg",
+            "id": "44556",
+            "name": "macrame",
+            "title": "macrame"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/homedecor.jpg",
+            "id": "77889",
+            "name": "homedecor",
+            "title": "homedecor"
+          }
+        ],
+        "id": "7456789012345678901",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/cv-large.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/cv-medium.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/cv-thumb.jpg",
+          "duration": 45,
+          "musicAlbum": "Craft Sessions",
+          "musicAuthor": "LoFi Beats",
+          "musicId": "7345678901234567890",
+          "musicName": "Chill Vibes",
+          "musicOriginal": false,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/music/chill-vibes.mp3"
+        },
+        "playCount": 340000,
+        "secretID": "7456789012345678901",
+        "shareCount": 1800,
+        "text": "DIY macrame wall hanging under $10! 🧶 #diycrafts #macrame #homedecor",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/macrame-nwm",
+        "videoMeta": {
+          "duration": 45,
+          "height": 1024,
+          "width": 576
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/macrame-watermark.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/macrame-no-watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@craftyclaire/video/7456789012345678901"
+      }
+    ]
+  },
+  "{\"name\":\"traveldiaries\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/wanderlustjen.jpg",
+          "digg": 3200,
+          "fans": 230000,
+          "following": 540,
+          "heart": 4100000,
+          "id": "7890123456789012345",
+          "name": "wanderlustjen",
+          "nickName": "Jen on the Go",
+          "secUid": "MS4wLjABAAAAwanderlustjen",
+          "signature": "Chasing sunsets around the world ✈️",
+          "verified": false,
+          "video": 210
+        },
+        "commentCount": 4300,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/santorini-default.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/santorini-dynamic.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/santorini-origin.jpg"
+        },
+        "createTime": 1717507200,
+        "diggCount": 128000,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/traveldiaries.jpg",
+            "id": "13579",
+            "name": "traveldiaries",
+            "title": "traveldiaries"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/santorini.jpg",
+            "id": "97531",
+            "name": "santorini",
+            "title": "santorini"
+          },
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/wanderlust.jpg",
+            "id": "86420",
+            "name": "wanderlust",
+            "title": "wanderlust"
+          }
+        ],
+        "id": "7345678901234567890",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/gh-large.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/gh-medium.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/gh-thumb.jpg",
+          "duration": 30,
+          "musicAlbum": "this is what ____ feels like",
+          "musicAuthor": "JVKE",
+          "musicId": "7234567890123456789",
+          "musicName": "Golden Hour",
+          "musicOriginal": false,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/music/golden-hour.mp3"
+        },
+        "playCount": 2100000,
+        "secretID": "7345678901234567890",
+        "shareCount": 9800,
+        "text": "Sunset in Santorini hits different 🌅 #traveldiaries #santorini #wanderlust",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/santorini-nwm",
+        "videoMeta": {
+          "duration": 30,
+          "height": 1920,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/santorini-watermark.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/santorini-no-watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@wanderlustjen/video/7345678901234567890"
+      }
+    ]
+  }
+}

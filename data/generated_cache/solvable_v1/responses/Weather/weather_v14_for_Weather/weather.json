@@ -1,0 +1,92 @@
+{
+  "{\"is_id\":\"LON-EC1A\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "condition": "Light Rain",
+          "date": "2024-06-14",
+          "high_c": 17,
+          "low_c": 11,
+          "precipitation_chance": 80
+        },
+        {
+          "condition": "Overcast",
+          "date": "2024-06-15",
+          "high_c": 18,
+          "low_c": 12,
+          "precipitation_chance": 40
+        },
+        {
+          "condition": "Partly Cloudy",
+          "date": "2024-06-16",
+          "high_c": 20,
+          "low_c": 12,
+          "precipitation_chance": 25
+        }
+      ],
+      "id": "LON-EC1A",
+      "location": "London, UK"
+    }
+  },
+  "{\"is_id\":\"NYC-10001\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "condition": "Partly Cloudy",
+          "date": "2024-06-14",
+          "high_f": 78,
+          "low_f": 63,
+          "precipitation_chance": 20
+        },
+        {
+          "condition": "Sunny",
+          "date": "2024-06-15",
+          "high_f": 82,
+          "low_f": 66,
+          "precipitation_chance": 5
+        },
+        {
+          "condition": "Thunderstorms",
+          "date": "2024-06-16",
+          "high_f": 75,
+          "low_f": 61,
+          "precipitation_chance": 70
+        }
+      ],
+      "id": "NYC-10001",
+      "location": "New York, NY"
+    }
+  },
+  "{\"is_id\":\"TYO-100-0001\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "condition": "Humid and Cloudy",
+          "date": "2024-06-14",
+          "high_c": 26,
+          "low_c": 21,
+          "precipitation_chance": 50
+        },
+        {
+          "condition": "Rain Showers",
+          "date": "2024-06-15",
+          "high_c": 24,
+          "low_c": 20,
+          "precipitation_chance": 85
+        },
+        {
+          "condition": "Clear",
+          "date": "2024-06-16",
+          "high_c": 28,
+          "low_c": 22,
+          "precipitation_chance": 10
+        }
+      ],
+      "id": "TYO-100-0001",
+      "location": "Tokyo, Japan"
+    }
+  }
+}

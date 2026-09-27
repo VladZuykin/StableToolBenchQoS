@@ -1,0 +1,26 @@
+{
+  "{\"end_date\":20210102123459,\"limit\":250,\"page\":2,\"start_date\":20210101123459}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  },
+  "{\"end_date\":20210131,\"limit\":100,\"start_date\":20210101}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  },
+  "{\"limit\":50,\"page\":1}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  }
+}

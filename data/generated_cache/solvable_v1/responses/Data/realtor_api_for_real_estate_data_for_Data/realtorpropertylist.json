@@ -1,0 +1,178 @@
+{
+  "{\"city\":\"New York\",\"offset\":\"42\",\"state_code\":\"NY\"}": {
+    "error": "",
+    "response": {
+      "agent": [
+        {
+          "office_name": "CORCORAN GROUP"
+        },
+        {
+          "office_name": null
+        }
+      ],
+      "branding": [
+        {
+          "name": "The Corcoran Group",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "last_update_date": "2023-01-18T09:12:44Z",
+      "list_date": "2022-11-02T14:05:11Z",
+      "list_price": 1450000,
+      "listing_id": "2951127744",
+      "location": {
+        "address": {
+          "city": "New York",
+          "coordinate": {
+            "lat": 40.784512,
+            "lon": -73.955321
+          },
+          "line": "215 E 84th St Apt 5B",
+          "postal_code": "10028",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36061",
+          "name": "New York"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=215%20E%2084th%20St%2C%20New%20York%2C%20NY%2010028&size=640x480&source=outdoor&signature=AbCdEfGhIjKlMnOpQrStUvWxYz0="
+      },
+      "open_house_description": "Open House: Sun 1-3pm",
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2951127744",
+            "listing_key": null,
+            "primary": true,
+            "status": "for_sale"
+          }
+        ]
+      },
+      "permalink": "https://www.realtor.com/realestateandhomes-detail/215-E-84th-St-New-York_NY_10028_M29511-27744",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/abc123def456ghi789jkl012mno345pqr-b987654321s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/abc123def456ghi789jkl012mno345pqr-b123456789s.jpg"
+        }
+      ],
+      "price_reduced_amount": 25000,
+      "primary_photo": "https://ap.rdcpix.com/abc123def456ghi789jkl012mno345pqr-b987654321s.jpg",
+      "property_description": {
+        "baths": 2,
+        "baths_1qtr": null,
+        "baths_3qtr": null,
+        "baths_full": 2,
+        "baths_half": null,
+        "beds": 3,
+        "garage": 0,
+        "lot_sqft": 0,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1420,
+        "stories": null,
+        "sub_type": null,
+        "type": "condo",
+        "year_built": 1928
+      },
+      "property_id": "2951127744",
+      "source": "REBNY",
+      "status": "for_sale",
+      "tax_record": "7B877G1D098F8D6B2EC1E3AB7C33227B",
+      "type": "mls",
+      "virtual_tour_link": "https://my.matterport.com/show/?m=abc123xyz"
+    }
+  },
+  "{\"city\":\"San Jose\",\"offset\":\"0\",\"state_code\":\"CA\"}": {
+    "error": "",
+    "response": {
+      "agent": [
+        {
+          "office_name": "CENTURY21 REAL ESTATE ALLIANCE"
+        },
+        {
+          "office_name": null
+        }
+      ],
+      "branding": [
+        {
+          "name": "CENTURY 21 Real Estate Alliance",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "last_update_date": "2022-12-06T01:24:16Z",
+      "list_date": "2022-08-23T23:24:23Z",
+      "list_price": 875000,
+      "listing_id": "2946989531",
+      "location": {
+        "address": {
+          "city": "San Francisco",
+          "coordinate": {
+            "lat": 37.71979,
+            "lon": -122.462898
+          },
+          "line": "9 Garfield St",
+          "postal_code": "94132",
+          "state": "California",
+          "state_code": "CA"
+        },
+        "county": {
+          "fips_code": "06075",
+          "name": "San Francisco"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=9%20Garfield%20St%2C%20San%20Francisco%2C%20CA%2094132&size=640x480&source=outdoor&signature=NniMw06UKhWMjlwyIN-dwOajrxo="
+      },
+      "open_house_description": "No Open House Available",
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2946989531",
+            "listing_key": null,
+            "primary": true,
+            "status": "for_sale"
+          }
+        ]
+      },
+      "permalink": "https://www.realtor.com/realestateandhomes-detail/9-Garfield-St_San-Francisco_CA_94132_M23343-72866",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/690f73cb78c5a22ccb272def0e3435fel-b1134851845s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/690f73cb78c5a22ccb272def0e3435fel-b145756411s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": "https://ap.rdcpix.com/690f73cb78c5a22ccb272def0e3435fel-b1134851845s.jpg",
+      "property_description": {
+        "baths": 1,
+        "baths_1qtr": null,
+        "baths_3qtr": null,
+        "baths_full": 1,
+        "baths_half": null,
+        "beds": 0,
+        "garage": 2,
+        "lot_sqft": 2539,
+        "name": null,
+        "sold_date": "2017-08-17",
+        "sold_price": 45373,
+        "sqft": 1094,
+        "stories": null,
+        "sub_type": null,
+        "type": "single_family",
+        "year_built": 1947
+      },
+      "property_id": "2334372866",
+      "source": "BDCA",
+      "status": "for_sale",
+      "tax_record": "6A966F0C987E7C5A1DB0D29A6B22116A",
+      "type": "mls",
+      "virtual_tour_link": "No Virtual Tour Available"
+    }
+  }
+}

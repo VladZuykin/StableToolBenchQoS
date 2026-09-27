@@ -1,0 +1,22 @@
+{
+  "{\"symbol\":\"DWAC\"}": {
+    "error": "",
+    "response": {
+      "document_link": "https://www.sec.gov/Archives/edgar/data/1849635/000121390022012345/0001213900-22-012345-index.htm",
+      "filing_date": "2022-03-15",
+      "form_description": "Current Report",
+      "form_type": "8-K",
+      "ticker": "DWAC"
+    }
+  },
+  "{\"symbol\":\"GGPI\"}": {
+    "error": "",
+    "response": {
+      "document_link": "https://www.sec.gov/Archives/edgar/data/1826432/000119312521345678/0001193125-21-345678-index.htm",
+      "filing_date": "2021-11-08",
+      "form_description": "Proxy Statement",
+      "form_type": "DEF 14A",
+      "ticker": "GGPI"
+    }
+  }
+}

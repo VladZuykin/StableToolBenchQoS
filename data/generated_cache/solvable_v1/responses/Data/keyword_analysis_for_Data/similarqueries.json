@@ -1,0 +1,36 @@
+{
+  "{\"q\":\"best coffee shops in seattle\"}": {
+    "error": "",
+    "response": [
+      {
+        "name": "top coffee shops seattle",
+        "score": 0.92
+      },
+      {
+        "name": "seattle best cafes",
+        "score": 0.87
+      },
+      {
+        "name": "coffee places in seattle",
+        "score": 0.81
+      }
+    ]
+  },
+  "{\"q\":\"how to learn python programming\"}": {
+    "error": "",
+    "response": [
+      {
+        "name": "python programming for beginners",
+        "score": 0.95
+      },
+      {
+        "name": "learn python tutorial",
+        "score": 0.89
+      },
+      {
+        "name": "python coding basics",
+        "score": 0.83
+      }
+    ]
+  }
+}

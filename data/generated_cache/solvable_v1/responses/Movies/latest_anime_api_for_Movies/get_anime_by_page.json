@@ -1,0 +1,100 @@
+{
+  "{\"num\":1}": {
+    "error": "",
+    "response": {
+      "anime": [
+        {
+          "episode": 1,
+          "id": 1,
+          "release_date": "2024-04-07",
+          "synopsis": "Tanjiro Kamado continues his journey to become a Demon Slayer.",
+          "title": "Demon Slayer: Kimetsu no Yaiba"
+        },
+        {
+          "episode": 1,
+          "id": 2,
+          "release_date": "2024-05-04",
+          "synopsis": "Izuku Midoriya and his classmates face new threats.",
+          "title": "My Hero Academia Season 7"
+        },
+        {
+          "episode": 1,
+          "id": 3,
+          "release_date": "2023-07-06",
+          "synopsis": "Yuji Itadori battles curses in Shibuya.",
+          "title": "Jujutsu Kaisen Season 2"
+        }
+      ]
+    }
+  },
+  "{\"num\":3}": {
+    "error": "",
+    "response": {
+      "anime": [
+        {
+          "episode": 1100,
+          "id": 7,
+          "release_date": "2024-03-31",
+          "synopsis": "Luffy and the Straw Hats continue their adventures in Egghead.",
+          "title": "One Piece"
+        },
+        {
+          "episode": 28,
+          "id": 8,
+          "release_date": "2023-11-04",
+          "synopsis": "The final battle for Paradis reaches its climax.",
+          "title": "Attack on Titan: Final Season"
+        },
+        {
+          "episode": 12,
+          "id": 9,
+          "release_date": "2023-12-23",
+          "synopsis": "The Forger family faces new challenges.",
+          "title": "Spy x Family Season 2"
+        }
+      ]
+    }
+  },
+  "{\"num\":5}": {
+    "error": "",
+    "response": {
+      "anime": [
+        {
+          "episode": 12,
+          "id": 13,
+          "release_date": "2022-12-27",
+          "synopsis": "Denji fights devils to survive.",
+          "title": "Chainsaw Man"
+        },
+        {
+          "episode": 24,
+          "id": 14,
+          "release_date": "2023-03-25",
+          "synopsis": "Isagi battles to become the world's best striker.",
+          "title": "Blue Lock"
+        },
+        {
+          "episode": 12,
+          "id": 15,
+          "release_date": "2022-12-21",
+          "synopsis": "Mob faces his greatest challenge yet.",
+          "title": "Mob Psycho 100 III"
+        },
+        {
+          "episode": 24,
+          "id": 16,
+          "release_date": "2023-06-19",
+          "synopsis": "Thorfinn seeks a life without violence.",
+          "title": "Vinland Saga Season 2"
+        },
+        {
+          "episode": 13,
+          "id": 17,
+          "release_date": "2023-07-01",
+          "synopsis": "Gabimaru searches for the elixir of life.",
+          "title": "Hell's Paradise"
+        }
+      ]
+    }
+  }
+}

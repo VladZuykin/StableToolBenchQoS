@@ -1,0 +1,248 @@
+{
+  "{\"customid\":\"ExbsIxb\"}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "awayScore": {
+            "current": "3",
+            "display": "3",
+            "period1": "0",
+            "period2": "1",
+            "period3": "0",
+            "period4": "1",
+            "period5": "0",
+            "period6": "1",
+            "period7": "0",
+            "period8": "0",
+            "period9": "0"
+          },
+          "awayTeam": {
+            "gender": "M",
+            "id": 3421,
+            "name": "New York Yankees",
+            "nameCode": "NYY",
+            "national": false,
+            "shortName": "Yankees",
+            "slug": "new-york-yankees",
+            "sport": {
+              "id": 3,
+              "name": "Baseball",
+              "slug": "baseball"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#003087",
+              "secondary": "#E4002C",
+              "text": "#FFFFFF"
+            },
+            "type": 1,
+            "userCount": 98234
+          },
+          "changes": {
+            "changeTimestamp": 1717430400
+          },
+          "crowdsourcingDataDisplayEnabled": false,
+          "customId": "ExbsIxb",
+          "finalResultOnly": false,
+          "hasGlobalHighlights": true,
+          "homeScore": {
+            "current": "5",
+            "display": "5",
+            "period1": "1",
+            "period2": "0",
+            "period3": "2",
+            "period4": "0",
+            "period5": "1",
+            "period6": "0",
+            "period7": "1",
+            "period8": "0",
+            "period9": "0"
+          },
+          "homeTeam": {
+            "gender": "M",
+            "id": 3422,
+            "name": "Boston Red Sox",
+            "nameCode": "BOS",
+            "national": false,
+            "shortName": "Red Sox",
+            "slug": "boston-red-sox",
+            "sport": {
+              "id": 3,
+              "name": "Baseball",
+              "slug": "baseball"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#BD3039",
+              "secondary": "#0C2340",
+              "text": "#FFFFFF"
+            },
+            "type": 1,
+            "userCount": 87654
+          },
+          "id": 12837465,
+          "periods": {
+            "current": "Final",
+            "extra1": "",
+            "inning1": "1-0",
+            "inning2": "1-1",
+            "inning3": "3-1",
+            "inning4": "3-2",
+            "inning5": "4-2",
+            "inning6": "4-3",
+            "inning7": "5-3",
+            "inning8": "5-3",
+            "inning9": "5-3"
+          },
+          "startTimestamp": 1717416000,
+          "status": {
+            "code": 100,
+            "description": "Ended",
+            "type": "finished"
+          },
+          "time": {
+            "currentPeriodStartTimestamp": 1717426800,
+            "injuryTime": 0
+          },
+          "tournament": {
+            "id": 45,
+            "name": "MLB",
+            "slug": "mlb"
+          },
+          "venue": {
+            "city": "Boston",
+            "country": "USA",
+            "id": 1122,
+            "name": "Fenway Park",
+            "slug": "fenway-park"
+          },
+          "winnerCode": 1
+        }
+      ]
+    }
+  },
+  "{\"customid\":\"LmQzT7vK\"}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "awayScore": {
+            "current": "2",
+            "display": "2",
+            "period1": "0",
+            "period2": "0",
+            "period3": "1",
+            "period4": "0",
+            "period5": "0",
+            "period6": "1",
+            "period7": "0",
+            "period8": "0",
+            "period9": "0"
+          },
+          "awayTeam": {
+            "gender": "M",
+            "id": 5510,
+            "name": "Yomiuri Giants",
+            "nameCode": "YOM",
+            "national": false,
+            "shortName": "Giants",
+            "slug": "yomiuri-giants",
+            "sport": {
+              "id": 3,
+              "name": "Baseball",
+              "slug": "baseball"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#F97709",
+              "secondary": "#000000",
+              "text": "#FFFFFF"
+            },
+            "type": 1,
+            "userCount": 41230
+          },
+          "changes": {
+            "changeTimestamp": 1717516800
+          },
+          "crowdsourcingDataDisplayEnabled": false,
+          "customId": "LmQzT7vK",
+          "finalResultOnly": false,
+          "hasGlobalHighlights": false,
+          "homeScore": {
+            "current": "4",
+            "display": "4",
+            "period1": "1",
+            "period2": "1",
+            "period3": "0",
+            "period4": "1",
+            "period5": "0",
+            "period6": "0",
+            "period7": "1",
+            "period8": "0",
+            "period9": "0"
+          },
+          "homeTeam": {
+            "gender": "M",
+            "id": 5511,
+            "name": "Hanshin Tigers",
+            "nameCode": "HAN",
+            "national": false,
+            "shortName": "Tigers",
+            "slug": "hanshin-tigers",
+            "sport": {
+              "id": 3,
+              "name": "Baseball",
+              "slug": "baseball"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#FFE100",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "type": 1,
+            "userCount": 38900
+          },
+          "id": 12998102,
+          "periods": {
+            "current": "Final",
+            "extra1": "",
+            "inning1": "1-0",
+            "inning2": "2-0",
+            "inning3": "2-1",
+            "inning4": "3-1",
+            "inning5": "3-1",
+            "inning6": "3-2",
+            "inning7": "4-2",
+            "inning8": "4-2",
+            "inning9": "4-2"
+          },
+          "startTimestamp": 1717502400,
+          "status": {
+            "code": 100,
+            "description": "Ended",
+            "type": "finished"
+          },
+          "time": {
+            "currentPeriodStartTimestamp": 1717513200,
+            "injuryTime": 0
+          },
+          "tournament": {
+            "id": 78,
+            "name": "Pro Yakyu - NPB",
+            "slug": "pro-yakyu-npb"
+          },
+          "venue": {
+            "city": "Nishinomiya",
+            "country": "Japan",
+            "id": 3344,
+            "name": "Hanshin Koshien Stadium",
+            "slug": "hanshin-koshien-stadium"
+          },
+          "winnerCode": 1
+        }
+      ]
+    }
+  }
+}

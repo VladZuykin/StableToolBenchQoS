@@ -1,0 +1,30 @@
+{
+  "{\"path\":\"/Documents/Reports\",\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-03-15T09:22:41Z",
+          "Name": "Q1",
+          "Path": "/Documents/Reports/Q1",
+          "Size": 0
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-14T16:05:12Z",
+          "Name": "summary.xlsx",
+          "Path": "/Documents/Reports/summary.xlsx",
+          "Size": 20480
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-10T11:47:33Z",
+          "Name": "budget.xls",
+          "Path": "/Documents/Reports/budget.xls",
+          "Size": 15360
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"text\":\"7G4K9\",\"url\":\"https://example.com/captcha.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/captcha/7G4K9.png",
+      "message": "Captcha image generated successfully"
+    }
+  },
+  "{\"text\":\"P9Q3R\",\"url\":\"https://static.example.net/challenge.gif\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/captcha/P9Q3R.png",
+      "message": "Captcha image generated successfully"
+    }
+  },
+  "{\"text\":\"X2B8M\",\"url\":\"https://images.example.org/verify.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/captcha/X2B8M.png",
+      "message": "Captcha image generated successfully"
+    }
+  }
+}

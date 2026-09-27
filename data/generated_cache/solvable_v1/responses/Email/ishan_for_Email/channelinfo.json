@@ -1,0 +1,44 @@
+{
+  "{\"channelid\":\"19:abc123def456@thread.skype\",\"teamid\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": "NotFound",
+        "innerError": {
+          "client-request-id": "c1d2e3f4-5678-90ab-cdef-1234567890ab",
+          "date": "2024-06-14T09:23:11Z",
+          "request-id": "r1e2q3u4-5678-90ab-cdef-1234567890ab"
+        },
+        "message": "The channel with the specified ID was not found in the given team."
+      }
+    }
+  },
+  "{\"channelid\":\"19:general@thread.tacv2\",\"teamid\":\"f9e8d7c6-b5a4-3210-fedc-ba9876543210\"}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": "Forbidden",
+        "innerError": {
+          "client-request-id": "a9b8c7d6-4321-0fed-cba9-876543210fed",
+          "date": "2024-07-02T15:47:52Z",
+          "request-id": "x9y8z7w6-4321-0fed-cba9-876543210fed"
+        },
+        "message": "The caller does not have permission to access channel information for this team."
+      }
+    }
+  },
+  "{\"channelid\":\"19:project-updates@thread.skype\",\"teamid\":\"12345678-90ab-cdef-1234-567890abcdef\"}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": "BadRequest",
+        "innerError": {
+          "client-request-id": "m0n1o2p3-4567-89ab-cdef-0123456789ab",
+          "date": "2024-08-19T03:05:44Z",
+          "request-id": "q0r1s2t3-4567-89ab-cdef-0123456789ab"
+        },
+        "message": "The provided ChannelId is malformed or the TeamId is not a valid GUID."
+      }
+    }
+  }
+}

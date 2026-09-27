@@ -1,0 +1,59 @@
+{
+  "{\"rating\":\"pg\",\"tag\":\"cats\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "id": "3o7aCTfyhYawdOXcFW",
+        "images": {
+          "original": {
+            "height": "270",
+            "url": "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif",
+            "width": "480"
+          }
+        },
+        "title": "Happy Cat",
+        "type": "gif",
+        "url": "https://giphy.com/gifs/cat-3o7aCTfyhYawdOXcFW"
+      },
+      "meta": {
+        "msg": "OK",
+        "response_id": "a1b2c3d4e5f6",
+        "status": 200
+      }
+    }
+  },
+  "{\"rating\":\"r\",\"tag\":\"fail\"}": {
+    "error": "",
+    "response": {
+      "data": [],
+      "meta": {
+        "msg": "No GIFs found for tag",
+        "response_id": "9z8y7x6w5v4u",
+        "status": 404
+      }
+    }
+  },
+  "{\"tag\":\"dogs\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "id": "l0HlvtIPzPdt2usKs",
+        "images": {
+          "original": {
+            "height": "281",
+            "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif",
+            "width": "500"
+          }
+        },
+        "title": "Excited Dog",
+        "type": "gif",
+        "url": "https://giphy.com/gifs/dog-l0HlvtIPzPdt2usKs"
+      },
+      "meta": {
+        "msg": "OK",
+        "response_id": "f6e5d4c3b2a1",
+        "status": 200
+      }
+    }
+  }
+}

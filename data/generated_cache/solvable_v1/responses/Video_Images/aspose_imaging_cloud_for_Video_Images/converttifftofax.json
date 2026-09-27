@@ -1,0 +1,32 @@
+{
+  "{\"folder\":\"archive\",\"name\":\"archive_page1.tiff\",\"storage\":\"default\"}": {
+    "error": "",
+    "response": {
+      "format": "FAX",
+      "message": "Conversion completed successfully",
+      "outputFile": "archive/archive_page1.fax",
+      "size": 131072,
+      "status": "OK"
+    }
+  },
+  "{\"folder\":\"invoices/2024\",\"name\":\"scanned_invoice.tif\",\"storage\":\"mycloudstorage\"}": {
+    "error": "",
+    "response": {
+      "format": "FAX",
+      "message": "Conversion completed successfully",
+      "outputFile": "invoices/2024/scanned_invoice.fax",
+      "size": 512000,
+      "status": "OK"
+    }
+  },
+  "{\"name\":\"fax_document.tiff\"}": {
+    "error": "",
+    "response": {
+      "format": "FAX",
+      "message": "Conversion completed successfully",
+      "outputFile": "fax_document.fax",
+      "size": 245760,
+      "status": "OK"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "{\"date\":\"2023-06-01\"}": {
+    "error": "",
+    "response": {
+      "country": "US",
+      "currency": "USD",
+      "date": "2023-06-01",
+      "gasoline": {
+        "diesel": 3.92,
+        "mid_grade": 3.81,
+        "premium": 4.07,
+        "regular": 3.55
+      },
+      "state": "MN",
+      "unit": "gallon"
+    }
+  },
+  "{\"date\":\"2024-01-10\"}": {
+    "error": "",
+    "response": {
+      "country": "US",
+      "currency": "USD",
+      "date": "2024-01-10",
+      "gasoline": {
+        "diesel": 3.74,
+        "mid_grade": 3.35,
+        "premium": 3.61,
+        "regular": 3.09
+      },
+      "state": "MN",
+      "unit": "gallon"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "country": "US",
+      "currency": "USD",
+      "date": "2024-06-15",
+      "gasoline": {
+        "diesel": 3.81,
+        "mid_grade": 3.68,
+        "premium": 3.94,
+        "regular": 3.42
+      },
+      "state": "MN",
+      "unit": "gallon"
+    }
+  }
+}

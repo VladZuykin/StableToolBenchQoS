@@ -1,0 +1,106 @@
+{
+  "{\"code\":\"Zq9LmN\"}": {
+    "error": "",
+    "response": {
+      "code": "Zq9LmN",
+      "shortUrl": "https://shrtco.de/Zq9LmN",
+      "visits": [
+        {
+          "clicks": 120,
+          "countries": {
+            "BR": 70,
+            "PT": 30,
+            "US": 20
+          },
+          "date": "2024-06-10",
+          "referers": {
+            "direct": 60,
+            "instagram.com": 25,
+            "youtube.com": 35
+          }
+        }
+      ]
+    }
+  },
+  "{\"code\":\"abc123\"}": {
+    "error": "",
+    "response": {
+      "code": "abc123",
+      "shortUrl": "https://shrtco.de/abc123",
+      "visits": [
+        {
+          "clicks": 8,
+          "countries": {
+            "IN": 4,
+            "US": 4
+          },
+          "date": "2024-05-28",
+          "referers": {
+            "direct": 5,
+            "linkedin.com": 3
+          }
+        },
+        {
+          "clicks": 15,
+          "countries": {
+            "IN": 9,
+            "US": 6
+          },
+          "date": "2024-05-29",
+          "referers": {
+            "direct": 7,
+            "google.com": 5,
+            "news.ycombinator.com": 3
+          }
+        },
+        {
+          "clicks": 3,
+          "countries": {
+            "IN": 3
+          },
+          "date": "2024-05-30",
+          "referers": {
+            "direct": 3
+          }
+        }
+      ]
+    }
+  },
+  "{\"code\":\"x7Kp2\"}": {
+    "error": "",
+    "response": {
+      "code": "x7Kp2",
+      "shortUrl": "https://shrtco.de/x7Kp2",
+      "visits": [
+        {
+          "clicks": 42,
+          "countries": {
+            "DE": 8,
+            "GB": 9,
+            "US": 25
+          },
+          "date": "2024-06-01",
+          "referers": {
+            "direct": 20,
+            "google.com": 12,
+            "twitter.com": 10
+          }
+        },
+        {
+          "clicks": 57,
+          "countries": {
+            "CA": 14,
+            "FR": 10,
+            "US": 33
+          },
+          "date": "2024-06-02",
+          "referers": {
+            "direct": 30,
+            "facebook.com": 15,
+            "reddit.com": 12
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Rebecca Rubin",
+          "id": "a1b2c3d4",
+          "published_at": "2025-06-14T09:30:00Z",
+          "publisher": "Variety",
+          "summary": "Denis Villeneuve returns to Arrakis as principal photography starts on the trilogy's final chapter.",
+          "title": "Dune: Part Three Begins Production in Budapest",
+          "url": "https://variety.com/2025/film/news/dune-part-three-production-budapest-1234567890/"
+        },
+        {
+          "author": "Pamela McClintock",
+          "id": "e5f6g7h8",
+          "published_at": "2025-06-13T17:05:00Z",
+          "publisher": "The Hollywood Reporter",
+          "summary": "A string of tentpole releases pushes domestic grosses past pre-pandemic levels for the first time.",
+          "title": "Summer Box Office Rebounds With Record June",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/summer-box-office-record-june-1234567891/"
+        },
+        {
+          "author": "Anthony D'Alessandro",
+          "id": "i9j0k1l2",
+          "published_at": "2025-06-12T21:45:00Z",
+          "publisher": "Deadline",
+          "summary": "The updated guidelines require a minimum theatrical window before awards consideration.",
+          "title": "Academy Announces New Eligibility Rules for Streaming Films",
+          "url": "https://deadline.com/2025/06/academy-new-eligibility-rules-streaming-films-1234567892/"
+        }
+      ]
+    }
+  }
+}

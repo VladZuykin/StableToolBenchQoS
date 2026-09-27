@@ -1,0 +1,119 @@
+{
+  "{\"page\":1,\"topic\":\"dax\"}": {
+    "error": "",
+    "response": {
+      "influencers": [
+        {
+          "followers": 48200,
+          "handle": "@marcorus",
+          "name": "Marco Russo",
+          "profileUrl": "https://example.com/people/marco-russo",
+          "topics": [
+            "dax",
+            "data modeling"
+          ]
+        },
+        {
+          "followers": 41500,
+          "handle": "@FerrariAlberto",
+          "name": "Alberto Ferrari",
+          "profileUrl": "https://example.com/people/alberto-ferrari",
+          "topics": [
+            "dax",
+            "performance tuning"
+          ]
+        },
+        {
+          "followers": 38900,
+          "handle": "@SQLBI",
+          "name": "SQLBI",
+          "profileUrl": "https://example.com/people/sqlbi",
+          "topics": [
+            "dax",
+            "tabular models"
+          ]
+        }
+      ],
+      "page": 1,
+      "topic": "dax"
+    }
+  },
+  "{\"page\":2,\"topic\":\"power query\"}": {
+    "error": "",
+    "response": {
+      "influencers": [
+        {
+          "followers": 27600,
+          "handle": "@cwebb_bi",
+          "name": "Chris Webb",
+          "profileUrl": "https://example.com/people/chris-webb",
+          "topics": [
+            "power query",
+            "m language"
+          ]
+        },
+        {
+          "followers": 22100,
+          "handle": "@kpuls",
+          "name": "Ken Puls",
+          "profileUrl": "https://example.com/people/ken-puls",
+          "topics": [
+            "power query",
+            "excel"
+          ]
+        },
+        {
+          "followers": 18400,
+          "handle": "@MelissaDeKorte",
+          "name": "Melissa de Korte",
+          "profileUrl": "https://example.com/people/melissa-de-korte",
+          "topics": [
+            "power query",
+            "power bi"
+          ]
+        }
+      ],
+      "page": 2,
+      "topic": "power query"
+    }
+  },
+  "{\"page\":3,\"topic\":\"data visualization\"}": {
+    "error": "",
+    "response": {
+      "influencers": [
+        {
+          "followers": 15300,
+          "handle": "@amandacofsky",
+          "name": "Amanda Cofsky",
+          "profileUrl": "https://example.com/people/amanda-cofsky",
+          "topics": [
+            "data visualization",
+            "report design"
+          ]
+        },
+        {
+          "followers": 12900,
+          "handle": "@jasonthomas",
+          "name": "Jason Thomas",
+          "profileUrl": "https://example.com/people/jason-thomas",
+          "topics": [
+            "data visualization",
+            "dashboards"
+          ]
+        },
+        {
+          "followers": 11200,
+          "handle": "@HavensConsult",
+          "name": "Reid Havens",
+          "profileUrl": "https://example.com/people/reid-havens",
+          "topics": [
+            "data visualization",
+            "power bi"
+          ]
+        }
+      ],
+      "page": 3,
+      "topic": "data visualization"
+    }
+  }
+}

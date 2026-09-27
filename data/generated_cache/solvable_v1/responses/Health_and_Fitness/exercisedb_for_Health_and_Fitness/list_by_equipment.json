@@ -1,0 +1,89 @@
+{
+  "{\"type\":\"barbell\"}": {
+    "error": "",
+    "response": [
+      {
+        "bodyPart": "upper legs",
+        "equipment": "barbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0043.gif",
+        "id": "0043",
+        "name": "barbell squat",
+        "target": "quads"
+      },
+      {
+        "bodyPart": "back",
+        "equipment": "barbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0027.gif",
+        "id": "0027",
+        "name": "barbell deadlift",
+        "target": "spine"
+      },
+      {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0025.gif",
+        "id": "0025",
+        "name": "barbell bench press",
+        "target": "pectorals"
+      }
+    ]
+  },
+  "{\"type\":\"dumbbell\"}": {
+    "error": "",
+    "response": [
+      {
+        "bodyPart": "upper arms",
+        "equipment": "dumbbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0294.gif",
+        "id": "0294",
+        "name": "dumbbell bicep curl",
+        "target": "biceps"
+      },
+      {
+        "bodyPart": "chest",
+        "equipment": "dumbbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0289.gif",
+        "id": "0289",
+        "name": "dumbbell bench press",
+        "target": "pectorals"
+      },
+      {
+        "bodyPart": "shoulders",
+        "equipment": "dumbbell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0310.gif",
+        "id": "0310",
+        "name": "dumbbell lateral raise",
+        "target": "delts"
+      }
+    ]
+  },
+  "{\"type\":\"kettlebell\"}": {
+    "error": "",
+    "response": [
+      {
+        "bodyPart": "upper legs",
+        "equipment": "kettlebell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0543.gif",
+        "id": "0543",
+        "name": "kettlebell swing",
+        "target": "glutes"
+      },
+      {
+        "bodyPart": "upper arms",
+        "equipment": "kettlebell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0529.gif",
+        "id": "0529",
+        "name": "kettlebell one arm row",
+        "target": "lats"
+      },
+      {
+        "bodyPart": "waist",
+        "equipment": "kettlebell",
+        "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0551.gif",
+        "id": "0551",
+        "name": "kettlebell turkish get-up",
+        "target": "abs"
+      }
+    ]
+  }
+}

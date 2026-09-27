@@ -1,0 +1,37 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "difficulty": "Easy",
+        "id": "1",
+        "image": "https://s3.amazonaws.com/birthday-cake-db/images/classic-vanilla-birthday-cake.jpg",
+        "title": "Classic Vanilla Birthday Cake"
+      },
+      {
+        "difficulty": "Medium",
+        "id": "2",
+        "image": "https://s3.amazonaws.com/birthday-cake-db/images/rich-chocolate-fudge-cake.jpg",
+        "title": "Rich Chocolate Fudge Cake"
+      },
+      {
+        "difficulty": "Hard",
+        "id": "3",
+        "image": "https://s3.amazonaws.com/birthday-cake-db/images/red-velvet-celebration-cake.jpg",
+        "title": "Red Velvet Celebration Cake"
+      },
+      {
+        "difficulty": "Easy",
+        "id": "4",
+        "image": "https://s3.amazonaws.com/birthday-cake-db/images/lemon-drizzle-birthday-cake.jpg",
+        "title": "Lemon Drizzle Birthday Cake"
+      },
+      {
+        "difficulty": "Medium",
+        "id": "5",
+        "image": "https://s3.amazonaws.com/birthday-cake-db/images/funfetti-sprinkle-cake.jpg",
+        "title": "Funfetti Sprinkle Cake"
+      }
+    ]
+  }
+}

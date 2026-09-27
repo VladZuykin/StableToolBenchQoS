@@ -1,0 +1,20 @@
+{
+  "{\"text\":\"Welcome to our coffee shop! Scan for menu and loyalty rewards.\"}": {
+    "error": "",
+    "response": {
+      "message": "QR code generated successfully for the provided text."
+    }
+  },
+  "{\"text\":\"https://maps.google.com/?q=Central+Park+New+York\"}": {
+    "error": "",
+    "response": {
+      "message": "QR code generated successfully for https://maps.google.com/?q=Central+Park+New+York"
+    }
+  },
+  "{\"text\":\"https://www.example.com/products/summer-sale\"}": {
+    "error": "",
+    "response": {
+      "message": "QR code generated successfully for https://www.example.com/products/summer-sale"
+    }
+  }
+}

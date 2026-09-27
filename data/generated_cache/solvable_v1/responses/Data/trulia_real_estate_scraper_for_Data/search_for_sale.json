@@ -1,0 +1,118 @@
+{
+  "{\"beds\":\"3\",\"house_type\":\"single_family\",\"max_price\":\"750000\",\"min_price\":\"300000\",\"page\":1,\"search_token\":\"demo_search_token_1\",\"sort\":\"newest\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "142 Maple St, Austin, TX",
+            "baths": 2,
+            "beds": 3,
+            "for_sale_by_agent": true,
+            "house_type": "single_family",
+            "id": "h1001",
+            "new_construction": false,
+            "price": 525000,
+            "sqft": 1850
+          },
+          {
+            "address": "88 Cedar Ave, Austin, TX",
+            "baths": 2.5,
+            "beds": 3,
+            "for_sale_by_agent": true,
+            "house_type": "single_family",
+            "id": "h1002",
+            "new_construction": false,
+            "price": 689000,
+            "sqft": 2100
+          }
+        ],
+        "paging": {
+          "current_page": 1,
+          "next_page_url": "https://api.example.com/search_for_sale?search_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.sale_token_9f3a&page=2",
+          "page_count": 12
+        }
+      },
+      "description": "Search results for SALE listings",
+      "status": 200
+    }
+  },
+  "{\"beds\":\"4\",\"min_price\":\"900000\",\"new_construction\":true,\"page\":1,\"search_token\":\"demo_search_token_2\",\"sort\":\"price_high_to_low\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "12 Summit Ridge, Seattle, WA",
+            "baths": 3.5,
+            "beds": 4,
+            "for_sale_by_agent": true,
+            "house_type": "single_family",
+            "id": "h3310",
+            "new_construction": true,
+            "price": 1450000,
+            "sqft": 3200
+          },
+          {
+            "address": "455 Lakeview Blvd, Seattle, WA",
+            "baths": 3,
+            "beds": 4,
+            "for_sale_by_agent": true,
+            "house_type": "townhouse",
+            "id": "h3311",
+            "new_construction": true,
+            "price": 980000,
+            "sqft": 2750
+          }
+        ],
+        "paging": {
+          "current_page": 1,
+          "next_page_url": "https://api.example.com/search_for_sale?search_token=sale_tok_2024_ab55ff&page=2",
+          "page_count": 3
+        }
+      },
+      "description": "Search results for SALE listings",
+      "status": 200
+    }
+  },
+  "{\"for_sale_by_owner\":true,\"house_type\":\"condo\",\"max_price\":\"400000\",\"page\":2,\"search_token\":\"demo_search_token_3\",\"sort\":\"price_low_to_high\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "300 Riverside Dr, Denver, CO",
+            "baths": 1,
+            "beds": 1,
+            "for_sale_by_agent": false,
+            "for_sale_by_owner": true,
+            "house_type": "condo",
+            "id": "h2043",
+            "new_construction": false,
+            "price": 215000,
+            "sqft": 720
+          },
+          {
+            "address": "77 Birch Ln, Denver, CO",
+            "baths": 2,
+            "beds": 2,
+            "for_sale_by_agent": false,
+            "for_sale_by_owner": true,
+            "house_type": "condo",
+            "id": "h2044",
+            "new_construction": false,
+            "price": 349900,
+            "sqft": 1050
+          }
+        ],
+        "paging": {
+          "current_page": 2,
+          "next_page_url": "https://api.example.com/search_for_sale?search_token=tok_sale_7c21b4e8d9&page=3",
+          "page_count": 5
+        }
+      },
+      "description": "Search results for SALE listings",
+      "status": 200
+    }
+  }
+}

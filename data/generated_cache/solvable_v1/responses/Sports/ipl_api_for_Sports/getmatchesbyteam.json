@@ -1,0 +1,88 @@
+{
+  "{\"team\":\"Chennai Super Kings\"}": {
+    "error": "",
+    "response": [
+      {
+        "city": "Chennai",
+        "date": "2008-04-23",
+        "eliminator": "N",
+        "id": 3,
+        "method": null,
+        "neutral_venue": 0,
+        "player_of_match": "MS Dhoni",
+        "result": "runs",
+        "result_margin": 33.0,
+        "team1": "Chennai Super Kings",
+        "team2": "Mumbai Indians",
+        "toss_decision": "bat",
+        "toss_winner": "Chennai Super Kings",
+        "umpire1": "DJ Harper",
+        "umpire2": "GA Pratapkumar",
+        "venue": "MA Chidambaram Stadium",
+        "winner": "Chennai Super Kings"
+      },
+      {
+        "city": "Delhi",
+        "date": "2008-05-02",
+        "eliminator": "N",
+        "id": 4,
+        "method": null,
+        "neutral_venue": 0,
+        "player_of_match": "V Sehwag",
+        "result": "wickets",
+        "result_margin": 8.0,
+        "team1": "Delhi Daredevils",
+        "team2": "Chennai Super Kings",
+        "toss_decision": "field",
+        "toss_winner": "Chennai Super Kings",
+        "umpire1": "Aleem Dar",
+        "umpire2": "RB Tiffin",
+        "venue": "Feroz Shah Kotla",
+        "winner": "Delhi Daredevils"
+      }
+    ]
+  },
+  "{\"team\":\"Mumbai Indians\"}": {
+    "error": "",
+    "response": [
+      {
+        "city": "Mumbai",
+        "date": "2008-04-20",
+        "eliminator": "N",
+        "id": 1,
+        "method": null,
+        "neutral_venue": 0,
+        "player_of_match": "ST Jayasuriya",
+        "result": "runs",
+        "result_margin": 10.0,
+        "team1": "Mumbai Indians",
+        "team2": "Royal Challengers Bangalore",
+        "toss_decision": "field",
+        "toss_winner": "Royal Challengers Bangalore",
+        "umpire1": "RE Koertzen",
+        "umpire2": "SJ Davis",
+        "venue": "Wankhede Stadium",
+        "winner": "Mumbai Indians"
+      },
+      {
+        "city": "Mohali",
+        "date": "2008-04-25",
+        "eliminator": "N",
+        "id": 2,
+        "method": null,
+        "neutral_venue": 0,
+        "player_of_match": "SM Pollock",
+        "result": "runs",
+        "result_margin": 66.0,
+        "team1": "Kings XI Punjab",
+        "team2": "Mumbai Indians",
+        "toss_decision": "bat",
+        "toss_winner": "Kings XI Punjab",
+        "umpire1": "BF Bowden",
+        "umpire2": "K Hariharan",
+        "venue": "Punjab Cricket Association Stadium",
+        "winner": "Kings XI Punjab"
+      }
+    ]
+  }
+}

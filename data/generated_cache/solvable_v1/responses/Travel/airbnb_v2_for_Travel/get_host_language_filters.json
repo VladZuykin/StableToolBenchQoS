@@ -1,0 +1,80 @@
+{
+  "{\"languageid\":\"en\"}": {
+    "error": "",
+    "response": {
+      "hostLanguageFilters": [
+        {
+          "id": "en",
+          "name": "English"
+        },
+        {
+          "id": "es",
+          "name": "Spanish"
+        },
+        {
+          "id": "fr",
+          "name": "French"
+        },
+        {
+          "id": "de",
+          "name": "German"
+        },
+        {
+          "id": "it",
+          "name": "Italian"
+        },
+        {
+          "id": "pt",
+          "name": "Portuguese"
+        },
+        {
+          "id": "zh",
+          "name": "Chinese"
+        },
+        {
+          "id": "ja",
+          "name": "Japanese"
+        }
+      ]
+    }
+  },
+  "{\"languageid\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "hostLanguageFilters": [
+        {
+          "id": "fr",
+          "name": "Français"
+        },
+        {
+          "id": "en",
+          "name": "Anglais"
+        },
+        {
+          "id": "es",
+          "name": "Espagnol"
+        },
+        {
+          "id": "de",
+          "name": "Allemand"
+        },
+        {
+          "id": "it",
+          "name": "Italien"
+        },
+        {
+          "id": "pt",
+          "name": "Portugais"
+        },
+        {
+          "id": "zh",
+          "name": "Chinois"
+        },
+        {
+          "id": "ja",
+          "name": "Japonais"
+        }
+      ]
+    }
+  }
+}

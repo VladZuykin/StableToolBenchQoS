@@ -1,0 +1,215 @@
+{
+  "{\"page\":1}": {
+    "error": "",
+    "response": {
+      "nextPage": 2,
+      "page": 1,
+      "path": "/diablo4/games",
+      "title": "Diablo 4 Gameplays",
+      "value": [
+        {
+          "content": "Watch the full gameplay of the new season 4 content with the Barbarian class.",
+          "excerpt": "Season 4 Barbarian gameplay",
+          "featuredContent": "Season 4 Barbarian gameplay",
+          "heat": 1520,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-barbarian.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "12:45",
+          "originalUrl": "https://www.youtube.com/watch?v=abc123",
+          "path": "/diablo4/games/season4-barbarian",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-14T10:00:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=abc123",
+          "title": "Season 4 Barbarian Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Barbarian"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=abc123"
+        },
+        {
+          "content": "Sorcerer build guide and gameplay for the new season.",
+          "excerpt": "Sorcerer build guide",
+          "featuredContent": "Sorcerer build guide",
+          "heat": 980,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-sorcerer.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "08:30",
+          "originalUrl": "https://www.youtube.com/watch?v=def456",
+          "path": "/diablo4/games/season4-sorcerer",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-15T14:30:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=def456",
+          "title": "Season 4 Sorcerer Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Sorcerer"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=def456"
+        }
+      ]
+    }
+  },
+  "{\"page\":2}": {
+    "error": "",
+    "response": {
+      "nextPage": 3,
+      "page": 2,
+      "path": "/diablo4/games",
+      "title": "Diablo 4 Gameplays",
+      "value": [
+        {
+          "content": "Rogue gameplay with the new unique items.",
+          "excerpt": "Rogue unique items gameplay",
+          "featuredContent": "Rogue unique items gameplay",
+          "heat": 760,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-rogue.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "10:15",
+          "originalUrl": "https://www.youtube.com/watch?v=ghi789",
+          "path": "/diablo4/games/season4-rogue",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-16T09:00:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=ghi789",
+          "title": "Season 4 Rogue Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Rogue"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=ghi789"
+        },
+        {
+          "content": "Necromancer minion build gameplay.",
+          "excerpt": "Necromancer minion build",
+          "featuredContent": "Necromancer minion build",
+          "heat": 540,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-necromancer.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "09:50",
+          "originalUrl": "https://www.youtube.com/watch?v=jkl012",
+          "path": "/diablo4/games/season4-necromancer",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-17T11:20:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=jkl012",
+          "title": "Season 4 Necromancer Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Necromancer"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=jkl012"
+        }
+      ]
+    }
+  },
+  "{\"page\":3}": {
+    "error": "",
+    "response": {
+      "nextPage": 4,
+      "page": 3,
+      "path": "/diablo4/games",
+      "title": "Diablo 4 Gameplays",
+      "value": [
+        {
+          "content": "Druid gameplay with the new werewolf build.",
+          "excerpt": "Druid werewolf build gameplay",
+          "featuredContent": "Druid werewolf build gameplay",
+          "heat": 430,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-druid.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "11:05",
+          "originalUrl": "https://www.youtube.com/watch?v=mno345",
+          "path": "/diablo4/games/season4-druid",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-18T08:45:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=mno345",
+          "title": "Season 4 Druid Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Druid"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=mno345"
+        },
+        {
+          "content": "Barbarian whirlwind build gameplay.",
+          "excerpt": "Barbarian whirlwind build",
+          "featuredContent": "Barbarian whirlwind build",
+          "heat": 320,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/season4-barbarian-ww.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "07:20",
+          "originalUrl": "https://www.youtube.com/watch?v=pqr678",
+          "path": "/diablo4/games/season4-barbarian-ww",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-05-19T16:10:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=pqr678",
+          "title": "Season 4 Barbarian Whirlwind Gameplay",
+          "topics": [
+            "Diablo 4",
+            "Barbarian"
+          ],
+          "type": "video",
+          "webUrl": "https://www.youtube.com/watch?v=pqr678"
+        }
+      ]
+    }
+  }
+}

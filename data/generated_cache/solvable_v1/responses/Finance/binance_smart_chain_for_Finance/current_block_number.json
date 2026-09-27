@@ -1,0 +1,14 @@
+{
+  "{\"network\":\"mainnet\"}": {
+    "error": "",
+    "response": {
+      "block_number": 38123456
+    }
+  },
+  "{\"network\":\"testnet\"}": {
+    "error": "",
+    "response": {
+      "block_number": 41234567
+    }
+  }
+}

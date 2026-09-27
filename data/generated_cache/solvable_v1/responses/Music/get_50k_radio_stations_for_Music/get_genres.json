@@ -1,0 +1,52 @@
+{
+  "{\"keyword\":\"jazz\"}": {
+    "error": "",
+    "response": {
+      "genres": [
+        {
+          "id": "jazz",
+          "name": "Jazz"
+        },
+        {
+          "id": "smooth_jazz",
+          "name": "Smooth Jazz"
+        },
+        {
+          "id": "acid_jazz",
+          "name": "Acid Jazz"
+        },
+        {
+          "id": "jazz_funk",
+          "name": "Jazz Funk"
+        }
+      ]
+    }
+  },
+  "{\"keyword\":\"rock\"}": {
+    "error": "",
+    "response": {
+      "genres": [
+        {
+          "id": "rock",
+          "name": "Rock"
+        },
+        {
+          "id": "classic_rock",
+          "name": "Classic Rock"
+        },
+        {
+          "id": "hard_rock",
+          "name": "Hard Rock"
+        },
+        {
+          "id": "alternative_rock",
+          "name": "Alternative Rock"
+        },
+        {
+          "id": "indie_rock",
+          "name": "Indie Rock"
+        }
+      ]
+    }
+  }
+}

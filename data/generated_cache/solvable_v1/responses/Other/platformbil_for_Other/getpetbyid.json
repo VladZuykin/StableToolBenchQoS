@@ -1,0 +1,70 @@
+{
+  "{\"petid\":1001}": {
+    "error": "",
+    "response": {
+      "category": {
+        "id": 3,
+        "name": "Dogs"
+      },
+      "id": 1001,
+      "name": "Rex",
+      "photoUrls": [
+        "https://example.com/photos/rex.png"
+      ],
+      "status": "sold",
+      "tags": [
+        {
+          "id": 12,
+          "name": "trained"
+        }
+      ]
+    }
+  },
+  "{\"petid\":1}": {
+    "error": "",
+    "response": {
+      "category": {
+        "id": 1,
+        "name": "Dogs"
+      },
+      "id": 1,
+      "name": "doggie",
+      "photoUrls": [
+        "https://example.com/photos/doggie1.jpg"
+      ],
+      "status": "available",
+      "tags": [
+        {
+          "id": 1,
+          "name": "friendly"
+        }
+      ]
+    }
+  },
+  "{\"petid\":42}": {
+    "error": "",
+    "response": {
+      "category": {
+        "id": 2,
+        "name": "Cats"
+      },
+      "id": 42,
+      "name": "Whiskers",
+      "photoUrls": [
+        "https://example.com/photos/whiskers.jpg",
+        "https://example.com/photos/whiskers2.jpg"
+      ],
+      "status": "pending",
+      "tags": [
+        {
+          "id": 5,
+          "name": "playful"
+        },
+        {
+          "id": 9,
+          "name": "indoor"
+        }
+      ]
+    }
+  }
+}

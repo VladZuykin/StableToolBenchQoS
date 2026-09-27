@@ -1,0 +1,26 @@
+{
+  "{\"playerid\":\"abc123\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Player details retrieved successfully",
+      "type": "player"
+    }
+  },
+  "{\"playerid\":\"pl_7f3a9c2e-1b4d-4e8a-9f6c-2d5b8a1e0c47\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Player details retrieved successfully",
+      "type": "player"
+    }
+  },
+  "{\"playerid\":\"player_9d2f4b6a8c1e\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Player details retrieved successfully",
+      "type": "player"
+    }
+  }
+}

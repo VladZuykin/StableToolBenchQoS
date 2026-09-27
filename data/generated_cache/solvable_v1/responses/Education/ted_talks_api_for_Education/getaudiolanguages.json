@@ -1,0 +1,51 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "audio_languages",
+      "parameters": [],
+      "result": {
+        "num_results": 12,
+        "results": [
+          {
+            "slug": "en"
+          },
+          {
+            "slug": "es"
+          },
+          {
+            "slug": "fr"
+          },
+          {
+            "slug": "de"
+          },
+          {
+            "slug": "pt"
+          },
+          {
+            "slug": "it"
+          },
+          {
+            "slug": "zh-cn"
+          },
+          {
+            "slug": "zh-tw"
+          },
+          {
+            "slug": "ja"
+          },
+          {
+            "slug": "ko"
+          },
+          {
+            "slug": "ru"
+          },
+          {
+            "slug": "ar"
+          }
+        ]
+      }
+    }
+  }
+}

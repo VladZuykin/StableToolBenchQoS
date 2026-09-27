@@ -1,0 +1,24 @@
+{
+  "{\"actor\":\"morgan_freeman\"}": {
+    "error": "",
+    "response": {
+      "actor": "Morgan Freeman",
+      "character": "Ellis Boyd 'Red' Redding",
+      "id": 42,
+      "quote": "Get busy living, or get busy dying.",
+      "quoteFrom": "The Shawshank Redemption",
+      "year": 1994
+    }
+  },
+  "{\"actor\":\"tom_hanks\"}": {
+    "error": "",
+    "response": {
+      "actor": "Tom Hanks",
+      "character": "Forrest Gump",
+      "id": 17,
+      "quote": "Life is like a box of chocolates, you never know what you're gonna get.",
+      "quoteFrom": "Forrest Gump",
+      "year": 1994
+    }
+  }
+}

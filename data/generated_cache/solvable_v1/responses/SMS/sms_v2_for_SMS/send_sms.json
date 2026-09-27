@@ -1,0 +1,41 @@
+{
+  "{\"is_from\":\"040111222\",\"password\":\"demo_password_1\",\"phone_number\":\"051987654\",\"provider\":\"t_2\",\"sms\":\"Reminder: sestanek ob 15:00.\",\"username\":\"marko.t2\"}": {
+    "error": "",
+    "response": {
+      "credits_used": 1,
+      "from": "040111222",
+      "message_id": "SMS-20240612-0002",
+      "provider": "t_2",
+      "segments": 1,
+      "status": "success",
+      "timestamp": "2024-06-12T10:02:47Z",
+      "to": "051987654"
+    }
+  },
+  "{\"is_from\":\"040999888\",\"password\":\"demo_password_2\",\"phone_number\":\"070555333\",\"provider\":\"telekom_slovenije\",\"sms\":\"Dobrodošli! Vaša koda za potrditev je 482913.\",\"username\":\"info_account\"}": {
+    "error": "",
+    "response": {
+      "credits_used": 1,
+      "from": "040999888",
+      "message_id": "SMS-20240612-0003",
+      "provider": "telekom_slovenije",
+      "segments": 1,
+      "status": "success",
+      "timestamp": "2024-06-12T11:37:05Z",
+      "to": "070555333"
+    }
+  },
+  "{\"is_from\":\"041234567\",\"password\":\"demo_password_3\",\"phone_number\":\"031234567\",\"provider\":\"telekom_slovenije\",\"sms\":\"Vaše naročilo je bilo poslano.\",\"username\":\"user_ana\"}": {
+    "error": "",
+    "response": {
+      "credits_used": 1,
+      "from": "041234567",
+      "message_id": "SMS-20240612-0001",
+      "provider": "telekom_slovenije",
+      "segments": 1,
+      "status": "success",
+      "timestamp": "2024-06-12T09:14:22Z",
+      "to": "031234567"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "{\"count\":2,\"type\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "movie",
+      "parameters": [
+        [
+          "type",
+          "movie"
+        ],
+        [
+          "count",
+          "2"
+        ]
+      ],
+      "response": [
+        {
+          "title": "The Quiet Horizon",
+          "year": 2011
+        },
+        {
+          "title": "Midnight Cartography",
+          "year": 1998
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"count\":3,\"type\":\"noun\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "noun",
+      "parameters": [
+        [
+          "type",
+          "noun"
+        ],
+        [
+          "count",
+          "3"
+        ]
+      ],
+      "response": [
+        {
+          "word": "harbor"
+        },
+        {
+          "word": "lantern"
+        },
+        {
+          "word": "compass"
+        }
+      ],
+      "results": 3
+    }
+  }
+}

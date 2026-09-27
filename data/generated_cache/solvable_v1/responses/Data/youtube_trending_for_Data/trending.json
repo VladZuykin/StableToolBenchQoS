@@ -1,0 +1,125 @@
+{
+  "{\"country\":\"DE\",\"type\":\"gaming\"}": {
+    "error": "",
+    "response": [
+      {
+        "channelName": "GamerPro",
+        "duration": 1200,
+        "durationText": "20:00",
+        "publishedText": "3 hours ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/ghi789/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "Let's Play Minecraft",
+        "videoId": "ghi789",
+        "views": 250000,
+        "viewsText": "250K views"
+      },
+      {
+        "channelName": "EpicPlays",
+        "duration": 600,
+        "durationText": "10:00",
+        "publishedText": "5 hours ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/jkl012/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "Fortnite Highlights",
+        "videoId": "jkl012",
+        "views": 500000,
+        "viewsText": "500K views"
+      }
+    ]
+  },
+  "{\"country\":\"JP\",\"type\":\"movies\"}": {
+    "error": "",
+    "response": [
+      {
+        "channelName": "MovieStudio",
+        "duration": 150,
+        "durationText": "2:30",
+        "publishedText": "1 week ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/mno345/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "Movie Trailer",
+        "videoId": "mno345",
+        "views": 1000000,
+        "viewsText": "1M views"
+      },
+      {
+        "channelName": "FilmChannel",
+        "duration": 300,
+        "durationText": "5:00",
+        "publishedText": "2 days ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/pqr678/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "Behind the Scenes",
+        "videoId": "pqr678",
+        "views": 300000,
+        "viewsText": "300K views"
+      }
+    ]
+  },
+  "{\"country\":\"US\",\"type\":\"music\"}": {
+    "error": "",
+    "response": [
+      {
+        "channelName": "MusicChannel",
+        "duration": 210,
+        "durationText": "3:30",
+        "publishedText": "2 days ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/abc123/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "Top Hit Song",
+        "videoId": "abc123",
+        "views": 1500000,
+        "viewsText": "1.5M views"
+      },
+      {
+        "channelName": "ArtistVEVO",
+        "duration": 180,
+        "durationText": "3:00",
+        "publishedText": "1 day ago",
+        "thumbnails": [
+          {
+            "height": 360,
+            "quality": "high",
+            "url": "https://i.ytimg.com/vi/def456/hqdefault.jpg",
+            "width": 480
+          }
+        ],
+        "title": "New Album",
+        "videoId": "def456",
+        "views": 800000,
+        "viewsText": "800K views"
+      }
+    ]
+  }
+}

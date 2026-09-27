@@ -1,0 +1,107 @@
+{
+  "{\"domain\":\"github.com\"}": {
+    "error": "",
+    "response": {
+      "category_rank": 1,
+      "country_rank": 10,
+      "domain": "github.com",
+      "engagement": {
+        "avg_visit_duration": 240,
+        "bounce_rate": 0.3,
+        "page_views": 500000000,
+        "pages_per_visit": 3.0,
+        "unique_visitors": 100000000,
+        "visits": 200000000
+      },
+      "global_rank": 50,
+      "top_keywords": [
+        {
+          "keyword": "github",
+          "rank": 1,
+          "traffic_share": 0.1
+        },
+        {
+          "keyword": "git",
+          "rank": 2,
+          "traffic_share": 0.05
+        }
+      ],
+      "traffic_sources": {
+        "direct": 0.5,
+        "referral": 0.1,
+        "search": 0.3,
+        "social": 0.1
+      }
+    }
+  },
+  "{\"domain\":\"nytimes.com\"}": {
+    "error": "",
+    "response": {
+      "category_rank": 7,
+      "country_rank": 45,
+      "domain": "nytimes.com",
+      "engagement": {
+        "avg_visit_duration": 180,
+        "bounce_rate": 0.45,
+        "page_views": 300000000,
+        "pages_per_visit": 2.5,
+        "unique_visitors": 80000000,
+        "visits": 150000000
+      },
+      "global_rank": 123,
+      "top_keywords": [
+        {
+          "keyword": "news",
+          "rank": 1,
+          "traffic_share": 0.05
+        },
+        {
+          "keyword": "breaking news",
+          "rank": 2,
+          "traffic_share": 0.03
+        }
+      ],
+      "traffic_sources": {
+        "direct": 0.35,
+        "referral": 0.1,
+        "search": 0.4,
+        "social": 0.15
+      }
+    }
+  },
+  "{\"domain\":\"wikipedia.org\"}": {
+    "error": "",
+    "response": {
+      "category_rank": 1,
+      "country_rank": 5,
+      "domain": "wikipedia.org",
+      "engagement": {
+        "avg_visit_duration": 120,
+        "bounce_rate": 0.6,
+        "page_views": 1000000000,
+        "pages_per_visit": 2.0,
+        "unique_visitors": 300000000,
+        "visits": 500000000
+      },
+      "global_rank": 10,
+      "top_keywords": [
+        {
+          "keyword": "wikipedia",
+          "rank": 1,
+          "traffic_share": 0.2
+        },
+        {
+          "keyword": "encyclopedia",
+          "rank": 2,
+          "traffic_share": 0.1
+        }
+      ],
+      "traffic_sources": {
+        "direct": 0.4,
+        "referral": 0.05,
+        "search": 0.5,
+        "social": 0.05
+      }
+    }
+  }
+}

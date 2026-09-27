@@ -1,0 +1,65 @@
+{
+  "{\"folder\":\"projects/2024\",\"name\":\"network.vsdx\"}": {
+    "error": "",
+    "response": [
+      {
+        "ID": 0,
+        "Name": "Server"
+      },
+      {
+        "ID": 1,
+        "Name": "Workstation"
+      },
+      {
+        "ID": 2,
+        "Name": "Router"
+      },
+      {
+        "ID": 3,
+        "Name": "Switch"
+      },
+      {
+        "ID": 4,
+        "Name": "Firewall"
+      }
+    ]
+  },
+  "{\"folder\":\"templates\",\"name\":\"flowchart.vsdx\"}": {
+    "error": "",
+    "response": [
+      {
+        "ID": 0,
+        "Name": "Start/End"
+      },
+      {
+        "ID": 1,
+        "Name": "Process"
+      },
+      {
+        "ID": 2,
+        "Name": "Decision"
+      },
+      {
+        "ID": 3,
+        "Name": "Document"
+      }
+    ]
+  },
+  "{\"name\":\"diagram.vsdx\"}": {
+    "error": "",
+    "response": [
+      {
+        "ID": 0,
+        "Name": "Master"
+      },
+      {
+        "ID": 1,
+        "Name": "Rectangle"
+      },
+      {
+        "ID": 2,
+        "Name": "Circle"
+      }
+    ]
+  }
+}

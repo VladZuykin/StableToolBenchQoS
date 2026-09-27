@@ -1,0 +1,169 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T08:32:00Z",
+          "description": "Bitcoin climbs past $70,000 as spot ETF inflows accelerate and institutional demand returns.",
+          "thumbnail": "https://i.guim.co.uk/img/media/bitcoin-rally/bitcoin-rally-thumb.jpg",
+          "title": "Bitcoin surges past $70,000 as ETF inflows hit record high",
+          "url": "https://www.theguardian.com/technology/2024/jun/11/bitcoin-surges-past-70000-etf-inflows"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T07:15:00Z",
+          "description": "Ethereum's long-awaited upgrade promises lower fees and faster transactions for layer-2 networks.",
+          "thumbnail": "https://i.guim.co.uk/img/media/ethereum-upgrade/ethereum-upgrade-thumb.jpg",
+          "title": "Ethereum upgrade goes live, promising cheaper transactions",
+          "url": "https://www.theguardian.com/technology/2024/jun/11/ethereum-upgrade-live-cheaper-transactions"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T06:48:00Z",
+          "description": "Regulators in Brussels finalise rules requiring crypto firms to disclose energy use and reserve backing.",
+          "thumbnail": "https://i.guim.co.uk/img/media/eu-crypto-rules/eu-crypto-rules-thumb.jpg",
+          "title": "EU finalises sweeping crypto regulation framework",
+          "url": "https://www.theguardian.com/world/2024/jun/11/eu-finalises-crypto-regulation-framework"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T05:30:00Z",
+          "description": "A new report warns that retail investors remain exposed to volatile tokens despite tighter advertising rules.",
+          "thumbnail": "https://i.guim.co.uk/img/media/crypto-risk-report/crypto-risk-report-thumb.jpg",
+          "title": "Crypto risk warnings ignored by many retail investors, study finds",
+          "url": "https://www.theguardian.com/business/2024/jun/11/crypto-risk-warnings-retail-investors-study"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T04:12:00Z",
+          "description": "Stablecoin issuers face fresh scrutiny over transparency of reserves backing dollar-pegged tokens.",
+          "thumbnail": "https://i.guim.co.uk/img/media/stablecoin-scrutiny/stablecoin-scrutiny-thumb.jpg",
+          "title": "Stablecoin issuers under pressure to prove reserves",
+          "url": "https://www.theguardian.com/business/2024/jun/11/stablecoin-issuers-reserves-pressure"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T03:05:00Z",
+          "description": "Major exchange announces custody service aimed at pension funds and asset managers entering digital assets.",
+          "thumbnail": "https://i.guim.co.uk/img/media/crypto-custody/crypto-custody-thumb.jpg",
+          "title": "Crypto exchange launches institutional custody service",
+          "url": "https://www.theguardian.com/technology/2024/jun/11/crypto-exchange-institutional-custody-service"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T02:40:00Z",
+          "description": "Mining firms pivot to renewable energy contracts as scrutiny over carbon footprints intensifies.",
+          "thumbnail": "https://i.guim.co.uk/img/media/bitcoin-mining-green/bitcoin-mining-green-thumb.jpg",
+          "title": "Bitcoin miners turn to renewables amid climate criticism",
+          "url": "https://www.theguardian.com/environment/2024/jun/11/bitcoin-miners-renewables-climate-criticism"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-11T01:22:00Z",
+          "description": "Central bank digital currency pilot expands to more banks, testing cross-border payments.",
+          "thumbnail": "https://i.guim.co.uk/img/media/cbdc-pilot/cbdc-pilot-thumb.jpg",
+          "title": "Central bank digital currency trial widens to new banks",
+          "url": "https://www.theguardian.com/business/2024/jun/11/central-bank-digital-currency-trial-widens"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T23:58:00Z",
+          "description": "Analysts say memecoin frenzy is cooling as trading volumes drop sharply from spring peaks.",
+          "thumbnail": "https://i.guim.co.uk/img/media/memecoin-cooling/memecoin-cooling-thumb.jpg",
+          "title": "Memecoin trading cools after months of frenzy",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/memecoin-trading-cools-after-frenzy"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T22:31:00Z",
+          "description": "Court ruling clarifies how existing securities law applies to token sales in a landmark case.",
+          "thumbnail": "https://i.guim.co.uk/img/media/crypto-court/crypto-court-thumb.jpg",
+          "title": "Landmark court ruling reshapes crypto token rules",
+          "url": "https://www.theguardian.com/law/2024/jun/10/landmark-court-ruling-crypto-token-rules"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T21:14:00Z",
+          "description": "Hackers drained millions from a decentralised finance protocol in the latest bridge exploit.",
+          "thumbnail": "https://i.guim.co.uk/img/media/defi-hack/defi-hack-thumb.jpg",
+          "title": "DeFi protocol hit by multimillion-dollar bridge hack",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/defi-protocol-bridge-hack-millions"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T20:02:00Z",
+          "description": "Payment giants deepen crypto partnerships to offer instant settlement for merchants.",
+          "thumbnail": "https://i.guim.co.uk/img/media/payments-crypto/payments-crypto-thumb.jpg",
+          "title": "Payment firms expand crypto settlement for merchants",
+          "url": "https://www.theguardian.com/business/2024/jun/10/payment-firms-crypto-settlement-merchants"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T18:47:00Z",
+          "description": "Tax authorities publish new guidance on reporting gains from staking and airdrops.",
+          "thumbnail": "https://i.guim.co.uk/img/media/crypto-tax/crypto-tax-thumb.jpg",
+          "title": "New tax guidance targets staking and airdrop income",
+          "url": "https://www.theguardian.com/money/2024/jun/10/new-tax-guidance-staking-airdrop-income"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T17:25:00Z",
+          "description": "NFT market shows signs of recovery as blue-chip collections regain floor prices.",
+          "thumbnail": "https://i.guim.co.uk/img/media/nft-recovery/nft-recovery-thumb.jpg",
+          "title": "NFT market rebounds as blue-chip collections rally",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/nft-market-rebounds-blue-chip-collections"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T16:09:00Z",
+          "description": "Crypto firms ramp up hiring for compliance roles as regulators demand more oversight.",
+          "thumbnail": "https://i.guim.co.uk/img/media/crypto-compliance/crypto-compliance-thumb.jpg",
+          "title": "Crypto firms race to hire compliance staff",
+          "url": "https://www.theguardian.com/business/2024/jun/10/crypto-firms-race-hire-compliance-staff"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T14:53:00Z",
+          "description": "Layer-2 networks compete on fees as activity shifts away from the main Ethereum chain.",
+          "thumbnail": "https://i.guim.co.uk/img/media/layer2-fees/layer2-fees-thumb.jpg",
+          "title": "Layer-2 networks battle over lower fees",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/layer-2-networks-battle-lower-fees"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T13:37:00Z",
+          "description": "Survey finds younger investors more open to digital assets but wary of scams.",
+          "thumbnail": "https://i.guim.co.uk/img/media/young-investors/young-investors-thumb.jpg",
+          "title": "Young investors warm to crypto but fear scams, survey finds",
+          "url": "https://www.theguardian.com/money/2024/jun/10/young-investors-crypto-fear-scams-survey"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T12:18:00Z",
+          "description": "Hardware wallet sales jump as users move holdings off exchanges after recent outages.",
+          "thumbnail": "https://i.guim.co.uk/img/media/hardware-wallets/hardware-wallets-thumb.jpg",
+          "title": "Hardware wallet sales surge after exchange outages",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/hardware-wallet-sales-surge-exchange-outages"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T11:04:00Z",
+          "description": "Tokenised treasury products attract billions as traditional finance embraces blockchain rails.",
+          "thumbnail": "https://i.guim.co.uk/img/media/tokenised-treasuries/tokenised-treasuries-thumb.jpg",
+          "title": "Tokenised treasuries draw billions from traditional finance",
+          "url": "https://www.theguardian.com/business/2024/jun/10/tokenised-treasuries-billions-traditional-finance"
+        },
+        {
+          "_list_length": 20,
+          "createdAt": "2024-06-10T09:41:00Z",
+          "description": "Developers debate scaling roadmap as fees spike during a surge in on-chain activity.",
+          "thumbnail": "https://i.guim.co.uk/img/media/scaling-debate/scaling-debate-thumb.jpg",
+          "title": "Developers debate scaling roadmap amid fee spike",
+          "url": "https://www.theguardian.com/technology/2024/jun/10/developers-debate-scaling-roadmap-fee-spike"
+        }
+      ]
+    }
+  }
+}

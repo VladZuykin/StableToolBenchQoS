@@ -1,0 +1,81 @@
+{
+  "{\"endpoint_name\":\"countries\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        },
+        {
+          "code": "BR",
+          "name": "Brazil"
+        }
+      ],
+      "description": "Returns a list of all available countries.",
+      "endpoint": "countries"
+    }
+  },
+  "{\"endpoint_name\":\"get_best_rates\"}": {
+    "error": "",
+    "response": {
+      "description": "Returns the best available exchange rates across banks for a given currency pair.",
+      "endpoint": "get_best_rates",
+      "method": "GET",
+      "parameters": [
+        {
+          "name": "currency_from",
+          "required": true,
+          "type": "string"
+        },
+        {
+          "name": "currency_to",
+          "required": true,
+          "type": "string"
+        },
+        {
+          "name": "country",
+          "required": false,
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "description": "Provides exchange rate forecast for fiat and crypto currencies.",
+      "endpoint": "get_forecast",
+      "method": "GET",
+      "parameters": [
+        {
+          "name": "currency_from",
+          "required": true,
+          "type": "string"
+        },
+        {
+          "name": "currency_to",
+          "required": true,
+          "type": "string"
+        },
+        {
+          "name": "date",
+          "required": false,
+          "type": "string"
+        }
+      ]
+    }
+  }
+}

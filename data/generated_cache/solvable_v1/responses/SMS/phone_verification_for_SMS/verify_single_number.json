@@ -1,0 +1,83 @@
+{
+  "{\"authorization\":\"demo_authorization_1\",\"number\":\"8005550000\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "area": "Toll Free",
+          "areaCode": 800,
+          "city": "Toll Free",
+          "company": "Toll Free",
+          "country": "United States",
+          "county": "Toll Free",
+          "exchange": 555,
+          "internationalFormat": "+1 800-555-0000",
+          "isValid": true,
+          "nationalFormat": "(800) 555-0000",
+          "numberType": "Toll Free",
+          "ocn": "000000",
+          "rawInput": "8005550000",
+          "state": "US",
+          "thousand": "0000",
+          "zip": "00000"
+        }
+      ],
+      "status": "success",
+      "statusCode": 200
+    }
+  },
+  "{\"authorization\":\"demo_authorization_2\",\"number\":\"4155559876\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "area": "San Francisco",
+          "areaCode": 415,
+          "city": "San Francisco",
+          "company": "AT&T",
+          "country": "United States",
+          "county": "San Francisco",
+          "exchange": 555,
+          "internationalFormat": "+1 415-555-9876",
+          "isValid": true,
+          "nationalFormat": "(415) 555-9876",
+          "numberType": "Mobile",
+          "ocn": "654321",
+          "rawInput": "4155559876",
+          "state": "CA",
+          "thousand": "9876",
+          "zip": "94105"
+        }
+      ],
+      "status": "success",
+      "statusCode": 200
+    }
+  },
+  "{\"authorization\":\"demo_authorization_3\",\"number\":\"2125551234\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "area": "New York",
+          "areaCode": 212,
+          "city": "New York",
+          "company": "Verizon",
+          "country": "United States",
+          "county": "New York",
+          "exchange": 555,
+          "internationalFormat": "+1 212-555-1234",
+          "isValid": true,
+          "nationalFormat": "(212) 555-1234",
+          "numberType": "Landline",
+          "ocn": "123456",
+          "rawInput": "2125551234",
+          "state": "NY",
+          "thousand": "1234",
+          "zip": "10001"
+        }
+      ],
+      "status": "success",
+      "statusCode": 200
+    }
+  }
+}

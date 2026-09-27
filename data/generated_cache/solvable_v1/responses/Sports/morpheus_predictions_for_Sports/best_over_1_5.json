@@ -1,0 +1,21 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "bet": "Over 1.5",
+      "betQuote": 1.85,
+      "betState": 1,
+      "countryLogo": "https://cdn.example.com/flags/england.png",
+      "countryName": "England",
+      "data": null,
+      "hits": 87,
+      "leagueName": "Premier League",
+      "localTeamLogo": "https://cdn.example.com/teams/arsenal.png",
+      "localTeamName": "Arsenal",
+      "matchDate": "2025-04-12T15:00:00Z",
+      "probability": 0.91,
+      "visitorTeamLogo": "https://cdn.example.com/teams/chelsea.png",
+      "visitorTeamName": "Chelsea"
+    }
+  }
+}

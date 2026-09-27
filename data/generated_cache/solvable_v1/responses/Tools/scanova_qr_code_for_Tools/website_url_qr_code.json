@@ -1,0 +1,51 @@
+{
+  "{\"background_color\":\"#F1F3F4\",\"data_pattern\":\"DOTS\",\"error_correction\":\"Q\",\"eye_color_inner\":\"#0B57D0\",\"eye_color_outer\":\"#1A73E8\",\"eye_pattern\":\"CIRCLE_CIRCLE\",\"format\":\"png\",\"size\":\"l\",\"url\":\"https://www.example.com/products/summer-sale\"}": {
+    "error": "",
+    "response": {
+      "background_color": "#F1F3F4",
+      "data_pattern": "DOTS",
+      "error_correction": "Q",
+      "eye_color_inner": "#0B57D0",
+      "eye_color_outer": "#1A73E8",
+      "eye_pattern": "CIRCLE_CIRCLE",
+      "format": "png",
+      "qr_code_url": "https://api.scanova.io/v1/qr/website-url/9f2c1a7b4e.png",
+      "size": "l",
+      "status": "success",
+      "url": "https://www.example.com/products/summer-sale"
+    }
+  },
+  "{\"background_color\":\"#FFFDE7\",\"data_pattern\":\"SMOOTH\",\"error_correction\":\"L\",\"eye_color_inner\":\"#66BB6A\",\"eye_color_outer\":\"#2E7D32\",\"eye_pattern\":\"LEAF_LEAF\",\"format\":\"jpg\",\"size\":\"xl\",\"url\":\"https://store.acme.co/checkout?cart=abc123\"}": {
+    "error": "",
+    "response": {
+      "background_color": "#FFFDE7",
+      "data_pattern": "SMOOTH",
+      "error_correction": "L",
+      "eye_color_inner": "#66BB6A",
+      "eye_color_outer": "#2E7D32",
+      "eye_pattern": "LEAF_LEAF",
+      "format": "jpg",
+      "qr_code_url": "https://api.scanova.io/v1/qr/website-url/7b1f9d3c55.jpg",
+      "size": "xl",
+      "status": "success",
+      "url": "https://store.acme.co/checkout?cart=abc123"
+    }
+  },
+  "{\"background_color\":\"#FFFFFF\",\"data_gradient_end_color\":\"#DD2C00\",\"data_gradient_start_color\":\"#FF6D00\",\"data_gradient_style\":\"LINEAR\",\"data_pattern\":\"RECT\",\"error_correction\":\"M\",\"eye_pattern\":\"RECT_RECT\",\"format\":\"svg\",\"size\":\"s\",\"url\":\"https://blog.mysite.org/2024/03/how-to-bake-sourdough\"}": {
+    "error": "",
+    "response": {
+      "background_color": "#FFFFFF",
+      "data_gradient_end_color": "#DD2C00",
+      "data_gradient_start_color": "#FF6D00",
+      "data_gradient_style": "LINEAR",
+      "data_pattern": "RECT",
+      "error_correction": "M",
+      "eye_pattern": "RECT_RECT",
+      "format": "svg",
+      "qr_code_url": "https://api.scanova.io/v1/qr/website-url/3c8d5e0a12.svg",
+      "size": "s",
+      "status": "success",
+      "url": "https://blog.mysite.org/2024/03/how-to-bake-sourdough"
+    }
+  }
+}

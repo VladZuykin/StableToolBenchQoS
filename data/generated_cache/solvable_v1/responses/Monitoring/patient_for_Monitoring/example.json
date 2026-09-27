@@ -1,0 +1,28 @@
+{
+  "{\"data\":\"2\"}": {
+    "error": "",
+    "response": {
+      "air": "42",
+      "date": "2024-06-15",
+      "humidity": "58",
+      "no": "12",
+      "pollen": "3",
+      "so": "7",
+      "temperature": "24",
+      "weather_id": "801"
+    }
+  },
+  "{\"data\":\"7\"}": {
+    "error": "",
+    "response": {
+      "air": "88",
+      "date": "2024-11-03",
+      "humidity": "81",
+      "no": "35",
+      "pollen": "0",
+      "so": "19",
+      "temperature": "9",
+      "weather_id": "500"
+    }
+  }
+}

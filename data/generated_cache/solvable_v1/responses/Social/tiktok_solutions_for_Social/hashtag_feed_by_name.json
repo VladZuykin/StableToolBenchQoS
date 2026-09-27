@@ -1,0 +1,14 @@
+{
+  "{\"challenge_name\":\"fitness\"}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag feed for fitness retrieved successfully"
+    }
+  },
+  "{\"challenge_name\":\"travel\"}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag feed for travel retrieved successfully"
+    }
+  }
+}

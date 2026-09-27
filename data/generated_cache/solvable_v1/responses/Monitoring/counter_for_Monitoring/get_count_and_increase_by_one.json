@@ -1,0 +1,22 @@
+{
+  "{\"clabel\":\"green\",\"color\":\"purple\",\"is_id\":\"homepage\"}": {
+    "error": "",
+    "response": {
+      "color": "purple",
+      "label": "green",
+      "labelColor": "green",
+      "message": "Count increased by one",
+      "schemaVersion": 1
+    }
+  },
+  "{\"clabel\":\"orange\",\"color\":\"black\",\"is_id\":\"signup-button\"}": {
+    "error": "",
+    "response": {
+      "color": "black",
+      "label": "orange",
+      "labelColor": "orange",
+      "message": "Count increased by one",
+      "schemaVersion": 1
+    }
+  }
+}

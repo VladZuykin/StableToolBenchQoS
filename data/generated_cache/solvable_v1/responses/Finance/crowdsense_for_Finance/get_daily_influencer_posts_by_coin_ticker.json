@@ -1,0 +1,14 @@
+{
+  "{\"cointicker\":\"ETH\"}": {
+    "error": "",
+    "response": {
+      "message": "str"
+    }
+  },
+  "{\"cointicker\":\"SOL\"}": {
+    "error": "",
+    "response": {
+      "message": "str"
+    }
+  }
+}

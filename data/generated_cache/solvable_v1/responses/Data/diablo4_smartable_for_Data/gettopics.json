@@ -1,0 +1,141 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "value": [
+        {
+          "_list_length": 4,
+          "id": "news",
+          "name": "News",
+          "services": [
+            {
+              "_list_length": 5,
+              "endpoint": "/news",
+              "name": "Latest News"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/news/updates",
+              "name": "Game Updates"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/news/events",
+              "name": "Seasonal Events"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/news/patch-notes",
+              "name": "Patch Notes"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/news/community",
+              "name": "Community Spotlight"
+            }
+          ],
+          "shortname": "news"
+        },
+        {
+          "_list_length": 4,
+          "id": "gameplay",
+          "name": "Gameplay",
+          "services": [
+            {
+              "_list_length": 5,
+              "endpoint": "/gameplay/classes",
+              "name": "Classes"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/gameplay/skills",
+              "name": "Skills"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/gameplay/items",
+              "name": "Items"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/gameplay/world",
+              "name": "World"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/gameplay/endgame",
+              "name": "Endgame"
+            }
+          ],
+          "shortname": "gameplay"
+        },
+        {
+          "_list_length": 4,
+          "id": "guides",
+          "name": "Guides",
+          "services": [
+            {
+              "_list_length": 5,
+              "endpoint": "/guides/leveling",
+              "name": "Leveling Guides"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/guides/builds",
+              "name": "Build Guides"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/guides/bosses",
+              "name": "Boss Guides"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/guides/dungeons",
+              "name": "Dungeon Guides"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/guides/seasonal",
+              "name": "Seasonal Guides"
+            }
+          ],
+          "shortname": "guides"
+        },
+        {
+          "_list_length": 4,
+          "id": "top-players",
+          "name": "Top Players",
+          "services": [
+            {
+              "_list_length": 5,
+              "endpoint": "/players/leaderboard",
+              "name": "Leaderboard"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/players/rankings",
+              "name": "Rankings"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/players/statistics",
+              "name": "Statistics"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/players/hall-of-fame",
+              "name": "Hall of Fame"
+            },
+            {
+              "_list_length": 5,
+              "endpoint": "/players/spotlight",
+              "name": "Player Spotlight"
+            }
+          ],
+          "shortname": "top-players"
+        }
+      ]
+    }
+  }
+}

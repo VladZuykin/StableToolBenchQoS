@@ -1,0 +1,68 @@
+{
+  "{\"city\":\"London\",\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "description": "Search location by Name or zip code and get the key for the forecast",
+      "generator": "WeatherAPI",
+      "link": "https://api.weatherapi.com/v1/search.json?q=London",
+      "location": [
+        {
+          "city": "London",
+          "country": "GB",
+          "country_name": "United Kingdom",
+          "wmo": "03772"
+        },
+        {
+          "city": "London",
+          "country": "CA",
+          "country_name": "Canada",
+          "wmo": "71623"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Location Search Results"
+    }
+  },
+  "{\"city\":\"Paris\",\"lang\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "description": "Search location by Name or zip code and get the key for the forecast",
+      "generator": "WeatherAPI",
+      "link": "https://api.weatherapi.com/v1/search.json?q=Paris",
+      "location": [
+        {
+          "city": "Paris",
+          "country": "FR",
+          "country_name": "France",
+          "wmo": "07156"
+        },
+        {
+          "city": "Paris",
+          "country": "US",
+          "country_name": "United States",
+          "wmo": "74645"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Location Search Results"
+    }
+  },
+  "{\"lang\":\"en\",\"zipcode\":\"10001\"}": {
+    "error": "",
+    "response": {
+      "description": "Search location by Name or zip code and get the key for the forecast",
+      "generator": "WeatherAPI",
+      "link": "https://api.weatherapi.com/v1/search.json?q=10001",
+      "location": [
+        {
+          "city": "New York",
+          "country": "US",
+          "country_name": "United States",
+          "wmo": "74486"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Location Search Results"
+    }
+  }
+}

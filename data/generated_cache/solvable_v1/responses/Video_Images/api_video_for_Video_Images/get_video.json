@@ -1,0 +1,26 @@
+{
+  "{\"videoid\":\"vi1a2b3c4d5e6f7g8h9i0j1k\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Customer Testimonial - Acme Corp",
+      "type": "private"
+    }
+  },
+  "{\"videoid\":\"vi7f8a2b3c4d5e6f7g8h9i0j\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Product Launch Highlights",
+      "type": "public"
+    }
+  },
+  "{\"videoid\":\"vi9z8y7x6w5v4u3t2s1r0q9p\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Internal Training Session",
+      "type": "private"
+    }
+  }
+}

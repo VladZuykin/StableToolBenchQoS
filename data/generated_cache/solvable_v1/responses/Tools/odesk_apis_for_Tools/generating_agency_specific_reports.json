@@ -1,0 +1,120 @@
+{
+  "{\"agency\":13579,\"company\":24680,\"format\":\"xml\",\"tq\":\"SELECT week_worked_on, assignment_team_id, provider_id, assignment_name, sum(hours), sum(earnings) WHERE worked_on > '2012-03-01' AND worked_on <= '2012-03-31'\"}": {
+    "error": "",
+    "response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<response>\n  <version>0.6</version>\n  <reqId>0</reqId>\n  <status>ok</status>\n  <table>\n    <cols>\n      <col id=\"A\" label=\"week_worked_on\" type=\"string\"/>\n      <col id=\"B\" label=\"assignment_team_id\" type=\"number\"/>\n      <col id=\"C\" label=\"provider_id\" type=\"number\"/>\n      <col id=\"D\" label=\"assignment_name\" type=\"string\"/>\n      <col id=\"E\" label=\"sum(hours)\" type=\"number\"/>\n      <col id=\"F\" label=\"sum(earnings)\" type=\"number\"/>\n    </cols>\n    <rows>\n      <row>\n        <c v=\"2012-03-05\"/>\n        <c v=\"3001\"/>\n        <c v=\"40001\"/>\n        <c v=\"Logo Design\"/>\n        <c v=\"10.0\"/>\n        <c v=\"500.0\"/>\n      </row>\n      <row>\n        <c v=\"2012-03-19\"/>\n        <c v=\"3002\"/>\n        <c v=\"40002\"/>\n        <c v=\"Content Writing\"/>\n        <c v=\"22.5\"/>\n        <c v=\"1125.0\"/>\n      </row>\n    </rows>\n  </table>\n</response>\n"
+  },
+  "{\"agency\":67890,\"company\":12345,\"format\":\"json\",\"tq\":\"SELECT week_worked_on, assignment_team_id, provider_id, assignment_name, sum(hours), sum(earnings) WHERE worked_on > '2010-01-01' AND worked_on <= '2010-01-31'\"}": {
+    "error": "",
+    "response": {
+      "reqId": "0",
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "A",
+            "label": "week_worked_on",
+            "type": "string"
+          },
+          {
+            "id": "B",
+            "label": "assignment_team_id",
+            "type": "number"
+          },
+          {
+            "id": "C",
+            "label": "provider_id",
+            "type": "number"
+          },
+          {
+            "id": "D",
+            "label": "assignment_name",
+            "type": "string"
+          },
+          {
+            "id": "E",
+            "label": "sum(hours)",
+            "type": "number"
+          },
+          {
+            "id": "F",
+            "label": "sum(earnings)",
+            "type": "number"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "2010-01-04"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": 20001
+              },
+              {
+                "v": "Website Redesign"
+              },
+              {
+                "v": 32.5
+              },
+              {
+                "v": 1625.0
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2010-01-11"
+              },
+              {
+                "v": 1002
+              },
+              {
+                "v": 20002
+              },
+              {
+                "v": "Mobile App Development"
+              },
+              {
+                "v": 18.0
+              },
+              {
+                "v": 900.0
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2010-01-25"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": 20003
+              },
+              {
+                "v": "SEO Optimization"
+              },
+              {
+                "v": 12.75
+              },
+              {
+                "v": 637.5
+              }
+            ]
+          }
+        ]
+      },
+      "version": "0.6"
+    }
+  },
+  "{\"agency\":98765,\"company\":54321,\"format\":\"csv\",\"tq\":\"SELECT week_worked_on, assignment_team_id, provider_id, assignment_name, sum(hours), sum(earnings) WHERE worked_on > '2011-06-01' AND worked_on <= '2011-06-30'\"}": {
+    "error": "",
+    "response": "week_worked_on,assignment_team_id,provider_id,assignment_name,sum(hours),sum(earnings)\n2011-06-06,2001,30001,Data Migration,40.0,2400.0\n2011-06-13,2002,30002,API Integration,25.5,1530.0\n2011-06-20,2001,30003,QA Testing,15.25,762.5\n"
+  }
+}

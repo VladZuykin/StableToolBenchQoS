@@ -1,0 +1,14 @@
+{
+  "{\"symbol\":\"DWAC\"}": {
+    "error": "",
+    "response": {
+      "message": "Latest analyst price targets for DWAC: $18.50 (high), $12.00 (low), $15.25 (average) from 4 analysts."
+    }
+  },
+  "{\"symbol\":\"GGPI\"}": {
+    "error": "",
+    "response": {
+      "message": "Latest analyst price targets for GGPI: $22.00 (high), $14.00 (low), $17.75 (average) from 6 analysts."
+    }
+  }
+}

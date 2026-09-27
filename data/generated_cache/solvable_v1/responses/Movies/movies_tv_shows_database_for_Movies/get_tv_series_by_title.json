@@ -1,0 +1,26 @@
+{
+  "{\"title\":\"breaking bad\"}": {
+    "error": "",
+    "response": {
+      "id": 1396,
+      "release_date": "2008-01-20",
+      "title": "Breaking Bad"
+    }
+  },
+  "{\"title\":\"stranger things\"}": {
+    "error": "",
+    "response": {
+      "id": 66732,
+      "release_date": "2016-07-15",
+      "title": "Stranger Things"
+    }
+  },
+  "{\"title\":\"the office\"}": {
+    "error": "",
+    "response": {
+      "id": 2316,
+      "release_date": "2005-03-24",
+      "title": "The Office"
+    }
+  }
+}

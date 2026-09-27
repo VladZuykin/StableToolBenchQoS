@@ -1,0 +1,20 @@
+{
+  "{\"filename\":\"miami.jpg\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/jpeg",
+      "description": "Image of Miami, Florida",
+      "filename": "miami.jpg",
+      "url": "https://florida-realty-api.example.com/images/miami.jpg"
+    }
+  },
+  "{\"filename\":\"orlando.jpg\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/jpeg",
+      "description": "Image of Orlando, Florida",
+      "filename": "orlando.jpg",
+      "url": "https://florida-realty-api.example.com/images/orlando.jpg"
+    }
+  }
+}

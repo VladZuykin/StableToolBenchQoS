@@ -1,0 +1,20 @@
+{
+  "{\"taskid\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "result": "failed"
+    }
+  },
+  "{\"taskid\":\"reword-2024-08-17-001\"}": {
+    "error": "",
+    "response": {
+      "result": "processing"
+    }
+  },
+  "{\"taskid\":\"task_9f2a1c7b\"}": {
+    "error": "",
+    "response": {
+      "result": "completed"
+    }
+  }
+}

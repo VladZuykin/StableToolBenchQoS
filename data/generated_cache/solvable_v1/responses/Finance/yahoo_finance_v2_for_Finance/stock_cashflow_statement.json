@@ -1,0 +1,98 @@
+{
+  "{\"symbol\":\"KO\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/cashflow-statement",
+      "parameters": [
+        {
+          "symbol": "KO"
+        }
+      ],
+      "response": [
+        {
+          "cashflows": {
+            "capitalExpenditure": -2100000000,
+            "changeInWorkingCapital": -450000000,
+            "depreciation": 1080000000,
+            "dividendsPaid": -7940000000,
+            "financingCashFlow": -7900000000,
+            "freeCashFlow": 9500000000,
+            "investingCashFlow": -3600000000,
+            "netCashFlow": 99000000,
+            "netIncome": 10714000000,
+            "operatingCashFlow": 11599000000
+          },
+          "date": "2023-12-31",
+          "period": "FY",
+          "symbol": "KO"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/cashflow-statement",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "cashflows": {
+            "capitalExpenditure": -28107000000,
+            "changeInWorkingCapital": -5200000000,
+            "depreciation": 13860000000,
+            "dividendsPaid": -19800000000,
+            "financingCashFlow": -43935000000,
+            "freeCashFlow": 59750000000,
+            "investingCashFlow": -28107000000,
+            "netCashFlow": 15540000000,
+            "netIncome": 72361000000,
+            "operatingCashFlow": 87582000000
+          },
+          "date": "2023-06-30",
+          "period": "FY",
+          "symbol": "MSFT"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/cashflow-statement",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "cashflows": {
+            "capitalExpenditure": -8890000000,
+            "changeInWorkingCapital": -2100000000,
+            "depreciation": 4660000000,
+            "dividendsPaid": 0,
+            "financingCashFlow": -2400000000,
+            "freeCashFlow": 4400000000,
+            "investingCashFlow": -8890000000,
+            "netCashFlow": 1966000000,
+            "netIncome": 14997000000,
+            "operatingCashFlow": 13256000000
+          },
+          "date": "2023-12-31",
+          "period": "FY",
+          "symbol": "TSLA"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

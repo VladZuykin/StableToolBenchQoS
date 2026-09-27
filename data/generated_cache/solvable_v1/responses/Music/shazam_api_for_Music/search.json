@@ -1,0 +1,269 @@
+{
+  "{\"term\":\"blinding lights\"}": {
+    "error": "",
+    "response": {
+      "artist": {
+        "hits": [
+          {
+            "_list_length": 5,
+            "artist": {
+              "adam_id": 123456789,
+              "alias": null,
+              "avatar": "https://example.com/artist1.jpg",
+              "genres": [],
+              "genres_primary": null,
+              "name": "The Weeknd",
+              "url": "https://www.shazam.com/artist/the-weeknd",
+              "verified": true
+            }
+          }
+        ]
+      },
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 3,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "action1",
+                "name": "Play",
+                "type": "play"
+              }
+            ],
+            "alias": "Blinding Lights",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "123456789",
+                "alias": "The Weeknd",
+                "id": "artist1"
+              }
+            ],
+            "heading": {
+              "subtitle": "The Weeknd",
+              "title": "Blinding Lights"
+            },
+            "images": {
+              "blurred": "https://example.com/blurred.jpg",
+              "default": "https://example.com/default.jpg",
+              "play": "https://example.com/play.jpg"
+            },
+            "key": "track1",
+            "share": {
+              "avatar": "https://example.com/avatar.jpg",
+              "href": "https://www.shazam.com/track/1",
+              "html": "<div>Share</div>",
+              "image": "https://example.com/share.jpg",
+              "snapchat": "https://www.snapchat.com/share",
+              "subject": "Blinding Lights",
+              "text": "Check out Blinding Lights",
+              "twitter": "https://twitter.com/share"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "preview",
+                    "uri": "https://music.apple.com/preview"
+                  }
+                ],
+                "coverarturl": "https://example.com/cover.jpg",
+                "explicit": false,
+                "previewurl": "https://example.com/preview.m4a",
+                "productid": "prod1",
+                "trackid": "track1"
+              }
+            },
+            "streams": {},
+            "type": "song",
+            "url": "https://www.shazam.com/track/1",
+            "urlparams": {
+              "{trackartist}": "The Weeknd",
+              "{tracktitle}": "Blinding Lights"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "{\"term\":\"ed sheeran\"}": {
+    "error": "",
+    "response": {
+      "artist": {
+        "hits": [
+          {
+            "_list_length": 5,
+            "artist": {
+              "adam_id": 555555555,
+              "alias": null,
+              "avatar": "https://example.com/ed.jpg",
+              "genres": [],
+              "genres_primary": null,
+              "name": "Ed Sheeran",
+              "url": "https://www.shazam.com/artist/ed-sheeran",
+              "verified": true
+            }
+          }
+        ]
+      },
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 3,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "action3",
+                "name": "Play",
+                "type": "play"
+              }
+            ],
+            "alias": "Shape of You",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "555555555",
+                "alias": "Ed Sheeran",
+                "id": "artist3"
+              }
+            ],
+            "heading": {
+              "subtitle": "Ed Sheeran",
+              "title": "Shape of You"
+            },
+            "images": {
+              "blurred": "https://example.com/blurred3.jpg",
+              "default": "https://example.com/default3.jpg",
+              "play": "https://example.com/play3.jpg"
+            },
+            "key": "track3",
+            "share": {
+              "avatar": "https://example.com/avatar3.jpg",
+              "href": "https://www.shazam.com/track/3",
+              "html": "<div>Share</div>",
+              "image": "https://example.com/share3.jpg",
+              "snapchat": "https://www.snapchat.com/share",
+              "subject": "Shape of You",
+              "text": "Check out Shape of You",
+              "twitter": "https://twitter.com/share"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "preview",
+                    "uri": "https://music.apple.com/preview3"
+                  }
+                ],
+                "coverarturl": "https://example.com/cover3.jpg",
+                "explicit": false,
+                "previewurl": "https://example.com/preview3.m4a",
+                "productid": "prod3",
+                "trackid": "track3"
+              }
+            },
+            "streams": {},
+            "type": "song",
+            "url": "https://www.shazam.com/track/3",
+            "urlparams": {
+              "{trackartist}": "Ed Sheeran",
+              "{tracktitle}": "Shape of You"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "{\"term\":\"taylor swift\"}": {
+    "error": "",
+    "response": {
+      "artist": {
+        "hits": [
+          {
+            "_list_length": 5,
+            "artist": {
+              "adam_id": 987654321,
+              "alias": null,
+              "avatar": "https://example.com/taylor.jpg",
+              "genres": [],
+              "genres_primary": null,
+              "name": "Taylor Swift",
+              "url": "https://www.shazam.com/artist/taylor-swift",
+              "verified": true
+            }
+          }
+        ]
+      },
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 3,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "action2",
+                "name": "Play",
+                "type": "play"
+              }
+            ],
+            "alias": "Anti-Hero",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "987654321",
+                "alias": "Taylor Swift",
+                "id": "artist2"
+              }
+            ],
+            "heading": {
+              "subtitle": "Taylor Swift",
+              "title": "Anti-Hero"
+            },
+            "images": {
+              "blurred": "https://example.com/blurred2.jpg",
+              "default": "https://example.com/default2.jpg",
+              "play": "https://example.com/play2.jpg"
+            },
+            "key": "track2",
+            "share": {
+              "avatar": "https://example.com/avatar2.jpg",
+              "href": "https://www.shazam.com/track/2",
+              "html": "<div>Share</div>",
+              "image": "https://example.com/share2.jpg",
+              "snapchat": "https://www.snapchat.com/share",
+              "subject": "Anti-Hero",
+              "text": "Check out Anti-Hero",
+              "twitter": "https://twitter.com/share"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "preview",
+                    "uri": "https://music.apple.com/preview2"
+                  }
+                ],
+                "coverarturl": "https://example.com/cover2.jpg",
+                "explicit": false,
+                "previewurl": "https://example.com/preview2.m4a",
+                "productid": "prod2",
+                "trackid": "track2"
+              }
+            },
+            "streams": {},
+            "type": "song",
+            "url": "https://www.shazam.com/track/2",
+            "urlparams": {
+              "{trackartist}": "Taylor Swift",
+              "{tracktitle}": "Anti-Hero"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

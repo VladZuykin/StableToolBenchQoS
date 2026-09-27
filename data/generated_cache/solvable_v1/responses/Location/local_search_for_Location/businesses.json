@@ -1,0 +1,75 @@
+{
+  "{\"category\":\"Dentists\",\"name\":\"Green Leaf Dental\",\"postalcode\":\"94107\",\"sort\":\"value_distance\"}": {
+    "error": "",
+    "response": {
+      "businesses": [
+        {
+          "address": "450 Brannan St, San Francisco, CA 94107",
+          "category": "Dentists",
+          "distance_miles": 0.6,
+          "id": "biz-2044",
+          "name": "Green Leaf Dental",
+          "phone": "(415) 555-0231",
+          "rating": 4.8,
+          "sponsored": false
+        },
+        {
+          "address": "1700 Owens St, San Francisco, CA 94158",
+          "category": "Dentists",
+          "distance_miles": 1.4,
+          "id": "biz-2045",
+          "name": "Green Leaf Dental - Mission Bay",
+          "phone": "(415) 555-0288",
+          "rating": 4.5,
+          "sponsored": true
+        }
+      ],
+      "search_center": {
+        "postal_code": "94107"
+      },
+      "total_results": 2
+    }
+  },
+  "{\"city\":\"Seattle\",\"keyword\":\"coffee shop\",\"sort\":\"value_distance\",\"state\":\"WA\"}": {
+    "error": "",
+    "response": {
+      "businesses": [
+        {
+          "address": "1420 Pike St, Seattle, WA 98101",
+          "category": "Coffee & Tea",
+          "distance_miles": 0.3,
+          "id": "biz-1001",
+          "name": "Pike Street Roasters",
+          "phone": "(206) 555-0142",
+          "rating": 4.6,
+          "sponsored": false
+        },
+        {
+          "address": "715 E Pine St, Seattle, WA 98122",
+          "category": "Coffee & Tea",
+          "distance_miles": 1.1,
+          "id": "biz-1002",
+          "name": "Capitol Hill Espresso Bar",
+          "phone": "(206) 555-0198",
+          "rating": 4.4,
+          "sponsored": true
+        },
+        {
+          "address": "5410 Ballard Ave NW, Seattle, WA 98107",
+          "category": "Coffee & Tea",
+          "distance_miles": 4.2,
+          "id": "biz-1003",
+          "name": "Ballard Bean Works",
+          "phone": "(206) 555-0177",
+          "rating": 4.2,
+          "sponsored": false
+        }
+      ],
+      "search_center": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "total_results": 3
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "{\"created_at\":\"2023-11-05\",\"limit\":25,\"order_by\":\"created_at\",\"order_direction\":\"asc\",\"status\":\"DELIVERED\",\"to\":\"+14155552671\"}": {
+    "error": "",
+    "response": {
+      "current_page": 1,
+      "data": [
+        {
+          "cost": "0.0450",
+          "created_at": "2023-11-05 09:14:22",
+          "from": "MyApp",
+          "id": 982341,
+          "message": "Your verification code is 482913",
+          "status": "DELIVERED",
+          "to": "+14155552671"
+        },
+        {
+          "cost": "0.0450",
+          "created_at": "2023-11-05 09:12:03",
+          "from": "MyApp",
+          "id": 982340,
+          "message": "Your order #55120 has been shipped.",
+          "status": "DELIVERED",
+          "to": "+14155552671"
+        }
+      ],
+      "first_page_url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1",
+      "from": 1,
+      "last_page": 1,
+      "last_page_url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1",
+      "links": [
+        {
+          "active": false,
+          "label": "&laquo; Previous",
+          "url": null
+        },
+        {
+          "active": true,
+          "label": "1",
+          "url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1"
+        },
+        {
+          "active": false,
+          "label": "Next &raquo;",
+          "url": null
+        }
+      ],
+      "next_page_url": null,
+      "path": "https://api.smsapi.example.com/SMS/smsto/get_messages",
+      "per_page": "25",
+      "prev_page_url": null,
+      "to": 2,
+      "total": 2
+    }
+  },
+  "{\"created_at\":\"2024-02-14\",\"limit\":5,\"order_by\":\"status\",\"order_direction\":\"desc\",\"status\":\"PENDING\",\"to\":\"+447700900123\"}": {
+    "error": "",
+    "response": {
+      "current_page": 1,
+      "data": [
+        {
+          "cost": null,
+          "created_at": "2024-02-14 18:47:11",
+          "from": "ReminderBot",
+          "id": 1004552,
+          "message": "Reminder: appointment tomorrow at 10:00 AM.",
+          "status": "PENDING",
+          "to": "+447700900123"
+        }
+      ],
+      "first_page_url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1",
+      "from": 1,
+      "last_page": 1,
+      "last_page_url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1",
+      "links": [
+        {
+          "active": false,
+          "label": "&laquo; Previous",
+          "url": null
+        },
+        {
+          "active": true,
+          "label": "1",
+          "url": "https://api.smsapi.example.com/SMS/smsto/get_messages?page=1"
+        },
+        {
+          "active": false,
+          "label": "Next &raquo;",
+          "url": null
+        }
+      ],
+      "next_page_url": null,
+      "path": "https://api.smsapi.example.com/SMS/smsto/get_messages",
+      "per_page": "5",
+      "prev_page_url": null,
+      "to": 1,
+      "total": 1
+    }
+  }
+}

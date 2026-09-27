@@ -1,0 +1,117 @@
+{
+  "{\"dec\":41.2692,\"exact\":\"M31\",\"limit\":10,\"offset\":0,\"ra\":10.6847,\"term\":\"Andromeda Galaxy\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "catalog_ids": [
+            "M31",
+            "NGC 224"
+          ],
+          "constellation": "Andromeda",
+          "dec": 41.2692,
+          "id": "dso-M31",
+          "magnitude": 3.44,
+          "name": "Andromeda Galaxy",
+          "ra": 10.6847,
+          "type": "galaxy"
+        }
+      ],
+      "limit": 10,
+      "offset": 0,
+      "total": 1
+    }
+  },
+  "{\"limit\":3,\"match_type\":\"contains\",\"offset\":6,\"order_by\":\"name\",\"term\":\"nebula\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "constellation": "Orion",
+          "dec": -5.3911,
+          "id": "dso-NGC1976",
+          "magnitude": 4.0,
+          "name": "Orion Nebula",
+          "ra": 83.8221,
+          "type": "nebula"
+        },
+        {
+          "constellation": "Aquarius",
+          "dec": -20.8372,
+          "id": "dso-NGC7293",
+          "magnitude": 7.6,
+          "name": "Helix Nebula",
+          "ra": 337.4106,
+          "type": "planetary nebula"
+        },
+        {
+          "constellation": "Draco",
+          "dec": 66.6329,
+          "id": "dso-NGC6543",
+          "magnitude": 8.1,
+          "name": "Cat's Eye Nebula",
+          "ra": 269.6392,
+          "type": "planetary nebula"
+        }
+      ],
+      "limit": 3,
+      "offset": 6,
+      "total": 42
+    }
+  },
+  "{\"limit\":5,\"match_type\":\"fuzzy\",\"order_by\":\"magnitude\",\"term\":\"Betelgeuse\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "constellation": "Orion",
+          "dec": 7.4071,
+          "id": "star-27989",
+          "magnitude": 0.42,
+          "name": "Betelgeuse",
+          "ra": 88.7929,
+          "type": "star"
+        },
+        {
+          "constellation": "Orion",
+          "dec": -8.2016,
+          "id": "star-24436",
+          "magnitude": 0.18,
+          "name": "Rigel",
+          "ra": 78.6345,
+          "type": "star"
+        },
+        {
+          "constellation": "Canis Major",
+          "dec": -16.7161,
+          "id": "star-32349",
+          "magnitude": -1.46,
+          "name": "Sirius",
+          "ra": 101.2872,
+          "type": "star"
+        },
+        {
+          "constellation": "Carina",
+          "dec": -52.6957,
+          "id": "star-30438",
+          "magnitude": -0.72,
+          "name": "Canopus",
+          "ra": 95.988,
+          "type": "star"
+        },
+        {
+          "constellation": "Boötes",
+          "dec": 19.1824,
+          "id": "star-69673",
+          "magnitude": -0.05,
+          "name": "Arcturus",
+          "ra": 213.9153,
+          "type": "star"
+        }
+      ],
+      "limit": 5,
+      "offset": 0,
+      "total": 5
+    }
+  }
+}

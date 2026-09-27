@@ -1,0 +1,20 @@
+{
+  "{\"max_id\":\"5556667778\",\"twttr_session\":\"YW5vdGhlcl9zZXNzaW9uX3Rva2Vu\",\"user_id\":\"1122334455\"}": {
+    "error": "",
+    "response": {
+      "message": "Did you see the latest update? It looks great."
+    }
+  },
+  "{\"max_id\":\"9876543210\",\"twttr_session\":\"c2Vzc2lvbl9jb29raWVfYWJjZGVm\",\"username\":\"johndoe\"}": {
+    "error": "",
+    "response": {
+      "message": "Thanks for the follow! Let's catch up soon."
+    }
+  },
+  "{\"twttr_session\":\"dGVzdF9zZXNzaW9uX3Rva2VuXzEyMzQ1\",\"user_id\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "message": "Hey, are you free to chat later today?"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "{\"is_id\":\"PL9tY0BWXOZFv7b0s0l0l0l0l0l0l0l0\"}": {
+    "error": "",
+    "response": {
+      "author": "Chill Loops",
+      "authorId": "UCabcdef1234567890",
+      "authorThumbnails": [
+        {
+          "height": 88,
+          "url": "https://yt3.ggpht.com/a/chill1.jpg",
+          "width": 88
+        },
+        {
+          "height": 176,
+          "url": "https://yt3.ggpht.com/a/chill2.jpg",
+          "width": 176
+        }
+      ],
+      "authorUrl": "/channel/UCabcdef1234567890",
+      "description": "Chill instrumental beats for focus and relaxation.",
+      "descriptionHtml": "Chill instrumental beats for focus and relaxation.",
+      "isListed": true,
+      "playlistId": "PL9tY0BWXOZFv7b0s0l0l0l0l0l0l0l0",
+      "playlistThumbnail": "https://i.ytimg.com/vi/lofi001/hqdefault.jpg",
+      "title": "Lo-Fi Study Beats",
+      "type": "playlist",
+      "updated": 1695000000,
+      "videoCount": 2,
+      "videos": [
+        {
+          "author": "Chill Loops",
+          "authorId": "UCabcdef1234567890",
+          "authorUrl": "/channel/UCabcdef1234567890",
+          "index": 1,
+          "lengthSeconds": 1800,
+          "title": "Midnight Study Session",
+          "videoId": "lofi001xyz",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/lofi001xyz/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/lofi001xyz/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        },
+        {
+          "author": "Chill Loops",
+          "authorId": "UCabcdef1234567890",
+          "authorUrl": "/channel/UCabcdef1234567890",
+          "index": 2,
+          "lengthSeconds": 2400,
+          "title": "Rainy Day Piano",
+          "videoId": "lofi002abc",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/lofi002abc/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/lofi002abc/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        }
+      ],
+      "viewCount": 98765
+    }
+  },
+  "{\"is_id\":\"PLBCF2DAC6FFB574DE\"}": {
+    "error": "",
+    "response": {
+      "author": "Music Vault",
+      "authorId": "UC1234567890abcdef",
+      "authorThumbnails": [
+        {
+          "height": 88,
+          "url": "https://yt3.ggpht.com/a/author1.jpg",
+          "width": 88
+        },
+        {
+          "height": 176,
+          "url": "https://yt3.ggpht.com/a/author2.jpg",
+          "width": 176
+        }
+      ],
+      "authorUrl": "/channel/UC1234567890abcdef",
+      "description": "A hand-picked collection of classic rock anthems.",
+      "descriptionHtml": "A hand-picked collection of classic rock anthems.",
+      "isListed": true,
+      "playlistId": "PLBCF2DAC6FFB574DE",
+      "playlistThumbnail": "https://i.ytimg.com/vi/abc123/hqdefault.jpg",
+      "title": "Classic Rock Essentials",
+      "type": "playlist",
+      "updated": 1700000000,
+      "videoCount": 2,
+      "videos": [
+        {
+          "author": "Queen",
+          "authorId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+          "authorUrl": "/channel/UCiMhD4jzUqG-IgPzUmmytRQ",
+          "index": 1,
+          "lengthSeconds": 355,
+          "title": "Bohemian Rhapsody",
+          "videoId": "fJ9rUzIMcZQ",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        },
+        {
+          "author": "Eagles",
+          "authorId": "UC49r4GNHHpc-eQ9hmD2Rg6A",
+          "authorUrl": "/channel/UC49r4GNHHpc-eQ9hmD2Rg6A",
+          "index": 2,
+          "lengthSeconds": 391,
+          "title": "Hotel California",
+          "videoId": "BciS5krYL80",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/BciS5krYL80/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/BciS5krYL80/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        }
+      ],
+      "viewCount": 152340
+    }
+  },
+  "{\"is_id\":\"PLV3BLrRejJR_8XjiMrbev1_7RjIZTg1qb\"}": {
+    "error": "",
+    "response": {
+      "author": "Tech Daily",
+      "authorId": "UCtech1234567890",
+      "authorThumbnails": [
+        {
+          "height": 88,
+          "url": "https://yt3.ggpht.com/a/tech1.jpg",
+          "width": 88
+        },
+        {
+          "height": 176,
+          "url": "https://yt3.ggpht.com/a/tech2.jpg",
+          "width": 176
+        }
+      ],
+      "authorUrl": "/channel/UCtech1234567890",
+      "description": "Latest gadget reviews and unboxings.",
+      "descriptionHtml": "Latest gadget reviews and unboxings.",
+      "isListed": true,
+      "playlistId": "PLV3BLrRejJR_8XjiMrbev1_7RjIZTg1qb",
+      "playlistThumbnail": "https://i.ytimg.com/vi/tech001/hqdefault.jpg",
+      "title": "Top Tech Reviews 2024",
+      "type": "playlist",
+      "updated": 1710000000,
+      "videoCount": 2,
+      "videos": [
+        {
+          "author": "Tech Daily",
+          "authorId": "UCtech1234567890",
+          "authorUrl": "/channel/UCtech1234567890",
+          "index": 1,
+          "lengthSeconds": 720,
+          "title": "Best Smartphones of 2024",
+          "videoId": "tech001rev",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/tech001rev/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/tech001rev/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        },
+        {
+          "author": "Tech Daily",
+          "authorId": "UCtech1234567890",
+          "authorUrl": "/channel/UCtech1234567890",
+          "index": 2,
+          "lengthSeconds": 900,
+          "title": "Laptop Buying Guide",
+          "videoId": "tech002rev",
+          "videoThumbnails": [
+            {
+              "height": 180,
+              "quality": "medium",
+              "url": "https://i.ytimg.com/vi/tech002rev/mqdefault.jpg",
+              "width": 320
+            },
+            {
+              "height": 360,
+              "quality": "high",
+              "url": "https://i.ytimg.com/vi/tech002rev/hqdefault.jpg",
+              "width": 480
+            }
+          ]
+        }
+      ],
+      "viewCount": 450000
+    }
+  }
+}

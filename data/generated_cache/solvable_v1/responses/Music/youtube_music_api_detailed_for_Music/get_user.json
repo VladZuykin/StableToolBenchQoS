@@ -1,0 +1,217 @@
+{
+  "{\"user_id\":\"UC44hbeRoCZVVMVg5z0FfIww\"}": {
+    "error": "",
+    "response": {
+      "name": "Imagine Dragons",
+      "playlists": {
+        "browseId": "VLPL0000000006",
+        "params": "ggMPOg1uX3",
+        "results": [
+          {
+            "description": "The best of Imagine Dragons",
+            "playlistId": "PL0000000006",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/id_best_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/id_best_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Imagine Dragons Essentials"
+          }
+        ]
+      },
+      "videos": {
+        "browseId": "VLPL0000000007",
+        "results": [
+          {
+            "artists": [
+              {
+                "id": "UC44hbeRoCZVVMVg5z0FfIww",
+                "name": "Imagine Dragons"
+              }
+            ],
+            "playlistId": null,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/id_video1_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/id_video1_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Believer (Official Music Video)",
+            "videoId": "7wtfhZwyrcc",
+            "views": "2,345,678,901 views"
+          }
+        ]
+      }
+    }
+  },
+  "{\"user_id\":\"UCJ5v_MCY6GNUBTO8-D3XoAg\"}": {
+    "error": "",
+    "response": {
+      "name": "Ed Sheeran",
+      "playlists": {
+        "browseId": "VLPL0000000004",
+        "params": "ggMPOg1uX2",
+        "results": [
+          {
+            "description": "Ed Sheeran's greatest hits",
+            "playlistId": "PL0000000004",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/edsheeran_hits_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/edsheeran_hits_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "This Is Ed Sheeran"
+          }
+        ]
+      },
+      "videos": {
+        "browseId": "VLPL0000000005",
+        "results": [
+          {
+            "artists": [
+              {
+                "id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+                "name": "Ed Sheeran"
+              }
+            ],
+            "playlistId": null,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/edsheeran_video1_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/edsheeran_video1_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Shape of You (Official Music Video)",
+            "videoId": "JGwWNGJdvx8",
+            "views": "5,987,654,321 views"
+          },
+          {
+            "artists": [
+              {
+                "id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+                "name": "Ed Sheeran"
+              }
+            ],
+            "playlistId": null,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/edsheeran_video2_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/edsheeran_video2_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Perfect (Official Music Video)",
+            "videoId": "2Vv-BfVoq4g",
+            "views": "3,456,789,012 views"
+          }
+        ]
+      }
+    }
+  },
+  "{\"user_id\":\"UCq-Fj5jknLsUf-MWSy4_brA\"}": {
+    "error": "",
+    "response": {
+      "name": "T-Series",
+      "playlists": {
+        "browseId": "VLPL0000000001",
+        "params": "ggMPOg1uX1",
+        "results": [
+          {
+            "description": "Top 50 Hindi songs of the week",
+            "playlistId": "PL0000000001",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/tseries_top50_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/tseries_top50_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Top 50 Hindi Songs"
+          },
+          {
+            "description": "Romantic Bollywood hits",
+            "playlistId": "PL0000000002",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/tseries_romance_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/tseries_romance_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Bollywood Romance"
+          }
+        ]
+      },
+      "videos": {
+        "browseId": "VLPL0000000003",
+        "results": [
+          {
+            "artists": [
+              {
+                "id": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "name": "T-Series"
+              }
+            ],
+            "playlistId": null,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/tseries_video1_202.jpg",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/tseries_video1_404.jpg",
+                "width": 404
+              }
+            ],
+            "title": "Latest Hindi Hit Song",
+            "videoId": "dQw4w9WgXcQ",
+            "views": "125,432,109 views"
+          }
+        ]
+      }
+    }
+  }
+}

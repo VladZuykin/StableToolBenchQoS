@@ -1,0 +1,58 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "messages": [
+        {
+          "bounce_count": 58,
+          "click_count": 417,
+          "created_at": "2024-03-15T09:23:11Z",
+          "id": "msg_10293847",
+          "name": "Spring Sale Announcement",
+          "open_count": 1932,
+          "recipient_count": 4820,
+          "sent_at": "2024-03-15T10:05:47Z",
+          "status": "sent",
+          "subject": "Our Biggest Spring Sale Starts Now!",
+          "type": "email",
+          "unsubscribe_count": 12,
+          "updated_at": "2024-03-15T10:05:47Z"
+        },
+        {
+          "bounce_count": 0,
+          "click_count": 0,
+          "created_at": "2024-03-18T14:02:00Z",
+          "id": "msg_10293848",
+          "name": "Weekly Newsletter #42",
+          "open_count": 0,
+          "recipient_count": 0,
+          "sent_at": null,
+          "status": "draft",
+          "subject": "New arrivals and tips for spring",
+          "type": "email",
+          "unsubscribe_count": 0,
+          "updated_at": "2024-03-18T14:02:00Z"
+        },
+        {
+          "bounce_count": 0,
+          "click_count": 0,
+          "created_at": "2024-03-19T08:45:30Z",
+          "id": "msg_10293849",
+          "name": "Customer Feedback Survey",
+          "open_count": 0,
+          "recipient_count": 1200,
+          "scheduled_at": "2024-03-25T09:00:00Z",
+          "sent_at": null,
+          "status": "scheduled",
+          "subject": "We'd love your feedback",
+          "type": "email",
+          "unsubscribe_count": 0,
+          "updated_at": "2024-03-19T08:45:30Z"
+        }
+      ],
+      "page": 1,
+      "per_page": 25,
+      "total_count": 3
+    }
+  }
+}

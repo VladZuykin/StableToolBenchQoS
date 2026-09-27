@@ -1,0 +1,25 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "key_points": [
+        "Chlorophyll absorbs light energy",
+        "Carbon dioxide and water are converted into glucose and oxygen",
+        "Occurs in the chloroplasts of plant cells"
+      ],
+      "level": "beginner",
+      "recommended_resources": [
+        "Introduction to Plant Biology - Chapter 4",
+        "Khan Academy: Photosynthesis",
+        "Crash Course Biology: Photosynthesis"
+      ],
+      "study_questions": [
+        "What are the main inputs and outputs of photosynthesis?",
+        "Why is chlorophyll important for photosynthesis?",
+        "How does light intensity affect the rate of photosynthesis?"
+      ],
+      "summary": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose.",
+      "topic": "Photosynthesis"
+    }
+  }
+}

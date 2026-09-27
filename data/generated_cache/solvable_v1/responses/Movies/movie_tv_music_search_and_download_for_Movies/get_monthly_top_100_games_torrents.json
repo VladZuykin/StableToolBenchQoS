@@ -1,0 +1,80 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "code": "200",
+      "result": [
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "45.2 GB",
+          "title": "Cyber Odyssey 2024",
+          "torrent": "magnet:?xt=urn:btih:3A4B5C6D7E8F9A0B1C2D3E4F5A6B7C8D9E0F1A2B"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "32.7 GB",
+          "title": "Galactic Warfare Deluxe Edition",
+          "torrent": "magnet:?xt=urn:btih:1F2E3D4C5B6A798897A6B5C4D3E2F1A0B9C8D7E6"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "78.9 GB",
+          "title": "Fantasy Realms Ultimate",
+          "torrent": "magnet:?xt=urn:btih:9E8D7C6B5A4F3E2D1C0B9A8F7E6D5C4B3A2F1E0D"
+        },
+        {
+          "_list_length": 100,
+          "rate": 7,
+          "size": "21.3 GB",
+          "title": "Racing Legends 2025",
+          "torrent": "magnet:?xt=urn:btih:5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F9A8B7C6D"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "56.1 GB",
+          "title": "Mystic Quest Remastered",
+          "torrent": "magnet:?xt=urn:btih:7A6B5C4D3E2F1A0B9C8D7E6F5A4B3C2D1E0F9A8B"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "41.8 GB",
+          "title": "Space Colony Builder",
+          "torrent": "magnet:?xt=urn:btih:2B3C4D5E6F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1C"
+        },
+        {
+          "_list_length": 100,
+          "rate": 6,
+          "size": "18.5 GB",
+          "title": "Puzzle Master Collection",
+          "torrent": "magnet:?xt=urn:btih:8D9E0F1A2B3C4D5E6F7A8B9C0D1E2F3A4B5C6D7E"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "92.4 GB",
+          "title": "Epic Saga Complete Edition",
+          "torrent": "magnet:?xt=urn:btih:4E5F6A7B8C9D0E1F2A3B4C5D6E7F8A9B0C1D2E3F"
+        },
+        {
+          "_list_length": 100,
+          "rate": 7,
+          "size": "27.6 GB",
+          "title": "Survival Island Adventure",
+          "torrent": "magnet:?xt=urn:btih:6F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1C2D3E4F5A"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "63.2 GB",
+          "title": "Neon City Chronicles",
+          "torrent": "magnet:?xt=urn:btih:0A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6E7F8A9B"
+        }
+      ]
+    }
+  }
+}

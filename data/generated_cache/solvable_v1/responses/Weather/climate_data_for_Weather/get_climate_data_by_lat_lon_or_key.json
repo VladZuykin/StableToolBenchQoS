@@ -1,0 +1,437 @@
+{
+  "{\"key\":\"tokyo\",\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "ClimateDataMonth": [
+        {
+          "TIME": "Jan",
+          "accumulated_rain": "52",
+          "days_with_rain": "5",
+          "rh": "52",
+          "sun_hours": "184",
+          "temp": "6",
+          "tmax": "10",
+          "tmin": "2"
+        },
+        {
+          "TIME": "Feb",
+          "accumulated_rain": "56",
+          "days_with_rain": "6",
+          "rh": "54",
+          "sun_hours": "166",
+          "temp": "7",
+          "tmax": "11",
+          "tmin": "3"
+        },
+        {
+          "TIME": "Mar",
+          "accumulated_rain": "118",
+          "days_with_rain": "10",
+          "rh": "61",
+          "sun_hours": "161",
+          "temp": "10",
+          "tmax": "14",
+          "tmin": "6"
+        },
+        {
+          "TIME": "Apr",
+          "accumulated_rain": "125",
+          "days_with_rain": "10",
+          "rh": "65",
+          "sun_hours": "176",
+          "temp": "15",
+          "tmax": "19",
+          "tmin": "11"
+        },
+        {
+          "TIME": "May",
+          "accumulated_rain": "138",
+          "days_with_rain": "10",
+          "rh": "70",
+          "sun_hours": "184",
+          "temp": "19",
+          "tmax": "23",
+          "tmin": "16"
+        },
+        {
+          "TIME": "Jun",
+          "accumulated_rain": "168",
+          "days_with_rain": "12",
+          "rh": "78",
+          "sun_hours": "137",
+          "temp": "22",
+          "tmax": "25",
+          "tmin": "19"
+        },
+        {
+          "TIME": "Jul",
+          "accumulated_rain": "154",
+          "days_with_rain": "11",
+          "rh": "80",
+          "sun_hours": "146",
+          "temp": "26",
+          "tmax": "29",
+          "tmin": "23"
+        },
+        {
+          "TIME": "Aug",
+          "accumulated_rain": "155",
+          "days_with_rain": "10",
+          "rh": "78",
+          "sun_hours": "169",
+          "temp": "27",
+          "tmax": "31",
+          "tmin": "24"
+        },
+        {
+          "TIME": "Sep",
+          "accumulated_rain": "210",
+          "days_with_rain": "12",
+          "rh": "78",
+          "sun_hours": "131",
+          "temp": "24",
+          "tmax": "27",
+          "tmin": "21"
+        },
+        {
+          "TIME": "Oct",
+          "accumulated_rain": "198",
+          "days_with_rain": "11",
+          "rh": "73",
+          "sun_hours": "137",
+          "temp": "18",
+          "tmax": "22",
+          "tmin": "15"
+        },
+        {
+          "TIME": "Nov",
+          "accumulated_rain": "93",
+          "days_with_rain": "7",
+          "rh": "64",
+          "sun_hours": "152",
+          "temp": "13",
+          "tmax": "17",
+          "tmin": "9"
+        },
+        {
+          "TIME": "Dec",
+          "accumulated_rain": "51",
+          "days_with_rain": "5",
+          "rh": "56",
+          "sun_hours": "174",
+          "temp": "8",
+          "tmax": "12",
+          "tmin": "4"
+        }
+      ],
+      "description": "Climate data for Tokyo, Japan",
+      "generator": "Meteostat",
+      "link": "https://example.com/climate/tokyo",
+      "location": {
+        "CEL": "35.6895",
+        "SI": "35.6895",
+        "SIU": "35.6895",
+        "city": "Tokyo",
+        "country": "JP",
+        "country_name": "Japan",
+        "end_date": "2020-12-31",
+        "lat": "35.6895",
+        "lon": "139.6917",
+        "start_date": "1991-01-01",
+        "tz_long": "Asia/Tokyo"
+      },
+      "modified": "2024-01-15T10:30:00Z",
+      "title": "Climate data for Tokyo"
+    }
+  },
+  "{\"lang\":\"de\",\"lat\":-33.8688,\"lon\":151.2093}": {
+    "error": "",
+    "response": {
+      "ClimateDataMonth": [
+        {
+          "TIME": "Jan",
+          "accumulated_rain": "102",
+          "days_with_rain": "12",
+          "rh": "65",
+          "sun_hours": "232",
+          "temp": "23",
+          "tmax": "26",
+          "tmin": "19"
+        },
+        {
+          "TIME": "Feb",
+          "accumulated_rain": "118",
+          "days_with_rain": "12",
+          "rh": "67",
+          "sun_hours": "205",
+          "temp": "23",
+          "tmax": "26",
+          "tmin": "19"
+        },
+        {
+          "TIME": "Mar",
+          "accumulated_rain": "130",
+          "days_with_rain": "13",
+          "rh": "68",
+          "sun_hours": "196",
+          "temp": "21",
+          "tmax": "25",
+          "tmin": "18"
+        },
+        {
+          "TIME": "Apr",
+          "accumulated_rain": "126",
+          "days_with_rain": "11",
+          "rh": "67",
+          "sun_hours": "192",
+          "temp": "19",
+          "tmax": "23",
+          "tmin": "15"
+        },
+        {
+          "TIME": "May",
+          "accumulated_rain": "120",
+          "days_with_rain": "11",
+          "rh": "67",
+          "sun_hours": "180",
+          "temp": "16",
+          "tmax": "20",
+          "tmin": "12"
+        },
+        {
+          "TIME": "Jun",
+          "accumulated_rain": "132",
+          "days_with_rain": "12",
+          "rh": "68",
+          "sun_hours": "166",
+          "temp": "14",
+          "tmax": "17",
+          "tmin": "10"
+        },
+        {
+          "TIME": "Jul",
+          "accumulated_rain": "98",
+          "days_with_rain": "10",
+          "rh": "65",
+          "sun_hours": "186",
+          "temp": "13",
+          "tmax": "17",
+          "tmin": "9"
+        },
+        {
+          "TIME": "Aug",
+          "accumulated_rain": "80",
+          "days_with_rain": "9",
+          "rh": "61",
+          "sun_hours": "214",
+          "temp": "15",
+          "tmax": "19",
+          "tmin": "10"
+        },
+        {
+          "TIME": "Sep",
+          "accumulated_rain": "68",
+          "days_with_rain": "9",
+          "rh": "60",
+          "sun_hours": "224",
+          "temp": "17",
+          "tmax": "21",
+          "tmin": "13"
+        },
+        {
+          "TIME": "Oct",
+          "accumulated_rain": "78",
+          "days_with_rain": "10",
+          "rh": "62",
+          "sun_hours": "232",
+          "temp": "19",
+          "tmax": "23",
+          "tmin": "15"
+        },
+        {
+          "TIME": "Nov",
+          "accumulated_rain": "84",
+          "days_with_rain": "11",
+          "rh": "63",
+          "sun_hours": "224",
+          "temp": "21",
+          "tmax": "24",
+          "tmin": "17"
+        },
+        {
+          "TIME": "Dec",
+          "accumulated_rain": "78",
+          "days_with_rain": "11",
+          "rh": "64",
+          "sun_hours": "232",
+          "temp": "22",
+          "tmax": "26",
+          "tmin": "19"
+        }
+      ],
+      "description": "Klimadaten für Sydney, Australien",
+      "generator": "Meteostat",
+      "link": "https://example.com/climate/sydney",
+      "location": {
+        "CEL": "-33.8688",
+        "SI": "-33.8688",
+        "SIU": "-33.8688",
+        "city": "Sydney",
+        "country": "AU",
+        "country_name": "Australia",
+        "end_date": "2020-12-31",
+        "lat": "-33.8688",
+        "lon": "151.2093",
+        "start_date": "1991-01-01",
+        "tz_long": "Australia/Sydney"
+      },
+      "modified": "2024-01-15T10:30:00Z",
+      "title": "Klimadaten für Sydney"
+    }
+  },
+  "{\"lang\":\"fr\",\"lat\":48.8566,\"lon\":2.3522}": {
+    "error": "",
+    "response": {
+      "ClimateDataMonth": [
+        {
+          "TIME": "Jan",
+          "accumulated_rain": "51",
+          "days_with_rain": "10",
+          "rh": "86",
+          "sun_hours": "62",
+          "temp": "5",
+          "tmax": "7",
+          "tmin": "3"
+        },
+        {
+          "TIME": "Feb",
+          "accumulated_rain": "42",
+          "days_with_rain": "9",
+          "rh": "82",
+          "sun_hours": "80",
+          "temp": "6",
+          "tmax": "8",
+          "tmin": "3"
+        },
+        {
+          "TIME": "Mar",
+          "accumulated_rain": "48",
+          "days_with_rain": "10",
+          "rh": "78",
+          "sun_hours": "122",
+          "temp": "9",
+          "tmax": "12",
+          "tmin": "5"
+        },
+        {
+          "TIME": "Apr",
+          "accumulated_rain": "52",
+          "days_with_rain": "9",
+          "rh": "72",
+          "sun_hours": "164",
+          "temp": "12",
+          "tmax": "16",
+          "tmin": "7"
+        },
+        {
+          "TIME": "May",
+          "accumulated_rain": "63",
+          "days_with_rain": "10",
+          "rh": "72",
+          "sun_hours": "196",
+          "temp": "16",
+          "tmax": "20",
+          "tmin": "11"
+        },
+        {
+          "TIME": "Jun",
+          "accumulated_rain": "50",
+          "days_with_rain": "8",
+          "rh": "71",
+          "sun_hours": "214",
+          "temp": "19",
+          "tmax": "23",
+          "tmin": "14"
+        },
+        {
+          "TIME": "Jul",
+          "accumulated_rain": "60",
+          "days_with_rain": "8",
+          "rh": "70",
+          "sun_hours": "224",
+          "temp": "21",
+          "tmax": "25",
+          "tmin": "16"
+        },
+        {
+          "TIME": "Aug",
+          "accumulated_rain": "52",
+          "days_with_rain": "8",
+          "rh": "71",
+          "sun_hours": "210",
+          "temp": "21",
+          "tmax": "25",
+          "tmin": "16"
+        },
+        {
+          "TIME": "Sep",
+          "accumulated_rain": "48",
+          "days_with_rain": "8",
+          "rh": "76",
+          "sun_hours": "162",
+          "temp": "18",
+          "tmax": "21",
+          "tmin": "13"
+        },
+        {
+          "TIME": "Oct",
+          "accumulated_rain": "58",
+          "days_with_rain": "10",
+          "rh": "82",
+          "sun_hours": "112",
+          "temp": "13",
+          "tmax": "16",
+          "tmin": "10"
+        },
+        {
+          "TIME": "Nov",
+          "accumulated_rain": "52",
+          "days_with_rain": "10",
+          "rh": "86",
+          "sun_hours": "66",
+          "temp": "8",
+          "tmax": "10",
+          "tmin": "6"
+        },
+        {
+          "TIME": "Dec",
+          "accumulated_rain": "58",
+          "days_with_rain": "11",
+          "rh": "87",
+          "sun_hours": "52",
+          "temp": "6",
+          "tmax": "8",
+          "tmin": "4"
+        }
+      ],
+      "description": "Climate data for Paris, France",
+      "generator": "Meteostat",
+      "link": "https://example.com/climate/paris",
+      "location": {
+        "CEL": "48.8566",
+        "SI": "48.8566",
+        "SIU": "48.8566",
+        "city": "Paris",
+        "country": "FR",
+        "country_name": "France",
+        "end_date": "2020-12-31",
+        "lat": "48.8566",
+        "lon": "2.3522",
+        "start_date": "1991-01-01",
+        "tz_long": "Europe/Paris"
+      },
+      "modified": "2024-01-15T10:30:00Z",
+      "title": "Climate data for Paris"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "{\"ordering\":\"-brand\"}": {
+    "error": "",
+    "response": [
+      {
+        "brand": "Boeing",
+        "ceiling_ft": 43000,
+        "cruise_speed_kmph": 903,
+        "empty_weight_kg": 118000.0,
+        "engine": "GEnx-1B",
+        "fuel_capacity_litres": 126917.0,
+        "height_ft": 56.0,
+        "id": 42,
+        "imgThumb": "https://example.com/img/787-thumb.jpg",
+        "img_attribution": "Example Photographer",
+        "img_creative_commons": true,
+        "length_ft": 186.0,
+        "max_landing_weight_kg": 192780.0,
+        "max_takeoff_weight_kg": 227930.0,
+        "passenger_capacity": 290,
+        "plane": "Boeing 787 Dreamliner",
+        "priceUSD": 248300000.0,
+        "range_km": 14140,
+        "wingspan_ft": 197.0
+      },
+      {
+        "brand": "Airbus",
+        "ceiling_ft": 39800,
+        "cruise_speed_kmph": 833,
+        "empty_weight_kg": 64300.0,
+        "engine": "CFM LEAP-1A",
+        "fuel_capacity_litres": 26730.0,
+        "height_ft": 38.7,
+        "id": 17,
+        "imgThumb": "https://example.com/img/a320neo-thumb.jpg",
+        "img_attribution": "Example Photographer",
+        "img_creative_commons": true,
+        "length_ft": 123.3,
+        "max_landing_weight_kg": 67400.0,
+        "max_takeoff_weight_kg": 79000.0,
+        "passenger_capacity": 194,
+        "plane": "Airbus A320neo",
+        "priceUSD": 110600000.0,
+        "range_km": 6500,
+        "wingspan_ft": 117.5
+      }
+    ]
+  },
+  "{\"ordering\":\"-plane\"}": {
+    "error": "",
+    "response": [
+      {
+        "brand": "Boeing",
+        "ceiling_ft": 43000,
+        "cruise_speed_kmph": 917,
+        "empty_weight_kg": 220128,
+        "engine": "GEnx-2B67",
+        "fuel_capacity_litres": 238610,
+        "height_ft": 63.5,
+        "id": 1,
+        "imgThumb": "https://example.com/images/boeing-747-8-thumb.jpg",
+        "img_attribution": "Wikimedia Commons",
+        "img_creative_commons": true,
+        "length_ft": 250.2,
+        "max_landing_weight_kg": 312072,
+        "max_takeoff_weight_kg": 447696,
+        "passenger_capacity": 467,
+        "plane": "Boeing 747-8",
+        "priceUSD": 418400000,
+        "range_km": 14320,
+        "wingspan_ft": 224.7
+      },
+      {
+        "brand": "Airbus",
+        "ceiling_ft": 43000,
+        "cruise_speed_kmph": 903,
+        "empty_weight_kg": 276800,
+        "engine": "Trent 970B-84",
+        "fuel_capacity_litres": 320000,
+        "height_ft": 79.7,
+        "id": 2,
+        "imgThumb": "https://example.com/images/airbus-a380-800-thumb.jpg",
+        "img_attribution": "Wikimedia Commons",
+        "img_creative_commons": true,
+        "length_ft": 238.6,
+        "max_landing_weight_kg": 394000,
+        "max_takeoff_weight_kg": 575000,
+        "passenger_capacity": 555,
+        "plane": "Airbus A380-800",
+        "priceUSD": 445600000,
+        "range_km": 15200,
+        "wingspan_ft": 261.8
+      }
+    ]
+  }
+}

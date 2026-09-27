@@ -1,0 +1,56 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/net-share-purchase-activity",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "buyShares": 3200000,
+          "netInsiderShares": -270000,
+          "netInsiderSharesPercent": -0.09,
+          "netInstitutionalShares": -980000,
+          "netInstitutionalSharesPercent": -0.33,
+          "netSharesPurchased": -1250000,
+          "netSharesPurchasedPercent": -0.42,
+          "period": "6m",
+          "sellShares": 4450000,
+          "symbol": "MSFT"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/net-share-purchase-activity",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "buyShares": 5120000,
+          "netInsiderShares": 235000,
+          "netInsiderSharesPercent": 0.08,
+          "netInstitutionalShares": 610000,
+          "netInstitutionalSharesPercent": 0.19,
+          "netSharesPurchased": 845000,
+          "netSharesPurchasedPercent": 0.27,
+          "period": "6m",
+          "sellShares": 4275000,
+          "symbol": "TSLA"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

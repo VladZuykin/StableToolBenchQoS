@@ -1,0 +1,122 @@
+{
+  "{\"countries\":\"GB,US,PL,RU\",\"whitelist_ip\":\"192.0.2.88\"}": {
+    "error": "",
+    "response": {
+      "proxy": {
+        "expires_at": "2024-11-07T15:05:00Z",
+        "features": {
+          "static": false,
+          "supported_protocols": {
+            "http": true,
+            "https": true,
+            "socks4": true,
+            "socks5": true
+          },
+          "type": "residential"
+        },
+        "host": "rotator.proxy-pool.io",
+        "id": "px_4e8d1a6f02",
+        "port": 31280,
+        "visibility": {
+          "asn": "AS5617",
+          "asn_org": "Orange Polska S.A.",
+          "city": "Warsaw",
+          "country": "Poland",
+          "country_eu": true,
+          "country_iso": "PL",
+          "ip": "198.51.100.201",
+          "latitude": 52.2297,
+          "longitude": 21.0122,
+          "region_code": "MZ",
+          "region_name": "Masovia",
+          "timezone": "Europe/Warsaw",
+          "zip_code": "00-001"
+        },
+        "whitelisted_ips": [
+          "192.0.2.88"
+        ]
+      },
+      "success": true
+    }
+  },
+  "{\"countries\":\"US\"}": {
+    "error": "",
+    "response": {
+      "proxy": {
+        "expires_at": "2024-11-07T13:58:00Z",
+        "features": {
+          "static": false,
+          "supported_protocols": {
+            "http": true,
+            "https": true,
+            "socks4": false,
+            "socks5": true
+          },
+          "type": "residential"
+        },
+        "host": "us-east.residential-gw.com",
+        "id": "px_7c2b9e5a44",
+        "port": 59104,
+        "visibility": {
+          "asn": "AS14618",
+          "asn_org": "Amazon.com, Inc.",
+          "city": "Ashburn",
+          "country": "United States",
+          "country_eu": false,
+          "country_iso": "US",
+          "ip": "203.0.113.155",
+          "latitude": 39.0438,
+          "longitude": -77.4874,
+          "region_code": "VA",
+          "region_name": "Virginia",
+          "timezone": "America/New_York",
+          "zip_code": "20149"
+        },
+        "whitelisted_ips": [
+          "198.51.100.22"
+        ]
+      },
+      "success": true
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "proxy": {
+        "expires_at": "2024-11-07T14:32:00Z",
+        "features": {
+          "static": false,
+          "supported_protocols": {
+            "http": true,
+            "https": true,
+            "socks4": false,
+            "socks5": true
+          },
+          "type": "residential"
+        },
+        "host": "gateway.residential-proxy.net",
+        "id": "px_9f3a2b7c1d",
+        "port": 48213,
+        "visibility": {
+          "asn": "AS3320",
+          "asn_org": "Deutsche Telekom AG",
+          "city": "Frankfurt",
+          "country": "Germany",
+          "country_eu": true,
+          "country_iso": "DE",
+          "ip": "203.0.113.47",
+          "latitude": 50.1109,
+          "longitude": 8.6821,
+          "region_code": "HE",
+          "region_name": "Hesse",
+          "timezone": "Europe/Berlin",
+          "zip_code": "60313"
+        },
+        "whitelisted_ips": [
+          "198.51.100.22"
+        ]
+      },
+      "success": true
+    }
+  }
+}

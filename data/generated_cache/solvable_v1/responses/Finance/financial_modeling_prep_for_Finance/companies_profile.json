@@ -1,0 +1,24 @@
+{
+  "{\"apikey\":\"demo_apikey_1\",\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "beta": 0.91,
+      "ceo": "Satya Nadella",
+      "changes": 4.18,
+      "changesPercentage": 1.02,
+      "companyName": "Microsoft Corporation",
+      "description": "Microsoft Corporation develops and supports software, services, devices, and solutions worldwide.",
+      "exchange": "NASDAQ Global Select",
+      "image": "https://financialmodelingprep.com/image-stock/MSFT.png",
+      "industry": "Software—Infrastructure",
+      "lastDividend": 3.0,
+      "marketCapitalisation": 3087000000000,
+      "price": 415.32,
+      "range": "309.45-430.82",
+      "sector": "Technology",
+      "symbol": "MSFT",
+      "volumeAverage": 22150000,
+      "website": "https://www.microsoft.com"
+    }
+  }
+}

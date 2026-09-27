@@ -1,0 +1,20 @@
+{
+  "{\"phone\":14155552671}": {
+    "error": "",
+    "response": {
+      "message": true
+    }
+  },
+  "{\"phone\":442071838750}": {
+    "error": "",
+    "response": {
+      "message": false
+    }
+  },
+  "{\"phone\":5511998765432}": {
+    "error": "",
+    "response": {
+      "message": true
+    }
+  }
+}

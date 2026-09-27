@@ -1,0 +1,246 @@
+{
+  "{\"limit\":10,\"skip\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "products",
+      "parameters": {
+        "limit": 10,
+        "skip": 0
+      },
+      "response": [
+        {
+          "cons": [
+            "Hỗ trợ chậm"
+          ],
+          "id": 1,
+          "name": "Nhà cái A",
+          "pros": [
+            "Khuyến mãi hấp dẫn",
+            "Nạp rút nhanh"
+          ],
+          "rating": 4.5
+        },
+        {
+          "cons": [
+            "Tỷ lệ cược thấp"
+          ],
+          "id": 2,
+          "name": "Nhà cái B",
+          "pros": [
+            "Giao diện thân thiện"
+          ],
+          "rating": 4.0
+        },
+        {
+          "cons": [
+            "Ít trò chơi"
+          ],
+          "id": 3,
+          "name": "Nhà cái C",
+          "pros": [
+            "Uy tín lâu năm"
+          ],
+          "rating": 3.8
+        },
+        {
+          "cons": [
+            "Phí rút tiền cao"
+          ],
+          "id": 4,
+          "name": "Nhà cái D",
+          "pros": [
+            "Bảo mật tốt"
+          ],
+          "rating": 4.2
+        },
+        {
+          "cons": [
+            "Yêu cầu xác minh nghiêm ngặt"
+          ],
+          "id": 5,
+          "name": "Nhà cái E",
+          "pros": [
+            "Nhiều khuyến mãi",
+            "CSKH 24/7"
+          ],
+          "rating": 4.7
+        },
+        {
+          "cons": [
+            "Tốc độ tải chậm"
+          ],
+          "id": 6,
+          "name": "Nhà cái F",
+          "pros": [
+            "Đa dạng cá cược"
+          ],
+          "rating": 3.5
+        },
+        {
+          "cons": [
+            "Giới hạn cược thấp"
+          ],
+          "id": 7,
+          "name": "Nhà cái G",
+          "pros": [
+            "Thanh toán đa dạng"
+          ],
+          "rating": 4.1
+        },
+        {
+          "cons": [
+            "Ít sự kiện thể thao"
+          ],
+          "id": 8,
+          "name": "Nhà cái H",
+          "pros": [
+            "App mobile mượt"
+          ],
+          "rating": 4.4
+        },
+        {
+          "cons": [
+            "Điều khoản phức tạp"
+          ],
+          "id": 9,
+          "name": "Nhà cái I",
+          "pros": [
+            "Hoàn tiền cao"
+          ],
+          "rating": 3.9
+        },
+        {
+          "cons": [
+            "Không hỗ trợ tiếng Việt tốt"
+          ],
+          "id": 10,
+          "name": "Nhà cái J",
+          "pros": [
+            "Uy tín quốc tế"
+          ],
+          "rating": 4.6
+        }
+      ],
+      "results": 10
+    }
+  },
+  "{\"limit\":3,\"skip\":20}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "products",
+      "parameters": {
+        "limit": 3,
+        "skip": 20
+      },
+      "response": [
+        {
+          "cons": [
+            "Phí giao dịch"
+          ],
+          "id": 21,
+          "name": "Nhà cái P",
+          "pros": [
+            "Bảo mật SSL",
+            "Khuyến mãi nạp đầu"
+          ],
+          "rating": 4.5
+        },
+        {
+          "cons": [
+            "Tốc độ rút chậm"
+          ],
+          "id": 22,
+          "name": "Nhà cái Q",
+          "pros": [
+            "Hỗ trợ đa ngôn ngữ"
+          ],
+          "rating": 3.9
+        },
+        {
+          "cons": [
+            "Giới hạn rút tiền thấp"
+          ],
+          "id": 23,
+          "name": "Nhà cái R",
+          "pros": [
+            "Sự kiện thể thao phong phú"
+          ],
+          "rating": 4.2
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"limit\":5,\"skip\":10}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "products",
+      "parameters": {
+        "limit": 5,
+        "skip": 10
+      },
+      "response": [
+        {
+          "cons": [
+            "Khuyến mãi ít"
+          ],
+          "id": 11,
+          "name": "Nhà cái K",
+          "pros": [
+            "Live casino chất lượng"
+          ],
+          "rating": 4.3
+        },
+        {
+          "cons": [
+            "Hạn chế nạp tiền"
+          ],
+          "id": 12,
+          "name": "Nhà cái L",
+          "pros": [
+            "Đăng ký nhanh"
+          ],
+          "rating": 3.7
+        },
+        {
+          "cons": [
+            "Yêu cầu cược lại cao"
+          ],
+          "id": 13,
+          "name": "Nhà cái M",
+          "pros": [
+            "Tỷ lệ cược cao",
+            "Rút tiền nhanh"
+          ],
+          "rating": 4.8
+        },
+        {
+          "cons": [
+            "CSKH chưa tốt"
+          ],
+          "id": 14,
+          "name": "Nhà cái N",
+          "pros": [
+            "Nhiều game slot"
+          ],
+          "rating": 4.0
+        },
+        {
+          "cons": [
+            "Ít phương thức thanh toán"
+          ],
+          "id": 15,
+          "name": "Nhà cái O",
+          "pros": [
+            "Giao diện đơn giản"
+          ],
+          "rating": 3.6
+        }
+      ],
+      "results": 5
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "{\"keyword\":\"Bra\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "code": "BR",
+          "name": "Brazil",
+          "station_count": 5230
+        },
+        {
+          "code": "BB",
+          "name": "Barbados",
+          "station_count": 85
+        }
+      ]
+    }
+  },
+  "{\"keyword\":\"United\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "code": "US",
+          "name": "United States",
+          "station_count": 12450
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom",
+          "station_count": 3120
+        },
+        {
+          "code": "AE",
+          "name": "United Arab Emirates",
+          "station_count": 410
+        }
+      ]
+    }
+  }
+}

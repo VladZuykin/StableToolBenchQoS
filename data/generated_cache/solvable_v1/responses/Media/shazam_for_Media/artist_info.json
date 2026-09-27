@@ -1,0 +1,100 @@
+{
+  "{\"artist_id\":40543550}": {
+    "error": "",
+    "response": {
+      "actions": [
+        {
+          "id": "track",
+          "type": "track"
+        },
+        {
+          "id": "album",
+          "type": "album"
+        }
+      ],
+      "adamid": "40543550",
+      "alias": "TS",
+      "avatar": "https://www.shazam.com/music/artist/40543550/avatar.jpg",
+      "genres": {
+        "primary": "Pop",
+        "secondaries": [
+          "Pop",
+          "Country",
+          "Country Pop",
+          "Dance Pop",
+          "Pop Rock",
+          "Contemporary Country",
+          "Adult Contemporary",
+          "Teen Pop",
+          "Singer/Songwriter",
+          "Soft Rock"
+        ]
+      },
+      "id": "40543550",
+      "layout": "artist",
+      "name": "Taylor Swift",
+      "share": {
+        "href": "https://www.shazam.com/artist/taylor-swift/40543550",
+        "image": "https://www.shazam.com/music/artist/40543550/share.jpg",
+        "subject": "Taylor Swift",
+        "text": "Check out Taylor Swift on Shazam!",
+        "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20Taylor%20Swift%20on%20Shazam!&url=https://www.shazam.com/artist/taylor-swift/40543550"
+      },
+      "toptracks": {
+        "url": "https://www.shazam.com/artist/taylor-swift/40543550/top-tracks"
+      },
+      "url": "https://www.shazam.com/artist/taylor-swift/40543550",
+      "verified": true,
+      "weburl": "https://www.shazam.com/artist/taylor-swift/40543550"
+    }
+  },
+  "{\"artist_id\":62319722}": {
+    "error": "",
+    "response": {
+      "actions": [
+        {
+          "id": "track",
+          "type": "track"
+        },
+        {
+          "id": "album",
+          "type": "album"
+        }
+      ],
+      "adamid": "62319722",
+      "alias": "",
+      "avatar": "https://www.shazam.com/music/artist/62319722/avatar.jpg",
+      "genres": {
+        "primary": "Hip-Hop/Rap",
+        "secondaries": [
+          "Hip-Hop/Rap",
+          "Trap",
+          "Pop Rap",
+          "Southern Hip-Hop",
+          "Rap",
+          "Dirty South",
+          "Underground Hip-Hop",
+          "Alternative Rap",
+          "Hardcore Rap",
+          "East Coast Rap"
+        ]
+      },
+      "id": "62319722",
+      "layout": "artist",
+      "name": "Lil Baby",
+      "share": {
+        "href": "https://www.shazam.com/artist/lil-baby/62319722",
+        "image": "https://www.shazam.com/music/artist/62319722/share.jpg",
+        "subject": "Lil Baby",
+        "text": "Check out Lil Baby on Shazam!",
+        "twitter": "https://twitter.com/intent/tweet?text=Check%20out%20Lil%20Baby%20on%20Shazam!&url=https://www.shazam.com/artist/lil-baby/62319722"
+      },
+      "toptracks": {
+        "url": "https://www.shazam.com/artist/lil-baby/62319722/top-tracks"
+      },
+      "url": "https://www.shazam.com/artist/lil-baby/62319722",
+      "verified": true,
+      "weburl": "https://www.shazam.com/artist/lil-baby/62319722"
+    }
+  }
+}

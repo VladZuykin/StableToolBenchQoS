@@ -1,0 +1,126 @@
+{
+  "{\"bank_id\":\"1\",\"country_code\":\"md\",\"date_yyyy_mm_dd_from\":\"2021-11-12\",\"date_yyyy_mm_dd_till\":\"2021-11-12\",\"tz\":\"Europe/Chisinau\"}": {
+    "error": "",
+    "response": {
+      "bank_id": "1",
+      "bank_name": "MAIB",
+      "base_currency": "MDL",
+      "country_code": "md",
+      "date": "2021-11-12",
+      "rates": [
+        {
+          "currency_code": "USD",
+          "currency_name": "US Dollar",
+          "value": 17.65
+        },
+        {
+          "currency_code": "EUR",
+          "currency_name": "Euro",
+          "value": 20.12
+        },
+        {
+          "currency_code": "RON",
+          "currency_name": "Romanian Leu",
+          "value": 4.07
+        },
+        {
+          "currency_code": "UAH",
+          "currency_name": "Ukrainian Hryvnia",
+          "value": 0.67
+        },
+        {
+          "currency_code": "RUB",
+          "currency_name": "Russian Ruble",
+          "value": 0.24
+        }
+      ],
+      "timezone": "Europe/Chisinau"
+    }
+  },
+  "{\"bank_id\":\"15\",\"country_code\":\"eu\",\"date_yyyy_mm_dd_from\":\"2021-11-15\",\"date_yyyy_mm_dd_till\":\"2021-11-15\",\"tz\":\"Europe/Berlin\"}": {
+    "error": "",
+    "response": {
+      "bank_id": "15",
+      "bank_name": "European Central Bank",
+      "base_currency": "EUR",
+      "country_code": "eu",
+      "date": "2021-11-15",
+      "rates": [
+        {
+          "currency_code": "USD",
+          "currency_name": "US Dollar",
+          "value": 1.1372
+        },
+        {
+          "currency_code": "GBP",
+          "currency_name": "British Pound",
+          "value": 0.8465
+        },
+        {
+          "currency_code": "JPY",
+          "currency_name": "Japanese Yen",
+          "value": 129.63
+        },
+        {
+          "currency_code": "CHF",
+          "currency_name": "Swiss Franc",
+          "value": 1.0521
+        },
+        {
+          "currency_code": "SEK",
+          "currency_name": "Swedish Krona",
+          "value": 10.0523
+        },
+        {
+          "currency_code": "NOK",
+          "currency_name": "Norwegian Krone",
+          "value": 9.8765
+        },
+        {
+          "currency_code": "PLN",
+          "currency_name": "Polish Zloty",
+          "value": 4.6321
+        }
+      ],
+      "timezone": "Europe/Berlin"
+    }
+  },
+  "{\"bank_id\":\"2\",\"country_code\":\"bitcoin\",\"date_yyyy_mm_dd_from\":\"2022-06-22\",\"date_yyyy_mm_dd_till\":\"2022-06-22\",\"tz\":\"UTC\"}": {
+    "error": "",
+    "response": {
+      "bank_id": "2",
+      "bank_name": "Kraken",
+      "base_currency": "BTC",
+      "country_code": "bitcoin",
+      "date": "2022-06-22",
+      "rates": [
+        {
+          "currency_code": "USD",
+          "currency_name": "US Dollar",
+          "value": 20145.32
+        },
+        {
+          "currency_code": "EUR",
+          "currency_name": "Euro",
+          "value": 19123.87
+        },
+        {
+          "currency_code": "GBP",
+          "currency_name": "British Pound",
+          "value": 16432.11
+        },
+        {
+          "currency_code": "JPY",
+          "currency_name": "Japanese Yen",
+          "value": 2712345.0
+        },
+        {
+          "currency_code": "ETH",
+          "currency_name": "Ethereum",
+          "value": 15.42
+        }
+      ],
+      "timezone": "UTC"
+    }
+  }
+}

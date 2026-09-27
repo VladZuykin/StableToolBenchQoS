@@ -1,0 +1,81 @@
+{
+  "{\"pagenum\":1,\"pdfid\":\"annual_report_2023\"}": {
+    "error": "",
+    "response": [
+      {
+        "fontSize": 18.0,
+        "id": "txt_001",
+        "pageNum": 1,
+        "text": "Annual Report 2023",
+        "x": 72.0,
+        "y": 90.5
+      },
+      {
+        "fontSize": 14.0,
+        "id": "txt_002",
+        "pageNum": 1,
+        "text": "Financial Highlights",
+        "x": 72.0,
+        "y": 130.25
+      },
+      {
+        "fontSize": 11.0,
+        "id": "txt_003",
+        "pageNum": 1,
+        "text": "Revenue grew by 12% year over year.",
+        "x": 72.0,
+        "y": 160.75
+      }
+    ]
+  },
+  "{\"pagenum\":12,\"pdfid\":\"user_manual_es\"}": {
+    "error": "",
+    "response": [
+      {
+        "fontSize": 16.0,
+        "id": "p12_001",
+        "pageNum": 12,
+        "text": "Solución de problemas",
+        "x": 72.0,
+        "y": 95.0
+      },
+      {
+        "fontSize": 11.0,
+        "id": "p12_002",
+        "pageNum": 12,
+        "text": "Si el dispositivo no enciende, verifique la conexión de alimentación.",
+        "x": 72.0,
+        "y": 125.5
+      },
+      {
+        "fontSize": 10.0,
+        "id": "p12_003",
+        "pageNum": 12,
+        "text": "Nota: No abra la carcasa mientras esté conectado.",
+        "x": 72.0,
+        "y": 150.0
+      }
+    ]
+  },
+  "{\"pagenum\":3,\"pdfid\":\"contract_v2\"}": {
+    "error": "",
+    "response": [
+      {
+        "fontSize": 13.5,
+        "id": "c3_001",
+        "pageNum": 3,
+        "text": "3. Termination",
+        "x": 72.0,
+        "y": 88.0
+      },
+      {
+        "fontSize": 10.5,
+        "id": "c3_002",
+        "pageNum": 3,
+        "text": "Either party may terminate this agreement with 30 days written notice.",
+        "x": 72.0,
+        "y": 112.5
+      }
+    ]
+  }
+}

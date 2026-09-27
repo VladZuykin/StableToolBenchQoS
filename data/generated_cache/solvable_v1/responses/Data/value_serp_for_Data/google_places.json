@@ -1,0 +1,89 @@
+{
+  "{\"gl\":\"jp\",\"google_domain\":\"google.co.jp\",\"hl\":\"ja\",\"location\":\"lat:35.6895,lon:139.6917,zoom:12,strict:true\",\"location_auto\":false,\"num\":5,\"page\":1,\"q\":\"sushi restaurants\",\"search_type\":\"places\"}": {
+    "error": "",
+    "response": {
+      "places_results": [
+        {
+          "address": "5-2-1 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+          "phone": "+81 3-3547-6797",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY8",
+          "position": 1,
+          "rating": 4.9,
+          "reviews": 500,
+          "title": "Sushi Dai",
+          "type": "Sushi restaurant",
+          "website": "https://sushidai.jp"
+        },
+        {
+          "address": "4-2-15 Ginza, Chuo City, Tokyo 104-0061, Japan",
+          "phone": "+81 3-3535-3600",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY9",
+          "position": 2,
+          "rating": 4.8,
+          "reviews": 300,
+          "title": "Sukiyabashi Jiro",
+          "type": "Sushi restaurant",
+          "website": "https://sukiyabashijiro.jp"
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"us\",\"google_domain\":\"google.com\",\"hl\":\"en\",\"location\":\"Austin, Texas, United States\",\"location_auto\":true,\"num\":10,\"page\":2,\"q\":\"plumbers\",\"search_type\":\"places\"}": {
+    "error": "",
+    "response": {
+      "places_results": [
+        {
+          "address": "789 Oak St, Austin, TX 78701",
+          "phone": "+1 512-555-9012",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY6",
+          "position": 11,
+          "rating": 4.2,
+          "reviews": 85,
+          "title": "Austin Plumbing Co.",
+          "type": "Plumber",
+          "website": "https://austinplumbing.com"
+        },
+        {
+          "address": "101 Pine St, Austin, TX 78702",
+          "phone": "+1 512-555-3456",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY7",
+          "position": 12,
+          "rating": 4.8,
+          "reviews": 150,
+          "title": "Reliable Plumbers",
+          "type": "Plumber",
+          "website": "https://reliableplumbers.com"
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"us\",\"hl\":\"en\",\"location\":\"lat:40.7128,lon:-74.0060,zoom:14\",\"num\":20,\"page\":1,\"q\":\"coffee shops\",\"search_type\":\"places\"}": {
+    "error": "",
+    "response": {
+      "places_results": [
+        {
+          "address": "123 Main St, New York, NY 10001",
+          "phone": "+1 212-555-1234",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+          "position": 1,
+          "rating": 4.5,
+          "reviews": 320,
+          "title": "Joe's Coffee",
+          "type": "Coffee shop",
+          "website": "https://joescoffee.com"
+        },
+        {
+          "address": "456 Broadway, New York, NY 10012",
+          "phone": "+1 212-555-5678",
+          "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY5",
+          "position": 2,
+          "rating": 4.7,
+          "reviews": 210,
+          "title": "Blue Bottle Coffee",
+          "type": "Coffee shop",
+          "website": "https://bluebottlecoffee.com"
+        }
+      ]
+    }
+  }
+}

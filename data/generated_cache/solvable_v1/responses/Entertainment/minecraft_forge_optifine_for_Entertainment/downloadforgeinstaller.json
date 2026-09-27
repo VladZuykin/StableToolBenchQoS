@@ -1,0 +1,20 @@
+{
+  "{\"forgeversion\":\"14.23.5.2859\",\"minecraftversion\":\"1.12.2\"}": {
+    "error": "",
+    "response": {
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar"
+    }
+  },
+  "{\"forgeversion\":\"36.2.34\",\"minecraftversion\":\"1.16.5\"}": {
+    "error": "",
+    "response": {
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-installer.jar"
+    }
+  },
+  "{\"forgeversion\":\"47.2.0\",\"minecraftversion\":\"1.20.1\"}": {
+    "error": "",
+    "response": {
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+    }
+  }
+}

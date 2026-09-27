@@ -1,0 +1,116 @@
+{
+  "{\"collection\":\"feature_flags\",\"limit\":100,\"offset\":1719750000,\"sort\":\"asc\"}": {
+    "error": "",
+    "response": {
+      "count": 3,
+      "items": [
+        {
+          "created_at": 1719753600,
+          "key": "dark_mode",
+          "value": "true"
+        },
+        {
+          "created_at": 1719757200,
+          "key": "new_checkout",
+          "value": "false"
+        },
+        {
+          "created_at": 1719760800,
+          "key": "beta_search",
+          "value": "true"
+        }
+      ]
+    }
+  },
+  "{\"collection\":\"product_cache\"}": {
+    "error": "",
+    "response": {
+      "count": 10,
+      "items": [
+        {
+          "created_at": 1719853200,
+          "key": "sku:1001",
+          "value": "{\"name\":\"Wireless Mouse\",\"price\":29.99}"
+        },
+        {
+          "created_at": 1719849600,
+          "key": "sku:1002",
+          "value": "{\"name\":\"Mechanical Keyboard\",\"price\":89.5}"
+        },
+        {
+          "created_at": 1719846000,
+          "key": "sku:1003",
+          "value": "{\"name\":\"USB-C Hub\",\"price\":45.0}"
+        },
+        {
+          "created_at": 1719842400,
+          "key": "sku:1004",
+          "value": "{\"name\":\"Laptop Stand\",\"price\":39.99}"
+        },
+        {
+          "created_at": 1719838800,
+          "key": "sku:1005",
+          "value": "{\"name\":\"Webcam 1080p\",\"price\":59.0}"
+        },
+        {
+          "created_at": 1719835200,
+          "key": "sku:1006",
+          "value": "{\"name\":\"Noise Cancelling Headphones\",\"price\":199.0}"
+        },
+        {
+          "created_at": 1719831600,
+          "key": "sku:1007",
+          "value": "{\"name\":\"Portable SSD 1TB\",\"price\":119.99}"
+        },
+        {
+          "created_at": 1719828000,
+          "key": "sku:1008",
+          "value": "{\"name\":\"HDMI Cable 2m\",\"price\":12.5}"
+        },
+        {
+          "created_at": 1719824400,
+          "key": "sku:1009",
+          "value": "{\"name\":\"Desk Lamp LED\",\"price\":24.0}"
+        },
+        {
+          "created_at": 1719820800,
+          "key": "sku:1010",
+          "value": "{\"name\":\"Ergonomic Chair\",\"price\":249.0}"
+        }
+      ]
+    }
+  },
+  "{\"collection\":\"user_sessions\",\"limit\":5,\"sort\":\"desc\"}": {
+    "error": "",
+    "response": {
+      "count": 5,
+      "items": [
+        {
+          "created_at": 1719849600,
+          "key": "session:9f2a",
+          "value": "active"
+        },
+        {
+          "created_at": 1719846000,
+          "key": "session:8b1c",
+          "value": "expired"
+        },
+        {
+          "created_at": 1719842400,
+          "key": "session:7d4e",
+          "value": "active"
+        },
+        {
+          "created_at": 1719838800,
+          "key": "session:6f5a",
+          "value": "active"
+        },
+        {
+          "created_at": 1719835200,
+          "key": "session:5c3b",
+          "value": "expired"
+        }
+      ]
+    }
+  }
+}

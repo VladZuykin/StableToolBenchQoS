@@ -1,0 +1,23 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "data": {
+        "deviceId": "iot-iaq-001",
+        "indoorAirQuality": {
+          "aqi": 42,
+          "aqiLevel": "Good",
+          "co2": 650,
+          "humidity": 48.2,
+          "pm10": 23.1,
+          "pm25": 12.4,
+          "temperature": 24.5,
+          "tvoc": 0.32
+        },
+        "timestamp": "2024-06-01T08:30:00Z"
+      },
+      "message": "success"
+    }
+  }
+}

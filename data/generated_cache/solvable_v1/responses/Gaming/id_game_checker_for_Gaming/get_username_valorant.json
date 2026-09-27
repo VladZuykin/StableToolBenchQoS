@@ -1,0 +1,30 @@
+{
+  "{\"riot_id\":\"DragonSlayer99\",\"tag\":\"EUW\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "account_level": 89,
+        "region": "Europe West",
+        "riot_id": "DragonSlayer99",
+        "tag": "EUW",
+        "username": "DragonSlayer99#EUW",
+        "verified": true
+      },
+      "status": "success"
+    }
+  },
+  "{\"riot_id\":\"ShadowStrike\",\"tag\":\"NA1\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "account_level": 247,
+        "region": "North America",
+        "riot_id": "ShadowStrike",
+        "tag": "NA1",
+        "username": "ShadowStrike#NA1",
+        "verified": true
+      },
+      "status": "success"
+    }
+  }
+}

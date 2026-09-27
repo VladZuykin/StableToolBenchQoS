@@ -1,0 +1,431 @@
+{
+  "{\"is_id\":11257051}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {},
+        "awayTeam": {
+          "country": {
+            "alpha2": "US",
+            "name": "United States"
+          },
+          "disabled": false,
+          "fullName": "Jon Jones",
+          "gender": "M",
+          "id": 123456,
+          "name": "J. Jones",
+          "nameCode": "JON",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 469065600,
+            "birthplace": "Rochester, NY",
+            "currentRanking": 1,
+            "height": 1.93,
+            "id": 123456,
+            "nickname": "Bones",
+            "reach": 2.15,
+            "residence": "Albuquerque, NM",
+            "weightClass": "Heavyweight"
+          },
+          "ranking": 1,
+          "shortName": "J. Jones",
+          "slug": "jon-jones",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#000000",
+            "secondary": "#FFFFFF",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 1,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Heavyweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 0,
+            "wins": 27
+          }
+        },
+        "awayTeamRanking": 1,
+        "changes": {
+          "change": []
+        },
+        "homeScore": {},
+        "homeTeam": {
+          "country": {
+            "alpha2": "US",
+            "name": "United States"
+          },
+          "disabled": false,
+          "fullName": "Stipe Miocic",
+          "gender": "M",
+          "id": 654321,
+          "name": "S. Miocic",
+          "nameCode": "MIO",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 462067200,
+            "birthplace": "Euclid, OH",
+            "currentRanking": 2,
+            "height": 1.93,
+            "id": 654321,
+            "nickname": "Stone Cold",
+            "reach": 2.03,
+            "residence": "Independence, OH",
+            "weightClass": "Heavyweight"
+          },
+          "ranking": 2,
+          "shortName": "S. Miocic",
+          "slug": "stipe-miocic",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#FF0000",
+            "secondary": "#000000",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 2,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Heavyweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 4,
+            "wins": 20
+          }
+        },
+        "homeTeamRanking": 2,
+        "id": 11257051,
+        "round": 1,
+        "slug": "ufc-309-jones-vs-miocic",
+        "startTimestamp": 1734220800,
+        "status": {
+          "code": 100,
+          "description": "Ended",
+          "type": "finished"
+        },
+        "tournament": {
+          "id": 10,
+          "name": "UFC",
+          "slug": "ufc"
+        },
+        "winnerCode": 1
+      }
+    }
+  },
+  "{\"is_id\":11257052}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {},
+        "awayTeam": {
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "disabled": false,
+          "fullName": "Alex Pereira",
+          "gender": "M",
+          "id": 789012,
+          "name": "A. Pereira",
+          "nameCode": "PER",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 559872000,
+            "birthplace": "São Paulo, Brazil",
+            "currentRanking": 3,
+            "height": 1.93,
+            "id": 789012,
+            "nickname": "Poatan",
+            "reach": 2.0,
+            "residence": "Danbury, CT",
+            "weightClass": "Light Heavyweight"
+          },
+          "ranking": 3,
+          "shortName": "A. Pereira",
+          "slug": "alex-pereira",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#008000",
+            "secondary": "#FFFF00",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 3,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Light Heavyweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 2,
+            "wins": 11
+          }
+        },
+        "awayTeamRanking": 3,
+        "changes": {
+          "change": []
+        },
+        "homeScore": {},
+        "homeTeam": {
+          "country": {
+            "alpha2": "US",
+            "name": "United States"
+          },
+          "disabled": false,
+          "fullName": "Jamahal Hill",
+          "gender": "M",
+          "id": 345678,
+          "name": "J. Hill",
+          "nameCode": "HIL",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 559872000,
+            "birthplace": "Chicago, IL",
+            "currentRanking": 4,
+            "height": 1.93,
+            "id": 345678,
+            "nickname": "Sweet Dreams",
+            "reach": 2.03,
+            "residence": "Chicago, IL",
+            "weightClass": "Light Heavyweight"
+          },
+          "ranking": 4,
+          "shortName": "J. Hill",
+          "slug": "jamahal-hill",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#0000FF",
+            "secondary": "#FFFFFF",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 4,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Light Heavyweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 1,
+            "wins": 12
+          }
+        },
+        "homeTeamRanking": 4,
+        "id": 11257052,
+        "round": 1,
+        "slug": "ufc-310-pereira-vs-hill",
+        "startTimestamp": 1736812800,
+        "status": {
+          "code": 100,
+          "description": "Ended",
+          "type": "finished"
+        },
+        "tournament": {
+          "id": 10,
+          "name": "UFC",
+          "slug": "ufc"
+        },
+        "winnerCode": 1
+      }
+    }
+  },
+  "{\"is_id\":11257053}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {},
+        "awayTeam": {
+          "country": {
+            "alpha2": "US",
+            "name": "United States"
+          },
+          "disabled": false,
+          "fullName": "Islam Makhachev",
+          "gender": "M",
+          "id": 901234,
+          "name": "I. Makhachev",
+          "nameCode": "MAK",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 559872000,
+            "birthplace": "Makhachkala, Russia",
+            "currentRanking": 1,
+            "height": 1.78,
+            "id": 901234,
+            "nickname": "",
+            "reach": 1.79,
+            "residence": "Makhachkala, Russia",
+            "weightClass": "Lightweight"
+          },
+          "ranking": 1,
+          "shortName": "I. Makhachev",
+          "slug": "islam-makhachev",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#FF0000",
+            "secondary": "#FFFFFF",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 1,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Lightweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 1,
+            "wins": 25
+          }
+        },
+        "awayTeamRanking": 1,
+        "changes": {
+          "change": []
+        },
+        "homeScore": {},
+        "homeTeam": {
+          "country": {
+            "alpha2": "US",
+            "name": "United States"
+          },
+          "disabled": false,
+          "fullName": "Arman Tsarukyan",
+          "gender": "M",
+          "id": 567890,
+          "name": "A. Tsarukyan",
+          "nameCode": "TSA",
+          "national": true,
+          "playerTeamInfo": {
+            "birthDateTimestamp": 559872000,
+            "birthplace": "Yerevan, Armenia",
+            "currentRanking": 2,
+            "height": 1.78,
+            "id": 567890,
+            "nickname": "Ahalkalakets",
+            "reach": 1.83,
+            "residence": "Yerevan, Armenia",
+            "weightClass": "Lightweight"
+          },
+          "ranking": 2,
+          "shortName": "A. Tsarukyan",
+          "slug": "arman-tsarukyan",
+          "sport": {
+            "id": 1,
+            "name": "MMA",
+            "slug": "mma"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#0000FF",
+            "secondary": "#FFFFFF",
+            "text": "#FFFFFF"
+          },
+          "teamRankings": [
+            {
+              "gender": "M",
+              "position": 2,
+              "rankingTypeName": "Pound for Pound",
+              "rankingTypeSlug": "pound-for-pound",
+              "uniqueTournamentId": 10,
+              "uniqueTournamentName": "UFC",
+              "uniqueTournamentSlug": "ufc",
+              "weightClass": "Lightweight"
+            }
+          ],
+          "type": 1,
+          "userCount": 0,
+          "wdlRecord": {
+            "draws": 0,
+            "losses": 2,
+            "wins": 21
+          }
+        },
+        "homeTeamRanking": 2,
+        "id": 11257053,
+        "round": 1,
+        "slug": "ufc-311-makhachev-vs-tsarukyan",
+        "startTimestamp": 1739404800,
+        "status": {
+          "code": 100,
+          "description": "Ended",
+          "type": "finished"
+        },
+        "tournament": {
+          "id": 10,
+          "name": "UFC",
+          "slug": "ufc"
+        },
+        "winnerCode": 1
+      }
+    }
+  }
+}

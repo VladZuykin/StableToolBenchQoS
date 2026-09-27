@@ -1,0 +1,143 @@
+{
+  "{\"cmd\":\"etd\",\"orig\":\"ALL\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "station": [
+          {
+            "abbr": "12TH",
+            "etd": [
+              {
+                "abbreviation": "RICH",
+                "destination": "Richmond",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "ORANGE",
+                    "direction": "North",
+                    "hexcolor": "#FF9933",
+                    "length": "6",
+                    "minutes": "3",
+                    "platform": "1"
+                  }
+                ]
+              }
+            ],
+            "name": "12th St. Oakland City Center"
+          },
+          {
+            "abbr": "MONT",
+            "etd": [
+              {
+                "abbreviation": "SFIA",
+                "destination": "SFO Airport",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "YELLOW",
+                    "direction": "South",
+                    "hexcolor": "#FFFF33",
+                    "length": "9",
+                    "minutes": "7",
+                    "platform": "1"
+                  }
+                ]
+              }
+            ],
+            "name": "Montgomery St."
+          }
+        ]
+      }
+    }
+  },
+  "{\"cmd\":\"etd\",\"orig\":\"EMBR\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "station": [
+          {
+            "abbr": "EMBR",
+            "etd": [
+              {
+                "abbreviation": "DUBL",
+                "destination": "Dublin/Pleasanton",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "BLUE",
+                    "direction": "South",
+                    "hexcolor": "#0099CC",
+                    "length": "8",
+                    "minutes": "5",
+                    "platform": "2"
+                  }
+                ]
+              },
+              {
+                "abbreviation": "BERY",
+                "destination": "Berryessa/North San Jose",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "GREEN",
+                    "direction": "South",
+                    "hexcolor": "#339933",
+                    "length": "10",
+                    "minutes": "12",
+                    "platform": "2"
+                  }
+                ]
+              }
+            ],
+            "name": "Embarcadero"
+          }
+        ]
+      }
+    }
+  },
+  "{\"cmd\":\"etd\",\"orig\":\"LAKE\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "station": [
+          {
+            "abbr": "LAKE",
+            "etd": [
+              {
+                "abbreviation": "RICH",
+                "destination": "Richmond",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "ORANGE",
+                    "direction": "North",
+                    "hexcolor": "#FF9933",
+                    "length": "5",
+                    "minutes": "4",
+                    "platform": "1"
+                  }
+                ]
+              },
+              {
+                "abbreviation": "BERY",
+                "destination": "Berryessa/North San Jose",
+                "estimate": [
+                  {
+                    "bikeflag": "1",
+                    "color": "GREEN",
+                    "direction": "South",
+                    "hexcolor": "#339933",
+                    "length": "7",
+                    "minutes": "9",
+                    "platform": "2"
+                  }
+                ]
+              }
+            ],
+            "name": "Lake Merritt"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "{\"domain\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "blocked": false,
+      "dns_poisoned": false,
+      "domain": "example.com",
+      "locations": [
+        {
+          "blocked": false,
+          "dns_poisoned": false,
+          "location": "Beijing"
+        },
+        {
+          "blocked": false,
+          "dns_poisoned": false,
+          "location": "Shanghai"
+        }
+      ]
+    }
+  },
+  "{\"domain\":\"google.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "blocked": true,
+      "dns_poisoned": true,
+      "domain": "google.com",
+      "locations": [
+        {
+          "blocked": true,
+          "dns_poisoned": true,
+          "location": "Beijing"
+        },
+        {
+          "blocked": true,
+          "dns_poisoned": true,
+          "location": "Shanghai"
+        }
+      ]
+    }
+  },
+  "{\"domain\":\"wikipedia.org\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "blocked": true,
+      "dns_poisoned": true,
+      "domain": "wikipedia.org",
+      "locations": [
+        {
+          "blocked": true,
+          "dns_poisoned": true,
+          "location": "Beijing"
+        },
+        {
+          "blocked": true,
+          "dns_poisoned": true,
+          "location": "Guangzhou"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "id": 1,
+        "name": "Netflix",
+        "origin_country": "US",
+        "tmdb_id": 213
+      },
+      {
+        "id": 2,
+        "name": "HBO Max",
+        "origin_country": "US",
+        "tmdb_id": 3186
+      },
+      {
+        "id": 3,
+        "name": "Amazon Prime Video",
+        "origin_country": "US",
+        "tmdb_id": 1024
+      },
+      {
+        "id": 4,
+        "name": "Disney+",
+        "origin_country": "US",
+        "tmdb_id": 2739
+      },
+      {
+        "id": 5,
+        "name": "Apple TV+",
+        "origin_country": "US",
+        "tmdb_id": 2552
+      },
+      {
+        "id": 6,
+        "name": "Hulu",
+        "origin_country": "US",
+        "tmdb_id": 453
+      },
+      {
+        "id": 7,
+        "name": "Peacock",
+        "origin_country": "US",
+        "tmdb_id": 3353
+      },
+      {
+        "id": 8,
+        "name": "BBC One",
+        "origin_country": "GB",
+        "tmdb_id": 4
+      },
+      {
+        "id": 9,
+        "name": "ITV1",
+        "origin_country": "GB",
+        "tmdb_id": 9
+      },
+      {
+        "id": 10,
+        "name": "Channel 4",
+        "origin_country": "GB",
+        "tmdb_id": 26
+      }
+    ]
+  }
+}

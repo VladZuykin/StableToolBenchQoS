@@ -1,0 +1,115 @@
+{
+  "{\"apikey\":\"demo_apikey_1\",\"botlat\":\"40.6500\",\"botlng\":\"-73.9000\",\"toplat\":\"40.8000\",\"toplng\":\"-74.0500\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "STN-NYC-101",
+          "lat": 40.7003,
+          "lng": -74.0142,
+          "name": "The Battery",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-NYC-102",
+          "lat": 40.7042,
+          "lng": -73.9967,
+          "name": "Brooklyn Bridge",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-NYC-103",
+          "lat": 40.6895,
+          "lng": -74.0168,
+          "name": "Governors Island",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-NYC-104",
+          "lat": 40.7401,
+          "lng": -74.0279,
+          "name": "Hoboken",
+          "source": "stormglass",
+          "type": "tide"
+        }
+      ],
+      "meta": {
+        "requestCount": 4,
+        "stationCount": 4
+      }
+    }
+  },
+  "{\"apikey\":\"demo_apikey_2\",\"botlat\":\"35.5000\",\"botlng\":\"139.9500\",\"toplat\":\"35.7000\",\"toplng\":\"139.8000\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "STN-TYO-201",
+          "lat": 35.617,
+          "lng": 139.793,
+          "name": "Tokyo Bay",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-TYO-202",
+          "lat": 35.63,
+          "lng": 139.7745,
+          "name": "Odaiba",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-TYO-203",
+          "lat": 35.452,
+          "lng": 139.658,
+          "name": "Yokohama Port",
+          "source": "stormglass",
+          "type": "tide"
+        }
+      ],
+      "meta": {
+        "requestCount": 3,
+        "stationCount": 3
+      }
+    }
+  },
+  "{\"apikey\":\"demo_apikey_3\",\"botlat\":\"51.4014\",\"botlng\":\"0.0553\",\"toplat\":\"51.5074\",\"toplng\":\"-0.1278\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "STN-LON-001",
+          "lat": 51.5079,
+          "lng": -0.0877,
+          "name": "London Bridge",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-LON-002",
+          "lat": 51.5095,
+          "lng": -0.0754,
+          "name": "Tower Pier",
+          "source": "stormglass",
+          "type": "tide"
+        },
+        {
+          "id": "STN-LON-003",
+          "lat": 51.4826,
+          "lng": -0.0077,
+          "name": "Greenwich",
+          "source": "stormglass",
+          "type": "tide"
+        }
+      ],
+      "meta": {
+        "requestCount": 3,
+        "stationCount": 3
+      }
+    }
+  }
+}

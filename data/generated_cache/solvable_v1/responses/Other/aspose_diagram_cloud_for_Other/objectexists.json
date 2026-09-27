@@ -1,0 +1,23 @@
+{
+  "{\"path\":\"/archive/old_drawing.vsdx\",\"storagename\":\"backupstorage\",\"versionid\":\"3\"}": {
+    "error": "",
+    "response": {
+      "Exists": false,
+      "IsFolder": false
+    }
+  },
+  "{\"path\":\"/diagrams/flowchart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Exists": true,
+      "IsFolder": false
+    }
+  },
+  "{\"path\":\"/projects/2024\",\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "Exists": true,
+      "IsFolder": true
+    }
+  }
+}

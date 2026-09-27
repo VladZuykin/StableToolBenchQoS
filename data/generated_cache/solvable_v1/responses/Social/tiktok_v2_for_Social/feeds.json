@@ -1,0 +1,152 @@
+{
+  "{\"schematype\":\"1\",\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": {
+      "cursor": "1700000000000",
+      "hasMore": true,
+      "itemList": [
+        {
+          "author": {
+            "nickname": "Charli",
+            "uniqueId": "charlidamelio"
+          },
+          "createTime": 1700000000,
+          "desc": "new dance trend #fyp",
+          "id": "7301234567890123456",
+          "stats": {
+            "commentCount": 8200,
+            "diggCount": 1200000,
+            "playCount": 45000000,
+            "shareCount": 15000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover1.jpg",
+            "duration": 15,
+            "playAddr": "https://v16-web.tiktok.com/video1.mp4"
+          }
+        },
+        {
+          "author": {
+            "nickname": "Charli",
+            "uniqueId": "charlidamelio"
+          },
+          "createTime": 1699999000,
+          "desc": "behind the scenes",
+          "id": "7301234567890123457",
+          "stats": {
+            "commentCount": 5400,
+            "diggCount": 980000,
+            "playCount": 31000000,
+            "shareCount": 9000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover2.jpg",
+            "duration": 22,
+            "playAddr": "https://v16-web.tiktok.com/video2.mp4"
+          }
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "{\"schematype\":\"1\",\"username\":\"khaby.lame\"}": {
+    "error": "",
+    "response": {
+      "cursor": "1698888888888",
+      "hasMore": false,
+      "itemList": [
+        {
+          "author": {
+            "nickname": "Khabane Lame",
+            "uniqueId": "khaby.lame"
+          },
+          "createTime": 1698888000,
+          "desc": "when the wifi is slow 😂",
+          "id": "7299888777666555444",
+          "stats": {
+            "commentCount": 33000,
+            "diggCount": 5400000,
+            "playCount": 120000000,
+            "shareCount": 78000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover3.jpg",
+            "duration": 11,
+            "playAddr": "https://v16-web.tiktok.com/video3.mp4"
+          }
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "{\"schematype\":\"2\",\"username\":\"bellapoarch\"}": {
+    "error": "",
+    "response": {
+      "cursor": "1697777777777",
+      "hasMore": true,
+      "itemList": [
+        {
+          "author": {
+            "nickname": "Bella Poarch",
+            "uniqueId": "bellapoarch"
+          },
+          "createTime": 1697777000,
+          "desc": "singing my new single 🎤",
+          "id": "7288777666555444333",
+          "stats": {
+            "commentCount": 19000,
+            "diggCount": 2100000,
+            "playCount": 67000000,
+            "shareCount": 41000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover4.jpg",
+            "duration": 18,
+            "playAddr": "https://v16-web.tiktok.com/video4.mp4"
+          }
+        },
+        {
+          "author": {
+            "nickname": "Bella Poarch",
+            "uniqueId": "bellapoarch"
+          },
+          "createTime": 1697776000,
+          "desc": "day in my life vlog",
+          "id": "7288777666555444334",
+          "stats": {
+            "commentCount": 12000,
+            "diggCount": 1500000,
+            "playCount": 42000000,
+            "shareCount": 26000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover5.jpg",
+            "duration": 45,
+            "playAddr": "https://v16-web.tiktok.com/video5.mp4"
+          }
+        },
+        {
+          "author": {
+            "nickname": "Bella Poarch",
+            "uniqueId": "bellapoarch"
+          },
+          "createTime": 1697775000,
+          "desc": "reacting to fan edits",
+          "id": "7288777666555444335",
+          "stats": {
+            "commentCount": 7100,
+            "diggCount": 890000,
+            "playCount": 25000000,
+            "shareCount": 13000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover6.jpg",
+            "duration": 30,
+            "playAddr": "https://v16-web.tiktok.com/video6.mp4"
+          }
+        }
+      ],
+      "statusCode": 200
+    }
+  }
+}

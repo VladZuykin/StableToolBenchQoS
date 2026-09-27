@@ -1,0 +1,120 @@
+{
+  "{\"beds\":\"3\",\"page\":2,\"search_token\":\"demo_search_token_1\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "305 Birch Lane, Denver, CO 80205",
+            "baths": 2,
+            "beds": 3,
+            "price": 640000,
+            "property_id": "9876543220",
+            "sold_date": "2024-02-28",
+            "sqft": 2100,
+            "status": "Sold"
+          },
+          {
+            "address": "77 Cedar Court, Denver, CO 80211",
+            "baths": 3,
+            "beds": 3,
+            "price": 598000,
+            "property_id": "9876543221",
+            "sold_date": "2024-02-20",
+            "sqft": 1980,
+            "status": "Sold"
+          }
+        ],
+        "paging": {
+          "current_page": 2,
+          "next_page_url": "https://api.trulia.com/search_for_sold?page=3&search_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.sold_token_xyz789",
+          "page_count": 8
+        }
+      },
+      "description": "Sold listings retrieved successfully",
+      "status": 200
+    }
+  },
+  "{\"page\":1,\"search_token\":\"demo_search_token_2\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "1428 Elm Street, Austin, TX 78704",
+            "baths": 2,
+            "beds": 3,
+            "price": 525000,
+            "property_id": "9876543210",
+            "sold_date": "2024-03-15",
+            "sqft": 1850,
+            "status": "Sold"
+          },
+          {
+            "address": "88 Maple Ave, Austin, TX 78745",
+            "baths": 1,
+            "beds": 2,
+            "price": 410000,
+            "property_id": "9876543211",
+            "sold_date": "2024-03-12",
+            "sqft": 1120,
+            "status": "Sold"
+          }
+        ],
+        "paging": {
+          "current_page": 1,
+          "next_page_url": "https://api.trulia.com/search_for_sold?page=2&search_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.sold_token_abc123",
+          "page_count": 12
+        }
+      },
+      "description": "Sold listings retrieved successfully",
+      "status": 200
+    }
+  },
+  "{\"page\":1,\"search_token\":\"demo_search_token_3\",\"sold_date\":\"last_30_days\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "homes": [
+          {
+            "address": "912 Oak Ridge Dr, Seattle, WA 98115",
+            "baths": 3,
+            "beds": 4,
+            "price": 875000,
+            "property_id": "9876543230",
+            "sold_date": "2024-04-02",
+            "sqft": 2650,
+            "status": "Sold"
+          },
+          {
+            "address": "45 Pine Street, Seattle, WA 98103",
+            "baths": 2,
+            "beds": 3,
+            "price": 720000,
+            "property_id": "9876543231",
+            "sold_date": "2024-03-29",
+            "sqft": 1740,
+            "status": "Sold"
+          },
+          {
+            "address": "230 Spruce Way, Seattle, WA 98117",
+            "baths": 2,
+            "beds": 2,
+            "price": 655000,
+            "property_id": "9876543232",
+            "sold_date": "2024-03-25",
+            "sqft": 1380,
+            "status": "Sold"
+          }
+        ],
+        "paging": {
+          "current_page": 1,
+          "next_page_url": "https://api.trulia.com/search_for_sold?page=2&search_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.sold_token_def456",
+          "page_count": 5
+        }
+      },
+      "description": "Sold listings retrieved successfully",
+      "status": 200
+    }
+  }
+}

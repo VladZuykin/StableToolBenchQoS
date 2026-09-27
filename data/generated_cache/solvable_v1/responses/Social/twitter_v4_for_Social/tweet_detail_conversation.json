@@ -1,0 +1,155 @@
+{
+  "{\"cursor\":\"\",\"is_id\":\"1600000000000000000\"}": {
+    "error": "",
+    "response": {
+      "cursor": "",
+      "replies": [
+        {
+          "author": {
+            "id": "444555666",
+            "name": "Shell Smith",
+            "username": "shellsmith",
+            "verified": false
+          },
+          "created_at": "2023-03-04T14:10:22.000Z",
+          "id": "1600000000000000001",
+          "in_reply_to_tweet_id": "1600000000000000000",
+          "metrics": {
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+          },
+          "text": "A CLI tool for managing dotfiles."
+        }
+      ],
+      "tweet": {
+        "author": {
+          "id": "111222333",
+          "name": "Build In Public",
+          "username": "buildinpublic",
+          "verified": false
+        },
+        "conversation_id": "1600000000000000000",
+        "created_at": "2023-03-04T14:02:59.000Z",
+        "id": "1600000000000000000",
+        "lang": "en",
+        "metrics": {
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "text": "What's everyone building this weekend?"
+      }
+    }
+  },
+  "{\"cursor\":\"DAABCgABF8kAAAAJ\",\"is_id\":\"1580300000000000000\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABF8kAAAAK",
+      "replies": [
+        {
+          "author": {
+            "id": "987654321",
+            "name": "Coder Life",
+            "username": "coderlife",
+            "verified": false
+          },
+          "created_at": "2022-10-12T09:20:10.000Z",
+          "id": "1580300000000000001",
+          "in_reply_to_tweet_id": "1580300000000000000",
+          "metrics": {
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+          },
+          "text": "Tip 1 is underrated."
+        },
+        {
+          "author": {
+            "id": "555555555",
+            "name": "Tech Fan",
+            "username": "techfan",
+            "verified": false
+          },
+          "created_at": "2022-10-12T09:31:47.000Z",
+          "id": "1580300000000000002",
+          "in_reply_to_tweet_id": "1580300000000000000",
+          "metrics": {
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+          },
+          "text": "Saving this thread for later!"
+        }
+      ],
+      "tweet": {
+        "author": {
+          "id": "1234567890",
+          "name": "Dev Guru",
+          "username": "devguru",
+          "verified": false
+        },
+        "conversation_id": "1580300000000000000",
+        "created_at": "2022-10-12T09:15:33.000Z",
+        "id": "1580300000000000000",
+        "lang": "en",
+        "metrics": {
+          "like_count": 1204,
+          "quote_count": 27,
+          "reply_count": 58,
+          "retweet_count": 310
+        },
+        "text": "Thread: 10 tips for building resilient microservices 🧵"
+      }
+    }
+  },
+  "{\"is_id\":\"1485953263040188416\"}": {
+    "error": "",
+    "response": {
+      "cursor": "",
+      "replies": [
+        {
+          "author": {
+            "id": "783214",
+            "name": "jack",
+            "username": "jack",
+            "verified": true
+          },
+          "created_at": "2022-01-25T18:45:02.000Z",
+          "id": "1485953263040188417",
+          "in_reply_to_tweet_id": "1485953263040188416",
+          "metrics": {
+            "like_count": 45,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+          },
+          "text": "Congrats team! This is huge."
+        }
+      ],
+      "tweet": {
+        "author": {
+          "id": "2244994945",
+          "name": "Twitter Dev",
+          "username": "TwitterDev",
+          "verified": true
+        },
+        "conversation_id": "1485953263040188416",
+        "created_at": "2022-01-25T18:42:11.000Z",
+        "id": "1485953263040188416",
+        "lang": "en",
+        "metrics": {
+          "like_count": 890,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 142
+        },
+        "text": "Just shipped a new feature for our API — real-time tweet streaming is now live!"
+      }
+    }
+  }
+}

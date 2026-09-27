@@ -1,0 +1,24 @@
+{
+  "{\"firstname\":\"Rory\",\"lastname\":\"McIlroy\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "64f1a2b3c4d5e6f7a8b9c0d2"
+      },
+      "firstName": "Rory",
+      "lastName": "McIlroy",
+      "playerId": "28237"
+    }
+  },
+  "{\"lastname\":\"Scheffler\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "64f1a2b3c4d5e6f7a8b9c0d1"
+      },
+      "firstName": "Scottie",
+      "lastName": "Scheffler",
+      "playerId": "46046"
+    }
+  }
+}

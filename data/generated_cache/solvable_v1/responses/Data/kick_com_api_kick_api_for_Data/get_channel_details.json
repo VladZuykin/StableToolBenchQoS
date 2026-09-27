@@ -1,0 +1,68 @@
+{
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "banner_image": "https://images.kick.com/trainwreckstv/banner.jpg",
+      "bio": "Streamer, entrepreneur, and co-founder of Kick.",
+      "category": {
+        "id": 22,
+        "name": "Slots & Casino",
+        "slug": "slots-casino"
+      },
+      "followers_count": 1800000,
+      "id": 789012,
+      "is_banned": false,
+      "is_live": false,
+      "is_verified": true,
+      "livestream": null,
+      "playback_url": null,
+      "profile_picture": "https://images.kick.com/trainwreckstv/profile.jpg",
+      "slug": "trainwreckstv",
+      "social_links": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/trainwreckstv"
+        }
+      ],
+      "username": "trainwreckstv"
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "banner_image": "https://images.kick.com/xqc/banner.jpg",
+      "bio": "Variety streamer and content creator.",
+      "category": {
+        "id": 15,
+        "name": "Just Chatting",
+        "slug": "just-chatting"
+      },
+      "followers_count": 2500000,
+      "id": 123456,
+      "is_banned": false,
+      "is_live": true,
+      "is_verified": true,
+      "livestream": {
+        "id": 987654,
+        "is_live": true,
+        "start_time": "2024-06-01T18:00:00Z",
+        "title": "Late night talk with chat",
+        "viewer_count": 45000
+      },
+      "playback_url": "https://stream.kick.com/xqc/playback.m3u8",
+      "profile_picture": "https://images.kick.com/xqc/profile.jpg",
+      "slug": "xqc",
+      "social_links": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/xqc"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://youtube.com/@xqc"
+        }
+      ],
+      "username": "xqc"
+    }
+  }
+}

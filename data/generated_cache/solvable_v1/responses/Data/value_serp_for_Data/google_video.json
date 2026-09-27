@@ -1,0 +1,144 @@
+{
+  "{\"cr\":\"countryGB\",\"google_domain\":\"google.co.uk\",\"location\":\"London, England, United Kingdom\",\"location_auto\":true,\"lr\":\"lang_en\",\"q\":\"how to make sourdough bread at home\",\"safe\":\"active\",\"time_period\":\"last_month\",\"type\":\"video\"}": {
+    "error": "",
+    "response": {
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 1.12
+      },
+      "search_parameters": {
+        "cr": "countryGB",
+        "google_domain": "google.co.uk",
+        "location": "London, England, United Kingdom",
+        "location_auto": true,
+        "lr": "lang_en",
+        "q": "how to make sourdough bread at home",
+        "safe": "active",
+        "time_period": "last_month",
+        "type": "video"
+      },
+      "video_results": [
+        {
+          "channel": "Bake With Jack",
+          "date": "2024-05-18T14:20:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "22:17",
+          "link": "https://www.youtube.com/watch?v=ghi789",
+          "position": 1,
+          "snippet": "Step-by-step guide to baking a perfect sourdough loaf from starter to crust.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/ghi789/hqdefault.jpg",
+          "title": "The Ultimate Sourdough Bread Tutorial"
+        },
+        {
+          "channel": "The Bread Code",
+          "date": "2024-05-02T09:05:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "15:40",
+          "link": "https://www.youtube.com/watch?v=jkl012",
+          "position": 2,
+          "snippet": "Everything you need to know to start your sourdough journey today.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/jkl012/hqdefault.jpg",
+          "title": "Sourdough for Absolute Beginners"
+        }
+      ]
+    }
+  },
+  "{\"filter\":0,\"gl\":\"de\",\"google_domain\":\"google.de\",\"hl\":\"de\",\"location\":\"Berlin, Germany\",\"location_auto\":false,\"nfpr\":1,\"num\":10,\"page\":2,\"q\":\"2024 electric car reviews\",\"tbs\":\"qdr:m\",\"time_period\":\"custom\",\"time_period_max\":\"06/30/2024\",\"time_period_min\":\"01/01/2024\",\"type\":\"video\"}": {
+    "error": "",
+    "response": {
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 0.95
+      },
+      "search_parameters": {
+        "filter": 0,
+        "gl": "de",
+        "google_domain": "google.de",
+        "hl": "de",
+        "location": "Berlin, Germany",
+        "location_auto": false,
+        "nfpr": 1,
+        "num": 10,
+        "page": 2,
+        "q": "2024 electric car reviews",
+        "tbs": "qdr:m",
+        "time_period": "custom",
+        "time_period_max": "06/30/2024",
+        "time_period_min": "01/01/2024",
+        "type": "video"
+      },
+      "video_results": [
+        {
+          "channel": "Auto Motor Sport",
+          "date": "2024-03-21T11:45:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "19:33",
+          "link": "https://www.youtube.com/watch?v=mno345",
+          "position": 11,
+          "snippet": "Wir vergleichen die neuesten Elektroautos des Jahres 2024 in Reichweite, Preis und Ausstattung.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/mno345/hqdefault.jpg",
+          "title": "Elektroauto Test 2024: Die besten Modelle im Vergleich"
+        },
+        {
+          "channel": "Elektroauto News",
+          "date": "2024-02-14T16:10:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "25:08",
+          "link": "https://www.youtube.com/watch?v=pqr678",
+          "position": 12,
+          "snippet": "Ein detaillierter Fahrbericht zum überarbeiteten Tesla Model 3 aus 2024.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/pqr678/hqdefault.jpg",
+          "title": "Tesla Model 3 Highland im ausführlichen Fahrbericht"
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"us\",\"hl\":\"en\",\"location\":\"Austin, Texas, United States\",\"num\":20,\"page\":1,\"q\":\"best guitar lessons for beginners\",\"type\":\"video\"}": {
+    "error": "",
+    "response": {
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 0.87
+      },
+      "search_parameters": {
+        "gl": "us",
+        "hl": "en",
+        "location": "Austin, Texas, United States",
+        "num": 20,
+        "page": 1,
+        "q": "best guitar lessons for beginners",
+        "type": "video"
+      },
+      "video_results": [
+        {
+          "channel": "Guitar Academy",
+          "date": "2023-04-12T10:00:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "12:45",
+          "link": "https://www.youtube.com/watch?v=abc123",
+          "position": 1,
+          "snippet": "Learn the basics of guitar in this first lesson covering posture, tuning and your first chords.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/abc123/hqdefault.jpg",
+          "title": "Beginner Guitar Lesson 1 - Your First Guitar Lesson"
+        },
+        {
+          "channel": "Play Guitar Now",
+          "date": "2022-11-03T08:30:00Z",
+          "displayed_link": "www.youtube.com › watch",
+          "duration": "18:02",
+          "link": "https://www.youtube.com/watch?v=def456",
+          "position": 2,
+          "snippet": "A collection of ten simple songs you can play with just a few chords.",
+          "source": "YouTube",
+          "thumbnail": "https://i.ytimg.com/vi/def456/hqdefault.jpg",
+          "title": "10 Easy Guitar Songs for Beginners"
+        }
+      ]
+    }
+  }
+}

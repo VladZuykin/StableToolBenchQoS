@@ -1,0 +1,35 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "contacts": [
+        {
+          "created_at": "2024-11-05T14:22:31Z",
+          "email": "maria.gomez@example.com",
+          "first_name": "Maria",
+          "id": "c_10293",
+          "last_name": "Gomez",
+          "list_ids": [
+            "l_551",
+            "l_552"
+          ],
+          "status": "subscribed"
+        },
+        {
+          "created_at": "2024-11-06T09:03:12Z",
+          "email": "james.liu@example.com",
+          "first_name": "James",
+          "id": "c_10294",
+          "last_name": "Liu",
+          "list_ids": [
+            "l_551"
+          ],
+          "status": "unsubscribed"
+        }
+      ],
+      "page": 1,
+      "per_page": 2,
+      "total_count": 2
+    }
+  }
+}

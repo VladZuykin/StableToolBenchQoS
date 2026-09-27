@@ -1,0 +1,20 @@
+{
+  "{\"agegrp\":3,\"api_key\":\"demo_api_key_1\",\"reaction\":\"Rash\",\"sex\":1}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events with reaction 'Rash', sex 1 (male), age group 3 (Child): 3,215 reports found."
+    }
+  },
+  "{\"agegrp\":5,\"api_key\":\"demo_api_key_2\",\"reaction\":\"Nausea\",\"sex\":2}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events with reaction 'Nausea', sex 2 (female), age group 5 (Adult): 12,438 reports found."
+    }
+  },
+  "{\"agegrp\":6,\"api_key\":\"demo_api_key_3\",\"reaction\":\"Dizziness\",\"sex\":0}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events with reaction 'Dizziness', sex 0 (unknown), age group 6 (Elderly): 7,902 reports found."
+    }
+  }
+}

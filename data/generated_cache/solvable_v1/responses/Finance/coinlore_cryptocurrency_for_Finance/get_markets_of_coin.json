@@ -1,0 +1,107 @@
+{
+  "{\"is_id\":1027}": {
+    "error": "",
+    "response": [
+      {
+        "base": "ETH",
+        "name": "Ethereum",
+        "price": 2280.45,
+        "price_usd": 2280.45,
+        "quote": "USD",
+        "time": 1700000300,
+        "volume": 8500.0,
+        "volume_usd": 19380000.0
+      },
+      {
+        "base": "ETH",
+        "name": "Ethereum",
+        "price": 2281.1,
+        "price_usd": 2281.1,
+        "quote": "USDT",
+        "time": 1700000400,
+        "volume": 7200.5,
+        "volume_usd": 16420000.0
+      },
+      {
+        "base": "ETH",
+        "name": "Ethereum",
+        "price": 2282.0,
+        "price_usd": 2282.0,
+        "quote": "BTC",
+        "time": 1700000500,
+        "volume": 300.0,
+        "volume_usd": 684600.0
+      }
+    ]
+  },
+  "{\"is_id\":1}": {
+    "error": "",
+    "response": [
+      {
+        "base": "BTC",
+        "name": "Bitcoin",
+        "price": 43250.12,
+        "price_usd": 43250.12,
+        "quote": "USD",
+        "time": 1700000000,
+        "volume": 12500.5,
+        "volume_usd": 540000000.0
+      },
+      {
+        "base": "BTC",
+        "name": "Bitcoin",
+        "price": 43248.75,
+        "price_usd": 43248.75,
+        "quote": "USDT",
+        "time": 1700000100,
+        "volume": 9800.2,
+        "volume_usd": 423000000.0
+      },
+      {
+        "base": "BTC",
+        "name": "Bitcoin",
+        "price": 43255.0,
+        "price_usd": 43255.0,
+        "quote": "EUR",
+        "time": 1700000200,
+        "volume": 1500.0,
+        "volume_usd": 64800000.0
+      }
+    ]
+  },
+  "{\"is_id\":825}": {
+    "error": "",
+    "response": [
+      {
+        "base": "USDT",
+        "name": "Tether",
+        "price": 1.0,
+        "price_usd": 1.0,
+        "quote": "USD",
+        "time": 1700000600,
+        "volume": 500000.0,
+        "volume_usd": 500000.0
+      },
+      {
+        "base": "USDT",
+        "name": "Tether",
+        "price": 0.9998,
+        "price_usd": 0.9998,
+        "quote": "EUR",
+        "time": 1700000700,
+        "volume": 120000.0,
+        "volume_usd": 119976.0
+      },
+      {
+        "base": "USDT",
+        "name": "Tether",
+        "price": 1.0001,
+        "price_usd": 1.0001,
+        "quote": "GBP",
+        "time": 1700000800,
+        "volume": 80000.0,
+        "volume_usd": 80008.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "{\"drug\":\"tylenol\"}": {
+    "error": "",
+    "response": {
+      "generic_name": "acetaminophen"
+    }
+  }
+}

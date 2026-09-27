@@ -1,0 +1,92 @@
+{
+  "{\"place_name\":\"paris\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "has_more": false,
+        "items": [
+          {
+            "_list_length": 55,
+            "location": {
+              "address": "5 Avenue Anatole France, 75007 Paris, France",
+              "city": "Paris",
+              "external_source": "facebook_places",
+              "facebook_places_id": 110774699468407,
+              "has_viewer_saved": true,
+              "lat": 48.8584,
+              "lng": 2.2945,
+              "name": "Paris",
+              "pk": 213385403,
+              "short_name": "Paris"
+            },
+            "subtitle": "Paris, France",
+            "title": "Paris"
+          }
+        ],
+        "rank_token": "a7c3d1e9-5f2b-4c8a-b6d0-1e9f3a7c2b45"
+      },
+      "message": null,
+      "status": "ok"
+    }
+  },
+  "{\"place_name\":\"tokyo\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "has_more": false,
+        "items": [
+          {
+            "_list_length": 55,
+            "location": {
+              "address": "2 Chome-1-1 Nihonbashi, Chuo City, Tokyo 103-0027, Japan",
+              "city": "Tokyo",
+              "external_source": "facebook_places",
+              "facebook_places_id": 108424279189115,
+              "has_viewer_saved": false,
+              "lat": 35.6839,
+              "lng": 139.7744,
+              "name": "Tokyo",
+              "pk": 213385402,
+              "short_name": "Tokyo"
+            },
+            "subtitle": "Tokyo, Japan",
+            "title": "Tokyo"
+          }
+        ],
+        "rank_token": "e2f1c9a4-7b3d-4a1e-9c2f-8d5b6a7c4e10"
+      },
+      "message": null,
+      "status": "ok"
+    }
+  },
+  "{\"place_name\":\"मुंबई\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "has_more": false,
+        "items": [
+          {
+            "_list_length": 55,
+            "location": {
+              "address": "Mahatma Gandhi Road, Fort, Mumbai, Maharashtra 400001, India",
+              "city": "Mumbai",
+              "external_source": "facebook_places",
+              "facebook_places_id": 106916567113299,
+              "has_viewer_saved": false,
+              "lat": 19.076,
+              "lng": 72.8777,
+              "name": "Mumbai",
+              "pk": 213385404,
+              "short_name": "Mumbai"
+            },
+            "subtitle": "Mumbai, Maharashtra, India",
+            "title": "Mumbai"
+          }
+        ],
+        "rank_token": "c4b8e2f6-9a1d-4e7b-8f3c-2d6a5b9e1c70"
+      },
+      "message": null,
+      "status": "ok"
+    }
+  }
+}

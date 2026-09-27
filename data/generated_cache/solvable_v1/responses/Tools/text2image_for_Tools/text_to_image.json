@@ -1,0 +1,23 @@
+{
+  "{\"style\":\"digital-art\",\"text\":\"Cute corgi astronaut floating in space, stars and planets, whimsical, soft colors\"}": {
+    "error": "",
+    "response": {
+      "status": "success",
+      "url": "https://cdn.example.com/images/5c1f6a8b-corgi-astronaut.png"
+    }
+  },
+  "{\"style\":\"neon-punk\",\"text\":\"Cyberpunk samurai standing in neon-lit alley, rain, reflective streets, dramatic lighting\"}": {
+    "error": "",
+    "response": {
+      "status": "success",
+      "url": "https://cdn.example.com/images/2b7d9e4a-cyberpunk-samurai.png"
+    }
+  },
+  "{\"style\":\"photographic\",\"text\":\"A serene mountain lake at sunrise, mist rising, pine trees, photorealistic, wide angle\"}": {
+    "error": "",
+    "response": {
+      "status": "success",
+      "url": "https://cdn.example.com/images/8f3a1c2e-mountain-lake-sunrise.png"
+    }
+  }
+}

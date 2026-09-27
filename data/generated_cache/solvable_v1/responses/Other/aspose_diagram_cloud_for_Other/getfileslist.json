@@ -1,0 +1,86 @@
+{
+  "{\"path\":\"/\",\"storagename\":\"DefaultStorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-01-05T08:00:00Z",
+          "Name": "folder",
+          "Path": "/folder",
+          "Size": 0
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-01-04T16:42:37Z",
+          "Name": "drawing1.vsdx",
+          "Path": "/drawing1.vsdx",
+          "Size": 27640
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-01-03T12:18:25Z",
+          "Name": "drawing2.vsdx",
+          "Path": "/drawing2.vsdx",
+          "Size": 33902
+        }
+      ]
+    }
+  },
+  "{\"path\":\"/folder\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-03-15T09:22:41Z",
+          "Name": "Diagrams",
+          "Path": "/folder/Diagrams",
+          "Size": 0
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-14T18:05:12Z",
+          "Name": "flowchart.vsdx",
+          "Path": "/folder/flowchart.vsdx",
+          "Size": 48213
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-13T11:47:03Z",
+          "Name": "network.vsdx",
+          "Path": "/folder/network.vsdx",
+          "Size": 91540
+        }
+      ]
+    }
+  },
+  "{\"path\":\"/folder/Diagrams\",\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-02-28T07:15:59Z",
+          "Name": "orgchart.vsdx",
+          "Path": "/folder/Diagrams/orgchart.vsdx",
+          "Size": 132874
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-02-27T22:31:18Z",
+          "Name": "floorplan.vsdx",
+          "Path": "/folder/Diagrams/floorplan.vsdx",
+          "Size": 204551
+        },
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-02-26T14:09:44Z",
+          "Name": "Archive",
+          "Path": "/folder/Diagrams/Archive",
+          "Size": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"is_id\":\"1029384756\"}": {
+    "error": "",
+    "response": {
+      "message": "Location found"
+    }
+  },
+  "{\"is_id\":\"213385402\"}": {
+    "error": "",
+    "response": {
+      "message": "Location details retrieved successfully"
+    }
+  },
+  "{\"is_id\":\"987654321\"}": {
+    "error": "",
+    "response": {
+      "message": "Location information returned"
+    }
+  }
+}

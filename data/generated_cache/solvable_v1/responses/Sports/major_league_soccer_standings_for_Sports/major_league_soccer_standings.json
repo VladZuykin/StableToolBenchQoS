@@ -1,0 +1,170 @@
+{
+  "{\"season\":\"2021\"}": {
+    "error": "",
+    "response": {
+      "season": "2021",
+      "standings": [
+        {
+          "conference": "Eastern",
+          "draws": 7,
+          "goalsAgainst": 41,
+          "goalsFor": 65,
+          "losses": 5,
+          "played": 34,
+          "points": 73,
+          "rank": 1,
+          "team": "New England Revolution",
+          "wins": 22
+        },
+        {
+          "conference": "Eastern",
+          "draws": 12,
+          "goalsAgainst": 35,
+          "goalsFor": 48,
+          "losses": 8,
+          "played": 34,
+          "points": 54,
+          "rank": 2,
+          "team": "Philadelphia Union",
+          "wins": 14
+        },
+        {
+          "conference": "Western",
+          "draws": 10,
+          "goalsAgainst": 35,
+          "goalsFor": 51,
+          "losses": 7,
+          "played": 34,
+          "points": 61,
+          "rank": 1,
+          "team": "Colorado Rapids",
+          "wins": 17
+        },
+        {
+          "conference": "Western",
+          "draws": 9,
+          "goalsAgainst": 33,
+          "goalsFor": 53,
+          "losses": 8,
+          "played": 34,
+          "points": 60,
+          "rank": 2,
+          "team": "Seattle Sounders FC",
+          "wins": 17
+        }
+      ]
+    }
+  },
+  "{\"season\":\"2022\"}": {
+    "error": "",
+    "response": {
+      "season": "2022",
+      "standings": [
+        {
+          "conference": "Eastern",
+          "draws": 10,
+          "goalsAgainst": 26,
+          "goalsFor": 72,
+          "losses": 5,
+          "played": 34,
+          "points": 67,
+          "rank": 1,
+          "team": "Philadelphia Union",
+          "wins": 19
+        },
+        {
+          "conference": "Eastern",
+          "draws": 5,
+          "goalsAgainst": 50,
+          "goalsFor": 63,
+          "losses": 9,
+          "played": 34,
+          "points": 65,
+          "rank": 2,
+          "team": "CF Montréal",
+          "wins": 20
+        },
+        {
+          "conference": "Western",
+          "draws": 4,
+          "goalsAgainst": 38,
+          "goalsFor": 66,
+          "losses": 9,
+          "played": 34,
+          "points": 67,
+          "rank": 1,
+          "team": "LAFC",
+          "wins": 21
+        },
+        {
+          "conference": "Western",
+          "draws": 8,
+          "goalsAgainst": 49,
+          "goalsFor": 65,
+          "losses": 10,
+          "played": 34,
+          "points": 56,
+          "rank": 2,
+          "team": "Austin FC",
+          "wins": 16
+        }
+      ]
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "season": "2023",
+      "standings": [
+        {
+          "conference": "Eastern",
+          "draws": 9,
+          "goalsAgainst": 39,
+          "goalsFor": 57,
+          "losses": 5,
+          "played": 34,
+          "points": 69,
+          "rank": 1,
+          "team": "FC Cincinnati",
+          "wins": 20
+        },
+        {
+          "conference": "Eastern",
+          "draws": 9,
+          "goalsAgainst": 39,
+          "goalsFor": 55,
+          "losses": 7,
+          "played": 34,
+          "points": 63,
+          "rank": 2,
+          "team": "Orlando City SC",
+          "wins": 18
+        },
+        {
+          "conference": "Western",
+          "draws": 5,
+          "goalsAgainst": 45,
+          "goalsFor": 62,
+          "losses": 12,
+          "played": 34,
+          "points": 56,
+          "rank": 1,
+          "team": "St. Louis City SC",
+          "wins": 17
+        },
+        {
+          "conference": "Western",
+          "draws": 10,
+          "goalsAgainst": 39,
+          "goalsFor": 54,
+          "losses": 10,
+          "played": 34,
+          "points": 52,
+          "rank": 2,
+          "team": "LAFC",
+          "wins": 14
+        }
+      ]
+    }
+  }
+}

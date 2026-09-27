@@ -1,0 +1,16 @@
+{
+  "{\"newspaperid\":\"bild\"}": {
+    "error": "",
+    "response": {
+      "info": "Latest police, crime and accident news from Bild (Germany)",
+      "messages": "Bild: A 34-year-old man was arrested in Berlin after a knife attack at Alexanderplatz; no fatalities reported. In Munich, police are investigating a series of car break-ins in the Schwabing district. A serious accident on the A3 near Cologne left two people injured and caused a temporary closure of the highway."
+    }
+  },
+  "{\"newspaperid\":\"spiegel\"}": {
+    "error": "",
+    "response": {
+      "info": "Latest police, crime and accident news from Der Spiegel (Germany)",
+      "messages": "Der Spiegel: Federal police report a rise in cybercrime cases targeting online banking customers. A drug trafficking ring was dismantled in Hamburg, with five suspects taken into custody. In Stuttgart, a fire in an apartment building is being treated as possible arson; investigators are on site."
+    }
+  }
+}

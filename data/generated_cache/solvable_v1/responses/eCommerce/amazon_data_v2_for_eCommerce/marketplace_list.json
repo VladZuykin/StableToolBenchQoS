@@ -1,0 +1,117 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "marketplaces": [
+        {
+          "country": "United States",
+          "currency": "USD",
+          "domain": "amazon.com",
+          "id": "ATVPDKIKX0DER",
+          "language": "en_US",
+          "name": "Amazon.com",
+          "region": "North America"
+        },
+        {
+          "country": "United Kingdom",
+          "currency": "GBP",
+          "domain": "amazon.co.uk",
+          "id": "A1F83G8C2ARO7P",
+          "language": "en_GB",
+          "name": "Amazon.co.uk",
+          "region": "Europe"
+        },
+        {
+          "country": "Germany",
+          "currency": "EUR",
+          "domain": "amazon.de",
+          "id": "A1PA6795UKMFR9",
+          "language": "de_DE",
+          "name": "Amazon.de",
+          "region": "Europe"
+        },
+        {
+          "country": "France",
+          "currency": "EUR",
+          "domain": "amazon.fr",
+          "id": "A13V1IB3VIYZZH",
+          "language": "fr_FR",
+          "name": "Amazon.fr",
+          "region": "Europe"
+        },
+        {
+          "country": "Italy",
+          "currency": "EUR",
+          "domain": "amazon.it",
+          "id": "APJ6JRA9NG5V4",
+          "language": "it_IT",
+          "name": "Amazon.it",
+          "region": "Europe"
+        },
+        {
+          "country": "Spain",
+          "currency": "EUR",
+          "domain": "amazon.es",
+          "id": "A1RKKUPIHCS9HS",
+          "language": "es_ES",
+          "name": "Amazon.es",
+          "region": "Europe"
+        },
+        {
+          "country": "Japan",
+          "currency": "JPY",
+          "domain": "amazon.co.jp",
+          "id": "A1VC38T7YXB528",
+          "language": "ja_JP",
+          "name": "Amazon.co.jp",
+          "region": "Asia Pacific"
+        },
+        {
+          "country": "Canada",
+          "currency": "CAD",
+          "domain": "amazon.ca",
+          "id": "A2EUQ1WTGCTBG2",
+          "language": "en_CA",
+          "name": "Amazon.ca",
+          "region": "North America"
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "domain": "amazon.in",
+          "id": "A21TJRUUN4KGV",
+          "language": "en_IN",
+          "name": "Amazon.in",
+          "region": "Asia Pacific"
+        },
+        {
+          "country": "Mexico",
+          "currency": "MXN",
+          "domain": "amazon.com.mx",
+          "id": "A1AM78C64UM0Y8",
+          "language": "es_MX",
+          "name": "Amazon.com.mx",
+          "region": "North America"
+        },
+        {
+          "country": "Brazil",
+          "currency": "BRL",
+          "domain": "amazon.com.br",
+          "id": "A2Q3Y263D00KWC",
+          "language": "pt_BR",
+          "name": "Amazon.com.br",
+          "region": "South America"
+        },
+        {
+          "country": "Australia",
+          "currency": "AUD",
+          "domain": "amazon.com.au",
+          "id": "A19VAU5U5O7RUS",
+          "language": "en_AU",
+          "name": "Amazon.com.au",
+          "region": "Asia Pacific"
+        }
+      ]
+    }
+  }
+}

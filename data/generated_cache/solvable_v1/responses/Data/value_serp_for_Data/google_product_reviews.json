@@ -1,0 +1,95 @@
+{
+  "{\"gl\":\"au\",\"google_domain\":\"google.com.au\",\"hl\":\"en\",\"location\":\"Sydney, New South Wales, Australia\",\"location_auto\":\"true\",\"product_id\":\"55555555555555555555\",\"product_type\":\"reviews\",\"sort_by\":\"relevance\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "product_results": {
+        "pagination": {
+          "next_page_token": "CAESBggKEAIYBA"
+        },
+        "product_id": "55555555555555555555",
+        "reviews": [
+          {
+            "date": "2024-03-15",
+            "position": 1,
+            "rating": 5,
+            "reviewer": "Chris T.",
+            "snippet": "Lightweight and durable, ideal for carry-on.",
+            "source": "Google Reviews",
+            "title": "Perfect for travel"
+          },
+          {
+            "date": "2024-02-10",
+            "position": 2,
+            "rating": 2,
+            "reviewer": "Morgan L.",
+            "snippet": "Loved the design but the zipper failed after a month.",
+            "source": "Google Reviews",
+            "title": "Zipper broke quickly"
+          }
+        ]
+      }
+    }
+  },
+  "{\"gl\":\"uk\",\"hl\":\"en\",\"location\":\"London, England, United Kingdom\",\"next_page_token\":\"demo_next_page_token_2\",\"product_id\":\"98765432109876543210\",\"product_type\":\"reviews\",\"sort_by\":\"date\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "product_results": {
+        "pagination": {
+          "next_page_token": "CAESBggKEAIYAw"
+        },
+        "product_id": "98765432109876543210",
+        "reviews": [
+          {
+            "date": "2024-06-01",
+            "position": 1,
+            "rating": 5,
+            "reviewer": "Sam R.",
+            "snippet": "Arrived a day early and feels premium.",
+            "source": "Google Reviews",
+            "title": "Fast delivery and great build"
+          },
+          {
+            "date": "2024-05-20",
+            "position": 2,
+            "rating": 3,
+            "reviewer": "Priya K.",
+            "snippet": "Works as expected but nothing special.",
+            "source": "Google Reviews",
+            "title": "Decent value"
+          }
+        ]
+      }
+    }
+  },
+  "{\"gl\":\"us\",\"hl\":\"en\",\"location\":\"Austin, Texas, United States\",\"product_id\":\"12345678901234567890\",\"product_type\":\"reviews\",\"sort_by\":\"relevance\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "product_results": {
+        "pagination": {
+          "next_page_token": "CAESBggKEAIYAQ"
+        },
+        "product_id": "12345678901234567890",
+        "reviews": [
+          {
+            "date": "2024-05-12",
+            "position": 1,
+            "rating": 5,
+            "reviewer": "Alex P.",
+            "snippet": "Battery lasts all day and the noise cancellation is superb.",
+            "source": "Google Reviews",
+            "title": "Excellent sound quality"
+          },
+          {
+            "date": "2024-04-28",
+            "position": 2,
+            "rating": 4,
+            "reviewer": "Jordan M.",
+            "snippet": "Comfortable fit, though I wish it were cheaper.",
+            "source": "Google Reviews",
+            "title": "Good but pricey"
+          }
+        ]
+      }
+    }
+  }
+}

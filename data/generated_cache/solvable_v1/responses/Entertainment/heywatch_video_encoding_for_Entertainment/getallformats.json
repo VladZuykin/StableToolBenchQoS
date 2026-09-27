@@ -1,0 +1,44 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "formats": [
+        {
+          "audio_codec": "aac",
+          "container": "mp4",
+          "id": 1,
+          "name": "mp4",
+          "video_codec": "h264"
+        },
+        {
+          "audio_codec": "vorbis",
+          "container": "webm",
+          "id": 2,
+          "name": "webm",
+          "video_codec": "vp8"
+        },
+        {
+          "audio_codec": "vorbis",
+          "container": "ogg",
+          "id": 3,
+          "name": "ogv",
+          "video_codec": "theora"
+        },
+        {
+          "audio_codec": "aac",
+          "container": "flv",
+          "id": 4,
+          "name": "flv",
+          "video_codec": "h264"
+        },
+        {
+          "audio_codec": "aac",
+          "container": "3gp",
+          "id": 5,
+          "name": "3gp",
+          "video_codec": "h263"
+        }
+      ]
+    }
+  }
+}

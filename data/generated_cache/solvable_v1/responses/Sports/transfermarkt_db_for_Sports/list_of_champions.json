@@ -1,0 +1,86 @@
+{
+  "{\"competition_id\":\"ES1\",\"locale\":\"ES\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "champions": [
+          {
+            "_list_length": 124,
+            "id": "1",
+            "season": "2023/24",
+            "staffId": "12345"
+          },
+          {
+            "_list_length": 124,
+            "id": "2",
+            "season": "2022/23",
+            "staffId": "23456"
+          },
+          {
+            "_list_length": 124,
+            "id": "3",
+            "season": "2021/22",
+            "staffId": "34567"
+          }
+        ],
+        "title": "List of Champions"
+      }
+    }
+  },
+  "{\"competition_id\":\"FR1\",\"locale\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "champions": [
+          {
+            "_list_length": 124,
+            "id": "7",
+            "season": "2023/24",
+            "staffId": "78901"
+          },
+          {
+            "_list_length": 124,
+            "id": "8",
+            "season": "2022/23",
+            "staffId": "89012"
+          },
+          {
+            "_list_length": 124,
+            "id": "9",
+            "season": "2021/22",
+            "staffId": "90123"
+          }
+        ],
+        "title": "List of Champions"
+      }
+    }
+  },
+  "{\"competition_id\":\"IT1\",\"locale\":\"IT\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "champions": [
+          {
+            "_list_length": 124,
+            "id": "4",
+            "season": "2023/24",
+            "staffId": "45678"
+          },
+          {
+            "_list_length": 124,
+            "id": "5",
+            "season": "2022/23",
+            "staffId": "56789"
+          },
+          {
+            "_list_length": 124,
+            "id": "6",
+            "season": "2021/22",
+            "staffId": "67890"
+          }
+        ],
+        "title": "List of Champions"
+      }
+    }
+  }
+}

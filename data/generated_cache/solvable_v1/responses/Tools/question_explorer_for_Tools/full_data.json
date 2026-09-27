@@ -1,0 +1,83 @@
+{
+  "{\"fulldata\":\"analytics\",\"keyword\":\"conversion rate optimization\"}": {
+    "error": "",
+    "response": {
+      "FullData": "analytics",
+      "data": {
+        "questions": [
+          {
+            "difficulty": "easy",
+            "id": "q1",
+            "text": "What is conversion rate optimization?"
+          },
+          {
+            "difficulty": "medium",
+            "id": "q2",
+            "text": "Which tools are used for A/B testing in CRO?"
+          },
+          {
+            "difficulty": "hard",
+            "id": "q3",
+            "text": "How do you calculate statistical significance in CRO tests?"
+          },
+          {
+            "difficulty": "medium",
+            "id": "q4",
+            "text": "What are common pitfalls in conversion rate optimization?"
+          }
+        ],
+        "total_questions": 4
+      },
+      "keyword": "conversion rate optimization"
+    }
+  },
+  "{\"fulldata\":\"seo\",\"keyword\":\"content marketing\"}": {
+    "error": "",
+    "response": {
+      "FullData": "seo",
+      "data": {
+        "questions": [
+          {
+            "difficulty": "easy",
+            "id": "q1",
+            "text": "What is content marketing?"
+          },
+          {
+            "difficulty": "medium",
+            "id": "q2",
+            "text": "How does content marketing differ from SEO?"
+          },
+          {
+            "difficulty": "hard",
+            "id": "q3",
+            "text": "Which metrics best measure content marketing ROI?"
+          }
+        ],
+        "total_questions": 3
+      },
+      "keyword": "content marketing"
+    }
+  },
+  "{\"keyword\":\"social media strategy\"}": {
+    "error": "",
+    "response": {
+      "FullData": "digital marketing",
+      "data": {
+        "questions": [
+          {
+            "difficulty": "easy",
+            "id": "q1",
+            "text": "What are the key components of a social media strategy?"
+          },
+          {
+            "difficulty": "medium",
+            "id": "q2",
+            "text": "How do you align social media strategy with business goals?"
+          }
+        ],
+        "total_questions": 2
+      },
+      "keyword": "social media strategy"
+    }
+  }
+}

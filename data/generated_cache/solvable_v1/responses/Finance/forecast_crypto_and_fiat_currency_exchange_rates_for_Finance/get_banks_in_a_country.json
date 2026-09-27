@@ -1,0 +1,31 @@
+{
+  "{\"country_code\":\"md\"}": {
+    "error": "",
+    "response": {
+      "banks": [
+        {
+          "is_central": 1,
+          "name": "Banca Nationala a Moldovei",
+          "name_short": "BNM"
+        },
+        {
+          "is_central": 0,
+          "name": "Moldova Agroindbank",
+          "name_short": "MAIB"
+        },
+        {
+          "is_central": 0,
+          "name": "Banca de Economii",
+          "name_short": "BEM"
+        },
+        {
+          "is_central": 0,
+          "name": "Victoriabank",
+          "name_short": "VB"
+        }
+      ],
+      "info": "Banks in Moldova",
+      "messages": "Success"
+    }
+  }
+}

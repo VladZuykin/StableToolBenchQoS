@@ -1,0 +1,67 @@
+{
+  "{\"task_id\":\"ca_2c7e5d18-9a4b-4f3e-8d21-6b0f4a7c3e92\"}": {
+    "error": "",
+    "response": {
+      "error_detail": {},
+      "history": [
+        {
+          "date": "2024-06-11T14:20:00-03:00",
+          "detail": "Envío admitido en sucursal",
+          "office": "Sucursal Correo Argentino - Mendoza Capital",
+          "status": "Recibido"
+        },
+        {
+          "date": "2024-06-12T07:55:00-03:00",
+          "detail": "Envío en proceso de clasificación",
+          "office": "Centro de Clasificación Mendoza",
+          "status": "En tránsito"
+        }
+      ],
+      "status": "processing"
+    }
+  },
+  "{\"task_id\":\"ca_5b1d8e04-3f6a-4a9c-9e77-1c2d8f6b0a53\"}": {
+    "error": "",
+    "response": {
+      "error_detail": {
+        "code": "TASK_NOT_FOUND",
+        "message": "No se encontró información para el Task ID proporcionado."
+      },
+      "history": [],
+      "status": "not_found"
+    }
+  },
+  "{\"task_id\":\"ca_9f3b2a71-4d8e-4c1a-b6f2-7e5d0c9a1b34\"}": {
+    "error": "",
+    "response": {
+      "error_detail": {},
+      "history": [
+        {
+          "date": "2024-05-02T09:14:00-03:00",
+          "detail": "Envío recibido en sucursal de origen",
+          "office": "Sucursal Correo Argentino - Córdoba Centro",
+          "status": "Recibido"
+        },
+        {
+          "date": "2024-05-03T18:47:00-03:00",
+          "detail": "Envío en proceso de clasificación",
+          "office": "Centro de Clasificación Córdoba",
+          "status": "En tránsito"
+        },
+        {
+          "date": "2024-05-05T11:02:00-03:00",
+          "detail": "Envío en camino a destino",
+          "office": "Centro de Distribución Rosario",
+          "status": "En tránsito"
+        },
+        {
+          "date": "2024-05-06T08:35:00-03:00",
+          "detail": "Envío disponible para retiro",
+          "office": "Sucursal Correo Argentino - Rosario Norte",
+          "status": "Disponible para retiro"
+        }
+      ],
+      "status": "ready"
+    }
+  }
+}

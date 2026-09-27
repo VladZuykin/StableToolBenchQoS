@@ -1,0 +1,173 @@
+{
+  "{\"tournid\":\"014\",\"year\":\"2021\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "60b8f3d2c9e77c0001ff0a12"
+      },
+      "leaderboard": [
+        {
+          "earnings": {
+            "$numberInt": "2070000"
+          },
+          "firstName": "Hideki",
+          "lastName": "Matsuyama",
+          "playerId": "32839"
+        },
+        {
+          "earnings": {
+            "$numberInt": "1242000"
+          },
+          "firstName": "Will",
+          "lastName": "Zalatoris",
+          "playerId": "47484"
+        },
+        {
+          "earnings": {
+            "$numberInt": "782000"
+          },
+          "firstName": "Jordan",
+          "lastName": "Spieth",
+          "playerId": "34046"
+        },
+        {
+          "earnings": {
+            "$numberInt": "552000"
+          },
+          "firstName": "Xander",
+          "lastName": "Schauffele",
+          "playerId": "48081"
+        },
+        {
+          "earnings": {
+            "$numberInt": "414000"
+          },
+          "firstName": "Jon",
+          "lastName": "Rahm",
+          "playerId": "34046"
+        }
+      ],
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1618185600000"
+        }
+      },
+      "tournId": "014",
+      "year": "2021"
+    }
+  },
+  "{\"tournid\":\"033\",\"year\":\"2019\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "5d0a1b7f4f1a4b2c9c8e3d55"
+      },
+      "leaderboard": [
+        {
+          "earnings": {
+            "$numberInt": "1980000"
+          },
+          "firstName": "Tiger",
+          "lastName": "Woods",
+          "playerId": "08793"
+        },
+        {
+          "earnings": {
+            "$numberInt": "1188000"
+          },
+          "firstName": "Dustin",
+          "lastName": "Johnson",
+          "playerId": "30925"
+        },
+        {
+          "earnings": {
+            "$numberInt": "748000"
+          },
+          "firstName": "Xander",
+          "lastName": "Schauffele",
+          "playerId": "48081"
+        },
+        {
+          "earnings": {
+            "$numberInt": "528000"
+          },
+          "firstName": "Brooks",
+          "lastName": "Koepka",
+          "playerId": "34466"
+        },
+        {
+          "earnings": {
+            "$numberInt": "440000"
+          },
+          "firstName": "Francesco",
+          "lastName": "Molinaro",
+          "playerId": "46402"
+        }
+      ],
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1555113600000"
+        }
+      },
+      "tournId": "033",
+      "year": "2019"
+    }
+  },
+  "{\"tournid\":\"475\",\"year\":\"2023\"}": {
+    "error": "",
+    "response": {
+      "_id": {
+        "$oid": "64f1c2a9e13b8a0012a4d7c1"
+      },
+      "leaderboard": [
+        {
+          "earnings": {
+            "$numberInt": "3600000"
+          },
+          "firstName": "Jon",
+          "lastName": "Rahm",
+          "playerId": "34046"
+        },
+        {
+          "earnings": {
+            "$numberInt": "2160000"
+          },
+          "firstName": "Phil",
+          "lastName": "Mickelson",
+          "playerId": "01810"
+        },
+        {
+          "earnings": {
+            "$numberInt": "1360000"
+          },
+          "firstName": "Brooks",
+          "lastName": "Koepka",
+          "playerId": "34466"
+        },
+        {
+          "earnings": {
+            "$numberInt": "980000"
+          },
+          "firstName": "Patrick",
+          "lastName": "Cantlay",
+          "playerId": "35450"
+        },
+        {
+          "earnings": {
+            "$numberInt": "760000"
+          },
+          "firstName": "Viktor",
+          "lastName": "Hovland",
+          "playerId": "46717"
+        }
+      ],
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1680998400000"
+        }
+      },
+      "tournId": "475",
+      "year": "2023"
+    }
+  }
+}

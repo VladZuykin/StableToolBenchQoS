@@ -1,0 +1,34 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "code": "US",
+          "name": "United States",
+          "region": "Americas"
+        },
+        {
+          "code": "IN",
+          "name": "India",
+          "region": "Asia"
+        },
+        {
+          "code": "DE",
+          "name": "Germany",
+          "region": "Europe"
+        },
+        {
+          "code": "NG",
+          "name": "Nigeria",
+          "region": "Africa"
+        },
+        {
+          "code": "AU",
+          "name": "Australia",
+          "region": "Oceania"
+        }
+      ]
+    }
+  }
+}

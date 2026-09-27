@@ -1,0 +1,57 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/calendar-events",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "date": "2024-01-30",
+          "description": "Q2 2024 Earnings Release",
+          "event": "Earnings"
+        },
+        {
+          "date": "2024-02-14",
+          "description": "Ex-Dividend Date",
+          "event": "Dividend"
+        },
+        {
+          "date": "2024-12-04",
+          "description": "Annual Shareholder Meeting",
+          "event": "Annual Meeting"
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/calendar-events",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "date": "2024-01-24",
+          "description": "Q4 2023 Earnings Release",
+          "event": "Earnings"
+        },
+        {
+          "date": "2024-03-15",
+          "description": "Ex-Dividend Date",
+          "event": "Dividend"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

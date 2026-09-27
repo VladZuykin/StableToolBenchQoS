@@ -1,0 +1,43 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "main_characters": [
+        {
+          "name": "Jessica Day",
+          "nickname": "Jess",
+          "occupation": "Teacher",
+          "personality": "Quirky, optimistic, and adorkable",
+          "portrayed_by": "Zooey Deschanel"
+        },
+        {
+          "name": "Nick Miller",
+          "occupation": "Bartender/Author",
+          "personality": "Grumpy, cynical, and lovable",
+          "portrayed_by": "Jake Johnson"
+        },
+        {
+          "full_name": "Winston Schmidt",
+          "name": "Schmidt",
+          "occupation": "Marketing executive",
+          "personality": "Competitive, neat freak, and overconfident",
+          "portrayed_by": "Max Greenfield"
+        },
+        {
+          "name": "Winston Bishop",
+          "nickname": "Winnie the Bish",
+          "occupation": "Police officer",
+          "personality": "Eccentric, competitive, and loyal",
+          "portrayed_by": "Lamorne Morris"
+        },
+        {
+          "name": "Cece Parekh",
+          "occupation": "Model",
+          "personality": "Sarcastic, practical, and confident",
+          "portrayed_by": "Hannah Simone"
+        }
+      ],
+      "show": "New Girl"
+    }
+  }
+}

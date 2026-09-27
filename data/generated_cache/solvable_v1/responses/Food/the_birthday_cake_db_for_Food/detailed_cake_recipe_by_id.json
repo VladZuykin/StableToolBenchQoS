@@ -1,0 +1,116 @@
+{
+  "{\"is_id\":\"12\"}": {
+    "error": "",
+    "response": {
+      "description": "A rich and moist chocolate cake layered with silky chocolate ganache, perfect for celebrations.",
+      "difficulty": "Medium",
+      "id": "12",
+      "image": "https://s3.amazonaws.com/birthday-cake-db/images/chocolate-ganache-cake.jpg",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups granulated sugar",
+        "3/4 cup unsweetened cocoa powder",
+        "2 tsp baking soda",
+        "1 tsp baking powder",
+        "1 tsp salt",
+        "2 large eggs",
+        "1 cup buttermilk",
+        "1 cup hot water",
+        "1/2 cup vegetable oil",
+        "2 tsp vanilla extract",
+        "1 cup heavy cream",
+        "8 oz dark chocolate",
+        "2 tbsp unsalted butter",
+        "1/4 cup powdered sugar",
+        "1 tsp espresso powder",
+        "1/4 tsp sea salt",
+        "1 cup fresh raspberries",
+        "1 tbsp corn syrup",
+        "1 tsp instant coffee"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat oven to 350°F and grease two 9-inch round pans."
+        },
+        {
+          "Step 2": "Whisk flour, sugar, cocoa, baking soda, baking powder, and salt in a bowl."
+        },
+        {
+          "Step 3": "Add eggs, buttermilk, oil, and vanilla; mix until smooth."
+        },
+        {
+          "Step 4": "Stir in hot water until batter is thin and well combined."
+        },
+        {
+          "Step 5": "Divide batter between pans and bake 30-35 minutes."
+        },
+        {
+          "Step 6": "Cool cakes completely, then prepare ganache by heating cream and pouring over chocolate."
+        },
+        {
+          "Step 7": "Whisk in butter, powdered sugar, espresso, salt, and corn syrup; layer and frost the cake."
+        }
+      ],
+      "portion": "12 slices",
+      "time": "1 hour 15 minutes",
+      "title": "Chocolate Ganache Celebration Cake"
+    }
+  },
+  "{\"is_id\":\"27\"}": {
+    "error": "",
+    "response": {
+      "description": "A light vanilla sponge with fresh strawberry filling and whipped cream frosting, ideal for summer birthdays.",
+      "difficulty": "Easy",
+      "id": "27",
+      "image": "https://s3.amazonaws.com/birthday-cake-db/images/strawberry-cream-cake.jpg",
+      "ingredients": [
+        "2 1/2 cups cake flour",
+        "1 1/2 cups granulated sugar",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "1/2 cup unsalted butter",
+        "1 cup whole milk",
+        "4 large egg whites",
+        "2 tsp vanilla extract",
+        "1/2 tsp almond extract",
+        "2 cups fresh strawberries",
+        "2 tbsp granulated sugar",
+        "1 tbsp lemon juice",
+        "2 cups heavy whipping cream",
+        "1/2 cup powdered sugar",
+        "1 tsp vanilla extract",
+        "1/4 cup strawberry jam",
+        "1 tbsp cornstarch",
+        "2 tbsp water",
+        "1/4 cup white chocolate shavings",
+        "Fresh mint leaves"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat oven to 350°F and line two 8-inch pans with parchment."
+        },
+        {
+          "Step 2": "Sift cake flour, sugar, baking powder, and salt together."
+        },
+        {
+          "Step 3": "Add butter and milk; beat until fluffy."
+        },
+        {
+          "Step 4": "Whip egg whites with vanilla and almond extracts, then fold into batter."
+        },
+        {
+          "Step 5": "Bake 25-30 minutes until a toothpick comes out clean."
+        },
+        {
+          "Step 6": "Cook strawberries with sugar, lemon juice, cornstarch, and water to make filling."
+        },
+        {
+          "Step 7": "Whip cream with powdered sugar and vanilla, then assemble cake with jam, filling, and frosting."
+        }
+      ],
+      "portion": "10 slices",
+      "time": "1 hour",
+      "title": "Strawberry Cream Birthday Cake"
+    }
+  }
+}

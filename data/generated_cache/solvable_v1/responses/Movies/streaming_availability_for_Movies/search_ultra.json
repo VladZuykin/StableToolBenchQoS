@@ -1,0 +1,154 @@
+{
+  "{\"country\":\"de\",\"desc\":false,\"keyword\":\"space\",\"max_imdb_vote_count\":900000,\"min_imdb_vote_count\":50000,\"order_by\":\"year\",\"output_language\":\"de\",\"services\":\"prime.subscription,apple.buy\",\"show_type\":\"movie\",\"year_max\":2020,\"year_min\":2010}": {
+    "error": "",
+    "response": {
+      "hasMore": true,
+      "nextCursor": "eyJvZmZzZXQiOjI1LCJ5ZWFyIjoyMDE0fQ==",
+      "shows": [
+        {
+          "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+          ],
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "imdb_id": "tt0816692",
+          "imdb_rating": 86,
+          "imdb_vote_count": 1876543,
+          "original_language": "en",
+          "original_title": "Interstellar",
+          "other_availability": [
+            {
+              "link": "https://tv.apple.com/de/movie/interstellar/umc.cmc.6wsi780sz5tdbqcf11k76mki0",
+              "offer_type": "buy",
+              "service_id": "apple"
+            }
+          ],
+          "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          "poster": "https://image.tmdb.org/t/p/w500/interstellar.jpg",
+          "runtime": 169,
+          "streaming_services": [
+            {
+              "link": "https://www.amazon.de/gp/video/detail/B00N1JQ2UO",
+              "offer_type": "subscription",
+              "service_id": "prime"
+            }
+          ],
+          "title": "Interstellar",
+          "tmdb_id": 157336,
+          "year": 2014
+        }
+      ]
+    }
+  },
+  "{\"country\":\"gb\",\"desc\":true,\"genres\":\"18,80\",\"genres_relation\":\"and\",\"min_imdb_rating\":75,\"order_by\":\"imdb_rating\",\"output_language\":\"en\",\"services\":\"netflix\",\"show_type\":\"series\"}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": null,
+      "shows": [
+        {
+          "cast": [
+            "Jesse Plemons",
+            "Cristin Milioti",
+            "Jimmi Simpson"
+          ],
+          "genres": [
+            "Drama",
+            "Sci-Fi & Fantasy"
+          ],
+          "imdb_id": "tt2085059",
+          "imdb_rating": 87,
+          "imdb_vote_count": 612345,
+          "original_language": "en",
+          "original_title": "Black Mirror",
+          "other_availability": [
+            {
+              "link": "https://www.amazon.co.uk/dp/B00FZP7Z8A",
+              "offer_type": "buy",
+              "service_id": "prime"
+            }
+          ],
+          "overview": "A series of standalone dramas exploring the dark side of technology.",
+          "poster": "https://image.tmdb.org/t/p/w500/blackmirror.jpg",
+          "runtime": 60,
+          "streaming_services": [
+            {
+              "link": "https://www.netflix.com/title/70264888",
+              "offer_type": "subscription",
+              "seasons": [
+                {
+                  "link": "https://www.netflix.com/watch/70264888",
+                  "season": 1
+                }
+              ],
+              "service_id": "netflix"
+            }
+          ],
+          "title": "Black Mirror",
+          "tmdb_id": 42009,
+          "year": 2011
+        }
+      ]
+    }
+  },
+  "{\"country\":\"us\",\"cursor\":\"eyJvZmZzZXQiOjUwfQ==\",\"desc\":true,\"genres\":\"35\",\"genres_relation\":\"or\",\"max_imdb_rating\":95,\"min_imdb_rating\":60,\"order_by\":\"imdb_vote_count\",\"output_language\":\"en\",\"services\":\"hulu.addon.hbo,peacock.free\",\"show_original_language\":\"en\",\"show_type\":\"all\"}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": null,
+      "shows": [
+        {
+          "cast": [
+            "Steve Carell",
+            "Rainn Wilson",
+            "John Krasinski"
+          ],
+          "genres": [
+            "Comedy"
+          ],
+          "imdb_id": "tt0386676",
+          "imdb_rating": 90,
+          "imdb_vote_count": 498765,
+          "original_language": "en",
+          "original_title": "The Office",
+          "other_availability": [
+            {
+              "addon_id": "hbo",
+              "link": "https://www.hulu.com/series/the-office-abc123",
+              "offer_type": "addon",
+              "service_id": "hulu"
+            }
+          ],
+          "overview": "A mockumentary on a group of typical office workers at a paper company in Scranton, Pennsylvania.",
+          "poster": "https://image.tmdb.org/t/p/w500/theoffice.jpg",
+          "runtime": 22,
+          "streaming_services": [
+            {
+              "link": "https://www.peacocktv.com/watch/asset/tv/the-office/12345678",
+              "offer_type": "free",
+              "seasons": [
+                {
+                  "link": "https://www.peacocktv.com/watch/asset/tv/the-office/12345678/s1",
+                  "season": 1
+                },
+                {
+                  "link": "https://www.peacocktv.com/watch/asset/tv/the-office/12345678/s2",
+                  "season": 2
+                }
+              ],
+              "service_id": "peacock"
+            }
+          ],
+          "title": "The Office",
+          "tmdb_id": 2316,
+          "year": 2005
+        }
+      ]
+    }
+  }
+}

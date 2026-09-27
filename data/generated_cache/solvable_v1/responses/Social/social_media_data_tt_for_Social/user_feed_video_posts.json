@@ -1,0 +1,182 @@
+{
+  "{\"country\":\"IT\",\"limit\":10,\"username\":\"khaby.lame\"}": {
+    "error": "",
+    "response": {
+      "has_more": true,
+      "max_cursor": "1697000000000",
+      "media": [
+        {
+          "author": {
+            "avatar_large": "https://p16-sign.tiktokcdn.com/avatar_large_k.jpg",
+            "avatar_thumb": "https://p16-sign.tiktokcdn.com/avatar_thumb_k.jpg",
+            "aweme_count": 1200,
+            "custom_verify": "",
+            "follower_count": 162000000,
+            "following_count": 100,
+            "ins_id": "khaby00",
+            "is_private": false,
+            "language": "it",
+            "nickname": "Khabane Lame",
+            "region": "IT",
+            "sec_uid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiN",
+            "signature": "",
+            "total_favorited": 2000000000,
+            "twitter_id": "",
+            "uid": "9876543210",
+            "unique_id": "khaby.lame",
+            "youtube_channel_id": "",
+            "youtube_channel_title": ""
+          },
+          "create_time": 1696900000,
+          "desc_language": "it",
+          "description": "try not to laugh 😂",
+          "music": {
+            "coverLarge": "https://p16-sign.tiktokcdn.com/music_large3.jpg",
+            "coverMedium": "https://p16-sign.tiktokcdn.com/music_medium3.jpg",
+            "coverThumb": "https://p16-sign.tiktokcdn.com/music_thumb3.jpg",
+            "id": "7123456789012345680",
+            "playUrl": "https://api.tiktokcdn.com/music/play3.mp3",
+            "title": "funny sound"
+          },
+          "statistics": {
+            "comment_count": 70000,
+            "download_count": 150000,
+            "forward_count": 12000,
+            "like_count": 5000000,
+            "play_count": 40000000,
+            "share_count": 25000,
+            "whatsapp_share_count": 2000
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover3.jpg",
+            "duration": 10.8,
+            "dynamic_cover": "https://p16-sign.tiktokcdn.com/dynamic_cover3.webp",
+            "video_no_watermark": "https://api.tiktokcdn.com/video/no_watermark3.mp4",
+            "video_with_watermark": "https://api.tiktokcdn.com/video/with_watermark3.mp4"
+          },
+          "video_id": "7270001112223334444"
+        }
+      ]
+    }
+  },
+  "{\"country\":\"US\",\"limit\":50,\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": {
+      "has_more": true,
+      "max_cursor": "1698765432000",
+      "media": [
+        {
+          "author": {
+            "avatar_large": "https://p16-sign.tiktokcdn.com/avatar_large.jpg",
+            "avatar_thumb": "https://p16-sign.tiktokcdn.com/avatar_thumb.jpg",
+            "aweme_count": 2100,
+            "custom_verify": "",
+            "follower_count": 155000000,
+            "following_count": 300,
+            "ins_id": "charlidamelio",
+            "is_private": false,
+            "language": "en",
+            "nickname": "Charli D'Amelio",
+            "region": "US",
+            "sec_uid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM",
+            "signature": "hi",
+            "total_favorited": 1200000000,
+            "twitter_id": "charlidamelio",
+            "uid": "1234567890",
+            "unique_id": "charlidamelio",
+            "youtube_channel_id": "",
+            "youtube_channel_title": ""
+          },
+          "create_time": 1698700000,
+          "desc_language": "en",
+          "description": "new dance challenge 💃 #fyp",
+          "music": {
+            "coverLarge": "https://p16-sign.tiktokcdn.com/music_large.jpg",
+            "coverMedium": "https://p16-sign.tiktokcdn.com/music_medium.jpg",
+            "coverThumb": "https://p16-sign.tiktokcdn.com/music_thumb.jpg",
+            "id": "7123456789012345678",
+            "playUrl": "https://api.tiktokcdn.com/music/play.mp3",
+            "title": "original sound"
+          },
+          "statistics": {
+            "comment_count": 45000,
+            "download_count": 90000,
+            "forward_count": 8000,
+            "like_count": 3200000,
+            "play_count": 25000000,
+            "share_count": 15000,
+            "whatsapp_share_count": 1200
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover.jpg",
+            "duration": 15.4,
+            "dynamic_cover": "https://p16-sign.tiktokcdn.com/dynamic_cover.webp",
+            "video_no_watermark": "https://api.tiktokcdn.com/video/no_watermark.mp4",
+            "video_with_watermark": "https://api.tiktokcdn.com/video/with_watermark.mp4"
+          },
+          "video_id": "7293847561029384756"
+        }
+      ]
+    }
+  },
+  "{\"limit\":100,\"max_cursor\":1698000000000,\"sec_uid\":\"MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM\"}": {
+    "error": "",
+    "response": {
+      "has_more": false,
+      "max_cursor": "1698000000000",
+      "media": [
+        {
+          "author": {
+            "avatar_large": "https://p16-sign.tiktokcdn.com/avatar_large.jpg",
+            "avatar_thumb": "https://p16-sign.tiktokcdn.com/avatar_thumb.jpg",
+            "aweme_count": 2100,
+            "custom_verify": "",
+            "follower_count": 155000000,
+            "following_count": 300,
+            "ins_id": "charlidamelio",
+            "is_private": false,
+            "language": "en",
+            "nickname": "Charli D'Amelio",
+            "region": "US",
+            "sec_uid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM",
+            "signature": "hi",
+            "total_favorited": 1200000000,
+            "twitter_id": "charlidamelio",
+            "uid": "1234567890",
+            "unique_id": "charlidamelio",
+            "youtube_channel_id": "",
+            "youtube_channel_title": ""
+          },
+          "create_time": 1697900000,
+          "desc_language": "en",
+          "description": "morning routine ☀️",
+          "music": {
+            "coverLarge": "https://p16-sign.tiktokcdn.com/music_large2.jpg",
+            "coverMedium": "https://p16-sign.tiktokcdn.com/music_medium2.jpg",
+            "coverThumb": "https://p16-sign.tiktokcdn.com/music_thumb2.jpg",
+            "id": "7123456789012345679",
+            "playUrl": "https://api.tiktokcdn.com/music/play2.mp3",
+            "title": "chill beats"
+          },
+          "statistics": {
+            "comment_count": 30000,
+            "download_count": 60000,
+            "forward_count": 5000,
+            "like_count": 2100000,
+            "play_count": 18000000,
+            "share_count": 11000,
+            "whatsapp_share_count": 900
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover2.jpg",
+            "duration": 22.1,
+            "dynamic_cover": "https://p16-sign.tiktokcdn.com/dynamic_cover2.webp",
+            "video_no_watermark": "https://api.tiktokcdn.com/video/no_watermark2.mp4",
+            "video_with_watermark": "https://api.tiktokcdn.com/video/with_watermark2.mp4"
+          },
+          "video_id": "7281122334455667788"
+        }
+      ]
+    }
+  }
+}

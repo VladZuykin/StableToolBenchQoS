@@ -1,0 +1,20 @@
+{
+  "{\"messageid\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "message": "Video content retrieved successfully"
+    }
+  },
+  "{\"messageid\":\"325708\"}": {
+    "error": "",
+    "response": {
+      "message": "Image content retrieved successfully"
+    }
+  },
+  "{\"messageid\":\"9876543210\"}": {
+    "error": "",
+    "response": {
+      "message": "Audio content retrieved successfully"
+    }
+  }
+}

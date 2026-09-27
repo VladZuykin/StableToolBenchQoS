@@ -16,8 +16,12 @@ from openai import OpenAI
 
 
 GENERATOR_VERSION = "solvable-response-cache-v3"
-PROMPT_VERSION = "solvable-cache-examples-v2"
+PROMPT_VERSION = "solvable-cache-examples-v3"
 RESERVED_NAMES = {"from", "class", "return", "false", "true", "id", "and"}
+SENSITIVE_PARAMETER_PATTERN = re.compile(
+    r"(?:api_?key|apikey|token|secret|password|authorization|credential)",
+    re.IGNORECASE,
+)
 
 
 def standardize(value: str) -> str:
@@ -47,6 +51,22 @@ def canonical_input(value: Any) -> str:
             except (TypeError, json.JSONDecodeError):
                 return value
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+
+
+def sanitize_credentials(value: Any, example_number: int) -> Any:
+    """Replace generated credentials with explicit, deterministic placeholders."""
+    if isinstance(value, dict):
+        sanitized = {}
+        for key, child in value.items():
+            normalized_key = standardize(str(key))
+            if SENSITIVE_PARAMETER_PATTERN.search(normalized_key):
+                sanitized[key] = f"demo_{normalized_key}_{example_number}"
+            else:
+                sanitized[key] = sanitize_credentials(child, example_number)
+        return sanitized
+    if isinstance(value, list):
+        return [sanitize_credentials(item, example_number) for item in value]
+    return value
 
 
 def read_json(path: Path) -> Any:
@@ -223,6 +243,9 @@ Rules:
 - Every input must include all required parameters using their documented names.
 - Inputs must be plausible and different from the existing inputs.
 - Follow documented parameter types and use defaults only as anchors, not for every example.
+- For credentials such as API keys, tokens, secrets, passwords, and authorization
+  headers, use obvious placeholders such as demo_api_key_1. Never generate values
+  that resemble real credentials.
 - The response must match the API purpose and template/schema when supplied.
 - Keep every response compact: arrays contain at most 2 representative items,
   omit repetitive optional fields, never emit base64/binary data, and keep the
@@ -274,6 +297,7 @@ def parse_model_output(
             change_name(standardize(str(key))): value
             for key, value in example["input"].items()
         }
+        normalized_input = sanitize_credentials(normalized_input, index + 1)
         missing = sorted(required - set(normalized_input))
         if missing:
             rejected.append(f"example {index}: missing required parameters {missing}")

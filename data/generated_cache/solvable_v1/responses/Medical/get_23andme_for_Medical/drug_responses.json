@@ -1,0 +1,95 @@
+{
+  "{\"profile_id\":\"demo_profile_001\"}": {
+    "error": "",
+    "response": {
+      "drug_responses": [
+        {
+          "drug": "clopidogrel",
+          "status": "typical"
+        },
+        {
+          "drug": "warfarin",
+          "status": "increased"
+        },
+        {
+          "drug": "oral_contraceptives",
+          "status": "not_applicable"
+        },
+        {
+          "drug": "simvastatin",
+          "status": "reduced"
+        },
+        {
+          "drug": "caffeine",
+          "status": "typical"
+        },
+        {
+          "drug": "alcohol",
+          "status": null
+        }
+      ]
+    }
+  },
+  "{\"profile_id\":\"profile_9f3a2c7b\"}": {
+    "error": "",
+    "response": {
+      "drug_responses": [
+        {
+          "drug": "clopidogrel",
+          "status": "reduced"
+        },
+        {
+          "drug": "warfarin",
+          "status": "typical"
+        },
+        {
+          "drug": "oral_contraceptives",
+          "status": "typical"
+        },
+        {
+          "drug": "simvastatin",
+          "status": "typical"
+        },
+        {
+          "drug": "caffeine",
+          "status": "increased"
+        },
+        {
+          "drug": "alcohol",
+          "status": "typical"
+        }
+      ]
+    }
+  },
+  "{\"profile_id\":\"user_8842xyz\"}": {
+    "error": "",
+    "response": {
+      "drug_responses": [
+        {
+          "drug": "clopidogrel",
+          "status": null
+        },
+        {
+          "drug": "warfarin",
+          "status": "reduced"
+        },
+        {
+          "drug": "oral_contraceptives",
+          "status": "not_applicable"
+        },
+        {
+          "drug": "simvastatin",
+          "status": null
+        },
+        {
+          "drug": "caffeine",
+          "status": "typical"
+        },
+        {
+          "drug": "alcohol",
+          "status": "increased"
+        }
+      ]
+    }
+  }
+}

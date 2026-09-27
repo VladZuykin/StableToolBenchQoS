@@ -1,0 +1,74 @@
+{
+  "{\"productid\":\"B07FZ8S74R\"}": {
+    "error": "",
+    "response": {
+      "averageRating": 4.0,
+      "productId": "B07FZ8S74R",
+      "reviews": [
+        {
+          "body": "Works fine but heats up during long use.",
+          "date": "2024-01-19",
+          "rating": 3,
+          "reviewer": "Rohan K.",
+          "title": "Average performance"
+        },
+        {
+          "body": "Fast delivery and well packed.",
+          "date": "2024-03-02",
+          "rating": 5,
+          "reviewer": "Neha T.",
+          "title": "Perfect for daily use"
+        }
+      ],
+      "totalReviews": 2
+    }
+  },
+  "{\"productid\":\"B08N5WRWNW\"}": {
+    "error": "",
+    "response": {
+      "averageRating": 4.5,
+      "productId": "B08N5WRWNW",
+      "reviews": [
+        {
+          "body": "Battery lasts all day and noise cancellation is great.",
+          "date": "2024-03-12",
+          "rating": 5,
+          "reviewer": "Aarav S.",
+          "title": "Excellent sound quality"
+        },
+        {
+          "body": "Comfortable fit, though the case scratches easily.",
+          "date": "2024-02-28",
+          "rating": 4,
+          "reviewer": "Priya M.",
+          "title": "Good value"
+        }
+      ],
+      "totalReviews": 2
+    }
+  },
+  "{\"productid\":\"B09G9FPHY6\"}": {
+    "error": "",
+    "response": {
+      "averageRating": 3.0,
+      "productId": "B09G9FPHY6",
+      "reviews": [
+        {
+          "body": "Color differs from the listing photos.",
+          "date": "2024-02-05",
+          "rating": 2,
+          "reviewer": "Vikram R.",
+          "title": "Not as described"
+        },
+        {
+          "body": "Good build quality for the price.",
+          "date": "2024-03-21",
+          "rating": 4,
+          "reviewer": "Sneha P.",
+          "title": "Decent buy"
+        }
+      ],
+      "totalReviews": 2
+    }
+  }
+}

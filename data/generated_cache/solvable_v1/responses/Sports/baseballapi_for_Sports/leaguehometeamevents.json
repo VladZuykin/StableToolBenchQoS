@@ -1,0 +1,278 @@
+{
+  "{\"seasonid\":49349,\"tournamentid\":19442}": {
+    "error": "",
+    "response": {
+      "tournamentTeamEvents": {
+        "107122": {
+          "453004": [
+            {
+              "awayScore": {
+                "current": 3,
+                "display": 3,
+                "normaltime": 3
+              },
+              "awayTeam": {
+                "gender": "M",
+                "id": 12345,
+                "name": "New York Yankees",
+                "nameCode": "NYY",
+                "national": false,
+                "shortName": "Yankees",
+                "slug": "new-york-yankees",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#003087",
+                  "secondary": "#E4002C",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 1500000
+              },
+              "customId": "mlb-2023-04-15-nyy-bos",
+              "finalResultOnly": false,
+              "homeScore": {
+                "current": 5,
+                "display": 5,
+                "normaltime": 5
+              },
+              "homeTeam": {
+                "gender": "M",
+                "id": 12346,
+                "name": "Boston Red Sox",
+                "nameCode": "BOS",
+                "national": false,
+                "shortName": "Red Sox",
+                "slug": "boston-red-sox",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#BD3039",
+                  "secondary": "#0C2340",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 1400000
+              },
+              "id": 987654,
+              "slug": "yankees-red-sox-2023-04-15",
+              "startTimestamp": 1681574400,
+              "status": {
+                "code": 100,
+                "description": "Finished",
+                "type": "finished"
+              },
+              "tournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "United States",
+                  "slug": "united-states",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "id": 19442,
+                "name": "MLB",
+                "slug": "mlb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"seasonid\":50000,\"tournamentid\":20000}": {
+    "error": "",
+    "response": {
+      "tournamentTeamEvents": {
+        "107122": {
+          "453004": [
+            {
+              "awayScore": {
+                "current": 2,
+                "display": 2,
+                "normaltime": 2
+              },
+              "awayTeam": {
+                "gender": "M",
+                "id": 23456,
+                "name": "Los Angeles Dodgers",
+                "nameCode": "LAD",
+                "national": false,
+                "shortName": "Dodgers",
+                "slug": "los-angeles-dodgers",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#005A9C",
+                  "secondary": "#EF3E42",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 1600000
+              },
+              "customId": "mlb-2023-05-20-lad-sf",
+              "finalResultOnly": false,
+              "homeScore": {
+                "current": 4,
+                "display": 4,
+                "normaltime": 4
+              },
+              "homeTeam": {
+                "gender": "M",
+                "id": 23457,
+                "name": "San Francisco Giants",
+                "nameCode": "SF",
+                "national": false,
+                "shortName": "Giants",
+                "slug": "san-francisco-giants",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#FD5A1E",
+                  "secondary": "#27251F",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 1300000
+              },
+              "id": 987655,
+              "slug": "dodgers-giants-2023-05-20",
+              "startTimestamp": 1684598400,
+              "status": {
+                "code": 100,
+                "description": "Finished",
+                "type": "finished"
+              },
+              "tournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "United States",
+                  "slug": "united-states",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "id": 20000,
+                "name": "MLB",
+                "slug": "mlb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"seasonid\":60000,\"tournamentid\":30000}": {
+    "error": "",
+    "response": {
+      "tournamentTeamEvents": {
+        "107122": {
+          "453004": [
+            {
+              "awayScore": {
+                "current": 1,
+                "display": 1,
+                "normaltime": 1
+              },
+              "awayTeam": {
+                "gender": "M",
+                "id": 34567,
+                "name": "Yomiuri Giants",
+                "nameCode": "YG",
+                "national": false,
+                "shortName": "Giants",
+                "slug": "yomiuri-giants",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#F97709",
+                  "secondary": "#000000",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 800000
+              },
+              "customId": "npb-2023-06-10-hs-yg",
+              "finalResultOnly": false,
+              "homeScore": {
+                "current": 3,
+                "display": 3,
+                "normaltime": 3
+              },
+              "homeTeam": {
+                "gender": "M",
+                "id": 34568,
+                "name": "Hanshin Tigers",
+                "nameCode": "HT",
+                "national": false,
+                "shortName": "Tigers",
+                "slug": "hanshin-tigers",
+                "sport": {
+                  "id": 1,
+                  "name": "Baseball",
+                  "slug": "baseball"
+                },
+                "teamColors": {
+                  "primary": "#FFE100",
+                  "secondary": "#000000",
+                  "text": "#000000"
+                },
+                "type": 1,
+                "userCount": 750000
+              },
+              "id": 987656,
+              "slug": "giants-tigers-2023-06-10",
+              "startTimestamp": 1686403200,
+              "status": {
+                "code": 100,
+                "description": "Finished",
+                "type": "finished"
+              },
+              "tournament": {
+                "category": {
+                  "alpha2": "JP",
+                  "flag": "jp",
+                  "id": 2,
+                  "name": "Japan",
+                  "slug": "japan",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "id": 30000,
+                "name": "NPB",
+                "slug": "npb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

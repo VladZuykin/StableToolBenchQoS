@@ -1,0 +1,29 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "date": "2024-06-10",
+      "keyword": "",
+      "news": [
+        {
+          "published_at": "2024-06-10T06:15:00-07:00",
+          "source": "San Francisco Chronicle",
+          "title": "Bay Area weather: Cooler temperatures arrive this week",
+          "url": "https://www.sfchronicle.com/weather/article/bay-area-cooler-temperatures-19451234.php"
+        },
+        {
+          "published_at": "2024-06-10T08:42:00-07:00",
+          "source": "SFGATE",
+          "title": "New restaurant opens in Oakland's Temescal neighborhood",
+          "url": "https://www.sfgate.com/food/article/oakland-temescal-restaurant-opening-19450987.php"
+        },
+        {
+          "published_at": "2024-06-10T09:05:00-07:00",
+          "source": "abc7News",
+          "title": "BART announces weekend service changes for track maintenance",
+          "url": "https://abc7news.com/bart-weekend-service-changes-track-maintenance/14938201/"
+        }
+      ]
+    }
+  }
+}

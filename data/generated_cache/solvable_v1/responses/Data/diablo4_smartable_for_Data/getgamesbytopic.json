@@ -1,0 +1,215 @@
+{
+  "{\"page\":1,\"topic\":\"sorcerer\"}": {
+    "error": "",
+    "response": {
+      "nextPage": 2,
+      "page": 1,
+      "path": "/diablo4/games/sorcerer",
+      "title": "Diablo 4 Sorcerer Gameplays - Page 1",
+      "value": [
+        {
+          "content": "Frozen Orb Sorcerer gameplay showcasing the new Season 4 changes and itemization.",
+          "excerpt": "Frozen Orb Sorcerer dominates in Season 4.",
+          "featuredContent": "Frozen Orb Sorcerer Season 4",
+          "heat": 6543,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/frozen-orb.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "15:10",
+          "originalUrl": "https://www.youtube.com/watch?v=frozenorb456",
+          "path": "/diablo4/games/sorcerer/frozen-orb-season4",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-06-20T18:00:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=frozenorb456",
+          "title": "Frozen Orb Sorcerer Season 4",
+          "topics": [
+            "sorcerer",
+            "build"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/sorcerer/frozen-orb-season4"
+        },
+        {
+          "content": "Chain Lightning Sorcerer leveling guide from 1 to 100.",
+          "excerpt": "Level up fast with Chain Lightning Sorcerer.",
+          "featuredContent": "Chain Lightning Leveling Guide",
+          "heat": 4210,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/chain-lightning.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "22:30",
+          "originalUrl": "https://www.youtube.com/watch?v=chain789",
+          "path": "/diablo4/games/sorcerer/chain-lightning-leveling",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-06-18T12:45:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=chain789",
+          "title": "Chain Lightning Leveling Guide",
+          "topics": [
+            "sorcerer",
+            "leveling"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/sorcerer/chain-lightning-leveling"
+        }
+      ]
+    }
+  },
+  "{\"page\":2,\"topic\":\"barbarian\"}": {
+    "error": "",
+    "response": {
+      "nextPage": 3,
+      "page": 2,
+      "path": "/diablo4/games/barbarian",
+      "title": "Diablo 4 Barbarian Gameplays - Page 2",
+      "value": [
+        {
+          "content": "A deep dive into the Whirlwind Barbarian build for Season 4, covering gear, paragon boards, and rotation.",
+          "excerpt": "Master the Whirlwind Barbarian with this comprehensive Season 4 guide.",
+          "featuredContent": "Whirlwind Barbarian Season 4 Guide",
+          "heat": 4821,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/barbarian-whirlwind.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "12:45",
+          "originalUrl": "https://www.youtube.com/watch?v=abc123barb",
+          "path": "/diablo4/games/barbarian/whirlwind-season4",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-06-15T14:30:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=abc123barb",
+          "title": "Whirlwind Barbarian Season 4 Guide",
+          "topics": [
+            "barbarian",
+            "build"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/barbarian/whirlwind-season4"
+        },
+        {
+          "content": "Speedrun through Nightmare Dungeons with the HotA Barbarian setup.",
+          "excerpt": "Fastest Nightmare Dungeon clears with HotA Barbarian.",
+          "featuredContent": "HotA Barbarian Speedrun",
+          "heat": 3120,
+          "images": [
+            {
+              "height": 1080,
+              "isCached": false,
+              "url": "https://cdn.example.com/diablo4/hota-speedrun.jpg",
+              "width": 1920
+            }
+          ],
+          "length": "08:20",
+          "originalUrl": "https://www.twitch.tv/videos/hota123",
+          "path": "/diablo4/games/barbarian/hota-speedrun",
+          "provider": {
+            "domain": "twitch.tv",
+            "name": "Twitch"
+          },
+          "publishedDateTime": "2024-06-10T09:15:00Z",
+          "sourceUrl": "https://www.twitch.tv/videos/hota123",
+          "title": "HotA Barbarian Speedrun",
+          "topics": [
+            "barbarian",
+            "speedrun"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/barbarian/hota-speedrun"
+        }
+      ]
+    }
+  },
+  "{\"page\":3,\"topic\":\"necromancer\"}": {
+    "error": "",
+    "response": {
+      "nextPage": 4,
+      "page": 3,
+      "path": "/diablo4/games/necromancer",
+      "title": "Diablo 4 Necromancer Gameplays - Page 3",
+      "value": [
+        {
+          "content": "Bone Spear Necromancer endgame build with minion army optimization.",
+          "excerpt": "Bone Spear Necromancer crushes endgame content.",
+          "featuredContent": "Bone Spear Necromancer Endgame",
+          "heat": 5321,
+          "images": [
+            {
+              "height": 720,
+              "isCached": true,
+              "url": "https://cdn.example.com/diablo4/bone-spear.jpg",
+              "width": 1280
+            }
+          ],
+          "length": "18:55",
+          "originalUrl": "https://www.youtube.com/watch?v=bonespear101",
+          "path": "/diablo4/games/necromancer/bone-spear-endgame",
+          "provider": {
+            "domain": "youtube.com",
+            "name": "YouTube"
+          },
+          "publishedDateTime": "2024-06-22T20:10:00Z",
+          "sourceUrl": "https://www.youtube.com/watch?v=bonespear101",
+          "title": "Bone Spear Necromancer Endgame",
+          "topics": [
+            "necromancer",
+            "build"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/necromancer/bone-spear-endgame"
+        },
+        {
+          "content": "Summoner Necromancer minion army showcase in high-tier Pit runs.",
+          "excerpt": "Minion army takes on Tier 100 Pit.",
+          "featuredContent": "Summoner Necromancer Pit Run",
+          "heat": 2987,
+          "images": [
+            {
+              "height": 1080,
+              "isCached": false,
+              "url": "https://cdn.example.com/diablo4/summoner-pit.jpg",
+              "width": 1920
+            }
+          ],
+          "length": "25:40",
+          "originalUrl": "https://www.twitch.tv/videos/summoner202",
+          "path": "/diablo4/games/necromancer/summoner-pit",
+          "provider": {
+            "domain": "twitch.tv",
+            "name": "Twitch"
+          },
+          "publishedDateTime": "2024-06-19T16:25:00Z",
+          "sourceUrl": "https://www.twitch.tv/videos/summoner202",
+          "title": "Summoner Necromancer Pit Run",
+          "topics": [
+            "necromancer",
+            "pit"
+          ],
+          "type": "video",
+          "webUrl": "https://example.com/diablo4/games/necromancer/summoner-pit"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "{\"collection\":\"orders_2024\"}": {
+    "error": "",
+    "response": {
+      "collection": "orders_2024",
+      "count": 0,
+      "created_at": "2024-05-20T11:03:00Z",
+      "metadata": {
+        "owner": "service-account",
+        "region": "eu-west-1"
+      },
+      "size_bytes": 0,
+      "updated_at": "2024-05-20T11:03:00Z"
+    }
+  },
+  "{\"collection\":\"product_catalog\"}": {
+    "error": "",
+    "response": {
+      "collection": "product_catalog",
+      "count": 10432,
+      "created_at": "2023-11-02T08:45:19Z",
+      "metadata": {
+        "owner": "catalog-team",
+        "region": "ap-southeast-2"
+      },
+      "size_bytes": 73400320,
+      "updated_at": "2024-06-10T14:58:31Z"
+    }
+  },
+  "{\"collection\":\"users\"}": {
+    "error": "",
+    "response": {
+      "collection": "users",
+      "count": 128,
+      "created_at": "2024-03-12T09:15:42Z",
+      "metadata": {
+        "owner": "admin",
+        "region": "us-east-1"
+      },
+      "size_bytes": 524288,
+      "updated_at": "2024-06-01T17:22:08Z"
+    }
+  }
+}

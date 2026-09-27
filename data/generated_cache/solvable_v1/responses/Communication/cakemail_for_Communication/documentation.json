@@ -1,0 +1,65 @@
+{
+  "{\"how_to\":\"http://cakemail.com/guides/contact-management\"}": {
+    "error": "",
+    "response": {
+      "sections": [
+        {
+          "content": "Group contacts into lists based on interests or engagement.",
+          "heading": "Organize Lists"
+        },
+        {
+          "content": "Use segments to target specific groups within your audience.",
+          "heading": "Segmentation"
+        },
+        {
+          "content": "CakeMail automatically handles unsubscribe requests to keep you compliant.",
+          "heading": "Unsubscribes"
+        }
+      ],
+      "title": "Contact Management Guide",
+      "url": "http://cakemail.com/guides/contact-management"
+    }
+  },
+  "{\"how_to\":\"http://cakemail.com/start\"}": {
+    "error": "",
+    "response": {
+      "sections": [
+        {
+          "content": "Sign up for a CakeMail account to begin managing contacts and sending campaigns.",
+          "heading": "Create Your Account"
+        },
+        {
+          "content": "Upload your contact list or add contacts manually to build your audience.",
+          "heading": "Import Contacts"
+        },
+        {
+          "content": "Choose a template, personalize your email, and schedule or send your campaign.",
+          "heading": "Build a Campaign"
+        }
+      ],
+      "title": "Getting Started with CakeMail",
+      "url": "http://cakemail.com/start"
+    }
+  },
+  "{\"how_to\":\"http://cakemail.com/tutorials/email-templates\"}": {
+    "error": "",
+    "response": {
+      "sections": [
+        {
+          "content": "Browse pre-designed templates suitable for newsletters, promotions, and announcements.",
+          "heading": "Template Library"
+        },
+        {
+          "content": "Edit colors, fonts, and layout to match your brand without coding.",
+          "heading": "Customization"
+        },
+        {
+          "content": "Save sections as reusable blocks to speed up future campaign creation.",
+          "heading": "Reusable Blocks"
+        }
+      ],
+      "title": "Using Email Templates",
+      "url": "http://cakemail.com/tutorials/email-templates"
+    }
+  }
+}

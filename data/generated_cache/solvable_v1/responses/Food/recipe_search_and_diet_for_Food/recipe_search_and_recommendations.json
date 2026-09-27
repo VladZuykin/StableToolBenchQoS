@@ -1,0 +1,393 @@
+{
+  "{\"q\":\"grilled salmon\",\"r\":\"cuisine=Japanese\"}": {
+    "error": "",
+    "response": {
+      "count": 1,
+      "from": 0,
+      "hits": [
+        {
+          "recipe": {
+            "calories": 380.0,
+            "cautions": [
+              "Fish"
+            ],
+            "cuisineType": [
+              "Japanese"
+            ],
+            "dietLabels": [
+              "High-Protein"
+            ],
+            "dishType": [
+              "Main course"
+            ],
+            "healthLabels": [
+              "Gluten-Free",
+              "Dairy-Free",
+              "Pescatarian"
+            ],
+            "image": "https://www.edamam.com/web-img/3c4d5e6f7g8h9i0j1k2l.jpg",
+            "ingredientLines": [
+              "2 salmon fillets",
+              "1/4 cup soy sauce",
+              "2 tbsp mirin",
+              "1 tbsp sake",
+              "1 tbsp sugar",
+              "1 tsp ginger",
+              "1 clove garlic"
+            ],
+            "ingredients": [
+              {
+                "foodCategory": "fish",
+                "foodId": "food_sal123",
+                "image": "https://www.edamam.com/food-img/sal123.jpg",
+                "text": "2 salmon fillets",
+                "weight": 300.0
+              },
+              {
+                "foodCategory": "condiments",
+                "foodId": "food_soy456",
+                "image": "https://www.edamam.com/food-img/soy456.jpg",
+                "text": "1/4 cup soy sauce",
+                "weight": 60.0
+              },
+              {
+                "foodCategory": "condiments",
+                "foodId": "food_mir789",
+                "image": "https://www.edamam.com/food-img/mir789.jpg",
+                "text": "2 tbsp mirin",
+                "weight": 30.0
+              },
+              {
+                "foodCategory": "alcohol",
+                "foodId": "food_sak012",
+                "image": "https://www.edamam.com/food-img/sak012.jpg",
+                "text": "1 tbsp sake",
+                "weight": 15.0
+              },
+              {
+                "foodCategory": "sweeteners",
+                "foodId": "food_sug345",
+                "image": "https://www.edamam.com/food-img/sug345.jpg",
+                "text": "1 tbsp sugar",
+                "weight": 12.5
+              },
+              {
+                "foodCategory": "spices",
+                "foodId": "food_gin678",
+                "image": "https://www.edamam.com/food-img/gin678.jpg",
+                "text": "1 tsp ginger",
+                "weight": 2.0
+              },
+              {
+                "foodCategory": "vegetables",
+                "foodId": "food_gar901",
+                "image": "https://www.edamam.com/food-img/gar901.jpg",
+                "text": "1 clove garlic",
+                "weight": 3.0
+              }
+            ],
+            "label": "Grilled Salmon Teriyaki",
+            "mealType": [
+              "Dinner"
+            ],
+            "shareAs": "http://www.edamam.com/recipe/grilled-salmon-3c4d5e6f7g8h9i0j1k2l",
+            "source": "Serious Eats",
+            "totalNutrients": {
+              "ENERC_KCAL": {
+                "label": "Energy",
+                "quantity": 380.0,
+                "unit": "kcal"
+              },
+              "FAMS": {
+                "label": "Monounsaturated fat",
+                "quantity": 8.0,
+                "unit": "g"
+              },
+              "FASAT": {
+                "label": "Saturated fat",
+                "quantity": 4.5,
+                "unit": "g"
+              },
+              "FAT": {
+                "label": "Fat",
+                "quantity": 22.0,
+                "unit": "g"
+              },
+              "FATRN": {
+                "label": "Trans fat",
+                "quantity": 0.0,
+                "unit": "g"
+              }
+            },
+            "totalTime": 25.0,
+            "totalWeight": 422.5,
+            "uri": "http://www.edamam.com/recipe/grilled-salmon-3c4d5e6f7g8h9i0j1k2l",
+            "url": "https://www.seriouseats.com/grilled-salmon-teriyaki",
+            "yield": 2.0
+          }
+        }
+      ],
+      "more": false,
+      "q": "grilled salmon",
+      "to": 1
+    }
+  },
+  "{\"q\":\"pasta carbonara\",\"r\":\"diet=high-protein\"}": {
+    "error": "",
+    "response": {
+      "count": 2,
+      "from": 0,
+      "hits": [
+        {
+          "recipe": {
+            "calories": 650.0,
+            "cautions": [
+              "Eggs"
+            ],
+            "cuisineType": [
+              "Italian"
+            ],
+            "dietLabels": [
+              "High-Protein"
+            ],
+            "dishType": [
+              "Main course"
+            ],
+            "healthLabels": [
+              "Sugar-Conscious",
+              "Peanut-Free",
+              "Tree-Nut-Free"
+            ],
+            "image": "https://www.edamam.com/web-img/1a2b3c4d5e6f7g8h9i0j.jpg",
+            "ingredientLines": [
+              "1 pound spaghetti",
+              "4 large eggs",
+              "1 cup grated Parmesan",
+              "8 slices bacon",
+              "2 cloves garlic",
+              "Salt and black pepper"
+            ],
+            "ingredients": [
+              {
+                "foodCategory": "pasta",
+                "foodId": "food_abc123",
+                "image": "https://www.edamam.com/food-img/abc123.jpg",
+                "text": "1 pound spaghetti",
+                "weight": 453.6
+              },
+              {
+                "foodCategory": "eggs",
+                "foodId": "food_def456",
+                "image": "https://www.edamam.com/food-img/def456.jpg",
+                "text": "4 large eggs",
+                "weight": 200.0
+              },
+              {
+                "foodCategory": "cheese",
+                "foodId": "food_ghi789",
+                "image": "https://www.edamam.com/food-img/ghi789.jpg",
+                "text": "1 cup grated Parmesan",
+                "weight": 100.0
+              },
+              {
+                "foodCategory": "pork",
+                "foodId": "food_jkl012",
+                "image": "https://www.edamam.com/food-img/jkl012.jpg",
+                "text": "8 slices bacon",
+                "weight": 120.0
+              },
+              {
+                "foodCategory": "vegetables",
+                "foodId": "food_mno345",
+                "image": "https://www.edamam.com/food-img/mno345.jpg",
+                "text": "2 cloves garlic",
+                "weight": 6.0
+              },
+              {
+                "foodCategory": "condiments",
+                "foodId": "food_pqr678",
+                "image": "https://www.edamam.com/food-img/pqr678.jpg",
+                "text": "Salt and black pepper",
+                "weight": 3.0
+              }
+            ],
+            "label": "Classic Pasta Carbonara",
+            "mealType": [
+              "Dinner"
+            ],
+            "shareAs": "http://www.edamam.com/recipe/pasta-carbonara-1a2b3c4d5e6f7g8h9i0j",
+            "source": "Bon Appetit",
+            "totalNutrients": {
+              "ENERC_KCAL": {
+                "label": "Energy",
+                "quantity": 650.0,
+                "unit": "kcal"
+              },
+              "FAMS": {
+                "label": "Monounsaturated fat",
+                "quantity": 9.8,
+                "unit": "g"
+              },
+              "FASAT": {
+                "label": "Saturated fat",
+                "quantity": 10.2,
+                "unit": "g"
+              },
+              "FAT": {
+                "label": "Fat",
+                "quantity": 28.5,
+                "unit": "g"
+              },
+              "FATRN": {
+                "label": "Trans fat",
+                "quantity": 0.1,
+                "unit": "g"
+              }
+            },
+            "totalTime": 30.0,
+            "totalWeight": 882.6,
+            "uri": "http://www.edamam.com/recipe/pasta-carbonara-1a2b3c4d5e6f7g8h9i0j",
+            "url": "http://www.bonappetit.com/recipe/pasta-carbonara",
+            "yield": 4.0
+          }
+        }
+      ],
+      "more": true,
+      "q": "pasta carbonara",
+      "to": 2
+    }
+  },
+  "{\"q\":\"vegan chocolate cake\",\"r\":\"health=vegan\"}": {
+    "error": "",
+    "response": {
+      "count": 1,
+      "from": 0,
+      "hits": [
+        {
+          "recipe": {
+            "calories": 420.0,
+            "cautions": [
+              "Soy"
+            ],
+            "cuisineType": [
+              "American"
+            ],
+            "dietLabels": [
+              "Vegan"
+            ],
+            "dishType": [
+              "Cake"
+            ],
+            "healthLabels": [
+              "Vegan",
+              "Vegetarian",
+              "Dairy-Free"
+            ],
+            "image": "https://www.edamam.com/web-img/2b3c4d5e6f7g8h9i0j1k.jpg",
+            "ingredientLines": [
+              "1 1/2 cups all-purpose flour",
+              "1 cup almond milk",
+              "3/4 cup cocoa powder",
+              "1 cup sugar",
+              "1/2 cup coconut oil",
+              "1 tsp baking soda",
+              "1 tsp vanilla extract"
+            ],
+            "ingredients": [
+              {
+                "foodCategory": "flour",
+                "foodId": "food_flr123",
+                "image": "https://www.edamam.com/food-img/flr123.jpg",
+                "text": "1 1/2 cups all-purpose flour",
+                "weight": 187.5
+              },
+              {
+                "foodCategory": "plant milk",
+                "foodId": "food_alm456",
+                "image": "https://www.edamam.com/food-img/alm456.jpg",
+                "text": "1 cup almond milk",
+                "weight": 240.0
+              },
+              {
+                "foodCategory": "baking",
+                "foodId": "food_coc789",
+                "image": "https://www.edamam.com/food-img/coc789.jpg",
+                "text": "3/4 cup cocoa powder",
+                "weight": 90.0
+              },
+              {
+                "foodCategory": "sweeteners",
+                "foodId": "food_sug012",
+                "image": "https://www.edamam.com/food-img/sug012.jpg",
+                "text": "1 cup sugar",
+                "weight": 200.0
+              },
+              {
+                "foodCategory": "oils",
+                "foodId": "food_coc345",
+                "image": "https://www.edamam.com/food-img/coc345.jpg",
+                "text": "1/2 cup coconut oil",
+                "weight": 108.0
+              },
+              {
+                "foodCategory": "leavening",
+                "foodId": "food_bak678",
+                "image": "https://www.edamam.com/food-img/bak678.jpg",
+                "text": "1 tsp baking soda",
+                "weight": 4.6
+              },
+              {
+                "foodCategory": "flavoring",
+                "foodId": "food_van901",
+                "image": "https://www.edamam.com/food-img/van901.jpg",
+                "text": "1 tsp vanilla extract",
+                "weight": 4.2
+              }
+            ],
+            "label": "Vegan Chocolate Cake",
+            "mealType": [
+              "Dessert"
+            ],
+            "shareAs": "http://www.edamam.com/recipe/vegan-chocolate-cake-2b3c4d5e6f7g8h9i0j1k",
+            "source": "Minimalist Baker",
+            "totalNutrients": {
+              "ENERC_KCAL": {
+                "label": "Energy",
+                "quantity": 420.0,
+                "unit": "kcal"
+              },
+              "FAMS": {
+                "label": "Monounsaturated fat",
+                "quantity": 3.5,
+                "unit": "g"
+              },
+              "FASAT": {
+                "label": "Saturated fat",
+                "quantity": 12.0,
+                "unit": "g"
+              },
+              "FAT": {
+                "label": "Fat",
+                "quantity": 18.0,
+                "unit": "g"
+              },
+              "FATRN": {
+                "label": "Trans fat",
+                "quantity": 0.0,
+                "unit": "g"
+              }
+            },
+            "totalTime": 45.0,
+            "totalWeight": 834.3,
+            "uri": "http://www.edamam.com/recipe/vegan-chocolate-cake-2b3c4d5e6f7g8h9i0j1k",
+            "url": "https://minimalistbaker.com/vegan-chocolate-cake",
+            "yield": 8.0
+          }
+        }
+      ],
+      "more": false,
+      "q": "vegan chocolate cake",
+      "to": 1
+    }
+  }
+}

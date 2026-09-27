@@ -1,0 +1,26 @@
+{
+  "{\"newspaperid\":\"allafrica\"}": {
+    "error": "",
+    "response": {
+      "source": "allafrica",
+      "title": "Kenya's Plastic Ban Cuts Pollution in Nairobi River",
+      "url": "https://allafrica.com/stories/202305120145.html"
+    }
+  },
+  "{\"newspaperid\":\"mailandguardian\"}": {
+    "error": "",
+    "response": {
+      "source": "mailandguardian",
+      "title": "South Africa's Coal Mines Leave Toxic Legacy in Mpumalanga",
+      "url": "https://mg.co.za/environment/2023-06-08-south-africas-coal-mines-leave-toxic-legacy-in-mpumalanga/"
+    }
+  },
+  "{\"newspaperid\":\"premiumtimesng\"}": {
+    "error": "",
+    "response": {
+      "source": "premiumtimesng",
+      "title": "Lagos Residents Battle Air Pollution as Illegal Dumpsites Multiply",
+      "url": "https://www.premiumtimesng.com/news/headlines/601234-lagos-residents-battle-air-pollution-as-illegal-dumpsites-multiply.html"
+    }
+  }
+}

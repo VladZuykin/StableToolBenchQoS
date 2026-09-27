@@ -1,0 +1,35 @@
+{
+  "{\"client_id\":\"dc_cli_44d1e8a0\",\"email\":\"mike.tyson+news@example.org\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2024-06-12T09:05:44Z",
+      "email": "mike.tyson+news@example.org",
+      "id": "usr_2b7e5a1f83",
+      "providers": [],
+      "status": "pending_verification",
+      "verified": false
+    }
+  },
+  "{\"client_id\":\"dc_cli_7c0b3f92\",\"email\":\"laura.palmer@example.net\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2024-06-13T18:47:12Z",
+      "email": "laura.palmer@example.net",
+      "id": "usr_5d9c4e0a71",
+      "providers": [],
+      "status": "pending_verification",
+      "verified": false
+    }
+  },
+  "{\"client_id\":\"dc_cli_9f3a2b7c\",\"email\":\"sarah.connor@example.com\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2024-06-11T14:23:07Z",
+      "email": "sarah.connor@example.com",
+      "id": "usr_8f2a1c9d4e",
+      "providers": [],
+      "status": "pending_verification",
+      "verified": false
+    }
+  }
+}

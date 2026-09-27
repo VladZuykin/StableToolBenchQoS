@@ -1,0 +1,34 @@
+{
+  "{\"is_id\":\"123456789012\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "Admin": 2500,
+        "Daya": "1300 VA",
+        "Denda": 5000,
+        "Periode": "FEBRUARI 2024",
+        "Tagihan": 342750,
+        "meter_number": "123456789012",
+        "stand_meter": "00456789-00457234",
+        "subscriber_name": "SITI RAHAYU"
+      },
+      "success": true
+    }
+  },
+  "{\"is_id\":\"532411286263\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "Admin": 2500,
+        "Daya": "900 VA",
+        "Denda": 0,
+        "Periode": "JANUARI 2024",
+        "Tagihan": 187500,
+        "meter_number": "532411286263",
+        "stand_meter": "00123456-00123987",
+        "subscriber_name": "BUDI SANTOSO"
+      },
+      "success": true
+    }
+  }
+}

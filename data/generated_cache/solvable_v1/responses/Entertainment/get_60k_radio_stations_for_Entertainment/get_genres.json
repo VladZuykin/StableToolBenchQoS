@@ -1,0 +1,56 @@
+{
+  "{\"keyword\":\"jazz\"}": {
+    "error": "",
+    "response": {
+      "genres": [
+        {
+          "id": "jazz",
+          "name": "Jazz"
+        },
+        {
+          "id": "smooth-jazz",
+          "name": "Smooth Jazz"
+        },
+        {
+          "id": "bebop",
+          "name": "Bebop"
+        },
+        {
+          "id": "swing",
+          "name": "Swing"
+        },
+        {
+          "id": "fusion",
+          "name": "Jazz Fusion"
+        }
+      ]
+    }
+  },
+  "{\"keyword\":\"rock\"}": {
+    "error": "",
+    "response": {
+      "genres": [
+        {
+          "id": "rock",
+          "name": "Rock"
+        },
+        {
+          "id": "classic-rock",
+          "name": "Classic Rock"
+        },
+        {
+          "id": "hard-rock",
+          "name": "Hard Rock"
+        },
+        {
+          "id": "indie-rock",
+          "name": "Indie Rock"
+        },
+        {
+          "id": "alternative-rock",
+          "name": "Alternative Rock"
+        }
+      ]
+    }
+  }
+}

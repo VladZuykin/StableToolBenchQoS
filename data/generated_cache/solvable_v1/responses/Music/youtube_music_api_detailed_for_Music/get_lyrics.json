@@ -1,0 +1,16 @@
+{
+  "{\"browse_id\":\"MPLYt_ZXONnvFeQpN\"}": {
+    "error": "",
+    "response": {
+      "lyrics": "[Verse 1]\nWalking through the neon glow\nEvery step a story I don't know\n[Chorus]\nHold on tight, we're moving on\nTill the break of dawn",
+      "source": "Musixmatch"
+    }
+  },
+  "{\"browse_id\":\"MPTRt_9XkLmQwErTz\"}": {
+    "error": "",
+    "response": {
+      "lyrics": null,
+      "source": null
+    }
+  }
+}

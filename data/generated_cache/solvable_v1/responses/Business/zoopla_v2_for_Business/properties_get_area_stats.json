@@ -1,0 +1,53 @@
+{
+  "{\"listing_id\":48291037}": {
+    "error": "",
+    "response": {
+      "area_stats": {
+        "amenities_score": 6.5,
+        "average_price": 289500,
+        "average_rent": 1100,
+        "crime_rate": 3.1,
+        "median_price": 275000,
+        "number_of_sales": 94,
+        "population": 9870,
+        "price_per_sqft": 260,
+        "rent_yield": 4.6,
+        "school_rating": 3.8
+      }
+    }
+  },
+  "{\"listing_id\":56354192}": {
+    "error": "",
+    "response": {
+      "area_stats": {
+        "amenities_score": 7.8,
+        "average_price": 425000,
+        "average_rent": 1450,
+        "crime_rate": 2.3,
+        "median_price": 410000,
+        "number_of_sales": 128,
+        "population": 15230,
+        "price_per_sqft": 385,
+        "rent_yield": 4.1,
+        "school_rating": 4.2
+      }
+    }
+  },
+  "{\"listing_id\":71045628}": {
+    "error": "",
+    "response": {
+      "area_stats": {
+        "amenities_score": 8.9,
+        "average_price": 612000,
+        "average_rent": 2100,
+        "crime_rate": 1.8,
+        "median_price": 598000,
+        "number_of_sales": 57,
+        "population": 22140,
+        "price_per_sqft": 540,
+        "rent_yield": 4.1,
+        "school_rating": 4.6
+      }
+    }
+  }
+}

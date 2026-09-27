@@ -1,0 +1,71 @@
+{
+  "{\"user_id\":\"alice_98765\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/study?user_id=alice_98765",
+      "messages": "Study session generated for user alice_98765.",
+      "parameters": [
+        {
+          "name": "user_id",
+          "value": "alice_98765"
+        }
+      ],
+      "response": [
+        {
+          "answer": "Paris",
+          "difficulty": "easy",
+          "item_id": "itm_001",
+          "next_review": "2024-07-01T09:00:00Z",
+          "question": "What is the capital of France?"
+        },
+        {
+          "answer": "56",
+          "difficulty": "medium",
+          "item_id": "itm_002",
+          "next_review": "2024-07-02T09:00:00Z",
+          "question": "What is 7 x 8?"
+        },
+        {
+          "answer": "William Shakespeare",
+          "difficulty": "hard",
+          "item_id": "itm_003",
+          "next_review": "2024-07-03T09:00:00Z",
+          "question": "Who wrote 'Hamlet'?"
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"user_id\":\"bob_learner_42\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/study?user_id=bob_learner_42",
+      "messages": "Study session generated for user bob_learner_42.",
+      "parameters": [
+        {
+          "name": "user_id",
+          "value": "bob_learner_42"
+        }
+      ],
+      "response": [
+        {
+          "answer": "H2O",
+          "difficulty": "easy",
+          "item_id": "itm_101",
+          "next_review": "2024-07-01T12:00:00Z",
+          "question": "What is the chemical symbol for water?"
+        },
+        {
+          "answer": "2x",
+          "difficulty": "medium",
+          "item_id": "itm_102",
+          "next_review": "2024-07-04T12:00:00Z",
+          "question": "What is the derivative of x^2?"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

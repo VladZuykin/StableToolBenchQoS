@@ -1,0 +1,32 @@
+{
+  "{\"api_index\":false,\"wkn\":\"519000\"}": {
+    "error": "",
+    "response": {
+      "country": "United States",
+      "currency": "USD",
+      "indizes": "Dow Jones",
+      "isin": "US0378331005",
+      "lastbalanceupdate": "2023-09-30",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "shareuid": "AAPL_US0378331005",
+      "shortname": "Apple",
+      "wkn": "519000"
+    }
+  },
+  "{\"api_index\":true,\"wkn\":\"716460\"}": {
+    "error": "",
+    "response": {
+      "country": "Germany",
+      "currency": "EUR",
+      "indizes": "DAX",
+      "isin": "DE0007164600",
+      "lastbalanceupdate": "2023-12-31",
+      "name": "SAP SE",
+      "sector": "Information Technology",
+      "shareuid": "SAP_DE0007164600",
+      "shortname": "SAP",
+      "wkn": "716460"
+    }
+  }
+}

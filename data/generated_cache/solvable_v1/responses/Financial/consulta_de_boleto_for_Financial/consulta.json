@@ -1,0 +1,36 @@
+{
+  "{\"is_id\":\"00190500954014481606906809350314337370000000100\"}": {
+    "error": "",
+    "response": {
+      "banco_emissor": "Banco do Brasil S.A.",
+      "beneficiario": {
+        "documento": "987.654.321-00",
+        "nome": "João da Silva"
+      },
+      "codigo_banco": "001",
+      "data_pagamento": null,
+      "linha_digitavel": "00190500954014481606906809350314337370000000100",
+      "status": "nao_pago",
+      "valor": 350.0,
+      "valor_pago": null,
+      "vencimento": "2024-06-30"
+    }
+  },
+  "{\"is_id\":\"34191790010104351004791020150008291070026000\"}": {
+    "error": "",
+    "response": {
+      "banco_emissor": "Banco Itaú S.A.",
+      "beneficiario": {
+        "documento": "12.345.678/0001-90",
+        "nome": "Empresa Exemplo LTDA"
+      },
+      "codigo_banco": "341",
+      "data_pagamento": "2024-03-10",
+      "linha_digitavel": "34191790010104351004791020150008291070026000",
+      "status": "pago",
+      "valor": 1250.75,
+      "valor_pago": 1250.75,
+      "vencimento": "2024-03-15"
+    }
+  }
+}

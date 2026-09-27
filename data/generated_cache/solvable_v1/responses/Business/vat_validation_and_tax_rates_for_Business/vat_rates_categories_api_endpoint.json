@@ -1,0 +1,20 @@
+{
+  "{\"country_code\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "category": "standard",
+      "country_code": "FR",
+      "description": "Standard VAT rate applicable to most goods and services in France.",
+      "rate": "20.0"
+    }
+  },
+  "{\"country_code\":\"NL\"}": {
+    "error": "",
+    "response": {
+      "category": "reduced",
+      "country_code": "NL",
+      "description": "Reduced VAT rate for food, books, and certain other goods in the Netherlands.",
+      "rate": "9.0"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "{\"date\":\"04/24/2022 09:00 AM\",\"securityname\":\"Cardano\"}": {
+    "error": "",
+    "response": {
+      "dataTimeStamp": "04/24/2022 09:00 AM",
+      "followers": 920000,
+      "followersChange": -2.4,
+      "mentions": 1580,
+      "mentionsChange": 6.9,
+      "securityName": "Cardano",
+      "securityTicker": "ADA",
+      "sentiment": 47.8,
+      "sentimentChange": -3.5,
+      "timeFrame": "1D",
+      "weightedSentiment": 45.1,
+      "weightedSentimentChange": -6.8
+    }
+  },
+  "{\"date\":\"04/25/2022 03:00 PM\",\"securityname\":\"Ethereum\",\"timeframe\":\"1h\"}": {
+    "error": "",
+    "response": {
+      "dataTimeStamp": "04/25/2022 03:00 PM",
+      "followers": 1845000,
+      "followersChange": 12.3,
+      "mentions": 3420,
+      "mentionsChange": -4.1,
+      "securityName": "Ethereum",
+      "securityTicker": "ETH",
+      "sentiment": 62.4,
+      "sentimentChange": 8.7,
+      "timeFrame": "1h",
+      "weightedSentiment": 58.9,
+      "weightedSentimentChange": 5.2
+    }
+  }
+}

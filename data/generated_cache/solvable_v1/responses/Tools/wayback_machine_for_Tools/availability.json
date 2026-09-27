@@ -1,0 +1,47 @@
+{
+  "{\"callback\":\"handleWayback\",\"timestamp\":\"20200101120000\",\"url\":\"https://www.wikipedia.org\"}": {
+    "error": "",
+    "response": {
+      "archived_snapshots": {
+        "closest": {
+          "available": true,
+          "status": "200",
+          "timestamp": "20200101120000",
+          "url": "http://web.archive.org/web/20200101120000/https://www.wikipedia.org"
+        }
+      },
+      "timestamp": "20200101120000",
+      "url": "https://www.wikipedia.org"
+    }
+  },
+  "{\"timestamp\":\"20150101\",\"url\":\"http://example.com\"}": {
+    "error": "",
+    "response": {
+      "archived_snapshots": {
+        "closest": {
+          "available": true,
+          "status": "200",
+          "timestamp": "20150101000000",
+          "url": "http://web.archive.org/web/20150101000000/http://example.com"
+        }
+      },
+      "timestamp": "20150101000000",
+      "url": "http://example.com"
+    }
+  },
+  "{\"url\":\"http://nonexistent-domain-xyz123.com\"}": {
+    "error": "",
+    "response": {
+      "archived_snapshots": {
+        "closest": {
+          "available": false,
+          "status": "404",
+          "timestamp": "",
+          "url": ""
+        }
+      },
+      "timestamp": "",
+      "url": "http://nonexistent-domain-xyz123.com"
+    }
+  }
+}

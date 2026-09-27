@@ -1,0 +1,117 @@
+{
+  "{\"accessible_home\":true,\"air_conditioning\":true,\"cats_allowed\":true,\"dogs_allowed\":true,\"elevator\":true,\"home_type\":\"Apartment\",\"keyword_search\":\"balcony modern\",\"max_num_beds\":3,\"max_price\":3200,\"max_sqft\":1600,\"max_stories\":5,\"min_num_beds\":2,\"min_price\":1800,\"min_sqft\":900,\"min_stories\":1,\"num_baths\":2,\"pets_allowed\":true,\"region_id\":211,\"region_type\":2,\"search_type\":\"ForRent\",\"sort\":\"Newest\",\"washer_dryer_hookup\":true}": {
+    "error": "",
+    "response": {
+      "data": {
+        "region_id": 211,
+        "region_type": 2,
+        "results": [
+          {
+            "address": "77 Pine St Unit 12B, Seattle, WA 98101",
+            "baths": 2,
+            "beds": 2,
+            "days_on_market": 5,
+            "features": [
+              "dogs_allowed",
+              "cats_allowed",
+              "washer_dryer_hookup",
+              "elevator",
+              "accessible_home",
+              "air_conditioning",
+              "balcony"
+            ],
+            "home_type": "Apartment",
+            "listing_id": "RFD-55902117",
+            "price": 2650,
+            "price_per_sqft": 2.25,
+            "sqft": 1180,
+            "status": "active",
+            "stories": 3
+          },
+          {
+            "address": "410 Union Ave Unit 8F, Seattle, WA 98101",
+            "baths": 2,
+            "beds": 2,
+            "days_on_market": 9,
+            "features": [
+              "dogs_allowed",
+              "cats_allowed",
+              "washer_dryer_hookup",
+              "elevator",
+              "air_conditioning",
+              "balcony"
+            ],
+            "home_type": "Apartment",
+            "listing_id": "RFD-55902118",
+            "price": 1995,
+            "price_per_sqft": 2.08,
+            "sqft": 960,
+            "status": "active",
+            "stories": 5
+          }
+        ],
+        "search_type": "ForRent",
+        "total_results": 64
+      },
+      "message": "Search completed successfully",
+      "status": true
+    }
+  },
+  "{\"air_conditioning\":true,\"financing_type\":\"Conventional\",\"fireplace\":true,\"garage_spots\":\"2\",\"has_view\":true,\"hoa_feets\":150,\"home_type\":\"House, Townhouse\",\"keyword_search\":\"renovated kitchen\",\"max_num_beds\":5,\"max_price\":850000,\"max_sqft\":3000,\"max_year_built\":2020,\"min_num_beds\":3,\"min_price\":450000,\"min_sqft\":1500,\"min_year_built\":1990,\"num_baths\":2.5,\"pool_types\":\"Private\",\"property_tax\":5000,\"region_id\":30772,\"region_type\":6,\"search_type\":\"ForSale\",\"sort\":\"Recommended\",\"status\":\"active,comingsoon\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "region_id": 30772,
+        "region_type": 6,
+        "results": [
+          {
+            "address": "1428 Maple Grove Ave, Austin, TX 78704",
+            "baths": 2.5,
+            "beds": 4,
+            "days_on_market": 12,
+            "features": [
+              "air_conditioning",
+              "fireplace",
+              "has_view",
+              "private_pool",
+              "garage_2"
+            ],
+            "hoa_fee": 150,
+            "home_type": "House",
+            "listing_id": "RFD-88213401",
+            "price": 675000,
+            "price_per_sqft": 288,
+            "property_tax": 5000,
+            "sqft": 2340,
+            "status": "active",
+            "year_built": 2005
+          },
+          {
+            "address": "905 Barton Hills Dr, Austin, TX 78704",
+            "baths": 2.5,
+            "beds": 3,
+            "days_on_market": 3,
+            "features": [
+              "air_conditioning",
+              "fireplace",
+              "garage_2"
+            ],
+            "hoa_fee": 150,
+            "home_type": "Townhouse",
+            "listing_id": "RFD-88213402",
+            "price": 549000,
+            "price_per_sqft": 308,
+            "property_tax": 5000,
+            "sqft": 1780,
+            "status": "comingsoon",
+            "year_built": 1998
+          }
+        ],
+        "search_type": "ForSale",
+        "total_results": 128
+      },
+      "message": "Search completed successfully",
+      "status": true
+    }
+  }
+}

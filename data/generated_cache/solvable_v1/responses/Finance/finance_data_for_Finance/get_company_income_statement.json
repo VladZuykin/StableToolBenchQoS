@@ -1,0 +1,278 @@
+{
+  "{\"symbol\":\"aapl\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "costOfGoodsSold": {
+          "dates": [
+            {
+              "date": "2023-09-30",
+              "value": 214137000000
+            },
+            {
+              "date": "2022-09-30",
+              "value": 223546000000
+            }
+          ],
+          "fiveYrChage": 0.38,
+          "isMain": true,
+          "tenYrChange": 1.1,
+          "twoYrChange": 0.08
+        },
+        "format": "annual",
+        "grossProfit": {
+          "dates": [
+            {
+              "date": "2023-09-30",
+              "value": 169148000000
+            },
+            {
+              "date": "2022-09-30",
+              "value": 170782000000
+            }
+          ],
+          "fiveYrChage": 0.52,
+          "isMain": true,
+          "tenYrChange": 1.3,
+          "twoYrChange": 0.15
+        },
+        "id": "income_statement_aapl",
+        "operatingExpenses": {
+          "dates": [
+            {
+              "date": "2023-09-30",
+              "value": 54847000000
+            },
+            {
+              "date": "2022-09-30",
+              "value": 51345000000
+            }
+          ],
+          "fiveYrChage": 0.32,
+          "isMain": true,
+          "tenYrChange": 0.95,
+          "twoYrChange": 0.06
+        },
+        "otherOperatingIncomeOrExpenses": null,
+        "researchAndDevelopmentExpenses": null,
+        "revenue": {
+          "dates": [
+            {
+              "date": "2023-09-30",
+              "value": 383285000000
+            },
+            {
+              "date": "2022-09-30",
+              "value": 394328000000
+            }
+          ],
+          "fiveYrChage": 0.45,
+          "isMain": true,
+          "tenYrChange": 1.2,
+          "twoYrChange": 0.12
+        },
+        "sgAndAExpenses": {
+          "dates": [
+            {
+              "date": "2023-09-30",
+              "value": 24932000000
+            },
+            {
+              "date": "2022-09-30",
+              "value": 25094000000
+            }
+          ],
+          "fiveYrChage": 0.3,
+          "isMain": true,
+          "tenYrChange": 0.9,
+          "twoYrChange": 0.05
+        },
+        "symbol": "aapl"
+      }
+    }
+  },
+  "{\"symbol\":\"msft\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "costOfGoodsSold": {
+          "dates": [
+            {
+              "date": "2023-06-30",
+              "value": 65863000000
+            },
+            {
+              "date": "2022-06-30",
+              "value": 62650000000
+            }
+          ],
+          "fiveYrChage": 0.4,
+          "isMain": true,
+          "tenYrChange": 1.0,
+          "twoYrChange": 0.1
+        },
+        "format": "annual",
+        "grossProfit": {
+          "dates": [
+            {
+              "date": "2023-06-30",
+              "value": 146052000000
+            },
+            {
+              "date": "2022-06-30",
+              "value": 135620000000
+            }
+          ],
+          "fiveYrChage": 0.65,
+          "isMain": true,
+          "tenYrChange": 1.6,
+          "twoYrChange": 0.2
+        },
+        "id": "income_statement_msft",
+        "operatingExpenses": {
+          "dates": [
+            {
+              "date": "2023-06-30",
+              "value": 54793000000
+            },
+            {
+              "date": "2022-06-30",
+              "value": 52237000000
+            }
+          ],
+          "fiveYrChage": 0.42,
+          "isMain": true,
+          "tenYrChange": 1.1,
+          "twoYrChange": 0.09
+        },
+        "otherOperatingIncomeOrExpenses": null,
+        "researchAndDevelopmentExpenses": null,
+        "revenue": {
+          "dates": [
+            {
+              "date": "2023-06-30",
+              "value": 211915000000
+            },
+            {
+              "date": "2022-06-30",
+              "value": 198270000000
+            }
+          ],
+          "fiveYrChage": 0.6,
+          "isMain": true,
+          "tenYrChange": 1.5,
+          "twoYrChange": 0.18
+        },
+        "sgAndAExpenses": {
+          "dates": [
+            {
+              "date": "2023-06-30",
+              "value": 29282000000
+            },
+            {
+              "date": "2022-06-30",
+              "value": 27361000000
+            }
+          ],
+          "fiveYrChage": 0.35,
+          "isMain": true,
+          "tenYrChange": 0.85,
+          "twoYrChange": 0.07
+        },
+        "symbol": "msft"
+      }
+    }
+  },
+  "{\"symbol\":\"tsla\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "costOfGoodsSold": {
+          "dates": [
+            {
+              "date": "2023-12-31",
+              "value": 79113000000
+            },
+            {
+              "date": "2022-12-31",
+              "value": 60609000000
+            }
+          ],
+          "fiveYrChage": 1.5,
+          "isMain": true,
+          "tenYrChange": 3.8,
+          "twoYrChange": 0.3
+        },
+        "format": "annual",
+        "grossProfit": {
+          "dates": [
+            {
+              "date": "2023-12-31",
+              "value": 17660000000
+            },
+            {
+              "date": "2022-12-31",
+              "value": 20853000000
+            }
+          ],
+          "fiveYrChage": 2.2,
+          "isMain": true,
+          "tenYrChange": 5.5,
+          "twoYrChange": 0.4
+        },
+        "id": "income_statement_tsla",
+        "operatingExpenses": {
+          "dates": [
+            {
+              "date": "2023-12-31",
+              "value": 8769000000
+            },
+            {
+              "date": "2022-12-31",
+              "value": 7247000000
+            }
+          ],
+          "fiveYrChage": 1.4,
+          "isMain": true,
+          "tenYrChange": 3.5,
+          "twoYrChange": 0.28
+        },
+        "otherOperatingIncomeOrExpenses": null,
+        "researchAndDevelopmentExpenses": null,
+        "revenue": {
+          "dates": [
+            {
+              "date": "2023-12-31",
+              "value": 96773000000
+            },
+            {
+              "date": "2022-12-31",
+              "value": 81462000000
+            }
+          ],
+          "fiveYrChage": 1.8,
+          "isMain": true,
+          "tenYrChange": 4.5,
+          "twoYrChange": 0.35
+        },
+        "sgAndAExpenses": {
+          "dates": [
+            {
+              "date": "2023-12-31",
+              "value": 4800000000
+            },
+            {
+              "date": "2022-12-31",
+              "value": 3900000000
+            }
+          ],
+          "fiveYrChage": 1.2,
+          "isMain": true,
+          "tenYrChange": 3.0,
+          "twoYrChange": 0.25
+        },
+        "symbol": "tsla"
+      }
+    }
+  }
+}

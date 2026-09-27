@@ -1,0 +1,13 @@
+{
+  "{\"phone\":34655719560,\"token\":\"demo_token_1\"}": {
+    "error": "",
+    "response": {
+      "address": "Calle Mayor 45, 28013 Madrid, Spain",
+      "business_hours": "Mon-Sun 13:00-16:00, 20:00-23:30",
+      "category": "Restaurant",
+      "description": "We are a family-run Spanish restaurant serving traditional tapas and paella since 1998.",
+      "email": "info@latascaexample.es",
+      "website": "https://www.latascaexample.es"
+    }
+  }
+}

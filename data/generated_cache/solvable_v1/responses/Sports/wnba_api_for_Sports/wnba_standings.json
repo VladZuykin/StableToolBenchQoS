@@ -1,0 +1,185 @@
+{
+  "{\"group\":\"conference\",\"year\":\"2023\"}": {
+    "error": "",
+    "response": {
+      "sports": [
+        {
+          "id": "3",
+          "leagues": [
+            {
+              "abbreviation": "WNBA",
+              "id": "8",
+              "name": "Women's National Basketball Association",
+              "season": {
+                "displayName": "2023 WNBA Season",
+                "year": 2023
+              },
+              "shortName": "WNBA",
+              "slug": "wnba",
+              "teams": [
+                {
+                  "team": {
+                    "abbreviation": "NYL",
+                    "alternateColor": "000000",
+                    "color": "6ECEB2",
+                    "displayName": "New York Liberty",
+                    "id": "5",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "New York",
+                    "name": "Liberty",
+                    "nickname": "Liberty",
+                    "slug": "new-york-liberty",
+                    "uid": "s:3~l:8~t:5"
+                  }
+                },
+                {
+                  "team": {
+                    "abbreviation": "LVA",
+                    "alternateColor": "BA0C2F",
+                    "color": "000000",
+                    "displayName": "Las Vegas Aces",
+                    "id": "9",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "Las Vegas",
+                    "name": "Aces",
+                    "nickname": "Aces",
+                    "slug": "las-vegas-aces",
+                    "uid": "s:3~l:8~t:9"
+                  }
+                }
+              ],
+              "uid": "s:3~l:8"
+            }
+          ],
+          "name": "Basketball",
+          "slug": "basketball",
+          "uid": "s:3"
+        }
+      ]
+    }
+  },
+  "{\"group\":\"league\",\"year\":\"2024\"}": {
+    "error": "",
+    "response": {
+      "sports": [
+        {
+          "id": "3",
+          "leagues": [
+            {
+              "abbreviation": "WNBA",
+              "id": "8",
+              "name": "Women's National Basketball Association",
+              "season": {
+                "displayName": "2024 WNBA Season",
+                "year": 2024
+              },
+              "shortName": "WNBA",
+              "slug": "wnba",
+              "teams": [
+                {
+                  "team": {
+                    "abbreviation": "IND",
+                    "alternateColor": "FFBB00",
+                    "color": "E03A3E",
+                    "displayName": "Indiana Fever",
+                    "id": "20",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "Indiana",
+                    "name": "Fever",
+                    "nickname": "Fever",
+                    "slug": "indiana-fever",
+                    "uid": "s:3~l:8~t:20"
+                  }
+                },
+                {
+                  "team": {
+                    "abbreviation": "MIN",
+                    "alternateColor": "78BE20",
+                    "color": "236192",
+                    "displayName": "Minnesota Lynx",
+                    "id": "17",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "Minnesota",
+                    "name": "Lynx",
+                    "nickname": "Lynx",
+                    "slug": "minnesota-lynx",
+                    "uid": "s:3~l:8~t:17"
+                  }
+                }
+              ],
+              "uid": "s:3~l:8"
+            }
+          ],
+          "name": "Basketball",
+          "slug": "basketball",
+          "uid": "s:3"
+        }
+      ]
+    }
+  },
+  "{\"year\":\"2021\"}": {
+    "error": "",
+    "response": {
+      "sports": [
+        {
+          "id": "3",
+          "leagues": [
+            {
+              "abbreviation": "WNBA",
+              "id": "8",
+              "name": "Women's National Basketball Association",
+              "season": {
+                "displayName": "2021 WNBA Season",
+                "year": 2021
+              },
+              "shortName": "WNBA",
+              "slug": "wnba",
+              "teams": [
+                {
+                  "team": {
+                    "abbreviation": "CHI",
+                    "alternateColor": "FFCD00",
+                    "color": "5091CD",
+                    "displayName": "Chicago Sky",
+                    "id": "3",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "Chicago",
+                    "name": "Sky",
+                    "nickname": "Sky",
+                    "slug": "chicago-sky",
+                    "uid": "s:3~l:8~t:3"
+                  }
+                },
+                {
+                  "team": {
+                    "abbreviation": "PHO",
+                    "alternateColor": "201747",
+                    "color": "CB6015",
+                    "displayName": "Phoenix Mercury",
+                    "id": "16",
+                    "isActive": true,
+                    "isAllStar": false,
+                    "location": "Phoenix",
+                    "name": "Mercury",
+                    "nickname": "Mercury",
+                    "slug": "phoenix-mercury",
+                    "uid": "s:3~l:8~t:16"
+                  }
+                }
+              ],
+              "uid": "s:3~l:8"
+            }
+          ],
+          "name": "Basketball",
+          "slug": "basketball",
+          "uid": "s:3"
+        }
+      ]
+    }
+  }
+}

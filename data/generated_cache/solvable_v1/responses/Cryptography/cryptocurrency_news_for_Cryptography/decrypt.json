@@ -1,0 +1,33 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 58,
+          "createdAt": "2024-06-12T14:32:00Z",
+          "description": "Bitcoin surged past $70,000 today as institutional inflows into spot ETFs hit a record weekly high, signaling renewed confidence in the crypto market.",
+          "thumbnail": "https://decrypt.co/wp-content/uploads/2024/06/bitcoin-surge-thumbnail.jpg",
+          "title": "Bitcoin Breaks $70K as ETF Inflows Reach Record High",
+          "url": "https://decrypt.co/234567/bitcoin-breaks-70k-etf-inflows-record-high"
+        },
+        {
+          "_list_length": 58,
+          "createdAt": "2024-06-12T11:05:00Z",
+          "description": "Ethereum's long-awaited Dencun upgrade has dramatically reduced layer-2 transaction fees, with some rollups seeing costs drop by over 90%.",
+          "thumbnail": "https://decrypt.co/wp-content/uploads/2024/06/ethereum-dencun-thumbnail.jpg",
+          "title": "Ethereum Dencun Upgrade Slashes Layer-2 Fees by 90%",
+          "url": "https://decrypt.co/234512/ethereum-dencun-upgrade-slashes-layer-2-fees"
+        },
+        {
+          "_list_length": 58,
+          "createdAt": "2024-06-12T08:47:00Z",
+          "description": "Solana-based DeFi protocol raises $50 million in a Series B round led by prominent venture firms to expand its cross-chain infrastructure.",
+          "thumbnail": "https://decrypt.co/wp-content/uploads/2024/06/solana-defi-thumbnail.jpg",
+          "title": "Solana DeFi Protocol Secures $50M in Series B Funding",
+          "url": "https://decrypt.co/234498/solana-defi-protocol-secures-50m-series-b"
+        }
+      ]
+    }
+  }
+}

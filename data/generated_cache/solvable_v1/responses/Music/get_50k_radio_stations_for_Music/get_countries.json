@@ -1,0 +1,68 @@
+{
+  "{\"keyword\":\"\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "name": "Indonesia",
+          "station_count": 5230
+        },
+        {
+          "name": "United States",
+          "station_count": 8421
+        },
+        {
+          "name": "Brazil",
+          "station_count": 4102
+        },
+        {
+          "name": "India",
+          "station_count": 3877
+        },
+        {
+          "name": "Germany",
+          "station_count": 2980
+        },
+        {
+          "name": "France",
+          "station_count": 2654
+        },
+        {
+          "name": "Japan",
+          "station_count": 2210
+        },
+        {
+          "name": "Australia",
+          "station_count": 1980
+        },
+        {
+          "name": "Canada",
+          "station_count": 1875
+        },
+        {
+          "name": "Mexico",
+          "station_count": 1640
+        }
+      ]
+    }
+  },
+  "{\"keyword\":\"United States\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "name": "United States",
+          "station_count": 8421
+        },
+        {
+          "name": "United Kingdom",
+          "station_count": 3120
+        },
+        {
+          "name": "United Arab Emirates",
+          "station_count": 412
+        }
+      ]
+    }
+  }
+}

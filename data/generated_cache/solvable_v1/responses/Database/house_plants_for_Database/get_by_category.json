@@ -1,0 +1,66 @@
+{
+  "{\"category\":\"fern\"}": {
+    "error": "",
+    "response": {
+      "category": "fern",
+      "climate": "tropical",
+      "common": [
+        "Boston Fern"
+      ],
+      "diseases": "leaf spot",
+      "family": "Nephrolepidaceae",
+      "id": 27,
+      "ideallight": "bright indirect",
+      "insects": [
+        "spider mites",
+        "whiteflies",
+        "thrips"
+      ],
+      "latin": "Nephrolepis exaltata",
+      "origin": "Central America",
+      "tempmax": {
+        "celsius": 24,
+        "fahrenheit": 75
+      },
+      "tempmin": {
+        "celsius": 16,
+        "fahrenheit": 61
+      },
+      "toleratedlight": "partial shade",
+      "use": "ornamental",
+      "watering": "frequently"
+    }
+  },
+  "{\"category\":\"succulent\"}": {
+    "error": "",
+    "response": {
+      "category": "succulent",
+      "climate": "arid",
+      "common": [
+        "Aloe Vera"
+      ],
+      "diseases": "root rot",
+      "family": "Asphodelaceae",
+      "id": 12,
+      "ideallight": "bright indirect",
+      "insects": [
+        "mealybugs",
+        "scale",
+        "aphids"
+      ],
+      "latin": "Aloe barbadensis miller",
+      "origin": "Arabian Peninsula",
+      "tempmax": {
+        "celsius": 27,
+        "fahrenheit": 81
+      },
+      "tempmin": {
+        "celsius": 13,
+        "fahrenheit": 55
+      },
+      "toleratedlight": "direct sun",
+      "use": "medicinal",
+      "watering": "sparingly"
+    }
+  }
+}

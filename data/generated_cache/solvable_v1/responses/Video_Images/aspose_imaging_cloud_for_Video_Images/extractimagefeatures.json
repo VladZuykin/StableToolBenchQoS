@@ -1,0 +1,124 @@
+{
+  "{\"folder\":\"/assets/branding\",\"imageid\":\"logo_transparent.png\",\"searchcontextid\":\"ctx_2d9e4f7a\",\"storage\":\"MyCloudStorage\"}": {
+    "error": "",
+    "response": {
+      "featureCount": 7,
+      "features": [
+        {
+          "name": "dominantColor",
+          "value": "#FFFFFF"
+        },
+        {
+          "name": "width",
+          "value": 512
+        },
+        {
+          "name": "height",
+          "value": 512
+        },
+        {
+          "name": "aspectRatio",
+          "value": 1.0
+        },
+        {
+          "name": "format",
+          "value": "PNG"
+        },
+        {
+          "name": "hasAlphaChannel",
+          "value": true
+        },
+        {
+          "name": "transparencyRatio",
+          "value": 0.34
+        }
+      ],
+      "folder": "/assets/branding",
+      "imageId": "logo_transparent.png",
+      "searchContextId": "ctx_2d9e4f7a",
+      "storage": "MyCloudStorage"
+    }
+  },
+  "{\"folder\":\"/scans/2024\",\"imageid\":\"scan_document_001.tiff\",\"searchcontextid\":\"ctx_5c1b8e2d\",\"storage\":\"DefaultStorage\"}": {
+    "error": "",
+    "response": {
+      "featureCount": 7,
+      "features": [
+        {
+          "name": "dominantColor",
+          "value": "#E8E8E8"
+        },
+        {
+          "name": "width",
+          "value": 2480
+        },
+        {
+          "name": "height",
+          "value": 3508
+        },
+        {
+          "name": "aspectRatio",
+          "value": 0.7071
+        },
+        {
+          "name": "format",
+          "value": "TIFF"
+        },
+        {
+          "name": "brightness",
+          "value": 0.91
+        },
+        {
+          "name": "contrast",
+          "value": 0.12
+        },
+        {
+          "name": "isGrayscale",
+          "value": true
+        }
+      ],
+      "folder": "/scans/2024",
+      "imageId": "scan_document_001.tiff",
+      "searchContextId": "ctx_5c1b8e2d",
+      "storage": "DefaultStorage"
+    }
+  },
+  "{\"imageid\":\"photo_2024_summer.jpg\",\"searchcontextid\":\"ctx_8f3a2b1c\"}": {
+    "error": "",
+    "response": {
+      "featureCount": 7,
+      "features": [
+        {
+          "name": "dominantColor",
+          "value": "#3A7BD5"
+        },
+        {
+          "name": "width",
+          "value": 1920
+        },
+        {
+          "name": "height",
+          "value": 1080
+        },
+        {
+          "name": "aspectRatio",
+          "value": 1.7778
+        },
+        {
+          "name": "format",
+          "value": "JPEG"
+        },
+        {
+          "name": "brightness",
+          "value": 0.62
+        },
+        {
+          "name": "contrast",
+          "value": 0.48
+        }
+      ],
+      "imageId": "photo_2024_summer.jpg",
+      "searchContextId": "ctx_8f3a2b1c"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "{\"contact_id\":10245}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": 0,
+        "extras": [],
+        "message": ""
+      }
+    }
+  },
+  "{\"contact_id\":55012}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": 0,
+        "extras": [],
+        "message": ""
+      }
+    }
+  },
+  "{\"contact_id\":87301}": {
+    "error": "",
+    "response": {
+      "error": {
+        "code": 0,
+        "extras": [],
+        "message": ""
+      }
+    }
+  }
+}

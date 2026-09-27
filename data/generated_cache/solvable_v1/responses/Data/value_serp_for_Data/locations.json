@@ -1,0 +1,373 @@
+{
+  "{\"country_code\":\"jp\",\"limit\":\"5\",\"q\":\"Tokyo\",\"type\":\"city\"}": {
+    "error": "",
+    "response": {
+      "locations": [
+        {
+          "country_code": "jp",
+          "full_name": "Tokyo, Japan",
+          "id": "1001",
+          "latitude": 35.6895,
+          "longitude": 139.6917,
+          "name": "Tokyo",
+          "parent_id": "2001",
+          "type": "city"
+        },
+        {
+          "country_code": "jp",
+          "full_name": "Shibuya, Tokyo, Japan",
+          "id": "1002",
+          "latitude": 35.664,
+          "longitude": 139.6982,
+          "name": "Shibuya",
+          "parent_id": "1001",
+          "type": "neighborhood"
+        },
+        {
+          "country_code": "jp",
+          "full_name": "Shinjuku, Tokyo, Japan",
+          "id": "1003",
+          "latitude": 35.6938,
+          "longitude": 139.7036,
+          "name": "Shinjuku",
+          "parent_id": "1001",
+          "type": "neighborhood"
+        },
+        {
+          "country_code": "jp",
+          "full_name": "Minato, Tokyo, Japan",
+          "id": "1004",
+          "latitude": 35.6581,
+          "longitude": 139.7514,
+          "name": "Minato",
+          "parent_id": "1001",
+          "type": "neighborhood"
+        },
+        {
+          "country_code": "jp",
+          "full_name": "Taito, Tokyo, Japan",
+          "id": "1005",
+          "latitude": 35.7126,
+          "longitude": 139.7799,
+          "name": "Taito",
+          "parent_id": "1001",
+          "type": "neighborhood"
+        }
+      ]
+    }
+  },
+  "{\"limit\":\"10\",\"page\":\"0\",\"parent_id\":\"5001\",\"q\":\"Sydney\"}": {
+    "error": "",
+    "response": {
+      "locations": [
+        {
+          "country_code": "au",
+          "full_name": "Sydney, New South Wales, Australia",
+          "id": "6001",
+          "latitude": -33.8688,
+          "longitude": 151.2093,
+          "name": "Sydney",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Parramatta, New South Wales, Australia",
+          "id": "6002",
+          "latitude": -33.8147,
+          "longitude": 151.0011,
+          "name": "Parramatta",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Newcastle, New South Wales, Australia",
+          "id": "6003",
+          "latitude": -32.9283,
+          "longitude": 151.7817,
+          "name": "Newcastle",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Wollongong, New South Wales, Australia",
+          "id": "6004",
+          "latitude": -34.4278,
+          "longitude": 150.8931,
+          "name": "Wollongong",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Central Coast, New South Wales, Australia",
+          "id": "6005",
+          "latitude": -33.4267,
+          "longitude": 151.3417,
+          "name": "Central Coast",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Maitland, New South Wales, Australia",
+          "id": "6006",
+          "latitude": -32.7333,
+          "longitude": 151.55,
+          "name": "Maitland",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Wagga Wagga, New South Wales, Australia",
+          "id": "6007",
+          "latitude": -35.1082,
+          "longitude": 147.3598,
+          "name": "Wagga Wagga",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Albury, New South Wales, Australia",
+          "id": "6008",
+          "latitude": -36.0737,
+          "longitude": 146.9135,
+          "name": "Albury",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Port Macquarie, New South Wales, Australia",
+          "id": "6009",
+          "latitude": -31.4333,
+          "longitude": 152.9,
+          "name": "Port Macquarie",
+          "parent_id": "5001",
+          "type": "city"
+        },
+        {
+          "country_code": "au",
+          "full_name": "Tamworth, New South Wales, Australia",
+          "id": "6010",
+          "latitude": -31.0833,
+          "longitude": 150.9333,
+          "name": "Tamworth",
+          "parent_id": "5001",
+          "type": "city"
+        }
+      ]
+    }
+  },
+  "{\"limit\":\"20\",\"page\":\"1\",\"q\":\"Berlin\",\"type\":\"state\"}": {
+    "error": "",
+    "response": {
+      "locations": [
+        {
+          "country_code": "de",
+          "full_name": "Berlin, Germany",
+          "id": "3001",
+          "latitude": 52.52,
+          "longitude": 13.405,
+          "name": "Berlin",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Brandenburg, Germany",
+          "id": "3002",
+          "latitude": 52.4125,
+          "longitude": 12.5316,
+          "name": "Brandenburg",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Saxony, Germany",
+          "id": "3003",
+          "latitude": 51.1045,
+          "longitude": 13.2017,
+          "name": "Saxony",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Bavaria, Germany",
+          "id": "3004",
+          "latitude": 48.7904,
+          "longitude": 11.4979,
+          "name": "Bavaria",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Hesse, Germany",
+          "id": "3005",
+          "latitude": 50.652,
+          "longitude": 9.1624,
+          "name": "Hesse",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "North Rhine-Westphalia, Germany",
+          "id": "3006",
+          "latitude": 51.4332,
+          "longitude": 7.6616,
+          "name": "North Rhine-Westphalia",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Lower Saxony, Germany",
+          "id": "3007",
+          "latitude": 52.6367,
+          "longitude": 9.8451,
+          "name": "Lower Saxony",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Rhineland-Palatinate, Germany",
+          "id": "3008",
+          "latitude": 49.9127,
+          "longitude": 7.4497,
+          "name": "Rhineland-Palatinate",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Baden-Württemberg, Germany",
+          "id": "3009",
+          "latitude": 48.6616,
+          "longitude": 9.3501,
+          "name": "Baden-Württemberg",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Schleswig-Holstein, Germany",
+          "id": "3010",
+          "latitude": 54.2194,
+          "longitude": 9.6961,
+          "name": "Schleswig-Holstein",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Mecklenburg-Vorpommern, Germany",
+          "id": "3011",
+          "latitude": 53.6127,
+          "longitude": 12.4296,
+          "name": "Mecklenburg-Vorpommern",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Saxony-Anhalt, Germany",
+          "id": "3012",
+          "latitude": 51.9503,
+          "longitude": 11.6925,
+          "name": "Saxony-Anhalt",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Thuringia, Germany",
+          "id": "3013",
+          "latitude": 50.9127,
+          "longitude": 11.0299,
+          "name": "Thuringia",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Hamburg, Germany",
+          "id": "3014",
+          "latitude": 53.5511,
+          "longitude": 9.9937,
+          "name": "Hamburg",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Bremen, Germany",
+          "id": "3015",
+          "latitude": 53.0793,
+          "longitude": 8.8017,
+          "name": "Bremen",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Saarland, Germany",
+          "id": "3016",
+          "latitude": 49.3964,
+          "longitude": 7.0229,
+          "name": "Saarland",
+          "parent_id": "4001",
+          "type": "state"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Berlin, Germany",
+          "id": "3017",
+          "latitude": 52.52,
+          "longitude": 13.405,
+          "name": "Berlin",
+          "parent_id": "3001",
+          "type": "city"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Potsdam, Brandenburg, Germany",
+          "id": "3018",
+          "latitude": 52.3906,
+          "longitude": 13.0645,
+          "name": "Potsdam",
+          "parent_id": "3002",
+          "type": "city"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Dresden, Saxony, Germany",
+          "id": "3019",
+          "latitude": 51.0504,
+          "longitude": 13.7373,
+          "name": "Dresden",
+          "parent_id": "3003",
+          "type": "city"
+        },
+        {
+          "country_code": "de",
+          "full_name": "Munich, Bavaria, Germany",
+          "id": "3020",
+          "latitude": 48.1351,
+          "longitude": 11.582,
+          "name": "Munich",
+          "parent_id": "3004",
+          "type": "city"
+        }
+      ]
+    }
+  }
+}

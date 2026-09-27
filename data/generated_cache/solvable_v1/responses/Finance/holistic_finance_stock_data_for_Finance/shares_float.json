@@ -1,0 +1,22 @@
+{
+  "{\"symbol\":\"NVDA\"}": {
+    "error": "",
+    "response": {
+      "date": "2024-06-14",
+      "floatShares": 2310000000,
+      "freeFloat": 93.12,
+      "outstandingShares": 2460000000,
+      "symbol": "NVDA"
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "date": "2024-06-14",
+      "floatShares": 2785000000,
+      "freeFloat": 82.34,
+      "outstandingShares": 3185000000,
+      "symbol": "TSLA"
+    }
+  }
+}

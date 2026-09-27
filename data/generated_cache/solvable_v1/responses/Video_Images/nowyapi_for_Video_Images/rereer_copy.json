@@ -1,0 +1,9 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "info": "Service is running normally",
+      "messages": "Welcome to the henAPI endpoint. No parameters were required for this request."
+    }
+  }
+}

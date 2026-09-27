@@ -1,0 +1,23 @@
+{
+  "{\"apikey\":\"demo_apikey_1\",\"format\":\"json\",\"message\":\"Big sale this weekend! Get 50% off on all items.\",\"sender\":\"SEDEMO\",\"to\":919876543210}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "status": true
+    }
+  },
+  "{\"apikey\":\"demo_apikey_2\",\"format\":\"json\",\"message\":\"Flash deal: Buy 1 Get 1 free today only!\",\"sender\":\"SEDEMO\",\"to\":447700900123}": {
+    "error": "",
+    "response": {
+      "error": "Invalid recipient number",
+      "status": false
+    }
+  },
+  "{\"apikey\":\"demo_apikey_3\",\"format\":\"xml\",\"message\":\"Your exclusive promo code is SPRING20. Valid till Friday.\",\"sender\":\"SEDEMO\",\"to\":14155552671}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "status": true
+    }
+  }
+}

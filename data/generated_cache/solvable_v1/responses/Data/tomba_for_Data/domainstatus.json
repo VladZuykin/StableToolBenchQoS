@@ -1,0 +1,52 @@
+{
+  "{\"domain\":\"gmail.com\"}": {
+    "error": "",
+    "response": {
+      "email": {
+        "accept_all": null,
+        "block": null,
+        "disposable": false,
+        "email": "",
+        "gibberish": false,
+        "mx_records": true,
+        "regex": false,
+        "result": "webmail",
+        "score": 0,
+        "smtp_check": true,
+        "smtp_server": "gmail-smtp-in.l.google.com",
+        "status": "valid",
+        "webmail": true
+      },
+      "sources": []
+    }
+  },
+  "{\"email\":\"jane.doe@tempmail.org\"}": {
+    "error": "",
+    "response": {
+      "email": {
+        "accept_all": null,
+        "block": null,
+        "disposable": true,
+        "email": "jane.doe@tempmail.org",
+        "gibberish": false,
+        "mx_records": true,
+        "regex": true,
+        "result": "disposable",
+        "score": 95,
+        "smtp_check": true,
+        "smtp_server": "mx.tempmail.org",
+        "status": "valid",
+        "webmail": false
+      },
+      "sources": [
+        {
+          "extracted_on": "2024-03-11T08:22:14Z",
+          "last_seen_on": "2024-06-02T17:45:09Z",
+          "still_on_page": true,
+          "uri": "https://www.tempmail.org/domains",
+          "website_url": "https://www.tempmail.org"
+        }
+      ]
+    }
+  }
+}

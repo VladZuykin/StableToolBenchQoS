@@ -1,0 +1,35 @@
+{
+  "{\"pdfid\":\"pdf_2a6b9f\",\"textid\":\"txt_44e8c0\"}": {
+    "error": "",
+    "response": {
+      "fontSize": 12.5,
+      "id": "txt_44e8c0",
+      "pageNum": 1,
+      "text": "The contractor shall deliver all materials no later than June 30.",
+      "x": 100.0,
+      "y": 720.0
+    }
+  },
+  "{\"pdfid\":\"pdf_5e0f83\",\"textid\":\"txt_b17d5a\"}": {
+    "error": "",
+    "response": {
+      "fontSize": 9.5,
+      "id": "txt_b17d5a",
+      "pageNum": 7,
+      "text": "Figure 2: Distribution of sample measurements across regions.",
+      "x": 210.75,
+      "y": 95.5
+    }
+  },
+  "{\"pdfid\":\"pdf_7c1d4e\",\"textid\":\"txt_9f3a2b\"}": {
+    "error": "",
+    "response": {
+      "fontSize": 11.0,
+      "id": "txt_9f3a2b",
+      "pageNum": 3,
+      "text": "Quarterly revenue increased by 12% year over year.",
+      "x": 72.5,
+      "y": 540.25
+    }
+  }
+}

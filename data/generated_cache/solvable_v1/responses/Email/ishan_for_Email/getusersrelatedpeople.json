@@ -1,0 +1,20 @@
+{
+  "{\"users_username\":\"users('alice.wong')\"}": {
+    "error": "",
+    "response": {
+      "message": "Related people for alice.wong: bob.chen, david.kim"
+    }
+  },
+  "{\"users_username\":\"users('john.doe')\"}": {
+    "error": "",
+    "response": {
+      "message": "Related people for john.doe: jane.smith, mike.jones, sarah.lee"
+    }
+  },
+  "{\"users_username\":\"users('maria.garcia')\"}": {
+    "error": "",
+    "response": {
+      "message": "Related people for maria.garcia: carlos.ruiz, elena.torres, pablo.diaz, lucia.fernandez"
+    }
+  }
+}

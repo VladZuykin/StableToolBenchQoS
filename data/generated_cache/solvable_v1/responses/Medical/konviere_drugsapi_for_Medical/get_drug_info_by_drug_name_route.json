@@ -1,0 +1,56 @@
+{
+  "{\"api_key\":\"demo_api_key_1\",\"drgnm\":\"Tylenol\",\"drgrte\":\"ORAL\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "brand_name": "Tylenol",
+          "dosage_form": "TABLET, FILM COATED",
+          "generic_name": "Acetaminophen",
+          "manufacturer": "McNeil Consumer Healthcare",
+          "ndc": "50580-450-10",
+          "product_type": "HUMAN OTC DRUG",
+          "route": "ORAL",
+          "strength": "500 mg"
+        }
+      ],
+      "message": "Drug information retrieved successfully"
+    }
+  },
+  "{\"api_key\":\"demo_api_key_2\",\"drgnm\":\"Lipitor\",\"drgrte\":\"ORAL\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "brand_name": "Lipitor",
+          "dosage_form": "TABLET, FILM COATED",
+          "generic_name": "Atorvastatin Calcium",
+          "manufacturer": "Pfizer Laboratories Div Pfizer Inc",
+          "ndc": "0071-0156-23",
+          "product_type": "HUMAN PRESCRIPTION DRUG",
+          "route": "ORAL",
+          "strength": "20 mg/1"
+        }
+      ],
+      "message": "Drug information retrieved successfully"
+    }
+  },
+  "{\"api_key\":\"demo_api_key_3\",\"drgnm\":\"Albuterol Sulfate\",\"drgrte\":\"RESPIRATORY (INHALATION)\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "brand_name": "Albuterol Sulfate",
+          "dosage_form": "AEROSOL, METERED",
+          "generic_name": "Albuterol Sulfate",
+          "manufacturer": "Mylan Pharmaceuticals Inc.",
+          "ndc": "0378-6130-83",
+          "product_type": "HUMAN PRESCRIPTION DRUG",
+          "route": "RESPIRATORY (INHALATION)",
+          "strength": "90 ug/1"
+        }
+      ],
+      "message": "Drug information retrieved successfully"
+    }
+  }
+}

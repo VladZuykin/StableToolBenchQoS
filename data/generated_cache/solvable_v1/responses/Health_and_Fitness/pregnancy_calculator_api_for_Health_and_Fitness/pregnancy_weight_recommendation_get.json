@@ -1,0 +1,68 @@
+{
+  "{\"gestational_age\":12,\"height\":1.62,\"pre_pregnancy_weight\":55}": {
+    "error": "",
+    "response": {
+      "bmi": 20.96,
+      "bmi_category": "Normal weight",
+      "gestational_age_weeks": 12,
+      "height_m": 1.62,
+      "pre_pregnancy_weight_kg": 55,
+      "recommended_current_weight_kg": {
+        "max": 58.2,
+        "min": 57.3
+      },
+      "recommended_gain_so_far_kg": {
+        "max": 3.2,
+        "min": 2.3
+      },
+      "recommended_total_gain_kg": {
+        "max": 16,
+        "min": 11.5
+      }
+    }
+  },
+  "{\"gestational_age\":28,\"height\":1.7,\"pre_pregnancy_weight\":78}": {
+    "error": "",
+    "response": {
+      "bmi": 26.99,
+      "bmi_category": "Overweight",
+      "gestational_age_weeks": 28,
+      "height_m": 1.7,
+      "pre_pregnancy_weight_kg": 78,
+      "recommended_current_weight_kg": {
+        "max": 87.2,
+        "min": 83.6
+      },
+      "recommended_gain_so_far_kg": {
+        "max": 9.2,
+        "min": 5.6
+      },
+      "recommended_total_gain_kg": {
+        "max": 11.5,
+        "min": 7
+      }
+    }
+  },
+  "{\"gestational_age\":35,\"height\":1.58,\"pre_pregnancy_weight\":48}": {
+    "error": "",
+    "response": {
+      "bmi": 19.23,
+      "bmi_category": "Normal weight",
+      "gestational_age_weeks": 35,
+      "height_m": 1.58,
+      "pre_pregnancy_weight_kg": 48,
+      "recommended_current_weight_kg": {
+        "max": 62,
+        "min": 58.1
+      },
+      "recommended_gain_so_far_kg": {
+        "max": 14,
+        "min": 10.1
+      },
+      "recommended_total_gain_kg": {
+        "max": 16,
+        "min": 11.5
+      }
+    }
+  }
+}

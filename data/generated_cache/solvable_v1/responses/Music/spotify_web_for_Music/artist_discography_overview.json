@@ -1,0 +1,27 @@
+{
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "albums": {
+              "totalCount": 7
+            },
+            "compilations": {
+              "totalCount": 2
+            },
+            "singles": {
+              "totalCount": 31
+            }
+          },
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "profile": {
+            "name": "The Weeknd"
+          },
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      }
+    }
+  }
+}

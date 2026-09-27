@@ -1,0 +1,56 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "news": [
+        {
+          "category": "Premier League",
+          "id": "nws_001",
+          "published_at": "2025-04-12T21:45:00Z",
+          "source": "World Football Live",
+          "summary": "Erling Haaland scored twice as Manchester City beat Arsenal 3-2 in a pulsating Premier League encounter.",
+          "title": "Manchester City edge Arsenal in five-goal thriller at the Etihad",
+          "url": "https://example.com/news/man-city-arsenal-3-2"
+        },
+        {
+          "category": "Transfers",
+          "id": "nws_002",
+          "published_at": "2025-04-12T18:10:00Z",
+          "source": "World Football Live",
+          "summary": "The Brazilian winger has signed a new deal keeping him at the Santiago Bernabeu until 2030.",
+          "title": "Real Madrid confirm contract extension for Vinicius Junior",
+          "url": "https://example.com/news/vinicius-extension"
+        },
+        {
+          "category": "Copa del Rey",
+          "id": "nws_003",
+          "published_at": "2025-04-12T16:30:00Z",
+          "source": "World Football Live",
+          "summary": "Neither side could find a breakthrough in a tense first leg at the Metropolitano.",
+          "title": "Barcelona and Atletico play out goalless draw in Copa del Rey semi-final first leg",
+          "url": "https://example.com/news/barca-atletico-0-0"
+        },
+        {
+          "category": "Africa Cup of Nations",
+          "id": "nws_004",
+          "published_at": "2025-04-12T14:05:00Z",
+          "source": "World Football Live",
+          "summary": "Ademola Lookman struck in the 89th minute to send the Super Eagles through.",
+          "title": "Nigeria qualify for AFCON 2025 after late winner against Libya",
+          "url": "https://example.com/news/nigeria-libya-afcon"
+        },
+        {
+          "category": "Bundesliga",
+          "id": "nws_005",
+          "published_at": "2025-04-12T12:20:00Z",
+          "source": "World Football Live",
+          "summary": "A 1-1 draw with RB Leipzig leaves Bayern just two points clear at the top.",
+          "title": "Bayern Munich drop points in Bundesliga title race",
+          "url": "https://example.com/news/bayern-leipzig-1-1"
+        }
+      ],
+      "total": 5,
+      "updated_at": "2025-04-12T22:00:00Z"
+    }
+  }
+}

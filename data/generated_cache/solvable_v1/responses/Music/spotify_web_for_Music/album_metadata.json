@@ -1,0 +1,302 @@
+{
+  "{\"is_id\":\"1DFixLWuPkv3KT3TnV35uz\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "album": {
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Dua Lipa"
+                },
+                "sharingInfo": {
+                  "shareUrl": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                },
+                "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebabcdef1234567890",
+                        "width": 640
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "2020 Dua Lipa Limited under exclusive license to Warner Records UK",
+                "type": "C"
+              }
+            ],
+            "totalCount": 1
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorRaw": {
+                "hex": "#8B0000"
+              }
+            },
+            "sources": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273abcdef1234567890",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "isoString": "2020-03-27T00:00:00Z",
+            "precision": "DAY"
+          },
+          "discs": {
+            "items": [
+              {
+                "number": 1,
+                "tracks": {
+                  "totalCount": 11
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "label": "Warner Records",
+          "name": "Future Nostalgia",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "releases": {
+            "items": [],
+            "totalCount": 0
+          },
+          "tracks": {
+            "items": [
+              {
+                "track": {
+                  "duration": {
+                    "totalMilliseconds": 203000
+                  },
+                  "playability": {
+                    "playable": true,
+                    "reason": "PLAYABLE"
+                  }
+                }
+              }
+            ],
+            "totalCount": 11
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:1DFixLWuPkv3KT3TnV35uz"
+        }
+      }
+    }
+  },
+  "{\"is_id\":\"4aawyAB9vmqN3uQ7FjRGTy\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "album": {
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Daft Punk"
+                },
+                "sharingInfo": {
+                  "shareUrl": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                },
+                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1234567890abcdef",
+                        "width": 640
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "2013 Daft Life Limited under exclusive license to Columbia Records",
+                "type": "C"
+              }
+            ],
+            "totalCount": 1
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorRaw": {
+                "hex": "#1e3264"
+              }
+            },
+            "sources": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731234567890abcdef",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "isoString": "2013-05-17T00:00:00Z",
+            "precision": "DAY"
+          },
+          "discs": {
+            "items": [
+              {
+                "number": 1,
+                "tracks": {
+                  "totalCount": 13
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "label": "Columbia",
+          "name": "Random Access Memories",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "releases": {
+            "items": [],
+            "totalCount": 0
+          },
+          "tracks": {
+            "items": [
+              {
+                "track": {
+                  "duration": {
+                    "totalMilliseconds": 320000
+                  },
+                  "playability": {
+                    "playable": true,
+                    "reason": "PLAYABLE"
+                  }
+                }
+              }
+            ],
+            "totalCount": 13
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:4aawyAB9vmqN3uQ7FjRGTy"
+        }
+      }
+    }
+  },
+  "{\"is_id\":\"6JWc4iAiJ9FjyK0B59ABb4\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "album": {
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Billie Eilish"
+                },
+                "sharingInfo": {
+                  "shareUrl": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                },
+                "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb0987654321fedcba",
+                        "width": 640
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "2019 Darkroom/Interscope Records",
+                "type": "C"
+              }
+            ],
+            "totalCount": 1
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorRaw": {
+                "hex": "#2E8B57"
+              }
+            },
+            "sources": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730987654321fedcba",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "isoString": "2019-03-29T00:00:00Z",
+            "precision": "DAY"
+          },
+          "discs": {
+            "items": [
+              {
+                "number": 1,
+                "tracks": {
+                  "totalCount": 14
+                }
+              }
+            ],
+            "totalCount": 1
+          },
+          "label": "Darkroom/Interscope Records",
+          "name": "When We All Fall Asleep, Where Do We Go?",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "releases": {
+            "items": [],
+            "totalCount": 0
+          },
+          "tracks": {
+            "items": [
+              {
+                "track": {
+                  "duration": {
+                    "totalMilliseconds": 194000
+                  },
+                  "playability": {
+                    "playable": true,
+                    "reason": "PLAYABLE"
+                  }
+                }
+              }
+            ],
+            "totalCount": 14
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6JWc4iAiJ9FjyK0B59ABb4"
+        }
+      }
+    }
+  }
+}

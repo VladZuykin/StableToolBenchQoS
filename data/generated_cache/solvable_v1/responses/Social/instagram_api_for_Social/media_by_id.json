@@ -1,0 +1,20 @@
+{
+  "{\"is_id\":\"17895695668004550\"}": {
+    "error": "",
+    "response": {
+      "message": "Media fetched successfully"
+    }
+  },
+  "{\"is_id\":\"98765432109876543\"}": {
+    "error": "",
+    "response": {
+      "message": "Media found"
+    }
+  },
+  "{\"is_id\":\"CxYz12345Ab\"}": {
+    "error": "",
+    "response": {
+      "message": "Media details retrieved"
+    }
+  }
+}

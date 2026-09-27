@@ -1,0 +1,65 @@
+{
+  "{\"cmd\":\"bsa\",\"orig\":\"DUBL\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "bsa": [
+          {
+            "description": {
+              "#cdata": "No delays reported at this station."
+            },
+            "station": "DUBL"
+          }
+        ],
+        "date": "2024-06-12",
+        "message": "",
+        "time": "07:03:00 AM PDT",
+        "uri": {
+          "#cdata": "http://api.bart.gov/api/bsa.aspx?cmd=bsa&orig=DUBL"
+        }
+      }
+    }
+  },
+  "{\"cmd\":\"bsa\",\"orig\":\"EMBR\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "bsa": [
+          {
+            "description": {
+              "#cdata": "No delays reported at this station."
+            },
+            "station": "EMBR"
+          }
+        ],
+        "date": "2024-06-11",
+        "message": "",
+        "time": "08:15:00 AM PDT",
+        "uri": {
+          "#cdata": "http://api.bart.gov/api/bsa.aspx?cmd=bsa&orig=EMBR"
+        }
+      }
+    }
+  },
+  "{\"cmd\":\"bsa\",\"orig\":\"MONT\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "bsa": [
+          {
+            "description": {
+              "#cdata": "10-minute delay due to a police activity at Montgomery St."
+            },
+            "station": "MONT"
+          }
+        ],
+        "date": "2024-06-11",
+        "message": "",
+        "time": "05:42:00 PM PDT",
+        "uri": {
+          "#cdata": "http://api.bart.gov/api/bsa.aspx?cmd=bsa&orig=MONT"
+        }
+      }
+    }
+  }
+}

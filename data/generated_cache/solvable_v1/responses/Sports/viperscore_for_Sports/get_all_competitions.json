@@ -1,0 +1,80 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "competitions": [
+        {
+          "country": "USA",
+          "id": 1,
+          "is_top": true,
+          "name": "NFL",
+          "sport": "American Football"
+        },
+        {
+          "country": "England",
+          "id": 2,
+          "is_top": true,
+          "name": "Premier League",
+          "sport": "Soccer"
+        },
+        {
+          "country": "USA",
+          "id": 3,
+          "is_top": true,
+          "name": "NBA",
+          "sport": "Basketball"
+        },
+        {
+          "country": "Spain",
+          "id": 4,
+          "is_top": true,
+          "name": "La Liga",
+          "sport": "Soccer"
+        },
+        {
+          "country": "Italy",
+          "id": 5,
+          "is_top": false,
+          "name": "Serie A",
+          "sport": "Soccer"
+        },
+        {
+          "country": "Germany",
+          "id": 6,
+          "is_top": false,
+          "name": "Bundesliga",
+          "sport": "Soccer"
+        },
+        {
+          "country": "France",
+          "id": 7,
+          "is_top": false,
+          "name": "Ligue 1",
+          "sport": "Soccer"
+        },
+        {
+          "country": "USA",
+          "id": 8,
+          "is_top": false,
+          "name": "MLB",
+          "sport": "Baseball"
+        },
+        {
+          "country": "USA",
+          "id": 9,
+          "is_top": false,
+          "name": "NHL",
+          "sport": "Ice Hockey"
+        },
+        {
+          "country": "International",
+          "id": 10,
+          "is_top": false,
+          "name": "ATP Tour",
+          "sport": "Tennis"
+        }
+      ],
+      "message": "success"
+    }
+  }
+}

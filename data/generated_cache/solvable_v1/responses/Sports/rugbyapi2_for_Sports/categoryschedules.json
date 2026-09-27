@@ -1,0 +1,137 @@
+{
+  "{\"day\":3,\"is_id\":83,\"month\":3,\"year\":2023}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "awayScore": {
+            "current": 24,
+            "display": 24,
+            "period1": 10,
+            "period2": 14
+          },
+          "awayTeam": {
+            "country": {
+              "alpha2": "FR",
+              "alpha3": "FRA",
+              "name": "France"
+            },
+            "gender": "M",
+            "id": 4481,
+            "name": "Stade Toulousain",
+            "nameCode": "TOU",
+            "national": false,
+            "shortName": "Toulouse",
+            "slug": "stade-toulousain",
+            "sport": {
+              "id": 12,
+              "name": "Rugby Union",
+              "slug": "rugby-union"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#E30613",
+              "text": "#FFFFFF"
+            },
+            "type": 0,
+            "userCount": 18432
+          },
+          "changes": {
+            "changeTimestamp": 1677859200,
+            "changes": [
+              "lineups",
+              "score",
+              "period",
+              "comment",
+              "status"
+            ]
+          },
+          "crowdsourcingDataDisplayEnabled": false,
+          "customId": "rugby-2023-03-03-tou-lar",
+          "finalResultOnly": false,
+          "hasGlobalHighlights": true,
+          "homeScore": {
+            "current": 31,
+            "display": 31,
+            "period1": 17,
+            "period2": 14
+          },
+          "homeTeam": {
+            "country": {
+              "alpha2": "FR",
+              "alpha3": "FRA",
+              "name": "France"
+            },
+            "gender": "M",
+            "id": 4479,
+            "name": "Stade Rochelais",
+            "nameCode": "LAR",
+            "national": false,
+            "shortName": "La Rochelle",
+            "slug": "stade-rochelais",
+            "sport": {
+              "id": 12,
+              "name": "Rugby Union",
+              "slug": "rugby-union"
+            },
+            "subTeams": [],
+            "teamColors": {
+              "primary": "#FFD700",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "type": 0,
+            "userCount": 15987
+          },
+          "id": 11893452,
+          "roundInfo": {
+            "round": 18
+          },
+          "startTimestamp": 1677859200,
+          "status": {
+            "code": 100,
+            "description": "Ended",
+            "type": "finished"
+          },
+          "time": {
+            "currentPeriodStartTimestamp": 1677866400,
+            "initial": 0,
+            "max": 80,
+            "period1": 2400,
+            "period2": 2400
+          },
+          "tournament": {
+            "category": {
+              "id": 83,
+              "name": "France",
+              "slug": "france",
+              "sport": {
+                "id": 12,
+                "name": "Rugby Union",
+                "slug": "rugby-union"
+              }
+            },
+            "id": 1,
+            "name": "Top 14",
+            "priority": 1,
+            "slug": "top-14",
+            "uniqueTournament": true
+          },
+          "venue": {
+            "city": "La Rochelle",
+            "country": {
+              "alpha2": "FR",
+              "alpha3": "FRA",
+              "name": "France"
+            },
+            "id": 8123,
+            "name": "Stade Marcel-Deflandre",
+            "slug": "stade-marcel-deflandre"
+          },
+          "winnerCode": 1
+        }
+      ]
+    }
+  }
+}

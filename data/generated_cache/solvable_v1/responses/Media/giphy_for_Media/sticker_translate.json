@@ -1,0 +1,119 @@
+{
+  "{\"s\":\"excited\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "bitly_gif_url": "https://gph.is/2pXqZ1a",
+          "bitly_url": "https://gph.is/2pXqZ1a",
+          "content_url": "",
+          "embed_url": "https://giphy.com/embed/3o7aCSPqXE5C6T8tBC",
+          "id": "3o7aCSPqXE5C6T8tBC",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "mp4": "https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/200.mp4",
+              "mp4_size": "23456",
+              "size": "123456",
+              "url": "https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/200.gif",
+              "webp": "https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/200.webp",
+              "webp_size": "34567",
+              "width": "200"
+            }
+          },
+          "is_sticker": 1,
+          "rating": "g",
+          "slug": "excited-3o7aCSPqXE5C6T8tBC",
+          "source": "",
+          "title": "Excited Sticker",
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/excited-3o7aCSPqXE5C6T8tBC",
+          "username": ""
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "a1b2c3d4e5f6",
+        "status": 200
+      }
+    }
+  },
+  "{\"s\":\"good morning\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "bitly_gif_url": "https://gph.is/2qYwR3b",
+          "bitly_url": "https://gph.is/2qYwR3b",
+          "content_url": "",
+          "embed_url": "https://giphy.com/embed/l0HlvtIPzPdt2usKs",
+          "id": "l0HlvtIPzPdt2usKs",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "mp4": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/200.mp4",
+              "mp4_size": "19876",
+              "size": "98765",
+              "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/200.gif",
+              "webp": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/200.webp",
+              "webp_size": "29876",
+              "width": "200"
+            }
+          },
+          "is_sticker": 1,
+          "rating": "g",
+          "slug": "good-morning-l0HlvtIPzPdt2usKs",
+          "source": "",
+          "title": "Good Morning Sticker",
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/good-morning-l0HlvtIPzPdt2usKs",
+          "username": ""
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "f6e5d4c3b2a1",
+        "status": 200
+      }
+    }
+  },
+  "{\"s\":\"thank you\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "bitly_gif_url": "https://gph.is/2rZxT4c",
+          "bitly_url": "https://gph.is/2rZxT4c",
+          "content_url": "",
+          "embed_url": "https://giphy.com/embed/26BRuo6sLetdllPAQ",
+          "id": "26BRuo6sLetdllPAQ",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "mp4": "https://media.giphy.com/media/26BRuo6sLetdllPAQ/200.mp4",
+              "mp4_size": "22334",
+              "size": "112233",
+              "url": "https://media.giphy.com/media/26BRuo6sLetdllPAQ/200.gif",
+              "webp": "https://media.giphy.com/media/26BRuo6sLetdllPAQ/200.webp",
+              "webp_size": "33445",
+              "width": "200"
+            }
+          },
+          "is_sticker": 1,
+          "rating": "g",
+          "slug": "thank-you-26BRuo6sLetdllPAQ",
+          "source": "",
+          "title": "Thank You Sticker",
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/thank-you-26BRuo6sLetdllPAQ",
+          "username": ""
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "9f8e7d6c5b4a",
+        "status": 200
+      }
+    }
+  }
+}

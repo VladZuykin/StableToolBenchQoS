@@ -1,0 +1,30 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "body": [
+        {
+          "_id": "variety",
+          "_list_length": 2,
+          "name": "Variety",
+          "tier": "premium",
+          "urls": {
+            "base": "https://variety.com",
+            "search": "https://variety.com/?s="
+          }
+        },
+        {
+          "_id": "indiewire",
+          "_list_length": 2,
+          "name": "IndieWire",
+          "tier": "premium",
+          "urls": {
+            "base": "https://www.indiewire.com",
+            "search": "https://www.indiewire.com/?s="
+          }
+        }
+      ],
+      "success": true
+    }
+  }
+}

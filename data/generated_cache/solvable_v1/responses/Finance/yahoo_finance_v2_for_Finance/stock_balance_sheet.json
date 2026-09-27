@@ -1,0 +1,88 @@
+{
+  "{\"symbol\":\"GOOGL\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/balance-sheet",
+      "parameters": [
+        {
+          "symbol": "GOOGL"
+        }
+      ],
+      "response": [
+        {
+          "accountsPayable": 0,
+          "cash": 24048000000,
+          "commonStock": 0,
+          "date": "2023-12-31",
+          "goodWill": 0,
+          "intangibleAssets": 0,
+          "inventory": 0,
+          "longTermDebt": 0,
+          "netReceivables": 0,
+          "netTangibleAssets": 0,
+          "otherAssets": 0,
+          "otherCurrentAssets": 0,
+          "otherCurrentLiabilities": 0,
+          "otherLiabilities": 0,
+          "otherStockholderEquity": 0,
+          "propertyPlantEquipment": 0,
+          "retainedEarnings": 0,
+          "shortTermDebt": 0,
+          "shortTermInvestments": 0,
+          "symbol": "GOOGL",
+          "totalAssets": 402392000000,
+          "totalCurrentAssets": 0,
+          "totalCurrentLiabilities": 81814000000,
+          "totalLiabilities": 119013000000,
+          "totalStockholderEquity": 283379000000,
+          "treasuryStock": 0
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/balance-sheet",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "accountsPayable": 0,
+          "cash": 22387000000,
+          "commonStock": 0,
+          "date": "2023-12-31",
+          "goodWill": 0,
+          "intangibleAssets": 0,
+          "inventory": 13626000000,
+          "longTermDebt": 0,
+          "netReceivables": 0,
+          "netTangibleAssets": 0,
+          "otherAssets": 0,
+          "otherCurrentAssets": 0,
+          "otherCurrentLiabilities": 0,
+          "otherLiabilities": 0,
+          "otherStockholderEquity": 0,
+          "propertyPlantEquipment": 0,
+          "retainedEarnings": 0,
+          "shortTermDebt": 0,
+          "shortTermInvestments": 0,
+          "symbol": "TSLA",
+          "totalAssets": 106618000000,
+          "totalCurrentAssets": 0,
+          "totalCurrentLiabilities": 28748000000,
+          "totalLiabilities": 43041000000,
+          "totalStockholderEquity": 62634000000,
+          "treasuryStock": 0
+        }
+      ],
+      "results": 1
+    }
+  }
+}

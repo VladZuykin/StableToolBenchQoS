@@ -1,0 +1,32 @@
+{
+  "{\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "DiscUsage": {
+        "TotalSize": 53687091200,
+        "UsedSize": 52428800
+      },
+      "RequestId": "b2c3d4e5-6f70-8901-bcde-f23456789012"
+    }
+  },
+  "{\"storagename\":\"production-storage\"}": {
+    "error": "",
+    "response": {
+      "DiscUsage": {
+        "TotalSize": 1099511627776,
+        "UsedSize": 734003200
+      },
+      "RequestId": "c3d4e5f6-7081-9012-cdef-345678901234"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "DiscUsage": {
+        "TotalSize": 10737418240,
+        "UsedSize": 1048576
+      },
+      "RequestId": "a1b2c3d4-5e6f-7890-abcd-ef1234567890"
+    }
+  }
+}

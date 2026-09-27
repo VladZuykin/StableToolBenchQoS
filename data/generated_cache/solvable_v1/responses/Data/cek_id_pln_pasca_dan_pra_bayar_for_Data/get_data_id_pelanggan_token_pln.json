@@ -1,0 +1,26 @@
+{
+  "{\"is_id\":\"32145678901\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "meter_number": "32145678901",
+        "segment_power": "R1 / 900 VA",
+        "subscriber_id": "32145678901",
+        "subscriber_name": "BUDI SANTOSO"
+      },
+      "success": true
+    }
+  },
+  "{\"is_id\":\"78901234567\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "meter_number": "78901234567",
+        "segment_power": "R2 / 3500 VA",
+        "subscriber_id": "78901234567",
+        "subscriber_name": "SITI AMINAH"
+      },
+      "success": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"cost\":15000,\"cuit\":\"20-12345678-9\",\"operativa\":\"1\",\"postcodedst\":5000,\"postcodesrc\":1000,\"volume\":3000,\"weight\":2.5}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "message": "Quote successful",
+      "statusCode": 200
+    }
+  },
+  "{\"cost\":25000,\"cuit\":\"27-11223344-5\",\"operativa\":\"3\",\"postcodedst\":6000,\"postcodesrc\":4000,\"volume\":8000,\"weight\":5}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "message": "Quote successful",
+      "statusCode": 200
+    }
+  },
+  "{\"cost\":8500,\"cuit\":\"30-98765432-1\",\"operativa\":\"2\",\"postcodedst\":3000,\"postcodesrc\":2000,\"volume\":1500,\"weight\":1}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "message": "Quote successful",
+      "statusCode": 200
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "{\"searchquery\":\"instant pot duo 6 quart\"}": {
+    "error": "",
+    "response": {
+      "ads": [],
+      "amazons_choice": [
+        {
+          "asin": "B00FLYWNYQ",
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example3.jpg",
+          "is_amazon_choice": true,
+          "is_best_seller": true,
+          "is_limited_deal": false,
+          "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, 6 Quart",
+          "price": 89,
+          "price_string": "$89.00",
+          "price_symbol": "$",
+          "stars": 4.7,
+          "total_reviews": 142876,
+          "url": "https://www.amazon.com/dp/B00FLYWNYQ"
+        }
+      ],
+      "explore_more_items": [],
+      "pagination": [],
+      "results": [
+        {
+          "asin": "B00FLYWNYQ",
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example3.jpg",
+          "is_amazon_choice": true,
+          "is_best_seller": true,
+          "is_limited_deal": false,
+          "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, 6 Quart",
+          "price": 89,
+          "price_string": "$89.00",
+          "price_symbol": "$",
+          "stars": 4.7,
+          "total_reviews": 142876,
+          "url": "https://www.amazon.com/dp/B00FLYWNYQ"
+        },
+        {
+          "asin": "B08Q3Q3Q3Q",
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example4.jpg",
+          "is_amazon_choice": false,
+          "is_best_seller": false,
+          "is_limited_deal": true,
+          "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, 6 Quart",
+          "price": 119,
+          "price_string": "$119.00",
+          "price_symbol": "$",
+          "stars": 4.6,
+          "total_reviews": 31245,
+          "url": "https://www.amazon.com/dp/B08Q3Q3Q3Q"
+        }
+      ]
+    }
+  },
+  "{\"searchquery\":\"wireless noise cancelling headphones\"}": {
+    "error": "",
+    "response": {
+      "ads": [
+        {
+          "availability_quantity": null,
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example1.jpg",
+          "is_amazon_choice": false,
+          "is_best_seller": false,
+          "is_limited_deal": true,
+          "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+          "price": 348,
+          "price_string": "$348.00",
+          "price_symbol": "$",
+          "spec": {
+            "brand": "Sony",
+            "color": "Black",
+            "connectivity": "Bluetooth"
+          },
+          "stars": 4.7,
+          "total_reviews": null,
+          "type": "Sponsored",
+          "url": "https://www.amazon.com/dp/B09XS7JWHH"
+        }
+      ],
+      "amazons_choice": [],
+      "explore_more_items": [],
+      "pagination": [],
+      "results": [
+        {
+          "asin": "B09XS7JWHH",
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example1.jpg",
+          "is_amazon_choice": true,
+          "is_best_seller": false,
+          "is_limited_deal": false,
+          "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+          "price": 348,
+          "price_string": "$348.00",
+          "price_symbol": "$",
+          "stars": 4.7,
+          "total_reviews": 18432,
+          "url": "https://www.amazon.com/dp/B09XS7JWHH"
+        },
+        {
+          "asin": "B0B3Q3Q3Q3",
+          "has_prime": true,
+          "image": "https://m.media-amazon.com/images/I/71example2.jpg",
+          "is_amazon_choice": false,
+          "is_best_seller": true,
+          "is_limited_deal": false,
+          "name": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones",
+          "price": 279,
+          "price_string": "$279.00",
+          "price_symbol": "$",
+          "stars": 4.6,
+          "total_reviews": 9210,
+          "url": "https://www.amazon.com/dp/B0B3Q3Q3Q3"
+        }
+      ]
+    }
+  }
+}

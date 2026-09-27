@@ -1,0 +1,32 @@
+{
+  "{\"pdfid\":\"9876543210\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.example.com/files/9876543210/download",
+      "fileName": "edited_9876543210.pdf",
+      "fileSize": 51200,
+      "pdfId": "9876543210",
+      "status": "ready"
+    }
+  },
+  "{\"pdfid\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.example.com/files/a1b2c3d4-e5f6-7890-abcd-ef1234567890/download",
+      "fileName": "reworded_document.pdf",
+      "fileSize": 245760,
+      "pdfId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "status": "ready"
+    }
+  },
+  "{\"pdfid\":\"report-2024-q3-final\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.example.com/files/report-2024-q3-final/download",
+      "fileName": "report-2024-q3-final_reworded.pdf",
+      "fileSize": 1048576,
+      "pdfId": "report-2024-q3-final",
+      "status": "ready"
+    }
+  }
+}

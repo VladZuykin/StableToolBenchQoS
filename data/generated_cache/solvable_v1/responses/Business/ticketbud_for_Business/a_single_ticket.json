@@ -1,0 +1,40 @@
+{
+  "{\"event_id\":\"evt_77c1de40\",\"is_id\":\"tkt_vip_88x9y0z1\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2023-12-28T10:05:33Z",
+      "currency": "EUR",
+      "description": "Includes premium seating, backstage tour, and complimentary drinks.",
+      "event_id": "evt_77c1de40",
+      "id": "tkt_vip_88x9y0z1",
+      "name": "VIP Backstage Pass",
+      "price": 250.0,
+      "quantity_available": 5,
+      "quantity_sold": 45,
+      "sales_end": "2024-04-30T18:00:00Z",
+      "sales_start": "2024-01-10T12:00:00Z",
+      "status": "sold_out",
+      "type": "vip",
+      "updated_at": "2024-04-30T18:00:01Z"
+    }
+  },
+  "{\"event_id\":\"evt_9f3a2b7c\",\"is_id\":\"tkt_001a2b3c4d\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2024-02-15T14:22:10Z",
+      "currency": "USD",
+      "description": "Standard entry ticket for one attendee.",
+      "event_id": "evt_9f3a2b7c",
+      "id": "tkt_001a2b3c4d",
+      "name": "General Admission",
+      "price": 45.0,
+      "quantity_available": 120,
+      "quantity_sold": 380,
+      "sales_end": "2024-06-14T23:59:59Z",
+      "sales_start": "2024-03-01T09:00:00Z",
+      "status": "on_sale",
+      "type": "general",
+      "updated_at": "2024-05-20T08:11:45Z"
+    }
+  }
+}

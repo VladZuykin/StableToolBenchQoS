@@ -1,0 +1,14 @@
+{
+  "{\"gameid\":\"11067498\"}": {
+    "error": "",
+    "response": {
+      "message": "Game details retrieved successfully"
+    }
+  },
+  "{\"gameid\":\"9726635\"}": {
+    "error": "",
+    "response": {
+      "message": "Game details retrieved successfully"
+    }
+  }
+}

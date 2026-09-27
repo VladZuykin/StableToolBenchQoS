@@ -1,0 +1,50 @@
+{
+  "{\"user_id\":\"alice_98765\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/users/alice_98765/learning_stats",
+      "messages": "Most effective study times for user alice_98765: 8:00 AM - 10:00 AM and 7:00 PM - 9:00 PM.",
+      "parameters": [],
+      "response": [
+        {
+          "effectiveness_score": 0.92,
+          "end_hour": 10,
+          "start_hour": 8,
+          "time_of_day": "morning"
+        },
+        {
+          "effectiveness_score": 0.87,
+          "end_hour": 21,
+          "start_hour": 19,
+          "time_of_day": "evening"
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"user_id\":\"student_42\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/memre_api/v1/users/student_42/learning_stats",
+      "messages": "Most effective study times for user student_42: 6:00 AM - 7:00 AM and 10:00 PM - 11:00 PM.",
+      "parameters": [],
+      "response": [
+        {
+          "effectiveness_score": 0.81,
+          "end_hour": 7,
+          "start_hour": 6,
+          "time_of_day": "early_morning"
+        },
+        {
+          "effectiveness_score": 0.78,
+          "end_hour": 23,
+          "start_hour": 22,
+          "time_of_day": "late_night"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

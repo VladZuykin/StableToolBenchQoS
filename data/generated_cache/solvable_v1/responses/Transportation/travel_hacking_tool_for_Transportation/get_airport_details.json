@@ -1,0 +1,40 @@
+{
+  "{\"code\":\"JFK\"}": {
+    "error": "",
+    "response": {
+      "city": "New York",
+      "city_code": "NYC",
+      "code": "JFK",
+      "country": "United States",
+      "county": "Queens",
+      "elevation": 13,
+      "icao": "KJFK",
+      "latitude": 40.6398,
+      "longitude": -73.7789,
+      "name": "John F. Kennedy International Airport",
+      "state": "New York",
+      "time_zone": "America/New_York",
+      "type": "airport",
+      "url": "https://www.jfkairport.com"
+    }
+  },
+  "{\"code\":\"LAX\"}": {
+    "error": "",
+    "response": {
+      "city": "Los Angeles",
+      "city_code": "LAX",
+      "code": "LAX",
+      "country": "United States",
+      "county": "Los Angeles",
+      "elevation": 125,
+      "icao": "KLAX",
+      "latitude": 33.9425,
+      "longitude": -118.408,
+      "name": "Los Angeles International Airport",
+      "state": "California",
+      "time_zone": "America/Los_Angeles",
+      "type": "airport",
+      "url": "https://www.flylax.com"
+    }
+  }
+}

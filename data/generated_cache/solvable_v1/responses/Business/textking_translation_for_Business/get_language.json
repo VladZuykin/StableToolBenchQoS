@@ -1,0 +1,44 @@
+{
+  "{\"code\":\"en\"}": {
+    "error": "",
+    "response": {
+      "code": "en",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/languages/en",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "English",
+      "name": "English"
+    }
+  },
+  "{\"code\":\"es\"}": {
+    "error": "",
+    "response": {
+      "code": "es",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/languages/es",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "Español",
+      "name": "Spanish"
+    }
+  },
+  "{\"code\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "code": "fr",
+      "links": [
+        {
+          "href": "https://www.textking.com/api/languages/fr",
+          "rel": "self"
+        }
+      ],
+      "localization_language": "Français",
+      "name": "French"
+    }
+  }
+}

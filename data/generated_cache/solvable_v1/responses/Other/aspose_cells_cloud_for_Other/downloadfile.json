@@ -1,0 +1,21 @@
+{
+  "{\"path\":\"/archive/quarterly.xlsx\",\"versionid\":\"ver-20240115-01\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadUrl": "https://api.aspose.cloud/v3.0/cells/storage/file/archive/quarterly.xlsx?versionId=ver-20240115-01",
+      "fileName": "quarterly.xlsx",
+      "fileSize": 18432,
+      "versionId": "ver-20240115-01"
+    }
+  },
+  "{\"path\":\"/spreadsheets/budget2024.xlsx\",\"storagename\":\"myStorage\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadUrl": "https://api.aspose.cloud/v3.0/cells/storage/file/myStorage/spreadsheets/budget2024.xlsx",
+      "fileName": "budget2024.xlsx",
+      "fileSize": 24576
+    }
+  }
+}

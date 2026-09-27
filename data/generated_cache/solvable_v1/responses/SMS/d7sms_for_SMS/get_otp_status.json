@@ -1,0 +1,29 @@
+{
+  "{\"otp_id\":\"otp_1a2b3c4d5e6f7g8h9i0j\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "OTP_VERIFIED",
+        "message": "OTP has been verified successfully"
+      }
+    }
+  },
+  "{\"otp_id\":\"otp_5k6l7m8n9o0p1q2r3s4t\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "OTP_EXPIRED",
+        "message": "OTP has expired and is no longer valid"
+      }
+    }
+  },
+  "{\"otp_id\":\"otp_9f8a7b6c5d4e3f2a1b0c\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "OTP_GENERATED",
+        "message": "OTP has been generated and sent successfully"
+      }
+    }
+  }
+}

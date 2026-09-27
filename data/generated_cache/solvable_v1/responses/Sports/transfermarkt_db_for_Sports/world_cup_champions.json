@@ -1,0 +1,578 @@
+{
+  "{\"locale\":\"EN\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brazil",
+            "id": "1",
+            "quantity": 5
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Germany",
+            "id": "2",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italy",
+            "id": "3",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentina",
+            "id": "4",
+            "quantity": 3
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "France",
+            "id": "5",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "id": "6",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "England",
+            "id": "7",
+            "quantity": 1
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "Spain",
+            "id": "8",
+            "quantity": 1
+          }
+        ],
+        "share": {
+          "description": "World Cup champions overview",
+          "title": "World Cup champions",
+          "url": "https://www.transfermarkt.com/world-cup-champions/erfolge/pokalwettbewerb/WM"
+        },
+        "teams": [
+          {
+            "_list_length": 22,
+            "alias": "Brazil",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.png",
+            "coachName": "Tite",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brazil",
+            "firstName": "Neymar",
+            "id": "1",
+            "lastName": "da Silva",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM1"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Germany",
+            "coachID": "2345",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/2345.png",
+            "coachName": "Hansi Flick",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Germany",
+            "firstName": "Manuel",
+            "id": "2",
+            "lastName": "Neuer",
+            "season": "2014",
+            "seasonID": "2014",
+            "successID": "WM2"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Italy",
+            "coachID": "3456",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/3456.png",
+            "coachName": "Roberto Mancini",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italy",
+            "firstName": "Giorgio",
+            "id": "3",
+            "lastName": "Chiellini",
+            "season": "2006",
+            "seasonID": "2006",
+            "successID": "WM3"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Argentina",
+            "coachID": "4567",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/4567.png",
+            "coachName": "Lionel Scaloni",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentina",
+            "firstName": "Lionel",
+            "id": "4",
+            "lastName": "Messi",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM4"
+          },
+          {
+            "_list_length": 22,
+            "alias": "France",
+            "coachID": "5678",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/5678.png",
+            "coachName": "Didier Deschamps",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "France",
+            "firstName": "Kylian",
+            "id": "5",
+            "lastName": "Mbappé",
+            "season": "2018",
+            "seasonID": "2018",
+            "successID": "WM5"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Uruguay",
+            "coachID": "6789",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/6789.png",
+            "coachName": "Diego Alonso",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "firstName": "Luis",
+            "id": "6",
+            "lastName": "Suárez",
+            "season": "1950",
+            "seasonID": "1950",
+            "successID": "WM6"
+          },
+          {
+            "_list_length": 22,
+            "alias": "England",
+            "coachID": "7890",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/7890.png",
+            "coachName": "Gareth Southgate",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "England",
+            "firstName": "Harry",
+            "id": "7",
+            "lastName": "Kane",
+            "season": "1966",
+            "seasonID": "1966",
+            "successID": "WM7"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Spain",
+            "coachID": "8901",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/8901.png",
+            "coachName": "Luis Enrique",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "Spain",
+            "firstName": "Sergio",
+            "id": "8",
+            "lastName": "Ramos",
+            "season": "2010",
+            "seasonID": "2010",
+            "successID": "WM8"
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"ES\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brasil",
+            "id": "1",
+            "quantity": 5
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Alemania",
+            "id": "2",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italia",
+            "id": "3",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentina",
+            "id": "4",
+            "quantity": 3
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "Francia",
+            "id": "5",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "id": "6",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "Inglaterra",
+            "id": "7",
+            "quantity": 1
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "España",
+            "id": "8",
+            "quantity": 1
+          }
+        ],
+        "share": {
+          "description": "Resumen de campeones del mundo",
+          "title": "Campeones del mundo",
+          "url": "https://www.transfermarkt.es/weltmeister/erfolge/pokalwettbewerb/WM"
+        },
+        "teams": [
+          {
+            "_list_length": 22,
+            "alias": "Brasil",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.png",
+            "coachName": "Tite",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brasil",
+            "firstName": "Neymar",
+            "id": "1",
+            "lastName": "da Silva",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM1"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Alemania",
+            "coachID": "2345",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/2345.png",
+            "coachName": "Hansi Flick",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Alemania",
+            "firstName": "Manuel",
+            "id": "2",
+            "lastName": "Neuer",
+            "season": "2014",
+            "seasonID": "2014",
+            "successID": "WM2"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Italia",
+            "coachID": "3456",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/3456.png",
+            "coachName": "Roberto Mancini",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italia",
+            "firstName": "Giorgio",
+            "id": "3",
+            "lastName": "Chiellini",
+            "season": "2006",
+            "seasonID": "2006",
+            "successID": "WM3"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Argentina",
+            "coachID": "4567",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/4567.png",
+            "coachName": "Lionel Scaloni",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentina",
+            "firstName": "Lionel",
+            "id": "4",
+            "lastName": "Messi",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM4"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Francia",
+            "coachID": "5678",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/5678.png",
+            "coachName": "Didier Deschamps",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "Francia",
+            "firstName": "Kylian",
+            "id": "5",
+            "lastName": "Mbappé",
+            "season": "2018",
+            "seasonID": "2018",
+            "successID": "WM5"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Uruguay",
+            "coachID": "6789",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/6789.png",
+            "coachName": "Diego Alonso",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "firstName": "Luis",
+            "id": "6",
+            "lastName": "Suárez",
+            "season": "1950",
+            "seasonID": "1950",
+            "successID": "WM6"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Inglaterra",
+            "coachID": "7890",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/7890.png",
+            "coachName": "Gareth Southgate",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "Inglaterra",
+            "firstName": "Harry",
+            "id": "7",
+            "lastName": "Kane",
+            "season": "1966",
+            "seasonID": "1966",
+            "successID": "WM7"
+          },
+          {
+            "_list_length": 22,
+            "alias": "España",
+            "coachID": "8901",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/8901.png",
+            "coachName": "Luis Enrique",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "España",
+            "firstName": "Sergio",
+            "id": "8",
+            "lastName": "Ramos",
+            "season": "2010",
+            "seasonID": "2010",
+            "successID": "WM8"
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brésil",
+            "id": "1",
+            "quantity": 5
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Allemagne",
+            "id": "2",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italie",
+            "id": "3",
+            "quantity": 4
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentine",
+            "id": "4",
+            "quantity": 3
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "France",
+            "id": "5",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "id": "6",
+            "quantity": 2
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "Angleterre",
+            "id": "7",
+            "quantity": 1
+          },
+          {
+            "_list_length": 8,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "Espagne",
+            "id": "8",
+            "quantity": 1
+          }
+        ],
+        "share": {
+          "description": "Aperçu des champions du monde",
+          "title": "Champions du monde",
+          "url": "https://www.transfermarkt.fr/champions-du-monde/erfolge/pokalwettbewerb/WM"
+        },
+        "teams": [
+          {
+            "_list_length": 22,
+            "alias": "Brésil",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.png",
+            "coachName": "Tite",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "Brésil",
+            "firstName": "Neymar",
+            "id": "1",
+            "lastName": "da Silva",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM1"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Allemagne",
+            "coachID": "2345",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/2345.png",
+            "coachName": "Hansi Flick",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Allemagne",
+            "firstName": "Manuel",
+            "id": "2",
+            "lastName": "Neuer",
+            "season": "2014",
+            "seasonID": "2014",
+            "successID": "WM2"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Italie",
+            "coachID": "3456",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/3456.png",
+            "coachName": "Roberto Mancini",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Italie",
+            "firstName": "Giorgio",
+            "id": "3",
+            "lastName": "Chiellini",
+            "season": "2006",
+            "seasonID": "2006",
+            "successID": "WM3"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Argentine",
+            "coachID": "4567",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/4567.png",
+            "coachName": "Lionel Scaloni",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Argentine",
+            "firstName": "Lionel",
+            "id": "4",
+            "lastName": "Messi",
+            "season": "2022",
+            "seasonID": "2022",
+            "successID": "WM4"
+          },
+          {
+            "_list_length": 22,
+            "alias": "France",
+            "coachID": "5678",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/5678.png",
+            "coachName": "Didier Deschamps",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "France",
+            "firstName": "Kylian",
+            "id": "5",
+            "lastName": "Mbappé",
+            "season": "2018",
+            "seasonID": "2018",
+            "successID": "WM5"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Uruguay",
+            "coachID": "6789",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/6789.png",
+            "coachName": "Diego Alonso",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Uruguay",
+            "firstName": "Luis",
+            "id": "6",
+            "lastName": "Suárez",
+            "season": "1950",
+            "seasonID": "1950",
+            "successID": "WM6"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Angleterre",
+            "coachID": "7890",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/7890.png",
+            "coachName": "Gareth Southgate",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/7.png",
+            "countryName": "Angleterre",
+            "firstName": "Harry",
+            "id": "7",
+            "lastName": "Kane",
+            "season": "1966",
+            "seasonID": "1966",
+            "successID": "WM7"
+          },
+          {
+            "_list_length": 22,
+            "alias": "Espagne",
+            "coachID": "8901",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/8901.png",
+            "coachName": "Luis Enrique",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/8.png",
+            "countryName": "Espagne",
+            "firstName": "Sergio",
+            "id": "8",
+            "lastName": "Ramos",
+            "season": "2010",
+            "seasonID": "2010",
+            "successID": "WM8"
+          }
+        ]
+      }
+    }
+  }
+}

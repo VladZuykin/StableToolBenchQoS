@@ -1,0 +1,33 @@
+{
+  "{\"protocol\":\"uniswap\"}": {
+    "error": "",
+    "response": {
+      "config": {
+        "headers": {
+          "Accept": "application/json",
+          "User-Agent": "axios/1.6.0"
+        },
+        "maxBodyLength": -1,
+        "maxContentLength": -1,
+        "method": "get",
+        "timeout": 0,
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "transitional": {
+          "clarifyTimeoutError": false,
+          "forcedJSONParsing": true,
+          "silentJSONParsing": true
+        },
+        "url": "https://api.llama.fi/tvl/uniswap",
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN"
+      },
+      "data": 4123456789.12,
+      "status": 200
+    }
+  }
+}

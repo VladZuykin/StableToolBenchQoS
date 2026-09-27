@@ -1,0 +1,10 @@
+{
+  "{\"username\":\"alice.smith\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "message": "User found",
+      "type": "user"
+    }
+  }
+}

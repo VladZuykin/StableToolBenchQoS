@@ -1,0 +1,37 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "difficulty": "Medium",
+        "id": "1",
+        "image": "https://s3.amazonaws.com/mexican-food-db/images/tacos-al-pastor.jpg",
+        "title": "Tacos al Pastor"
+      },
+      {
+        "difficulty": "Hard",
+        "id": "2",
+        "image": "https://s3.amazonaws.com/mexican-food-db/images/chiles-en-nogada.jpg",
+        "title": "Chiles en Nogada"
+      },
+      {
+        "difficulty": "Easy",
+        "id": "3",
+        "image": "https://s3.amazonaws.com/mexican-food-db/images/enchiladas-verdes.jpg",
+        "title": "Enchiladas Verdes"
+      },
+      {
+        "difficulty": "Medium",
+        "id": "4",
+        "image": "https://s3.amazonaws.com/mexican-food-db/images/pozole-rojo.jpg",
+        "title": "Pozole Rojo"
+      },
+      {
+        "difficulty": "Hard",
+        "id": "5",
+        "image": "https://s3.amazonaws.com/mexican-food-db/images/mole-poblano.jpg",
+        "title": "Mole Poblano"
+      }
+    ]
+  }
+}

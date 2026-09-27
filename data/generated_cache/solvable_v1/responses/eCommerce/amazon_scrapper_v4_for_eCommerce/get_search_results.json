@@ -1,0 +1,58 @@
+{
+  "{\"searchquery\":\"stainless steel water bottle 1 litre\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "price": "₹1,049",
+          "rating": 4.4,
+          "reviews": 62187,
+          "title": "Milton Thermosteel Flip Lid Flask, 1000 ml",
+          "url": "https://www.amazon.in/dp/B00LPB3X4S"
+        },
+        {
+          "price": "₹649",
+          "rating": 4.2,
+          "reviews": 34120,
+          "title": "Cello Puro Steel-X Benz 900 | Water Bottle, 950 ml",
+          "url": "https://www.amazon.in/dp/B07YQ4T9KZ"
+        },
+        {
+          "price": "₹899",
+          "rating": 4.3,
+          "reviews": 18945,
+          "title": "Borosil Hydra Trek Stainless Steel Water Bottle, 1000 ml",
+          "url": "https://www.amazon.in/dp/B08L5N7P2R"
+        }
+      ]
+    }
+  },
+  "{\"searchquery\":\"wireless earbuds under 2000\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "price": "₹1,299",
+          "rating": 4.1,
+          "reviews": 128934,
+          "title": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds",
+          "url": "https://www.amazon.in/dp/B09N3ZNHTY"
+        },
+        {
+          "price": "₹1,799",
+          "rating": 4.2,
+          "reviews": 45210,
+          "title": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds",
+          "url": "https://www.amazon.in/dp/B0C3NS6Q4T"
+        },
+        {
+          "price": "₹1,499",
+          "rating": 4.0,
+          "reviews": 87342,
+          "title": "realme Buds T100 Bluetooth Truly Wireless in Ear Earbuds",
+          "url": "https://www.amazon.in/dp/B0B4F3L8QK"
+        }
+      ]
+    }
+  }
+}

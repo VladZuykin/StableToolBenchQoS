@@ -1,0 +1,131 @@
+{
+  "{\"richmenuid\":\"richmenu-001122334455\"}": {
+    "error": "",
+    "response": {
+      "areas": [
+        {
+          "action": {
+            "text": "FAQ",
+            "type": "message"
+          },
+          "bounds": {
+            "height": 843,
+            "width": 833,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "action": {
+            "text": "Contact",
+            "type": "message"
+          },
+          "bounds": {
+            "height": 843,
+            "width": 834,
+            "x": 833,
+            "y": 0
+          }
+        },
+        {
+          "action": {
+            "type": "uri",
+            "uri": "https://support.example.com"
+          },
+          "bounds": {
+            "height": 843,
+            "width": 833,
+            "x": 1667,
+            "y": 0
+          }
+        },
+        {
+          "action": {
+            "data": "action=feedback",
+            "type": "postback"
+          },
+          "bounds": {
+            "height": 843,
+            "width": 2500,
+            "x": 0,
+            "y": 843
+          }
+        }
+      ],
+      "chatBarText": "Need help?",
+      "name": "Support Menu",
+      "richMenuId": "richmenu-001122334455",
+      "selected": true,
+      "size": {
+        "height": 1686,
+        "width": 2500
+      }
+    }
+  },
+  "{\"richmenuid\":\"richmenu-7f8e9d0c1b2a\"}": {
+    "error": "",
+    "response": {
+      "areas": [
+        {
+          "action": {
+            "data": "action=promo",
+            "type": "postback"
+          },
+          "bounds": {
+            "height": 843,
+            "width": 2500,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "chatBarText": "See offers",
+      "name": "Promo Banner",
+      "richMenuId": "richmenu-7f8e9d0c1b2a",
+      "selected": false,
+      "size": {
+        "height": 843,
+        "width": 2500
+      }
+    }
+  },
+  "{\"richmenuid\":\"richmenu-abc123def456\"}": {
+    "error": "",
+    "response": {
+      "areas": [
+        {
+          "action": {
+            "text": "Hello",
+            "type": "message"
+          },
+          "bounds": {
+            "height": 1686,
+            "width": 1250,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "action": {
+            "type": "uri",
+            "uri": "https://example.com"
+          },
+          "bounds": {
+            "height": 1686,
+            "width": 1250,
+            "x": 1250,
+            "y": 0
+          }
+        }
+      ],
+      "chatBarText": "Tap to open",
+      "name": "Main Menu",
+      "richMenuId": "richmenu-abc123def456",
+      "selected": true,
+      "size": {
+        "height": 1686,
+        "width": 2500
+      }
+    }
+  }
+}

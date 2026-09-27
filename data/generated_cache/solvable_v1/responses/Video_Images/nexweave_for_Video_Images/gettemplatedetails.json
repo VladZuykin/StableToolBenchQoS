@@ -1,0 +1,80 @@
+{
+  "{\"templateid\":\"img_banner_001\"}": {
+    "error": "",
+    "response": {
+      "message": "Template details retrieved successfully",
+      "name": "Interactive Image Banner",
+      "templateId": "img_banner_001",
+      "type": "image",
+      "variables": [
+        {
+          "default": "Discover More",
+          "name": "headline",
+          "type": "string"
+        },
+        {
+          "default": "https://example.com",
+          "name": "ctaLink",
+          "type": "string"
+        },
+        {
+          "default": "#FFFFFF",
+          "name": "backgroundColor",
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "{\"templateid\":\"template_2024_holiday_gif\"}": {
+    "error": "",
+    "response": {
+      "message": "Template details retrieved successfully",
+      "name": "Holiday Greeting GIF",
+      "templateId": "template_2024_holiday_gif",
+      "type": "gif",
+      "variables": [
+        {
+          "default": "Friend",
+          "name": "recipientName",
+          "type": "string"
+        },
+        {
+          "default": "Happy Holidays!",
+          "name": "greeting",
+          "type": "string"
+        },
+        {
+          "default": "Team Nexweave",
+          "name": "senderName",
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "{\"templateid\":\"tpl_9f3a2b7c\"}": {
+    "error": "",
+    "response": {
+      "message": "Template details retrieved successfully",
+      "name": "Product Launch Announcement",
+      "templateId": "tpl_9f3a2b7c",
+      "type": "video",
+      "variables": [
+        {
+          "default": "John",
+          "name": "firstName",
+          "type": "string"
+        },
+        {
+          "default": "Nexweave Pro",
+          "name": "productName",
+          "type": "string"
+        },
+        {
+          "default": 20,
+          "name": "discount",
+          "type": "number"
+        }
+      ]
+    }
+  }
+}

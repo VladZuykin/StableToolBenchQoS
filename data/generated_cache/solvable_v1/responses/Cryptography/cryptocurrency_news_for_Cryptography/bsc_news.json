@@ -1,0 +1,33 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 100,
+          "createdAt": "2024-06-11T08:30:00Z",
+          "description": "Binance Smart Chain's latest upgrade introduces reduced gas fees and faster block times, aiming to boost DeFi activity across the network.",
+          "thumbnail": "https://bscnews.com/images/bsc-upgrade-2024.jpg",
+          "title": "BSC Network Upgrade Slashes Gas Fees by 40%",
+          "url": "https://bscnews.com/articles/bsc-network-upgrade-gas-fees"
+        },
+        {
+          "_list_length": 100,
+          "createdAt": "2024-06-10T14:15:00Z",
+          "description": "A new decentralized exchange on BSC surpasses $500M in total value locked within its first week, signaling renewed investor confidence.",
+          "thumbnail": "https://bscnews.com/images/dex-tvl-milestone.jpg",
+          "title": "New BSC DEX Hits $500M TVL in First Week",
+          "url": "https://bscnews.com/articles/new-bsc-dex-500m-tvl"
+        },
+        {
+          "_list_length": 100,
+          "createdAt": "2024-06-09T09:45:00Z",
+          "description": "PancakeSwap announces a cross-chain bridge to Ethereum and Arbitrum, expanding its reach beyond the Binance Smart Chain ecosystem.",
+          "thumbnail": "https://bscnews.com/images/pancakeswap-bridge.jpg",
+          "title": "PancakeSwap Launches Cross-Chain Bridge",
+          "url": "https://bscnews.com/articles/pancakeswap-cross-chain-bridge"
+        }
+      ]
+    }
+  }
+}

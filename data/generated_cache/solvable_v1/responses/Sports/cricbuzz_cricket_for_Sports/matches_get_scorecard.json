@@ -1,0 +1,233 @@
+{
+  "{\"matchid\":40381}": {
+    "error": "",
+    "response": {
+      "scoreCard": [
+        {
+          "batTeamDetails": {
+            "batTeamId": 61,
+            "batTeamName": "India",
+            "batTeamShortName": "IND",
+            "batsmenData": {
+              "bat_1": {
+                "balls": 32,
+                "batId": 107,
+                "batName": "Rohit Sharma",
+                "batShortName": "R. Sharma",
+                "boundaries": 7,
+                "bowlerId": 201,
+                "dots": 12,
+                "fielderId1": 305,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 5,
+                "inMatchChange": "",
+                "isCaptain": true,
+                "isKeeper": false,
+                "isOverseas": false,
+                "mins": 48,
+                "ones": 8,
+                "outDesc": "c Smith b Cummins",
+                "playingXIChange": "",
+                "runs": 45,
+                "sixers": 2,
+                "sixes": 2,
+                "strikeRate": 140.62,
+                "threes": 0,
+                "twos": 2,
+                "wicketCode": "CAUGHT"
+              },
+              "bat_2": {
+                "balls": 51,
+                "batId": 108,
+                "batName": "Shubman Gill",
+                "batShortName": "S. Gill",
+                "boundaries": 8,
+                "bowlerId": 0,
+                "dots": 20,
+                "fielderId1": 0,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 7,
+                "inMatchChange": "",
+                "isCaptain": false,
+                "isKeeper": false,
+                "isOverseas": false,
+                "mins": 72,
+                "ones": 12,
+                "outDesc": "not out",
+                "playingXIChange": "",
+                "runs": 63,
+                "sixers": 1,
+                "sixes": 1,
+                "strikeRate": 123.53,
+                "threes": 1,
+                "twos": 3,
+                "wicketCode": ""
+              }
+            }
+          },
+          "inningsId": 1,
+          "matchId": 40381,
+          "timeScore": 1690000000000
+        }
+      ]
+    }
+  },
+  "{\"matchid\":40382}": {
+    "error": "",
+    "response": {
+      "scoreCard": [
+        {
+          "batTeamDetails": {
+            "batTeamId": 62,
+            "batTeamName": "Australia",
+            "batTeamShortName": "AUS",
+            "batsmenData": {
+              "bat_1": {
+                "balls": 19,
+                "batId": 211,
+                "batName": "David Warner",
+                "batShortName": "D. Warner",
+                "boundaries": 5,
+                "bowlerId": 301,
+                "dots": 7,
+                "fielderId1": 0,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 4,
+                "inMatchChange": "",
+                "isCaptain": false,
+                "isKeeper": false,
+                "isOverseas": true,
+                "mins": 30,
+                "ones": 5,
+                "outDesc": "lbw b Bumrah",
+                "playingXIChange": "",
+                "runs": 28,
+                "sixers": 1,
+                "sixes": 1,
+                "strikeRate": 147.37,
+                "threes": 0,
+                "twos": 1,
+                "wicketCode": "LBW"
+              },
+              "bat_2": {
+                "balls": 68,
+                "batId": 212,
+                "batName": "Steve Smith",
+                "batShortName": "S. Smith",
+                "boundaries": 6,
+                "bowlerId": 302,
+                "dots": 25,
+                "fielderId1": 401,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 6,
+                "inMatchChange": "",
+                "isCaptain": true,
+                "isKeeper": false,
+                "isOverseas": true,
+                "mins": 95,
+                "ones": 15,
+                "outDesc": "c Kohli b Jadeja",
+                "playingXIChange": "",
+                "runs": 74,
+                "sixers": 0,
+                "sixes": 0,
+                "strikeRate": 108.82,
+                "threes": 0,
+                "twos": 4,
+                "wicketCode": "CAUGHT"
+              }
+            }
+          },
+          "inningsId": 1,
+          "matchId": 40382,
+          "timeScore": 1690100000000
+        }
+      ]
+    }
+  },
+  "{\"matchid\":40383}": {
+    "error": "",
+    "response": {
+      "scoreCard": [
+        {
+          "batTeamDetails": {
+            "batTeamId": 63,
+            "batTeamName": "England",
+            "batTeamShortName": "ENG",
+            "batsmenData": {
+              "bat_1": {
+                "balls": 34,
+                "batId": 311,
+                "batName": "Jos Buttler",
+                "batShortName": "J. Buttler",
+                "boundaries": 9,
+                "bowlerId": 501,
+                "dots": 10,
+                "fielderId1": 601,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 6,
+                "inMatchChange": "",
+                "isCaptain": true,
+                "isKeeper": true,
+                "isOverseas": false,
+                "mins": 55,
+                "ones": 9,
+                "outDesc": "c Root b Starc",
+                "playingXIChange": "",
+                "runs": 52,
+                "sixers": 3,
+                "sixes": 3,
+                "strikeRate": 152.94,
+                "threes": 0,
+                "twos": 2,
+                "wicketCode": "CAUGHT"
+              },
+              "bat_2": {
+                "balls": 42,
+                "batId": 312,
+                "batName": "Joe Root",
+                "batShortName": "J. Root",
+                "boundaries": 3,
+                "bowlerId": 502,
+                "dots": 18,
+                "fielderId1": 0,
+                "fielderId2": 0,
+                "fielderId3": 0,
+                "fives": 0,
+                "fours": 3,
+                "inMatchChange": "",
+                "isCaptain": false,
+                "isKeeper": false,
+                "isOverseas": false,
+                "mins": 60,
+                "ones": 11,
+                "outDesc": "b Cummins",
+                "playingXIChange": "",
+                "runs": 38,
+                "sixers": 0,
+                "sixes": 0,
+                "strikeRate": 90.48,
+                "threes": 0,
+                "twos": 1,
+                "wicketCode": "BOWLED"
+              }
+            }
+          },
+          "inningsId": 2,
+          "matchId": 40383,
+          "timeScore": 1690200000000
+        }
+      ]
+    }
+  }
+}

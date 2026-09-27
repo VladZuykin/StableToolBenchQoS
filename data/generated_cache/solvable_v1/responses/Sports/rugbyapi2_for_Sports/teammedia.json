@@ -1,0 +1,131 @@
+{
+  "{\"is_id\":12345}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "createdAtTimestamp": 1700000000,
+          "doFollow": false,
+          "id": 201,
+          "keyHighlight": false,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/source/201",
+          "subtitle": "Behind the scenes",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/201.jpg",
+          "title": "Team 12345 Training Session",
+          "url": "https://media.rugbyapi.com/videos/201"
+        },
+        {
+          "createdAtTimestamp": 1700000001,
+          "doFollow": true,
+          "id": 202,
+          "keyHighlight": true,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/source/202",
+          "subtitle": "Exclusive",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/202.jpg",
+          "title": "Fan Q&A with Captain",
+          "url": "https://media.rugbyapi.com/videos/202"
+        },
+        {
+          "createdAtTimestamp": 1700000002,
+          "doFollow": true,
+          "id": 203,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/source/203",
+          "subtitle": "Analysis",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/203.jpg",
+          "title": "Match Preview: Next Fixture",
+          "url": "https://media.rugbyapi.com/videos/203"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":4264}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "createdAtTimestamp": 1698765432,
+          "doFollow": true,
+          "id": 101,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/source/101",
+          "subtitle": "Round 5 Recap",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/101.jpg",
+          "title": "Highlights: Team 4264 vs Rivals",
+          "url": "https://media.rugbyapi.com/videos/101"
+        },
+        {
+          "createdAtTimestamp": 1698765433,
+          "doFollow": false,
+          "id": 102,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/source/102",
+          "subtitle": "Coach's thoughts",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/102.jpg",
+          "title": "Post-match Interview",
+          "url": "https://media.rugbyapi.com/videos/102"
+        },
+        {
+          "createdAtTimestamp": 1698765434,
+          "doFollow": true,
+          "id": 103,
+          "keyHighlight": true,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/source/103",
+          "subtitle": "Best moments",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/103.jpg",
+          "title": "Top Tries of the Season",
+          "url": "https://media.rugbyapi.com/videos/103"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":9876}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "createdAtTimestamp": 1701234567,
+          "doFollow": true,
+          "id": 301,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/source/301",
+          "subtitle": "2023-2024",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/301.jpg",
+          "title": "Team 9876 Season Highlights",
+          "url": "https://media.rugbyapi.com/videos/301"
+        },
+        {
+          "createdAtTimestamp": 1701234568,
+          "doFollow": false,
+          "id": 302,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/source/302",
+          "subtitle": "Medical report",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/302.jpg",
+          "title": "Injury Update",
+          "url": "https://media.rugbyapi.com/videos/302"
+        },
+        {
+          "createdAtTimestamp": 1701234569,
+          "doFollow": true,
+          "id": 303,
+          "keyHighlight": true,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/source/303",
+          "subtitle": "Classic matches",
+          "thumbnailUrl": "https://media.rugbyapi.com/thumbs/303.jpg",
+          "title": "Historic Rivalry: Team 9876 vs Team X",
+          "url": "https://media.rugbyapi.com/videos/303"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "{\"base\":\"usdt\",\"symbol\":\"eth\"}": {
+    "error": "",
+    "response": {
+      "spot": {
+        "metrics": [
+          {
+            "base": "usdt",
+            "market_venue": "binance",
+            "symbol": "eth"
+          },
+          {
+            "base": "usdt",
+            "market_venue": "ftx",
+            "symbol": "eth"
+          }
+        ]
+      }
+    }
+  },
+  "{\"data_type\":\"trades\",\"market_venue\":\"binance\"}": {
+    "error": "",
+    "response": {
+      "spot": {
+        "metrics": [
+          {
+            "base": "usd",
+            "market_venue": "binance",
+            "symbol": "btc"
+          },
+          {
+            "base": "usdt",
+            "market_venue": "binance",
+            "symbol": "eth"
+          },
+          {
+            "base": "usdt",
+            "market_venue": "binance",
+            "symbol": "ada"
+          }
+        ]
+      }
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "spot": {
+        "metrics": [
+          {
+            "base": "usd",
+            "market_venue": "binance",
+            "symbol": "btc"
+          },
+          {
+            "base": "usdt",
+            "market_venue": "ftx",
+            "symbol": "eth"
+          },
+          {
+            "base": "usd",
+            "market_venue": "coinbase",
+            "symbol": "sol"
+          }
+        ]
+      }
+    }
+  }
+}

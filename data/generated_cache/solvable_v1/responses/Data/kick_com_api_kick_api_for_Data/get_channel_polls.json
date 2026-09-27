@@ -1,0 +1,92 @@
+{
+  "{\"channel_name\":\"gmhikaru\"}": {
+    "error": "",
+    "response": {
+      "polls": []
+    }
+  },
+  "{\"channel_name\":\"kaicenat\"}": {
+    "error": "",
+    "response": {
+      "polls": [
+        {
+          "created_at": "2024-05-28T20:00:00Z",
+          "ends_at": "2024-05-28T20:15:00Z",
+          "id": "poll_3b7d55",
+          "options": [
+            {
+              "id": "opt_1",
+              "text": "McDonald's",
+              "votes": 2100
+            },
+            {
+              "id": "opt_2",
+              "text": "Chick-fil-A",
+              "votes": 3400
+            },
+            {
+              "id": "opt_3",
+              "text": "Taco Bell",
+              "votes": 1500
+            }
+          ],
+          "status": "ended",
+          "title": "Best fast food?",
+          "total_votes": 7000
+        },
+        {
+          "created_at": "2024-05-30T15:00:00Z",
+          "ends_at": "2024-05-30T15:30:00Z",
+          "id": "poll_8c1e02",
+          "options": [
+            {
+              "id": "opt_1",
+              "text": "Yes",
+              "votes": 5600
+            },
+            {
+              "id": "opt_2",
+              "text": "No",
+              "votes": 400
+            }
+          ],
+          "status": "ended",
+          "title": "Should I do a subathon?",
+          "total_votes": 6000
+        }
+      ]
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "polls": [
+        {
+          "created_at": "2024-06-01T18:30:00Z",
+          "ends_at": "2024-06-01T19:00:00Z",
+          "id": "poll_9f2a1c",
+          "options": [
+            {
+              "id": "opt_1",
+              "text": "Valorant",
+              "votes": 1245
+            },
+            {
+              "id": "opt_2",
+              "text": "Minecraft",
+              "votes": 987
+            },
+            {
+              "id": "opt_3",
+              "text": "Just Chatting",
+              "votes": 432
+            }
+          ],
+          "status": "active",
+          "title": "What game should I play next?",
+          "total_votes": 2664
+        }
+      ]
+    }
+  }
+}

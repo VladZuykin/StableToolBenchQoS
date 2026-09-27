@@ -1,0 +1,26 @@
+{
+  "{\"output\":\"json\",\"siteurl\":\"https://www.facebook.com\"}": {
+    "error": "",
+    "response": {
+      "accessible": false,
+      "country": "Iran",
+      "siteurl": "https://www.facebook.com",
+      "status": "blocked",
+      "timestamp": "2024-06-11T14:24:12Z"
+    }
+  },
+  "{\"output\":\"json\",\"siteurl\":\"https://www.google.com\"}": {
+    "error": "",
+    "response": {
+      "accessible": true,
+      "country": "Iran",
+      "siteurl": "https://www.google.com",
+      "status": "accessible",
+      "timestamp": "2024-06-11T14:23:05Z"
+    }
+  },
+  "{\"output\":\"xml\",\"siteurl\":\"https://www.wikipedia.org\"}": {
+    "error": "",
+    "response": "<iran_firewall_test><siteurl>https://www.wikipedia.org</siteurl><accessible>true</accessible><status>accessible</status><country>Iran</country><timestamp>2024-06-11T14:25:47Z</timestamp></iran_firewall_test>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "{\"url\":\"https://instagram.com/stories/travelblogger/2987654321098765432/\"}": {
+    "error": "",
+    "response": {
+      "message": "Story retrieved successfully"
+    }
+  },
+  "{\"url\":\"https://www.instagram.com/stories/janedoe/3124567890123456789/\"}": {
+    "error": "",
+    "response": {
+      "message": "Story retrieved successfully"
+    }
+  }
+}

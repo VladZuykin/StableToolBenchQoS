@@ -1,0 +1,80 @@
+{
+  "{\"ticker\":\"JPM\"}": {
+    "error": "",
+    "response": {
+      "analystRating": "Buy",
+      "country": "United States",
+      "currency": "USD",
+      "description": "JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, and Asset & Wealth Management segments.",
+      "dividendYield": 0.0225,
+      "earningsEstimates": {
+        "currentQuarter": 4.1,
+        "currentYear": 16.8,
+        "nextQuarter": 4.25,
+        "nextYear": 17.5
+      },
+      "eps": 16.4,
+      "exchange": "NYSE",
+      "fiftyTwoWeekHigh": 205.88,
+      "fiftyTwoWeekLow": 135.19,
+      "industry": "Banks—Diversified",
+      "marketCap": 580000000000,
+      "name": "JPMorgan Chase & Co.",
+      "peRatio": 12.1,
+      "sector": "Financial Services",
+      "ticker": "JPM"
+    }
+  },
+  "{\"ticker\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "analystRating": "Buy",
+      "country": "United States",
+      "currency": "USD",
+      "description": "Microsoft Corporation is a multinational technology company that develops, licenses, and supports software, services, devices, and solutions worldwide. It operates through Productivity and Business Processes, Intelligent Cloud, and More Personal Computing segments.",
+      "dividendYield": 0.0075,
+      "earningsEstimates": {
+        "currentQuarter": 2.95,
+        "currentYear": 11.85,
+        "nextQuarter": 3.12,
+        "nextYear": 13.4
+      },
+      "eps": 11.8,
+      "exchange": "NASDAQ",
+      "fiftyTwoWeekHigh": 430.82,
+      "fiftyTwoWeekLow": 309.45,
+      "industry": "Software—Infrastructure",
+      "marketCap": 3120000000000,
+      "name": "Microsoft Corporation",
+      "peRatio": 35.2,
+      "sector": "Technology",
+      "ticker": "MSFT"
+    }
+  },
+  "{\"ticker\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "analystRating": "Hold",
+      "country": "United States",
+      "currency": "USD",
+      "description": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems. The company operates in Automotive, and Energy Generation and Storage segments.",
+      "dividendYield": 0,
+      "earningsEstimates": {
+        "currentQuarter": 0.72,
+        "currentYear": 3.65,
+        "nextQuarter": 0.85,
+        "nextYear": 4.5
+      },
+      "eps": 4.3,
+      "exchange": "NASDAQ",
+      "fiftyTwoWeekHigh": 299.29,
+      "fiftyTwoWeekLow": 138.8,
+      "industry": "Auto Manufacturers",
+      "marketCap": 560000000000,
+      "name": "Tesla, Inc.",
+      "peRatio": 42.7,
+      "sector": "Consumer Cyclical",
+      "ticker": "TSLA"
+    }
+  }
+}

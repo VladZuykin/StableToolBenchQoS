@@ -1,0 +1,42 @@
+{
+  "{\"contact_id\":10245}": {
+    "error": "",
+    "response": {
+      "tags": [
+        {
+          "id": 1,
+          "name": "Volunteer"
+        },
+        {
+          "id": 7,
+          "name": "Choir"
+        },
+        {
+          "id": 12,
+          "name": "Youth Ministry"
+        }
+      ]
+    }
+  },
+  "{\"contact_id\":55012}": {
+    "error": "",
+    "response": {
+      "tags": []
+    }
+  },
+  "{\"contact_id\":87301}": {
+    "error": "",
+    "response": {
+      "tags": [
+        {
+          "id": 3,
+          "name": "New Member"
+        },
+        {
+          "id": 9,
+          "name": "Small Group Leader"
+        }
+      ]
+    }
+  }
+}

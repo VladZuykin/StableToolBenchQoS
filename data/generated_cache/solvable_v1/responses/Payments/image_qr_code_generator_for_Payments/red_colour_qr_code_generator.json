@@ -1,0 +1,14 @@
+{
+  "{\"url\":\"https://example.com/promo\"}": {
+    "error": "",
+    "response": {
+      "message": "QR code generated successfully for https://example.com/promo"
+    }
+  },
+  "{\"url\":\"https://myportfolio.dev/contact\"}": {
+    "error": "",
+    "response": {
+      "message": "QR code generated successfully for https://myportfolio.dev/contact"
+    }
+  }
+}

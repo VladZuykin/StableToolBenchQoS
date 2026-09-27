@@ -1,0 +1,95 @@
+{
+  "{\"scan_id\":\"7c9e2d1a-3f4b-4c8d-9e2a-1b5f6a7c8d9e\"}": {
+    "error": "",
+    "response": {
+      "finished_at": "2024-06-11T09:18:47Z",
+      "results": {
+        "emails": [
+          "contact@example.com",
+          "support@example.com",
+          "admin@example.com"
+        ],
+        "ip_addresses": [
+          "93.184.216.34",
+          "93.184.216.35",
+          "2606:2800:220:1:248:1893:25c8:1946"
+        ],
+        "subdomains": [
+          "www.example.com",
+          "mail.example.com",
+          "api.example.com",
+          "dev.example.com"
+        ],
+        "web_technologies": [
+          {
+            "host": "www.example.com",
+            "technologies": [
+              "Nginx",
+              "React",
+              "Cloudflare",
+              "Google Analytics"
+            ]
+          },
+          {
+            "host": "api.example.com",
+            "technologies": [
+              "Node.js",
+              "Express",
+              "PostgreSQL"
+            ]
+          }
+        ]
+      },
+      "scan_id": "7c9e2d1a-3f4b-4c8d-9e2a-1b5f6a7c8d9e",
+      "started_at": "2024-06-11T09:14:22Z",
+      "status": "completed",
+      "target": "example.com"
+    }
+  },
+  "{\"scan_id\":\"a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d\"}": {
+    "error": "",
+    "response": {
+      "finished_at": "2024-07-02T15:09:55Z",
+      "results": {
+        "emails": [
+          "info@acme-corp.io",
+          "security@acme-corp.io"
+        ],
+        "ip_addresses": [
+          "198.51.100.24",
+          "198.51.100.25",
+          "203.0.113.77"
+        ],
+        "subdomains": [
+          "acme-corp.io",
+          "portal.acme-corp.io",
+          "vpn.acme-corp.io",
+          "staging.acme-corp.io",
+          "cdn.acme-corp.io"
+        ],
+        "web_technologies": [
+          {
+            "host": "portal.acme-corp.io",
+            "technologies": [
+              "Apache",
+              "PHP",
+              "jQuery",
+              "Bootstrap"
+            ]
+          },
+          {
+            "host": "cdn.acme-corp.io",
+            "technologies": [
+              "Varnish",
+              "Fastly"
+            ]
+          }
+        ]
+      },
+      "scan_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "started_at": "2024-07-02T15:03:10Z",
+      "status": "completed",
+      "target": "acme-corp.io"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"path\":\"/archive/missing.png\",\"storagename\":\"backup\",\"versionid\":\"1.0\"}": {
+    "error": "",
+    "response": {
+      "Exists": false,
+      "IsFolder": false
+    }
+  },
+  "{\"path\":\"/documents\",\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "Exists": true,
+      "IsFolder": true
+    }
+  },
+  "{\"path\":\"/images/photo.jpg\"}": {
+    "error": "",
+    "response": {
+      "Exists": true,
+      "IsFolder": false
+    }
+  }
+}

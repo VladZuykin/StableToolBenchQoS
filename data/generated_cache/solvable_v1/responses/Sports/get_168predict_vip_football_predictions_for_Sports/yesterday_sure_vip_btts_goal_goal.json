@@ -1,0 +1,40 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "away_team": "Everton",
+        "final_score": "2-1",
+        "home_team": "Arsenal",
+        "kickoff": "2024-05-18T15:00:00Z",
+        "league": "Premier League",
+        "match_id": "168P-2024-05-18-EPL-001",
+        "odds": 1.72,
+        "prediction": "BTTS",
+        "result": "Won"
+      },
+      {
+        "away_team": "Valencia",
+        "final_score": "1-1",
+        "home_team": "Sevilla",
+        "kickoff": "2024-05-18T19:30:00Z",
+        "league": "La Liga",
+        "match_id": "168P-2024-05-18-LAL-014",
+        "odds": 1.65,
+        "prediction": "Goal Goal",
+        "result": "Won"
+      },
+      {
+        "away_team": "Torino",
+        "final_score": "1-0",
+        "home_team": "Lazio",
+        "kickoff": "2024-05-18T17:00:00Z",
+        "league": "Serie A",
+        "match_id": "168P-2024-05-18-SER-007",
+        "odds": 1.8,
+        "prediction": "BTTS",
+        "result": "Lost"
+      }
+    ]
+  }
+}

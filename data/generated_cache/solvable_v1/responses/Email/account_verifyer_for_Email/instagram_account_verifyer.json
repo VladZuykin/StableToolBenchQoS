@@ -1,0 +1,12 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "account_verified": true,
+      "platform": "instagram",
+      "status": "verified",
+      "username": "john_doe",
+      "verified_at": "2024-06-15T10:30:00Z"
+    }
+  }
+}

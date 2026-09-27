@@ -1,0 +1,90 @@
+{
+  "{\"productid\":\"B07XJ8C8F5\"}": {
+    "error": "",
+    "response": {
+      "offers": [
+        {
+          "availability": "In Stock",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "FBA",
+          "price": 899,
+          "seller": "Amazon.in"
+        },
+        {
+          "availability": "In Stock",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "Merchant",
+          "price": 879,
+          "seller": "TechBazaar"
+        }
+      ],
+      "productId": "B07XJ8C8F5"
+    }
+  },
+  "{\"productid\":\"B08N5WRWNW\"}": {
+    "error": "",
+    "response": {
+      "offers": [
+        {
+          "availability": "In Stock",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "FBA",
+          "price": 1499,
+          "seller": "Amazon.in"
+        },
+        {
+          "availability": "In Stock",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "Merchant",
+          "price": 1525,
+          "seller": "RetailNet"
+        },
+        {
+          "availability": "Only 2 left",
+          "condition": "Used - Like New",
+          "currency": "INR",
+          "fulfillment": "Merchant",
+          "price": 1475,
+          "seller": "ShopVerse"
+        }
+      ],
+      "productId": "B08N5WRWNW"
+    }
+  },
+  "{\"productid\":\"B09G9FPHY6\"}": {
+    "error": "",
+    "response": {
+      "offers": [
+        {
+          "availability": "In Stock",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "FBA",
+          "price": 24999,
+          "seller": "Amazon.in"
+        },
+        {
+          "availability": "Usually dispatched in 2-3 days",
+          "condition": "New",
+          "currency": "INR",
+          "fulfillment": "Merchant",
+          "price": 25499,
+          "seller": "GadgetWorld"
+        },
+        {
+          "availability": "In Stock",
+          "condition": "Used - Very Good",
+          "currency": "INR",
+          "fulfillment": "Merchant",
+          "price": 24750,
+          "seller": "PrimeDeals"
+        }
+      ],
+      "productId": "B09G9FPHY6"
+    }
+  }
+}

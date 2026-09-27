@@ -1,0 +1,104 @@
+{
+  "{\"is_id\":12,\"page\":3}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "Alex Michaelides",
+          "category": "True Crime",
+          "id": 301,
+          "pages": 336,
+          "rating": 4.4,
+          "title": "The Silent Patient"
+        },
+        {
+          "author": "Truman Capote",
+          "category": "True Crime",
+          "id": 302,
+          "pages": 343,
+          "rating": 4.7,
+          "title": "In Cold Blood"
+        },
+        {
+          "author": "Ann Rule",
+          "category": "True Crime",
+          "id": 303,
+          "pages": 548,
+          "rating": 4.3,
+          "title": "The Stranger Beside Me"
+        }
+      ],
+      "category_id": 12,
+      "page": 3,
+      "total_pages": 7
+    }
+  },
+  "{\"is_id\":27,\"page\":0}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "Frank Herbert",
+          "category": "Science Fiction",
+          "id": 501,
+          "pages": 412,
+          "rating": 4.9,
+          "title": "Dune"
+        },
+        {
+          "author": "William Gibson",
+          "category": "Science Fiction",
+          "id": 502,
+          "pages": 271,
+          "rating": 4.2,
+          "title": "Neuromancer"
+        },
+        {
+          "author": "Isaac Asimov",
+          "category": "Science Fiction",
+          "id": 503,
+          "pages": 255,
+          "rating": 4.6,
+          "title": "Foundation"
+        }
+      ],
+      "category_id": 27,
+      "page": 0,
+      "total_pages": 15
+    }
+  },
+  "{\"is_id\":5,\"page\":1}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "James Clear",
+          "category": "Personal Growth",
+          "id": 101,
+          "pages": 320,
+          "rating": 4.8,
+          "title": "Atomic Habits"
+        },
+        {
+          "author": "Charles Duhigg",
+          "category": "Personal Growth",
+          "id": 102,
+          "pages": 371,
+          "rating": 4.6,
+          "title": "The Power of Habit"
+        },
+        {
+          "author": "Cal Newport",
+          "category": "Personal Growth",
+          "id": 103,
+          "pages": 296,
+          "rating": 4.5,
+          "title": "Deep Work"
+        }
+      ],
+      "category_id": 5,
+      "page": 1,
+      "total_pages": 12
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "{\"is_id\":\"0TnOYISbd1XYRBk9myaseg\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "profile": {
+            "name": "Pitbull"
+          },
+          "relatedContent": {
+            "discoveredOn": {
+              "items": [
+                {
+                  "description": "The biggest hits of the 2010s",
+                  "id": "37i9dQZF1DX4JAvHpjipBk",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003e0e0e0e0e0e0e0e0e0e0e0e0",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Pop Hits 2010s",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX4JAvHpjipBk"
+                },
+                {
+                  "description": "Party starters for any occasion",
+                  "id": "37i9dQZF1DXaXB8fQg7xif",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003f1f1f1f1f1f1f1f1f1f1f1f1",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Party Hits",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+                }
+              ],
+              "totalCount": 50
+            }
+          },
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "profile": {
+            "name": "The Weeknd"
+          },
+          "relatedContent": {
+            "discoveredOn": {
+              "items": [
+                {
+                  "description": "Late night vibes and moody R&B",
+                  "id": "37i9dQZF1DX2sUQwD7tbmL",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003a2a2a2a2a2a2a2a2a2a2a2a2",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Night Pop",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX2sUQwD7tbmL"
+                },
+                {
+                  "description": "Chart-topping tracks right now",
+                  "id": "37i9dQZF1DXcBWIGoYBM5M",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003b3b3b3b3b3b3b3b3b3b3b3b3",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Today's Top Hits",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+                }
+              ],
+              "totalCount": 50
+            }
+          },
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"6eUKZXaKkcviH0Ku9w2n3V\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "profile": {
+            "name": "Ed Sheeran"
+          },
+          "relatedContent": {
+            "discoveredOn": {
+              "items": [
+                {
+                  "description": "Acoustic favorites and singer-songwriter gems",
+                  "id": "37i9dQZF1DX4WYpdgoIcn6",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003c4c4c4c4c4c4c4c4c4c4c4c4",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Acoustic Hits",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+                },
+                {
+                  "description": "Feel-good songs for sunny days",
+                  "id": "37i9dQZF1DXdPec7aLTmlC",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003d5d5d5d5d5d5d5d5d5d5d5d5",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Happy Hits",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+                }
+              ],
+              "totalCount": 50
+            }
+          },
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      },
+      "extensions": []
+    }
+  }
+}

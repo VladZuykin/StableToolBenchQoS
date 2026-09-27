@@ -1,0 +1,47 @@
+{
+  "{\"count\":20,\"cursor\":\"DAABCgABGXl0aG9uZ2N1cnNvchAA\",\"is_id\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "followers": [
+          {
+            "created_at": "2010-05-12T14:23:45.000Z",
+            "description": "Tech enthusiast and coffee lover",
+            "followers_count": 842,
+            "following_count": 321,
+            "id": "1234567890",
+            "listed_count": 12,
+            "location": "San Francisco, CA",
+            "name": "Jane Doe",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1234567890/avatar_normal.jpg",
+            "protected": false,
+            "tweet_count": 1024,
+            "url": "https://t.co/example",
+            "username": "janedoe",
+            "verified": false
+          },
+          {
+            "created_at": "2012-08-01T09:10:11.000Z",
+            "description": "Software engineer",
+            "followers_count": 15230,
+            "following_count": 410,
+            "id": "2345678901",
+            "listed_count": 98,
+            "location": "New York, NY",
+            "name": "John Smith",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/2345678901/avatar_normal.jpg",
+            "protected": false,
+            "tweet_count": 5321,
+            "url": null,
+            "username": "johnsmith",
+            "verified": true
+          }
+        ],
+        "next_cursor": "DAABCgABGXl0aG9uZ25leHRjdXJzb3IQAA",
+        "previous_cursor": "DAABCgABGXl0aG9uZ3ByZXZjdXJzb3IQAA",
+        "total_count": 2
+      },
+      "errors": []
+    }
+  }
+}

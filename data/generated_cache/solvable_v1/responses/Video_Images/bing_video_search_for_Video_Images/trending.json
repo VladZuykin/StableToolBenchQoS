@@ -1,0 +1,79 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "_type": "Videos",
+      "errors": [],
+      "instrumentation": {
+        "_type": "ResponseInstrumentation",
+        "pageLoadPingUrl": "https://www.bing.com/api/v1/ping?abc"
+      },
+      "value": [
+        {
+          "allowHttpsEmbed": true,
+          "allowMobileEmbed": true,
+          "contentUrl": "https://example.com/video1.mp4",
+          "creator": {
+            "name": "Example Creator"
+          },
+          "description": "A popular trending video.",
+          "duration": "PT3M45S",
+          "embedHtml": "<iframe src=\"https://example.com/embed1\"></iframe>",
+          "encodingFormat": "mp4",
+          "height": 720,
+          "hostPageDisplayUrl": "example.com/watch1",
+          "hostPageUrl": "https://example.com/watch1",
+          "isSuperfresh": false,
+          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.motion1",
+          "name": "Trending Video 1",
+          "publisher": [
+            {
+              "name": "Example Publisher"
+            }
+          ],
+          "thumbnail": {
+            "height": 720,
+            "width": 1280
+          },
+          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.example1",
+          "videoId": "ABC123",
+          "viewCount": 1500000,
+          "webSearchUrl": "https://www.bing.com/videos/search?q=trending+video+1",
+          "width": 1280
+        },
+        {
+          "allowHttpsEmbed": true,
+          "allowMobileEmbed": true,
+          "contentUrl": "https://example.com/video2.mp4",
+          "creator": {
+            "name": "Example Creator 2"
+          },
+          "description": "Another popular trending video.",
+          "duration": "PT5M12S",
+          "embedHtml": "<iframe src=\"https://example.com/embed2\"></iframe>",
+          "encodingFormat": "mp4",
+          "height": 1080,
+          "hostPageDisplayUrl": "example.com/watch2",
+          "hostPageUrl": "https://example.com/watch2",
+          "isSuperfresh": true,
+          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.motion2",
+          "name": "Trending Video 2",
+          "publisher": [
+            {
+              "name": "Example Publisher 2"
+            }
+          ],
+          "thumbnail": {
+            "height": 1080,
+            "width": 1920
+          },
+          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.example2",
+          "videoId": "DEF456",
+          "viewCount": 2300000,
+          "webSearchUrl": "https://www.bing.com/videos/search?q=trending+video+2",
+          "width": 1920
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "{\"gl\":\"gb\",\"google_domain\":\"google.co.uk\",\"hl\":\"en\",\"num\":\"20\",\"page\":2,\"q\":\"running shoes\",\"shopping_merchants\":\"1234567,7654321\",\"shopping_price_max\":\"120\",\"shopping_price_min\":\"50\",\"sort_by\":\"review_score\",\"type\":\"shopping\"}": {
+    "error": "",
+    "response": {
+      "filters": [
+        {
+          "type": "Brand",
+          "values": [
+            "Brooks",
+            "ASICS",
+            "Hoka",
+            "Nike",
+            "Adidas"
+          ]
+        },
+        {
+          "type": "Price",
+          "values": [
+            "£50 - £120"
+          ]
+        }
+      ],
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 1.18
+      },
+      "search_parameters": {
+        "gl": "gb",
+        "google_domain": "google.co.uk",
+        "hl": "en",
+        "q": "running shoes",
+        "type": "shopping"
+      },
+      "shopping_results": [
+        {
+          "condition": "New",
+          "extracted_price": 110.0,
+          "link": "https://www.sportsshoes.com/product/12345",
+          "position": 21,
+          "price": "£110.00",
+          "rating": 4.8,
+          "reviews": 1890,
+          "source": "SportsShoes.com",
+          "thumbnail": "https://serpapi.com/searches/def456/images/thumb21.jpg",
+          "title": "Brooks Ghost 15 Men's Running Shoes"
+        },
+        {
+          "condition": "New",
+          "extracted_price": 95.0,
+          "link": "https://www.asics.com/gb/en-gb/gel-nimbus-25",
+          "position": 22,
+          "price": "£95.00",
+          "rating": 4.7,
+          "reviews": 2450,
+          "source": "ASICS",
+          "thumbnail": "https://serpapi.com/searches/def456/images/thumb22.jpg",
+          "title": "ASICS Gel-Nimbus 25 Women's Running Shoes"
+        },
+        {
+          "condition": "New",
+          "extracted_price": 119.99,
+          "link": "https://www.hoka.com/en/gb/clifton-9",
+          "position": 23,
+          "price": "£119.99",
+          "rating": 4.6,
+          "reviews": 980,
+          "source": "Hoka",
+          "thumbnail": "https://serpapi.com/searches/def456/images/thumb23.jpg",
+          "title": "Hoka Clifton 9 Running Shoes"
+        }
+      ]
+    }
+  },
+  "{\"location\":\"Austin, Texas, United States\",\"location_auto\":false,\"num\":\"30\",\"page\":1,\"q\":\"vintage vinyl records\",\"shopping_buy_on_google\":true,\"shopping_condition\":\"used\",\"sort_by\":\"relevance\",\"type\":\"shopping\"}": {
+    "error": "",
+    "response": {
+      "filters": [
+        {
+          "type": "Condition",
+          "values": [
+            "Used"
+          ]
+        },
+        {
+          "type": "Seller",
+          "values": [
+            "eBay",
+            "Discogs",
+            "Amazon"
+          ]
+        }
+      ],
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 1.65
+      },
+      "search_parameters": {
+        "gl": "us",
+        "google_domain": "google.com",
+        "hl": "en",
+        "location": "Austin, Texas, United States",
+        "q": "vintage vinyl records",
+        "type": "shopping"
+      },
+      "shopping_results": [
+        {
+          "condition": "Used",
+          "extracted_price": 24.99,
+          "link": "https://www.ebay.com/itm/123456789",
+          "position": 1,
+          "price": "$24.99",
+          "rating": 4.9,
+          "reviews": 312,
+          "source": "eBay",
+          "thumbnail": "https://serpapi.com/searches/ghi789/images/thumb1.jpg",
+          "title": "The Beatles - Abbey Road Vinyl LP (Used)"
+        },
+        {
+          "condition": "Used",
+          "extracted_price": 29.5,
+          "link": "https://www.discogs.com/sell/item/987654321",
+          "position": 2,
+          "price": "$29.50",
+          "rating": 4.8,
+          "reviews": 205,
+          "source": "Discogs",
+          "thumbnail": "https://serpapi.com/searches/ghi789/images/thumb2.jpg",
+          "title": "Pink Floyd - The Dark Side of the Moon Vinyl (Used)"
+        },
+        {
+          "condition": "Used",
+          "extracted_price": 19.99,
+          "link": "https://www.ebay.com/itm/987654321",
+          "position": 3,
+          "price": "$19.99",
+          "rating": 4.7,
+          "reviews": 178,
+          "source": "eBay",
+          "thumbnail": "https://serpapi.com/searches/ghi789/images/thumb3.jpg",
+          "title": "Fleetwood Mac - Rumours Vinyl LP (Used)"
+        }
+      ]
+    }
+  },
+  "{\"location\":\"New York, New York, United States\",\"num\":\"40\",\"page\":1,\"q\":\"wireless noise cancelling headphones\",\"shopping_condition\":\"new\",\"shopping_price_max\":\"300\",\"sort_by\":\"price_low_to_high\",\"type\":\"shopping\"}": {
+    "error": "",
+    "response": {
+      "filters": [
+        {
+          "type": "Brand",
+          "values": [
+            "Sony",
+            "Anker",
+            "JBL",
+            "Bose",
+            "Apple"
+          ]
+        },
+        {
+          "type": "Condition",
+          "values": [
+            "New",
+            "Used"
+          ]
+        }
+      ],
+      "search_metadata": {
+        "status": "Success",
+        "total_time_taken": 1.42
+      },
+      "search_parameters": {
+        "gl": "us",
+        "google_domain": "google.com",
+        "hl": "en",
+        "location": "New York, New York, United States",
+        "q": "wireless noise cancelling headphones",
+        "type": "shopping"
+      },
+      "shopping_results": [
+        {
+          "condition": "New",
+          "extracted_price": 148.0,
+          "link": "https://www.bestbuy.com/site/sony-wh-ch720n/6533165.p",
+          "position": 1,
+          "price": "$148.00",
+          "rating": 4.6,
+          "reviews": 8214,
+          "source": "Best Buy",
+          "thumbnail": "https://serpapi.com/searches/abc123/images/thumb1.jpg",
+          "title": "Sony WH-CH720N Noise Canceling Wireless Headphones"
+        },
+        {
+          "condition": "New",
+          "extracted_price": 79.99,
+          "link": "https://www.amazon.com/dp/B08HMWZBXC",
+          "position": 2,
+          "price": "$79.99",
+          "rating": 4.7,
+          "reviews": 45210,
+          "source": "Amazon.com",
+          "thumbnail": "https://serpapi.com/searches/abc123/images/thumb2.jpg",
+          "title": "Anker Soundcore Life Q30 Hybrid Active Noise Cancelling Headphones"
+        },
+        {
+          "condition": "New",
+          "extracted_price": 99.95,
+          "link": "https://www.walmart.com/ip/123456789",
+          "position": 3,
+          "price": "$99.95",
+          "rating": 4.5,
+          "reviews": 3120,
+          "source": "Walmart",
+          "thumbnail": "https://serpapi.com/searches/abc123/images/thumb3.jpg",
+          "title": "JBL Tune 770NC Wireless Over-Ear Noise Cancelling Headphones"
+        }
+      ]
+    }
+  }
+}

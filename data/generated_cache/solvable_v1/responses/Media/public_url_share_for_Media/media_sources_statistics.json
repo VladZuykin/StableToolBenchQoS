@@ -1,0 +1,18 @@
+{
+  "{\"apikey\":\"demo_apikey_1\"}": {
+    "error": "",
+    "response": {
+      "message": "Media sources statistics retrieved successfully",
+      "status": 200,
+      "timestamp": 1717512000
+    }
+  },
+  "{\"apikey\":\"demo_apikey_2\"}": {
+    "error": "",
+    "response": {
+      "message": "Media sources statistics retrieved successfully",
+      "status": 200,
+      "timestamp": 1717425600
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "{\"teamids\":\"111\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "teams": [
+          {
+            "_list_length": 9,
+            "abbreviation": "BOS",
+            "active": true,
+            "allStarStatus": "N",
+            "clubName": "Boston Red Sox",
+            "division": {
+              "id": 201,
+              "name": "American League East"
+            },
+            "fileCode": "bos",
+            "firstYearOfPlay": "1901",
+            "franchiseName": "Boston Red Sox",
+            "id": 111,
+            "league": {
+              "id": 103,
+              "name": "American League"
+            },
+            "locationName": "Boston",
+            "name": "Boston Red Sox",
+            "season": 2024,
+            "shortName": "Boston",
+            "sport": {
+              "id": 1,
+              "name": "Major League Baseball"
+            },
+            "springLeague": {
+              "abbreviation": "Grapefruit",
+              "id": 114,
+              "name": "Grapefruit League"
+            },
+            "springVenue": {
+              "id": 4309
+            },
+            "teamCode": "bos",
+            "teamName": "Red Sox",
+            "venue": {
+              "id": 3,
+              "name": "Fenway Park"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "{\"teamids\":\"147\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "teams": [
+          {
+            "_list_length": 9,
+            "abbreviation": "NYY",
+            "active": true,
+            "allStarStatus": "N",
+            "clubName": "New York Yankees",
+            "division": {
+              "id": 201,
+              "name": "American League East"
+            },
+            "fileCode": "nyy",
+            "firstYearOfPlay": "1903",
+            "franchiseName": "New York Yankees",
+            "id": 147,
+            "league": {
+              "id": 103,
+              "name": "American League"
+            },
+            "locationName": "Bronx",
+            "name": "New York Yankees",
+            "season": 2024,
+            "shortName": "NY Yankees",
+            "sport": {
+              "id": 1,
+              "name": "Major League Baseball"
+            },
+            "springLeague": {
+              "abbreviation": "Grapefruit",
+              "id": 114,
+              "name": "Grapefruit League"
+            },
+            "springVenue": {
+              "id": 2523
+            },
+            "teamCode": "nya",
+            "teamName": "Yankees",
+            "venue": {
+              "id": 1,
+              "name": "Yankee Stadium"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

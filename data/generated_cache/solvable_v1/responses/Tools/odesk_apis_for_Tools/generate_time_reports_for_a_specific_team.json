@@ -1,0 +1,92 @@
+{
+  "{\"company\":12345,\"format\":\"json\",\"team\":34567,\"tq\":\"SELECT worked_on, provider_id, provider_name, sum(hours) WHERE worked_on >= '2010-01-01' AND worked_on <= '2010-01-31'\"}": {
+    "error": "",
+    "response": {
+      "reqId": "0",
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "A",
+            "label": "worked_on",
+            "type": "date"
+          },
+          {
+            "id": "B",
+            "label": "provider_id",
+            "type": "number"
+          },
+          {
+            "id": "C",
+            "label": "provider_name",
+            "type": "string"
+          },
+          {
+            "id": "D",
+            "label": "sum(hours)",
+            "type": "number"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "Date(2010,0,4)"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": "John Smith"
+              },
+              {
+                "v": 6.5
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "Date(2010,0,5)"
+              },
+              {
+                "v": 1002
+              },
+              {
+                "v": "Maria Lopez"
+              },
+              {
+                "v": 8
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "Date(2010,0,11)"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": "John Smith"
+              },
+              {
+                "v": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      "version": "0.6"
+    }
+  },
+  "{\"company\":55555,\"format\":\"xml\",\"team\":67890,\"tq\":\"SELECT worked_on, provider_id, provider_name, sum(hours) WHERE worked_on >= '2012-03-01' AND worked_on <= '2012-03-31'\"}": {
+    "error": "",
+    "response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<response>\n  <version>0.6</version>\n  <reqId>0</reqId>\n  <status>ok</status>\n  <table>\n    <cols>\n      <col id=\"A\" label=\"worked_on\" type=\"date\"/>\n      <col id=\"B\" label=\"provider_id\" type=\"number\"/>\n      <col id=\"C\" label=\"provider_name\" type=\"string\"/>\n      <col id=\"D\" label=\"sum(hours)\" type=\"number\"/>\n    </cols>\n    <rows>\n      <row><c><v>Date(2012,2,5)</v></c><c><v>3011</v></c><c><v>Robert Fox</v></c><c><v>5.5</v></c></row>\n      <row><c><v>Date(2012,2,12)</v></c><c><v>3012</v></c><c><v>Elena Petrova</v></c><c><v>8</v></c></row>\n      <row><c><v>Date(2012,2,19)</v></c><c><v>3011</v></c><c><v>Robert Fox</v></c><c><v>7.75</v></c></row>\n    </rows>\n  </table>\n</response>\n"
+  },
+  "{\"company\":98765,\"format\":\"csv\",\"team\":11223,\"tq\":\"SELECT worked_on, provider_id, provider_name, sum(hours) WHERE worked_on >= '2011-06-01' AND worked_on <= '2011-06-30'\"}": {
+    "error": "",
+    "response": "worked_on,provider_id,provider_name,sum(hours)\n2011-06-02,2045,Alice Chen,7.5\n2011-06-03,2046,David Kim,8\n2011-06-09,2045,Alice Chen,3.25\n2011-06-15,2047,Priya Nair,6\n"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "{\"dsrmode\":1,\"folder\":\"invoices/2024\",\"language\":2,\"name\":\"invoice_scan.png\",\"resulttype\":3,\"skewcorrect\":false,\"storage\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "Code": "OK",
+      "Hocr": "<div class='ocr_page' id='page_1'><span class='ocr_line'>INVOICE</span><span class='ocr_line'>Invoice No: 2024-0451</span></div>",
+      "Pdf": "JVBERi0xLjQKJcOkw7zDtsOfCjIgMCBvYmoKPDwvTGVuZ3RoIDMgMCBSL0Zp...",
+      "Text": "INVOICE\nInvoice No: 2024-0451\nDate: 2024-03-15\nTotal: $1,250.00"
+    }
+  },
+  "{\"dsrmode\":2,\"language\":5,\"name\":\"receipt_2024.jpg\",\"resulttype\":1,\"skewcorrect\":true}": {
+    "error": "",
+    "response": {
+      "Code": "OK",
+      "Text": "RECEIPT\nStore: Green Market\nItems: 3\nSubtotal: $42.75\nTax: $3.42\nTotal: $46.17\nThank you for your purchase!"
+    }
+  }
+}

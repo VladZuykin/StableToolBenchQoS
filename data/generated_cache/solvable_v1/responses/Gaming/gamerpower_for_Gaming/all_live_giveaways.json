@@ -1,0 +1,43 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "description": "Fall Guys is a massively multiplayer party game with up to 60 online players in a series of chaotic challenges.",
+        "end_date": "2024-05-23 12:00:00",
+        "gamerpower_url": "https://www.gamerpower.com/fall-guys-ultimate-knockout",
+        "id": 1234,
+        "image": "https://www.gamerpower.com/offers/1b/fall-guys-ultimate-knockout.jpg",
+        "instructions": "Log in to your Epic Games account and claim the game from the store page.",
+        "open_giveaway": "https://www.gamerpower.com/open/fall-guys-ultimate-knockout",
+        "open_giveaway_url": "https://www.gamerpower.com/open/fall-guys-ultimate-knockout",
+        "platforms": "PC, PlayStation, Xbox",
+        "published_date": "2024-05-16 12:00:00",
+        "status": "Active",
+        "thumbnail": "https://www.gamerpower.com/offers/1/fall-guys-ultimate-knockout.jpg",
+        "title": "Fall Guys: Ultimate Knockout",
+        "type": "Game",
+        "users": 152340,
+        "worth": "$19.99"
+      },
+      {
+        "description": "Claim a free bundle of Primogems and in-game resources for Genshin Impact.",
+        "end_date": "2024-06-01 09:30:00",
+        "gamerpower_url": "https://www.gamerpower.com/genshin-impact-primogem-bundle",
+        "id": 5678,
+        "image": "https://www.gamerpower.com/offers/1b/genshin-impact-primogem-bundle.jpg",
+        "instructions": "Open the game, go to the mail section, and claim the bundle before it expires.",
+        "open_giveaway": "https://www.gamerpower.com/open/genshin-impact-primogem-bundle",
+        "open_giveaway_url": "https://www.gamerpower.com/open/genshin-impact-primogem-bundle",
+        "platforms": "PC, Android, iOS, PlayStation",
+        "published_date": "2024-05-18 09:30:00",
+        "status": "Active",
+        "thumbnail": "https://www.gamerpower.com/offers/1/genshin-impact-primogem-bundle.jpg",
+        "title": "Genshin Impact: Primogem Bundle",
+        "type": "DLC",
+        "users": 98765,
+        "worth": "$9.99"
+      }
+    ]
+  }
+}

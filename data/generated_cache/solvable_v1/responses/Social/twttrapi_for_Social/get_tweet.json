@@ -1,0 +1,119 @@
+{
+  "{\"tweet_id\":\"1652849795336159233\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "tweet_result": {
+          "result": {
+            "__typename": "Tweet",
+            "conversation_muted": false,
+            "core": {
+              "user_result": {
+                "result": {
+                  "__typename": "User",
+                  "is_blue_verified": true,
+                  "legacy": {
+                    "created_at": "Wed May 15 12:34:56 +0000 2019",
+                    "description": "Tech enthusiast and developer.",
+                    "followers_count": 1234,
+                    "friends_count": 567,
+                    "id_str": "1234567890",
+                    "name": "John Doe",
+                    "screen_name": "johndoe"
+                  }
+                }
+              }
+            },
+            "legacy": {
+              "created_at": "Thu Jun 01 08:00:00 +0000 2023",
+              "favorite_count": 42,
+              "full_text": "Excited to share my new project! #coding",
+              "id_str": "1652849795336159233",
+              "lang": "en",
+              "reply_count": 5,
+              "retweet_count": 10
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"tweet_id\":\"1652849795336159234\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "tweet_result": {
+          "result": {
+            "__typename": "Tweet",
+            "conversation_muted": true,
+            "core": {
+              "user_result": {
+                "result": {
+                  "__typename": "User",
+                  "is_blue_verified": false,
+                  "legacy": {
+                    "created_at": "Mon Jan 01 00:00:00 +0000 2018",
+                    "description": "Just a regular user.",
+                    "followers_count": 100,
+                    "friends_count": 200,
+                    "id_str": "9876543210",
+                    "name": "Jane Smith",
+                    "screen_name": "janesmith"
+                  }
+                }
+              }
+            },
+            "legacy": {
+              "created_at": "Fri Jun 02 09:15:00 +0000 2023",
+              "favorite_count": 15,
+              "full_text": "Beautiful sunset today!",
+              "id_str": "1652849795336159234",
+              "lang": "en",
+              "reply_count": 2,
+              "retweet_count": 3
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"tweet_id\":\"1652849795336159235\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "tweet_result": {
+          "result": {
+            "__typename": "Tweet",
+            "conversation_muted": false,
+            "core": {
+              "user_result": {
+                "result": {
+                  "__typename": "User",
+                  "is_blue_verified": true,
+                  "legacy": {
+                    "created_at": "Tue Mar 10 14:20:00 +0000 2020",
+                    "description": "News and updates.",
+                    "followers_count": 5000,
+                    "friends_count": 300,
+                    "id_str": "1122334455",
+                    "name": "News Bot",
+                    "screen_name": "newsbot"
+                  }
+                }
+              }
+            },
+            "legacy": {
+              "created_at": "Sat Jun 03 10:30:00 +0000 2023",
+              "favorite_count": 100,
+              "full_text": "Breaking: New technology announced!",
+              "id_str": "1652849795336159235",
+              "lang": "en",
+              "reply_count": 20,
+              "retweet_count": 50
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "{\"limit\":\"10\",\"orderby\":\"asc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "2:58",
+        "game": "Jet Set Radio",
+        "id": 2,
+        "name": "Let Mom Sleep",
+        "stats": {
+          "bpm": 128,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:05",
+        "game": "Jet Set Radio",
+        "id": 5,
+        "name": "That's Enough",
+        "stats": {
+          "bpm": 130,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:12",
+        "game": "Jet Set Radio",
+        "id": 1,
+        "name": "Grace & Glory",
+        "stats": {
+          "bpm": 132,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:15",
+        "game": "Jet Set Radio",
+        "id": 7,
+        "name": "Miller Ball Breakers",
+        "stats": {
+          "bpm": 134,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:30",
+        "game": "Jet Set Radio",
+        "id": 4,
+        "name": "Sneakman",
+        "stats": {
+          "bpm": 136,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:40",
+        "game": "Jet Set Radio",
+        "id": 12,
+        "name": "Rock It On",
+        "stats": {
+          "bpm": 138,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:45",
+        "game": "Jet Set Radio",
+        "id": 3,
+        "name": "Humming the Bassline",
+        "stats": {
+          "bpm": 140,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:22",
+        "game": "Jet Set Radio Future",
+        "id": 18,
+        "name": "Sweet Soul Brother",
+        "stats": {
+          "bpm": 124,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:50",
+        "game": "Jet Set Radio Future",
+        "id": 21,
+        "name": "The Concept of Love",
+        "stats": {
+          "bpm": 142,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:08",
+        "game": "Jet Set Radio Future",
+        "id": 25,
+        "name": "Fly Like a Butterfly",
+        "stats": {
+          "bpm": 126,
+          "plays": 0
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"desc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:22",
+        "game": "Jet Set Radio Future",
+        "id": 18,
+        "name": "Sweet Soul Brother",
+        "stats": {
+          "bpm": 124,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:40",
+        "game": "Jet Set Radio",
+        "id": 12,
+        "name": "Rock It On",
+        "stats": {
+          "bpm": 138,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:15",
+        "game": "Jet Set Radio",
+        "id": 7,
+        "name": "Miller Ball Breakers",
+        "stats": {
+          "bpm": 134,
+          "plays": 0
+        }
+      }
+    ]
+  },
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:12",
+        "game": "Jet Set Radio",
+        "id": 1,
+        "name": "Grace & Glory",
+        "stats": {
+          "bpm": 132,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "2:58",
+        "game": "Jet Set Radio",
+        "id": 2,
+        "name": "Let Mom Sleep",
+        "stats": {
+          "bpm": 128,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:45",
+        "game": "Jet Set Radio",
+        "id": 3,
+        "name": "Humming the Bassline",
+        "stats": {
+          "bpm": 140,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:30",
+        "game": "Jet Set Radio",
+        "id": 4,
+        "name": "Sneakman",
+        "stats": {
+          "bpm": 136,
+          "plays": 0
+        }
+      },
+      {
+        "artist": "Hideki Naganuma",
+        "duration": "3:05",
+        "game": "Jet Set Radio",
+        "id": 5,
+        "name": "That's Enough",
+        "stats": {
+          "bpm": 130,
+          "plays": 0
+        }
+      }
+    ]
+  }
+}

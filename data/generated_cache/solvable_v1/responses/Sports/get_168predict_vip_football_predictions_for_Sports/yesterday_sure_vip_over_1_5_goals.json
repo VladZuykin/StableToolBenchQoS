@@ -1,0 +1,67 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "away_team": "Chelsea",
+        "final_score": "2-1",
+        "home_team": "Arsenal",
+        "kickoff": "2024-05-14T19:45:00Z",
+        "league": "Premier League",
+        "match_id": "168P-2024-05-14-001",
+        "odds": 1.28,
+        "prediction": "Over 1.5 Goals",
+        "result": "Won",
+        "total_goals": 3
+      },
+      {
+        "away_team": "Sevilla",
+        "final_score": "3-0",
+        "home_team": "Real Madrid",
+        "kickoff": "2024-05-14T20:00:00Z",
+        "league": "La Liga",
+        "match_id": "168P-2024-05-14-002",
+        "odds": 1.22,
+        "prediction": "Over 1.5 Goals",
+        "result": "Won",
+        "total_goals": 3
+      },
+      {
+        "away_team": "Napoli",
+        "final_score": "1-1",
+        "home_team": "Inter Milan",
+        "kickoff": "2024-05-14T18:30:00Z",
+        "league": "Serie A",
+        "match_id": "168P-2024-05-14-003",
+        "odds": 1.35,
+        "prediction": "Over 1.5 Goals",
+        "result": "Won",
+        "total_goals": 2
+      },
+      {
+        "away_team": "Borussia Dortmund",
+        "final_score": "2-2",
+        "home_team": "Bayern Munich",
+        "kickoff": "2024-05-14T17:30:00Z",
+        "league": "Bundesliga",
+        "match_id": "168P-2024-05-14-004",
+        "odds": 1.18,
+        "prediction": "Over 1.5 Goals",
+        "result": "Won",
+        "total_goals": 4
+      },
+      {
+        "away_team": "Marseille",
+        "final_score": "1-0",
+        "home_team": "Paris Saint-Germain",
+        "kickoff": "2024-05-14T20:00:00Z",
+        "league": "Ligue 1",
+        "match_id": "168P-2024-05-14-005",
+        "odds": 1.25,
+        "prediction": "Over 1.5 Goals",
+        "result": "Lost",
+        "total_goals": 1
+      }
+    ]
+  }
+}

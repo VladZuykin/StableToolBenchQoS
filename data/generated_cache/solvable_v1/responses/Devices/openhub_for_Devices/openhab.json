@@ -1,0 +1,31 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "devices": [
+        {
+          "brightness": 75,
+          "id": "light.kitchen",
+          "label": "Kitchen Light",
+          "state": "ON",
+          "type": "Light"
+        },
+        {
+          "id": "thermostat.living_room",
+          "label": "Living Room Thermostat",
+          "state": "HEAT",
+          "targetTemperature": 22.0,
+          "temperature": 21.5,
+          "type": "Thermostat"
+        },
+        {
+          "id": "sensor.front_door",
+          "label": "Front Door Sensor",
+          "state": "CLOSED",
+          "type": "Contact"
+        }
+      ],
+      "status": "ok"
+    }
+  }
+}

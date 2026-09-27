@@ -1,0 +1,53 @@
+{
+  "{\"data_type\":\"mixed\",\"size\":3}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomArray",
+      "parameters": [
+        {
+          "name": "data_type",
+          "value": "mixed"
+        },
+        {
+          "name": "size",
+          "value": 3
+        }
+      ],
+      "response": [
+        15,
+        "apple",
+        true
+      ],
+      "results": 3
+    }
+  },
+  "{\"data_type\":\"number\",\"size\":8}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomArray",
+      "parameters": [
+        {
+          "name": "data_type",
+          "value": "number"
+        },
+        {
+          "name": "size",
+          "value": 8
+        }
+      ],
+      "response": [
+        42,
+        7,
+        19,
+        88,
+        3,
+        56,
+        71,
+        24
+      ],
+      "results": 8
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://cdn.discordapp.com/avatars/123456789/abcdef.webp\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/fedora/9a1b2c3d4e.webp",
+      "message": "Successfully applied fedora image filter"
+    }
+  },
+  "{\"url\":\"https://example.com/images/fedora-logo.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/fedora/8f3a2b1c9d.png",
+      "message": "Successfully applied fedora image filter"
+    }
+  },
+  "{\"url\":\"https://i.imgur.com/avatar123.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/fedora/5e7d4c2a1b.jpg",
+      "message": "Successfully applied fedora image filter"
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "{\"city_name\":\"London\",\"country_code\":\"GB\",\"limit\":5}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/GB/tracks?city=London&limit=5&offset=5",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "159260351",
+              "alias": "Harry Styles",
+              "follow": {
+                "followkey": "artist-159260351"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/159260351/harry-styles",
+            "relatedhighlightsurl": "https://www.shazam.com/track/123456789/as-it-was"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "uri"
+              },
+              {
+                "_list_length": 2,
+                "id": "share",
+                "name": "Share",
+                "type": "uri"
+              }
+            ],
+            "displayname": "As It Was",
+            "explicit": false,
+            "image": "https://images.shazam.com/coverart/t123456789-b123456789_s400.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "uri",
+                    "uri": "shazam://play/track/123456789"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "As It Was",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/coverart/t123456789-b123456789_s400.jpg",
+                "listcaption": "As It Was",
+                "overflowimage": "https://images.shazam.com/coverart/t123456789-b123456789_s400.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background/t123456789-b123456789.jpg",
+            "coverart": "https://images.shazam.com/coverart/t123456789-b123456789_s400.jpg",
+            "coverarthq": "https://images.shazam.com/coverart/t123456789-b123456789_s800.jpg",
+            "joecolor": "b3c1d1:1a2b3c:4d5e6f"
+          },
+          "key": "123456789",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/123456789/as-it-was",
+            "html": "<iframe src=\"https://www.shazam.com/embed/track/123456789\"></iframe>",
+            "image": "https://images.shazam.com/coverart/t123456789-b123456789_s400.jpg",
+            "snapchat": "https://www.shazam.com/track/123456789/as-it-was",
+            "subject": "As It Was - Harry Styles",
+            "text": "As It Was by Harry Styles",
+            "twitter": "https://www.shazam.com/track/123456789/as-it-was"
+          },
+          "subtitle": "Harry Styles"
+        }
+      ]
+    }
+  },
+  "{\"city_name\":\"New York\",\"country_code\":\"US\"}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/US/tracks?city=New%20York&limit=2&offset=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "1224651019",
+              "alias": "Miley Cyrus",
+              "follow": {
+                "followkey": "artist-1224651019"
+              },
+              "id": "1224651019"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/1224651019/miley-cyrus",
+            "relatedhighlightsurl": "https://www.shazam.com/track/987654321/flowers"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "uri"
+              },
+              {
+                "_list_length": 2,
+                "id": "share",
+                "name": "Share",
+                "type": "uri"
+              }
+            ],
+            "displayname": "Flowers",
+            "explicit": false,
+            "image": "https://images.shazam.com/coverart/t987654321-b987654321_s400.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "uri",
+                    "uri": "shazam://play/track/987654321"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "Flowers",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/coverart/t987654321-b987654321_s400.jpg",
+                "listcaption": "Flowers",
+                "overflowimage": "https://images.shazam.com/coverart/t987654321-b987654321_s400.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background/t987654321-b987654321.jpg",
+            "coverart": "https://images.shazam.com/coverart/t987654321-b987654321_s400.jpg",
+            "coverarthq": "https://images.shazam.com/coverart/t987654321-b987654321_s800.jpg",
+            "joecolor": "d1c1b3:3c2b1a:6f5e4d"
+          },
+          "key": "987654321",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/987654321/flowers",
+            "html": "<iframe src=\"https://www.shazam.com/embed/track/987654321\"></iframe>",
+            "image": "https://images.shazam.com/coverart/t987654321-b987654321_s400.jpg",
+            "snapchat": "https://www.shazam.com/track/987654321/flowers",
+            "subject": "Flowers - Miley Cyrus",
+            "text": "Flowers by Miley Cyrus",
+            "twitter": "https://www.shazam.com/track/987654321/flowers"
+          },
+          "subtitle": "Miley Cyrus"
+        }
+      ]
+    }
+  },
+  "{\"city_name\":\"Tokyo\",\"country_code\":\"JP\",\"limit\":10}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/JP/tracks?city=Tokyo&limit=10&offset=10",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "1440857781",
+              "alias": "YOASOBI",
+              "follow": {
+                "followkey": "artist-1440857781"
+              },
+              "id": "1440857781"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/1440857781/yoasobi",
+            "relatedhighlightsurl": "https://www.shazam.com/track/555555555/idol"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "uri"
+              },
+              {
+                "_list_length": 2,
+                "id": "share",
+                "name": "Share",
+                "type": "uri"
+              }
+            ],
+            "displayname": "Idol",
+            "explicit": false,
+            "image": "https://images.shazam.com/coverart/t555555555-b555555555_s400.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "uri",
+                    "uri": "shazam://play/track/555555555"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "Idol",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/coverart/t555555555-b555555555_s400.jpg",
+                "listcaption": "Idol",
+                "overflowimage": "https://images.shazam.com/coverart/t555555555-b555555555_s400.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background/t555555555-b555555555.jpg",
+            "coverart": "https://images.shazam.com/coverart/t555555555-b555555555_s400.jpg",
+            "coverarthq": "https://images.shazam.com/coverart/t555555555-b555555555_s800.jpg",
+            "joecolor": "c1d1b3:2b3c1a:5e6f4d"
+          },
+          "key": "555555555",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/555555555/idol",
+            "html": "<iframe src=\"https://www.shazam.com/embed/track/555555555\"></iframe>",
+            "image": "https://images.shazam.com/coverart/t555555555-b555555555_s400.jpg",
+            "snapchat": "https://www.shazam.com/track/555555555/idol",
+            "subject": "Idol - YOASOBI",
+            "text": "Idol by YOASOBI",
+            "twitter": "https://www.shazam.com/track/555555555/idol"
+          },
+          "subtitle": "YOASOBI"
+        }
+      ]
+    }
+  }
+}

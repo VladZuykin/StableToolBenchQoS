@@ -1,0 +1,17 @@
+{
+  "{\"api_index\":false,\"isin\":\"DE0007164600\"}": {
+    "error": "",
+    "response": {
+      "country": "Germany",
+      "currency": "EUR",
+      "indizes": "DAX",
+      "isin": "DE0007164600",
+      "lastbalanceupdate": "2023-09-30",
+      "name": "SAP SE",
+      "sector": "Information Technology",
+      "shareuid": "DE0007164600_SAP",
+      "shortname": "SAP",
+      "wkn": "716460"
+    }
+  }
+}

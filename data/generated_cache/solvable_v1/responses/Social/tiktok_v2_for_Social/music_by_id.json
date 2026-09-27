@@ -1,0 +1,197 @@
+{
+  "{\"is_id\":\"6548327243720952577\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar1.jpg",
+          "digg": 300,
+          "fans": 5400,
+          "following": 120,
+          "heart": 23000,
+          "id": "6789012345678901234",
+          "name": "musiclover",
+          "nickName": "Music Lover",
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Just vibing",
+          "verified": false,
+          "video": 45
+        },
+        "commentCount": 80,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover1.jpg",
+          "dynamic": "https://p16-sign-va.tiktokcdn.com/cover3.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover2.jpg"
+        },
+        "createTime": 1698765432,
+        "diggCount": 1200,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag1.jpg",
+            "id": "12345",
+            "name": "fyp",
+            "title": "For You Page"
+          }
+        ],
+        "id": "6548327243720952577",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music3.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music2.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music1.jpg",
+          "duration": 30,
+          "musicAlbum": "Summer Hits",
+          "musicAuthor": "DJ Sun",
+          "musicId": "6548327243720952577",
+          "musicName": "Summer Vibes",
+          "musicOriginal": true,
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-music/6548327243720952577.mp3"
+        },
+        "playCount": 15000,
+        "secretID": "secret123",
+        "shareCount": 300,
+        "text": "#fyp #viral",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video1_no_watermark.mp4",
+        "videoMeta": {
+          "duration": 15,
+          "height": 1024,
+          "width": 576
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video1.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video1_no_watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@musiclover/video/6548327243720952577"
+      }
+    ]
+  },
+  "{\"is_id\":\"6987654321098765432\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar3.jpg",
+          "digg": 200,
+          "fans": 3000,
+          "following": 80,
+          "heart": 15000,
+          "id": "6987654321098765432",
+          "name": "chillhop",
+          "nickName": "Chill Hop",
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Relaxing music",
+          "verified": false,
+          "video": 30
+        },
+        "commentCount": 50,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover7.jpg",
+          "dynamic": "https://p16-sign-va.tiktokcdn.com/cover9.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover8.jpg"
+        },
+        "createTime": 1690000000,
+        "diggCount": 800,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag3.jpg",
+            "id": "11111",
+            "name": "chill",
+            "title": "Chill"
+          }
+        ],
+        "id": "6987654321098765432",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music9.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music8.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music7.jpg",
+          "duration": 60,
+          "musicAlbum": "Chill Vibes",
+          "musicAuthor": "Chill Hop",
+          "musicId": "6987654321098765432",
+          "musicName": "Chill Beat",
+          "musicOriginal": false,
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-music/6987654321098765432.mp3"
+        },
+        "playCount": 10000,
+        "secretID": "secret789",
+        "shareCount": 200,
+        "text": "Chill beats",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video3_no_watermark.mp4",
+        "videoMeta": {
+          "duration": 30,
+          "height": 720,
+          "width": 1280
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video3.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video3_no_watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@chillhop/video/6987654321098765432"
+      }
+    ]
+  },
+  "{\"is_id\":\"7123456789012345678\",\"url\":\"https://www.tiktok.com/music/original-sound-7123456789012345678\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar2.jpg",
+          "digg": 500,
+          "fans": 10000,
+          "following": 200,
+          "heart": 50000,
+          "id": "7123456789012345678",
+          "name": "dancer",
+          "nickName": "Dancer",
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Dance is life",
+          "verified": true,
+          "video": 60
+        },
+        "commentCount": 150,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover4.jpg",
+          "dynamic": "https://p16-sign-va.tiktokcdn.com/cover6.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover5.jpg"
+        },
+        "createTime": 1701234567,
+        "diggCount": 2500,
+        "downloaded": true,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag2.jpg",
+            "id": "67890",
+            "name": "dance",
+            "title": "Dance"
+          }
+        ],
+        "id": "7123456789012345678",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music6.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music5.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music4.jpg",
+          "duration": 45,
+          "musicAlbum": "",
+          "musicAuthor": "Dancer",
+          "musicId": "7123456789012345678",
+          "musicName": "Original Sound",
+          "musicOriginal": true,
+          "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-music/7123456789012345678.mp3"
+        },
+        "playCount": 30000,
+        "secretID": "secret456",
+        "shareCount": 600,
+        "text": "Dance challenge",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video2_no_watermark.mp4",
+        "videoMeta": {
+          "duration": 20,
+          "height": 1920,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video2.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video2_no_watermark.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@dancer/video/7123456789012345678"
+      }
+    ]
+  }
+}

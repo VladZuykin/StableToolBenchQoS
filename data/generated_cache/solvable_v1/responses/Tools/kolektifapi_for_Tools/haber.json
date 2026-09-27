@@ -1,0 +1,227 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "kaynak": "ntv.com.tr",
+      "saglayici": "KolektifAPI",
+      "veri": [
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/ekonomi-piyasalar.jpg",
+          "haber": "Borsa İstanbul'da gün ortası: BIST 100 endeksi yüzde 1,2 değer kazandı",
+          "link": "https://www.ntv.com.tr/ekonomi/borsa-istanbulda-gun-ortasi-bist-100-endeksi-yuzde-12-deger-kazandi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/secim-son-dakika.jpg",
+          "haber": "YSK'dan yerel seçim açıklaması: İtiraz süreci başladı",
+          "link": "https://www.ntv.com.tr/turkiye/yskdan-yerel-secim-aciklamasi-itiraz-sureci-basladi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/dunya-zirve.jpg",
+          "haber": "G7 zirvesinde kritik görüşme: Liderler bir araya geldi",
+          "link": "https://www.ntv.com.tr/dunya/g7-zirvesinde-kritik-gorusme-liderler-bir-araya-geldi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/spor-milli-mac.jpg",
+          "haber": "A Milli Takım'ın EURO 2024 kadrosu açıklandı",
+          "link": "https://www.ntv.com.tr/spor/a-milli-takimin-euro-2024-kadrosu-aciklandi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/teknoloji-yapay-zeka.jpg",
+          "haber": "Yapay zeka düzenlemesi için yeni adım: Kanun teklifi Meclis'te",
+          "link": "https://www.ntv.com.tr/teknoloji/yapay-zeka-duzenlemesi-icin-yeni-adim-kanun-teklifi-mecliste"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/saglik-hastane.jpg",
+          "haber": "Sağlık Bakanlığı'ndan yeni randevu sistemi açıklaması",
+          "link": "https://www.ntv.com.tr/saglik/saglik-bakanligindan-yeni-randevu-sistemi-aciklamasi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/egitim-yks.jpg",
+          "haber": "YKS sonuçları açıklandı: Tercih takvimi belli oldu",
+          "link": "https://www.ntv.com.tr/egitim/yks-sonuclari-aciklandi-tercih-takvimi-belli-oldu"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/yasam-hava.jpg",
+          "haber": "Meteoroloji'den sağanak uyarısı: 12 il için sarı kod",
+          "link": "https://www.ntv.com.tr/yasam/meteorolojiden-saganak-uyarisi-12-il-icin-sari-kod"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/otomobil-elektrikli.jpg",
+          "haber": "Elektrikli araç şarj istasyonlarına yeni düzenleme",
+          "link": "https://www.ntv.com.tr/otomobil/elektrikli-arac-sarj-istasyonlarina-yeni-duzenleme"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/kultur-festival.jpg",
+          "haber": "İstanbul Film Festivali'nde ödüller sahiplerini buldu",
+          "link": "https://www.ntv.com.tr/kultur-sanat/istanbul-film-festivalinde-oduller-sahiplerini-buldu"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/ekonomi-enflasyon.jpg",
+          "haber": "Enflasyon verileri açıklandı: Piyasalar nasıl tepki verdi?",
+          "link": "https://www.ntv.com.tr/ekonomi/enflasyon-verileri-aciklandi-piyasalar-nasil-tepki-verdi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/dunya-ab-zirve.jpg",
+          "haber": "AB liderleri göç politikasını görüşüyor",
+          "link": "https://www.ntv.com.tr/dunya/ab-liderleri-goc-politikasini-gorusuyor"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/spor-transfer.jpg",
+          "haber": "Transfer sezonu hareketlendi: Yıldız futbolcu için teklif",
+          "link": "https://www.ntv.com.tr/spor/transfer-sezonu-hareketlendi-yildiz-futbolcu-icin-teklif"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/teknoloji-uzay.jpg",
+          "haber": "Türkiye'nin yeni uydusu için geri sayım başladı",
+          "link": "https://www.ntv.com.tr/teknoloji/turkiyenin-yeni-uydusu-icin-geri-sayim-basladi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/saglik-asilar.jpg",
+          "haber": "Grip aşısı uygulaması için tarih verildi",
+          "link": "https://www.ntv.com.tr/saglik/grip-asisi-uygulamasi-icin-tarih-verildi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/egitim-ogretmen.jpg",
+          "haber": "Öğretmen atama takvimi açıklandı",
+          "link": "https://www.ntv.com.tr/egitim/ogretmen-atama-takvimi-aciklandi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/yasam-trafik.jpg",
+          "haber": "İstanbul'da trafik yoğunluğu yüzde 70'e ulaştı",
+          "link": "https://www.ntv.com.tr/yasam/istanbulda-trafik-yogunlugu-yuzde-70e-ulasti"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/otomobil-yerli.jpg",
+          "haber": "Yerli otomobil üretiminde yeni rekor",
+          "link": "https://www.ntv.com.tr/otomobil/yerli-otomobil-uretiminde-yeni-rekor"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/kultur-konser.jpg",
+          "haber": "Yaz konserleri başlıyor: İşte takvim",
+          "link": "https://www.ntv.com.tr/kultur-sanat/yaz-konserleri-basliyor-iste-takvim"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/ekonomi-faiz.jpg",
+          "haber": "Merkez Bankası faiz kararını açıkladı",
+          "link": "https://www.ntv.com.tr/ekonomi/merkez-bankasi-faiz-kararini-acikladi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/dunya-abd-secim.jpg",
+          "haber": "ABD'de seçim anketleri: Yarış başa baş",
+          "link": "https://www.ntv.com.tr/dunya/abdde-secim-anketleri-yaris-basa-bas"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/spor-basketbol.jpg",
+          "haber": "Basketbolda final serisi heyecanı",
+          "link": "https://www.ntv.com.tr/spor/basketbolda-final-serisi-heyecani"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/teknoloji-siber.jpg",
+          "haber": "Siber güvenlikte yeni tehdit raporu yayımlandı",
+          "link": "https://www.ntv.com.tr/teknoloji/siber-guvenlikte-yeni-tehdit-raporu-yayimlandi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/saglik-beslenme.jpg",
+          "haber": "Uzmanlardan yaz beslenmesi uyarısı",
+          "link": "https://www.ntv.com.tr/saglik/uzmanlardan-yaz-beslenmesi-uyarisi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/egitim-uni.jpg",
+          "haber": "Üniversite kayıt dönemi başlıyor",
+          "link": "https://www.ntv.com.tr/egitim/universite-kayit-donemi-basliyor"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/yasam-tatil.jpg",
+          "haber": "Bayram tatilinde yola çıkacaklara uyarı",
+          "link": "https://www.ntv.com.tr/yasam/bayram-tatilinde-yola-cikacaklara-uyari"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/otomobil-fiyat.jpg",
+          "haber": "Sıfır araç fiyatlarında kampanya dönemi",
+          "link": "https://www.ntv.com.tr/otomobil/sifir-arac-fiyatlarinda-kampanya-donemi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/kultur-sergi.jpg",
+          "haber": "İstanbul'da yeni sanat sergisi açıldı",
+          "link": "https://www.ntv.com.tr/kultur-sanat/istanbulda-yeni-sanat-sergisi-acildi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/ekonomi-ihracat.jpg",
+          "haber": "İhracat rakamları açıklandı: Rekor artış",
+          "link": "https://www.ntv.com.tr/ekonomi/ihracat-rakamlari-aciklandi-rekor-artis"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/dunya-rusya.jpg",
+          "haber": "Rusya'dan yeni açıklama: Görüşmelere hazırız",
+          "link": "https://www.ntv.com.tr/dunya/rusyadan-yeni-aciklama-gorusmelere-haziriz"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/spor-tenis.jpg",
+          "haber": "Tenis turnuvasında çeyrek final heyecanı",
+          "link": "https://www.ntv.com.tr/spor/tenis-turnuvasinda-ceyrek-final-heyecani"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/teknoloji-mobil.jpg",
+          "haber": "Yeni akıllı telefon modeli tanıtıldı",
+          "link": "https://www.ntv.com.tr/teknoloji/yeni-akilli-telefon-modeli-tanitildi"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/saglik-hastane.jpg",
+          "haber": "Şehir hastanelerinde yeni dönem",
+          "link": "https://www.ntv.com.tr/saglik/sehir-hastanelerinde-yeni-donem"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/egitim-burs.jpg",
+          "haber": "Burs başvuruları için son gün yaklaşıyor",
+          "link": "https://www.ntv.com.tr/egitim/burs-basvurulari-icin-son-gun-yaklasiyor"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/yasam-hayvan.jpg",
+          "haber": "Sokak hayvanları için yeni proje",
+          "link": "https://www.ntv.com.tr/yasam/sokak-hayvanlari-icin-yeni-proje"
+        },
+        {
+          "_list_length": 36,
+          "gorsel": "https://cdn.ntv.com.tr/img/2024/06/12/otomobil-trafik.jpg",
+          "haber": "Yeni trafik cezası tarifesi yürürlüğe girdi",
+          "link": "https://www.ntv.com.tr/otomobil/yeni-trafik-cezasi-tarifesi-yururluge-girdi"
+        }
+      ]
+    }
+  }
+}

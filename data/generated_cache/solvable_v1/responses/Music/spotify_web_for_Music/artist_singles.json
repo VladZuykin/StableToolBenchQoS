@@ -1,0 +1,128 @@
+{
+  "{\"is_id\":\"0TnOYISbd1XYRBk9myaseg\",\"limit\":\"10\",\"offset\":\"0\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "singles": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2023-05-19T00:00:00Z",
+                          "year": 2023
+                        },
+                        "id": "3n3Ppam7vgaVa1iaRUc9Lp",
+                        "name": "Vampire",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "3n3Ppam7vgaVa1iaRUc9Lp",
+                          "shareUrl": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+                        },
+                        "tracks": {
+                          "totalCount": 1
+                        },
+                        "type": "single",
+                        "uri": "spotify:album:3n3Ppam7vgaVa1iaRUc9Lp"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "totalCount": 42
+            }
+          }
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\",\"limit\":\"5\",\"offset\":\"20\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "singles": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2022-01-07T00:00:00Z",
+                          "year": 2022
+                        },
+                        "id": "4LRPiXqCikLlN15c3yImP7",
+                        "name": "Sacrifice",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "4LRPiXqCikLlN15c3yImP7",
+                          "shareUrl": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+                        },
+                        "tracks": {
+                          "totalCount": 1
+                        },
+                        "type": "single",
+                        "uri": "spotify:album:4LRPiXqCikLlN15c3yImP7"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "totalCount": 87
+            }
+          }
+        }
+      },
+      "extensions": []
+    }
+  }
+}

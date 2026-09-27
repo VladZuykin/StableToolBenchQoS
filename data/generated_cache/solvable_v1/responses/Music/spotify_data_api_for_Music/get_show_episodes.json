@@ -1,0 +1,142 @@
+{
+  "{\"is_id\":\"38bS44xjbVVZ3No3ByF1dJ\",\"limit\":20}": {
+    "error": "",
+    "response": {
+      "description": "A podcast about music history.",
+      "episodes": [
+        {
+          "description": "The origins of jazz.",
+          "duration_ms": 1500000,
+          "id": "1a2b3c4d5e6f7g8h9i0j1k",
+          "name": "Jazz Origins",
+          "uri": "spotify:episode:1a2b3c4d5e6f7g8h9i0j1k"
+        },
+        {
+          "description": "Rock and roll revolution.",
+          "duration_ms": 2000000,
+          "id": "2b3c4d5e6f7g8h9i0j1k2l",
+          "name": "Rock Revolution",
+          "uri": "spotify:episode:2b3c4d5e6f7g8h9i0j1k2l"
+        },
+        {
+          "description": "The rise of hip-hop.",
+          "duration_ms": 2200000,
+          "id": "3c4d5e6f7g8h9i0j1k2l3m",
+          "name": "Hip-Hop Rise",
+          "uri": "spotify:episode:3c4d5e6f7g8h9i0j1k2l3m"
+        }
+      ],
+      "explicit": true,
+      "externalUrls": {
+        "spotify": "https://open.spotify.com/show/38bS44xjbVVZ3No3ByF1dJ"
+      },
+      "html_description": "<p>A podcast about music history.</p>",
+      "id": "38bS44xjbVVZ3No3ByF1dJ",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a38bs44xjbvvz3no3byf1dj",
+          "width": 300
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "media_type": "audio",
+      "name": "Music Chronicles",
+      "publisher": "Music Network",
+      "total_episodes": 100,
+      "uri": "spotify:show:38bS44xjbVVZ3No3ByF1dJ"
+    }
+  },
+  "{\"is_id\":\"5CfCWKI5pZ28U0uOzXkDHe\",\"limit\":10,\"offset\":0}": {
+    "error": "",
+    "response": {
+      "description": "A weekly podcast about technology and culture.",
+      "episodes": [
+        {
+          "description": "We discuss the latest in AI.",
+          "duration_ms": 1800000,
+          "id": "512ojhOuo1ktJprKbVcKyQ",
+          "name": "Episode 1: AI Today",
+          "uri": "spotify:episode:512ojhOuo1ktJprKbVcKyQ"
+        },
+        {
+          "description": "An interview with a tech CEO.",
+          "duration_ms": 2400000,
+          "id": "3z8e4Y2k9pQr7sT1uV2wX3",
+          "name": "Episode 2: Leadership",
+          "uri": "spotify:episode:3z8e4Y2k9pQr7sT1uV2wX3"
+        }
+      ],
+      "explicit": false,
+      "externalUrls": {
+        "spotify": "https://open.spotify.com/show/5CfCWKI5pZ28U0uOzXkDHe"
+      },
+      "html_description": "<p>A weekly podcast about technology and culture.</p>",
+      "id": "5CfCWKI5pZ28U0uOzXkDHe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5cfcwki5pz28u0uozxkdh",
+          "width": 640
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "en"
+      ],
+      "media_type": "audio",
+      "name": "Tech Talk",
+      "publisher": "Tech Media",
+      "total_episodes": 50,
+      "uri": "spotify:show:5CfCWKI5pZ28U0uOzXkDHe"
+    }
+  },
+  "{\"is_id\":\"6kAs2b3C4d5E6f7G8h9I0j\",\"offset\":5}": {
+    "error": "",
+    "response": {
+      "description": "A podcast about science and discovery.",
+      "episodes": [
+        {
+          "description": "Black holes explained.",
+          "duration_ms": 2700000,
+          "id": "4d5e6f7g8h9i0j1k2l3m4n",
+          "name": "Black Holes",
+          "uri": "spotify:episode:4d5e6f7g8h9i0j1k2l3m4n"
+        },
+        {
+          "description": "The future of space travel.",
+          "duration_ms": 3000000,
+          "id": "5e6f7g8h9i0j1k2l3m4n5o",
+          "name": "Space Travel",
+          "uri": "spotify:episode:5e6f7g8h9i0j1k2l3m4n5o"
+        }
+      ],
+      "explicit": false,
+      "externalUrls": {
+        "spotify": "https://open.spotify.com/show/6kAs2b3C4d5E6f7G8h9I0j"
+      },
+      "html_description": "<p>A podcast about science and discovery.</p>",
+      "id": "6kAs2b3C4d5E6f7G8h9I0j",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a6kas2b3c4d5e6f7g8h9i0j",
+          "width": 640
+        }
+      ],
+      "is_externally_hosted": true,
+      "languages": [
+        "en"
+      ],
+      "media_type": "audio",
+      "name": "Science Frontiers",
+      "publisher": "Science Media",
+      "total_episodes": 75,
+      "uri": "spotify:show:6kAs2b3C4d5E6f7G8h9I0j"
+    }
+  }
+}

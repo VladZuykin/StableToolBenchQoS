@@ -1,0 +1,156 @@
+{
+  "{\"q\":\"example.org\",\"type\":\"LIVESCAN\"}": {
+    "error": "",
+    "response": {
+      "a_records": [
+        "93.184.216.34"
+      ],
+      "certificate_end_date": "2024-01-15",
+      "certificate_issuer": "DigiCert Inc",
+      "certificate_start_date": "2023-01-15",
+      "certificate_subject": "CN=example.org",
+      "cms_type": null,
+      "domain": "example.org",
+      "domain_creation_date": "1995-08-14",
+      "domain_expire_date": "2024-08-13",
+      "domain_updated_date": "2023-08-14",
+      "hostnames": [
+        "example.org",
+        "www.example.org"
+      ],
+      "html_header_tags": [
+        "<h1>Example Domain</h1>"
+      ],
+      "ip_address": "93.184.216.34",
+      "javascript_libraries": [],
+      "mx_records": [
+        "0 ."
+      ],
+      "organization": "Internet Assigned Numbers Authority",
+      "page_meta_tags": {
+        "og:title": "Example Domain",
+        "og:type": "website"
+      },
+      "page_title": "Example Domain",
+      "registrar": "ICANN",
+      "server_geolocation": {
+        "city": "Los Angeles",
+        "country": "United States",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      },
+      "server_software": "nginx",
+      "soa_record": "ns.icann.org. noc.dns.icann.org. 2022091301 7200 3600 1209600 3600",
+      "tld": "org",
+      "txt_records": [
+        "v=spf1 -all"
+      ]
+    }
+  },
+  "{\"q\":\"github.com\",\"type\":\"LIVESCAN\"}": {
+    "error": "",
+    "response": {
+      "a_records": [
+        "140.82.112.3"
+      ],
+      "certificate_end_date": "2024-03-01",
+      "certificate_issuer": "DigiCert Inc",
+      "certificate_start_date": "2023-03-01",
+      "certificate_subject": "CN=github.com",
+      "cms_type": null,
+      "domain": "github.com",
+      "domain_creation_date": "2007-10-09",
+      "domain_expire_date": "2024-10-09",
+      "domain_updated_date": "2023-09-08",
+      "hostnames": [
+        "github.com",
+        "api.github.com",
+        "gist.github.com"
+      ],
+      "html_header_tags": [
+        "<h1>Let's build from here</h1>"
+      ],
+      "ip_address": "140.82.112.3",
+      "javascript_libraries": [
+        "React",
+        "jQuery"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com",
+        "5 alt1.aspmx.l.google.com"
+      ],
+      "organization": "GitHub, Inc.",
+      "page_meta_tags": {
+        "og:image": "https://github.githubassets.com/images/modules/site/social-cards/github-social.png",
+        "og:title": "GitHub",
+        "og:type": "website"
+      },
+      "page_title": "GitHub: Let's build from here",
+      "registrar": "MarkMonitor Inc.",
+      "server_geolocation": {
+        "city": "San Francisco",
+        "country": "United States",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "server_software": "GitHub.com",
+      "soa_record": "ns-1283.awsdns-32.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400",
+      "tld": "com",
+      "txt_records": [
+        "v=spf1 include:_spf.google.com ~all"
+      ]
+    }
+  },
+  "{\"q\":\"wikipedia.org\",\"type\":\"LIVESCAN\"}": {
+    "error": "",
+    "response": {
+      "a_records": [
+        "208.80.154.224"
+      ],
+      "certificate_end_date": "2023-10-30",
+      "certificate_issuer": "Let's Encrypt",
+      "certificate_start_date": "2023-08-01",
+      "certificate_subject": "CN=wikipedia.org",
+      "cms_type": "MediaWiki",
+      "domain": "wikipedia.org",
+      "domain_creation_date": "2001-01-13",
+      "domain_expire_date": "2024-01-13",
+      "domain_updated_date": "2023-01-13",
+      "hostnames": [
+        "wikipedia.org",
+        "en.wikipedia.org",
+        "de.wikipedia.org"
+      ],
+      "html_header_tags": [
+        "<h1>Wikipedia</h1>"
+      ],
+      "ip_address": "208.80.154.224",
+      "javascript_libraries": [
+        "jQuery"
+      ],
+      "mx_records": [
+        "10 mx1001.wikimedia.org",
+        "50 mx2001.wikimedia.org"
+      ],
+      "organization": "Wikimedia Foundation, Inc.",
+      "page_meta_tags": {
+        "og:title": "Wikipedia",
+        "og:type": "website"
+      },
+      "page_title": "Wikipedia",
+      "registrar": "MarkMonitor Inc.",
+      "server_geolocation": {
+        "city": "San Francisco",
+        "country": "United States",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "server_software": "nginx",
+      "soa_record": "ns0.wikimedia.org. hostmaster.wikimedia.org. 2023091200 3600 600 604800 3600",
+      "tld": "org",
+      "txt_records": [
+        "v=spf1 include:wikimedia.org ~all"
+      ]
+    }
+  }
+}

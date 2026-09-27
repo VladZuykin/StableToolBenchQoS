@@ -1,0 +1,47 @@
+{
+  "{\"is_id\":\"EDU-2024-0456\"}": {
+    "error": "",
+    "response": {
+      "attendee_name": "Le Van C",
+      "currency": "VND",
+      "event_date": "2024-12-05",
+      "event_name": "Student Research Symposium",
+      "id": "EDU-2024-0456",
+      "price": 0,
+      "seat": "B07",
+      "status": "available",
+      "ticket_type": "Student",
+      "venue": "Campus Auditorium B"
+    }
+  },
+  "{\"is_id\":\"EVT-2024-001\"}": {
+    "error": "",
+    "response": {
+      "attendee_name": "Nguyen Van A",
+      "currency": "VND",
+      "event_date": "2024-11-15",
+      "event_name": "Annual Education Conference 2024",
+      "id": "EVT-2024-001",
+      "price": 150000,
+      "seat": "A12",
+      "status": "available",
+      "ticket_type": "Standard",
+      "venue": "University of Education Main Hall"
+    }
+  },
+  "{\"is_id\":\"TKT-98765\"}": {
+    "error": "",
+    "response": {
+      "attendee_name": "Tran Thi B",
+      "currency": "VND",
+      "event_date": "2024-09-22",
+      "event_name": "Tech in Education Workshop",
+      "id": "TKT-98765",
+      "price": 300000,
+      "seat": "VIP-03",
+      "status": "sold",
+      "ticket_type": "VIP",
+      "venue": "Online - Zoom"
+    }
+  }
+}

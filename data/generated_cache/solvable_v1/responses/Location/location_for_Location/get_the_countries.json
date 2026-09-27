@@ -1,0 +1,47 @@
+{
+  "{\"alpha2\":\"JP\",\"page\":\"2\"}": {
+    "error": "",
+    "response": {
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryCode": "392",
+      "id": "loc_jp",
+      "location": {
+        "latitude": 36.2048,
+        "longitude": 138.2529
+      },
+      "name": "Japan",
+      "number": 2
+    }
+  },
+  "{\"alpha3\":\"BRA\"}": {
+    "error": "",
+    "response": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "countryCode": "076",
+      "id": "loc_br",
+      "location": {
+        "latitude": -14.235,
+        "longitude": -51.9253
+      },
+      "name": "Brazil",
+      "number": 1
+    }
+  },
+  "{\"name\":\"Canada\"}": {
+    "error": "",
+    "response": {
+      "alpha2": "CA",
+      "alpha3": "CAN",
+      "countryCode": "124",
+      "id": "loc_ca",
+      "location": {
+        "latitude": 56.1304,
+        "longitude": -106.3468
+      },
+      "name": "Canada",
+      "number": 1
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "{\"phone\":123}": {
+    "error": "",
+    "response": false
+  },
+  "{\"phone\":34913353535}": {
+    "error": "",
+    "response": true
+  },
+  "{\"phone\":442071838750}": {
+    "error": "",
+    "response": true
+  }
+}

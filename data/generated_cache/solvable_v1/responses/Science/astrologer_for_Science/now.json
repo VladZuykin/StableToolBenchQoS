@@ -1,0 +1,77 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": {
+        "city": "Greenwich",
+        "day": 15,
+        "hour": 14,
+        "julian_day": 2460477.104167,
+        "lat": 51.4779,
+        "lng": 0.0,
+        "local_time": 14.5,
+        "mercury": {
+          "abs_pos": 95.67,
+          "element": "Air",
+          "emoji": "♋",
+          "house": "Eleventh",
+          "name": "Mercury",
+          "point_type": "Planet",
+          "position": 5.67,
+          "quality": "Dry",
+          "retrograde": false,
+          "sign": "Cancer",
+          "sign_num": 3
+        },
+        "minute": 30,
+        "month": 6,
+        "moon": {
+          "abs_pos": 222.34,
+          "element": "Water",
+          "emoji": "♏",
+          "house": "Third",
+          "name": "Moon",
+          "point_type": "Planet",
+          "position": 12.34,
+          "quality": "Moist",
+          "retrograde": false,
+          "sign": "Scorpio",
+          "sign_num": 7
+        },
+        "name": "Current Moment",
+        "nation": "United Kingdom",
+        "sun": {
+          "abs_pos": 84.85,
+          "element": "Fire",
+          "emoji": "♊",
+          "house": "Tenth",
+          "name": "Sun",
+          "point_type": "Planet",
+          "position": 24.85,
+          "quality": "Hot",
+          "retrograde": false,
+          "sign": "Gemini",
+          "sign_num": 2
+        },
+        "tz_str": "UTC",
+        "utc_time": 14.5,
+        "venus": {
+          "abs_pos": 58.91,
+          "element": "Earth",
+          "emoji": "♉",
+          "house": "Ninth",
+          "name": "Venus",
+          "point_type": "Planet",
+          "position": 28.91,
+          "quality": "Cold",
+          "retrograde": false,
+          "sign": "Taurus",
+          "sign_num": 1
+        },
+        "year": 2024,
+        "zodiac_type": "Tropical"
+      },
+      "status": "OK"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "id": 1,
+        "name": "Jessica Day",
+        "nickname": "Jess",
+        "occupation": "Teacher",
+        "portrayed_by": "Zooey Deschanel"
+      },
+      {
+        "id": 2,
+        "name": "Nick Miller",
+        "nickname": "Nick",
+        "occupation": "Bartender",
+        "portrayed_by": "Jake Johnson"
+      },
+      {
+        "id": 3,
+        "name": "Schmidt",
+        "nickname": "Schmidt",
+        "occupation": "Marketing Associate",
+        "portrayed_by": "Max Greenfield"
+      },
+      {
+        "id": 4,
+        "name": "Winston Bishop",
+        "nickname": "Winnie the Bish",
+        "occupation": "Radio Host",
+        "portrayed_by": "Lamorne Morris"
+      },
+      {
+        "id": 5,
+        "name": "Cece Parekh",
+        "nickname": "Cece",
+        "occupation": "Model",
+        "portrayed_by": "Hannah Simone"
+      }
+    ]
+  }
+}

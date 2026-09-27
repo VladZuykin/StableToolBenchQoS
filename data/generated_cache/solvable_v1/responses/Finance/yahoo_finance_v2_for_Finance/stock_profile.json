@@ -1,0 +1,92 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "get": "stock/profile",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "address1": "One Microsoft Way",
+          "city": "Redmond",
+          "country": "United States",
+          "description": "Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide. Its Productivity and Business Processes segment offers Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Skype for Business, as well as related Client Access Licenses (CALs); Skype, Outlook.com, OneDrive, and LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business solutions for organizations and enterprises of various sizes and industries. Its Intelligent Cloud segment provides public, private, and hybrid server products and cloud services that can power modern business and developers. Its More Personal Computing segment offers Windows OEM, Volume Licensing, and other software-related offerings; devices, including Surface and PC accessories; gaming, including Xbox hardware and Xbox content and services; search, including Bing and Microsoft advertising; and other consumer products and services. The company was founded in 1975 and is headquartered in Redmond, Washington.",
+          "fullTimeEmployees": 221000,
+          "industry": "Software—Infrastructure",
+          "longName": "Microsoft Corporation",
+          "phone": "425-882-8080",
+          "sector": "Technology",
+          "shortName": "Microsoft",
+          "state": "WA",
+          "symbol": "MSFT",
+          "website": "https://www.microsoft.com",
+          "zip": "98052-6399"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"NVDA\"}": {
+    "error": "",
+    "response": {
+      "get": "stock/profile",
+      "parameters": [
+        {
+          "symbol": "NVDA"
+        }
+      ],
+      "response": [
+        {
+          "address1": "2788 San Tomas Expressway",
+          "city": "Santa Clara",
+          "country": "United States",
+          "description": "NVIDIA Corporation provides graphics, and compute and networking solutions in the United States, Taiwan, China, and internationally. The company's Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building 3D designs and virtual worlds. Its Compute & Networking segment provides Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; cryptocurrency mining processors; and Jetson for robotics and other embedded platforms. The company was founded in 1993 and is headquartered in Santa Clara, California.",
+          "fullTimeEmployees": 26196,
+          "industry": "Semiconductors",
+          "longName": "NVIDIA Corporation",
+          "phone": "408-486-2000",
+          "sector": "Technology",
+          "shortName": "NVIDIA",
+          "state": "CA",
+          "symbol": "NVDA",
+          "website": "https://www.nvidia.com",
+          "zip": "95051"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "get": "stock/profile",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "address1": "1 Tesla Road",
+          "city": "Austin",
+          "country": "United States",
+          "description": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive, and Energy Generation and Storage. The Automotive segment offers electric vehicles, as well as sells automotive regulatory credits. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; and purchase financing and leasing services. The Energy Generation and Storage segment engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. The company was founded in 2003 and is headquartered in Austin, Texas.",
+          "fullTimeEmployees": 127855,
+          "industry": "Auto Manufacturers",
+          "longName": "Tesla, Inc.",
+          "phone": "512-516-8177",
+          "sector": "Consumer Cyclical",
+          "shortName": "Tesla",
+          "state": "TX",
+          "symbol": "TSLA",
+          "website": "https://www.tesla.com",
+          "zip": "78725"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

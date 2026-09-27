@@ -1,0 +1,104 @@
+{
+  "{\"keyword\":\"best coffee shops in seattle\",\"page\":\"0\",\"size\":\"10\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "items": [
+          {
+            "description": "Seattle is famous for its coffee culture. Discover the best coffee shops in Seattle, from cozy cafes to roasteries, with reviews and ratings.",
+            "link": "https://www.tripadvisor.com/Restaurants-g60878-c8-Seattle_Washington.html",
+            "title": "Best Coffee Shops in Seattle - Tripadvisor"
+          },
+          {
+            "description": "Our editors picked the top coffee shops across Seattle, including Capitol Hill, Ballard, and Fremont favorites.",
+            "link": "https://www.seattlemet.com/coffee-shops",
+            "title": "The 15 Best Coffee Shops in Seattle (2024)"
+          },
+          {
+            "description": "A complete guide to Seattle's best coffee bars, espresso spots, and pour-over destinations.",
+            "link": "https://www.eater.com/seattle/coffee-guide",
+            "title": "Seattle Coffee Guide: Where to Drink Coffee"
+          },
+          {
+            "description": "Find the best Coffee Shops in Seattle, WA with Yelp reviews, photos, and hours.",
+            "link": "https://www.yelp.com/search?find_desc=Coffee+Shops&find_loc=Seattle%2C+WA",
+            "title": "Top 10 Coffee Shops in Seattle - Yelp"
+          },
+          {
+            "description": "Seattle's Best Coffee offers a range of blends and roasts, available online and in stores nationwide.",
+            "link": "https://www.seattlesbest.com/",
+            "title": "Seattle's Best Coffee - Official Site"
+          }
+        ],
+        "keyword_related": [
+          "coffee shops seattle",
+          "best coffee seattle",
+          "seattle cafe",
+          "espresso seattle",
+          "seattle roastery",
+          "capitol hill coffee",
+          "ballard coffee",
+          "seattle coffee guide"
+        ],
+        "question": []
+      },
+      "in_seconds": 0.42,
+      "request": {
+        "keyword": "best coffee shops in seattle",
+        "page": 0,
+        "size": 10
+      }
+    }
+  },
+  "{\"keyword\":\"how to use excel for free\",\"page\":\"1\",\"size\":\"30\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "items": [
+          {
+            "description": "Learn how to use Excel for free with Excel for the web. Create, edit, and share spreadsheets in your browser.",
+            "link": "https://support.microsoft.com/en-us/office/how-to-use-excel-for-free",
+            "title": "How to Use Excel for Free - Microsoft Support"
+          },
+          {
+            "description": "Free Excel tutorials covering formulas, functions, charts, pivot tables, and more for beginners and advanced users.",
+            "link": "https://www.excel-easy.com/",
+            "title": "Free Excel Tutorials and Courses - Excel Easy"
+          },
+          {
+            "description": "You can use Excel for free through Office Online, mobile apps, and trial versions. Here's how.",
+            "link": "https://www.lifewire.com/use-excel-for-free-4173567",
+            "title": "Use Excel Online for Free - Google Sheets vs Excel"
+          },
+          {
+            "description": "Excel for the web lets you work on spreadsheets from any device with a browser, free with a Microsoft account.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/excel",
+            "title": "Excel for the web - Free Online Spreadsheet Software"
+          },
+          {
+            "description": "Enroll in free Excel courses from top universities and learn spreadsheet skills at your own pace.",
+            "link": "https://www.coursera.org/courses?query=excel",
+            "title": "Free Excel Courses - Coursera"
+          }
+        ],
+        "keyword_related": [
+          "excel free",
+          "free excel online",
+          "excel for the web",
+          "excel tutorial free",
+          "microsoft excel free",
+          "excel online spreadsheet",
+          "free excel courses",
+          "excel basics"
+        ],
+        "question": []
+      },
+      "in_seconds": 0.55,
+      "request": {
+        "keyword": "how to use excel for free",
+        "page": 1,
+        "size": 30
+      }
+    }
+  }
+}

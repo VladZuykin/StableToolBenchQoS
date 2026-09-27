@@ -1,0 +1,11 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "service": "squake",
+      "status": "ok",
+      "timestamp": "2024-06-01T12:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+}

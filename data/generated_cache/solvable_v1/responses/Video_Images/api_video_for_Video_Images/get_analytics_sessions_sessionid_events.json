@@ -1,0 +1,26 @@
+{
+  "{\"currentpage\":1,\"pagesize\":25,\"sessionid\":\"ps_9f8a7b6c5d4e3f2a1b0c\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Session events retrieved successfully",
+      "type": "analytics-session-events"
+    }
+  },
+  "{\"currentpage\":2,\"pagesize\":10,\"sessionid\":\"live_session_7d3e9f1a2b4c\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Session events retrieved successfully",
+      "type": "analytics-session-events"
+    }
+  },
+  "{\"currentpage\":3,\"pagesize\":50,\"sessionid\":\"sess_2024-06-15_abc123xyz\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Session events retrieved successfully",
+      "type": "analytics-session-events"
+    }
+  }
+}

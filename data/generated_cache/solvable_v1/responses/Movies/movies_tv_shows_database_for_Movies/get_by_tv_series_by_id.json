@@ -1,0 +1,68 @@
+{
+  "{\"seriesid\":\"tt0903747\"}": {
+    "error": "",
+    "response": {
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "id": "tt0903747",
+      "irating": 9.5,
+      "meta": {
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "runtime": "49 min",
+        "seasons": 5
+      },
+      "popularity": 98.7,
+      "release_date": "2008-01-20",
+      "title": "Breaking Bad",
+      "vote_count": 1420000,
+      "youtube_trailer_key": "HhesaQXLuRY"
+    }
+  },
+  "{\"seriesid\":\"tt0944947\"}": {
+    "error": "",
+    "response": {
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "id": "tt0944947",
+      "irating": 9.2,
+      "meta": {
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama"
+        ],
+        "runtime": "57 min",
+        "seasons": 8
+      },
+      "popularity": 95.3,
+      "release_date": "2011-04-17",
+      "title": "Game of Thrones",
+      "vote_count": 1980000,
+      "youtube_trailer_key": "KPLWWIOCOOQ"
+    }
+  },
+  "{\"seriesid\":\"tt4574334\"}": {
+    "error": "",
+    "response": {
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "id": "tt4574334",
+      "irating": 8.7,
+      "meta": {
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "runtime": "51 min",
+        "seasons": 4
+      },
+      "popularity": 91.4,
+      "release_date": "2016-07-15",
+      "title": "Stranger Things",
+      "vote_count": 1150000,
+      "youtube_trailer_key": "b9EkMc79ZSU"
+    }
+  }
+}

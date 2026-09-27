@@ -1,0 +1,67 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "CoinName": "Bitcoin",
+        "CoinTicker": "BTC",
+        "Rank": 1,
+        "Value": 4823150.75
+      },
+      {
+        "CoinName": "Ethereum",
+        "CoinTicker": "ETH",
+        "Rank": 2,
+        "Value": 2918740.5
+      },
+      {
+        "CoinName": "Solana",
+        "CoinTicker": "SOL",
+        "Rank": 3,
+        "Value": 1583420.25
+      },
+      {
+        "CoinName": "XRP",
+        "CoinTicker": "XRP",
+        "Rank": 4,
+        "Value": 1125670.0
+      },
+      {
+        "CoinName": "Cardano",
+        "CoinTicker": "ADA",
+        "Rank": 5,
+        "Value": 987430.6
+      },
+      {
+        "CoinName": "Dogecoin",
+        "CoinTicker": "DOGE",
+        "Rank": 6,
+        "Value": 845210.4
+      },
+      {
+        "CoinName": "Polygon",
+        "CoinTicker": "MATIC",
+        "Rank": 7,
+        "Value": 712980.15
+      },
+      {
+        "CoinName": "Chainlink",
+        "CoinTicker": "LINK",
+        "Rank": 8,
+        "Value": 654320.9
+      },
+      {
+        "CoinName": "Avalanche",
+        "CoinTicker": "AVAX",
+        "Rank": 9,
+        "Value": 598740.3
+      },
+      {
+        "CoinName": "Polkadot",
+        "CoinTicker": "DOT",
+        "Rank": 10,
+        "Value": 521650.8
+      }
+    ]
+  }
+}

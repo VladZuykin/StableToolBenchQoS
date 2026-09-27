@@ -1,0 +1,44 @@
+{
+  "{\"url\":\"https://www.bbc.com/news/world-europe-66812345\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "sentimentprediction": "negative",
+        "sentimentscore": {
+          "compound": -0.7264,
+          "negative": 0.812,
+          "neutral": 0.188,
+          "positive": 0.0
+        }
+      }
+    }
+  },
+  "{\"url\":\"https://www.goodnewsnetwork.org/community-raises-funds-to-rebuild-local-library-after-storm/\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "sentimentprediction": "positive",
+        "sentimentscore": {
+          "compound": 0.8831,
+          "negative": 0.0,
+          "neutral": 0.121,
+          "positive": 0.879
+        }
+      }
+    }
+  },
+  "{\"url\":\"https://www.reuters.com/markets/us/stocks-edge-higher-investors-await-fed-decision-2024-01-30/\"}": {
+    "error": "",
+    "response": {
+      "message": {
+        "sentimentprediction": "neutral",
+        "sentimentscore": {
+          "compound": 0.0421,
+          "negative": 0.087,
+          "neutral": 0.821,
+          "positive": 0.092
+        }
+      }
+    }
+  }
+}

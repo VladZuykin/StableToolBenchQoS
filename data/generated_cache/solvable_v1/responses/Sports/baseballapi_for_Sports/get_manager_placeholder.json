@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "manager_placeholder",
+      "parameters": [],
+      "response": [
+        {
+          "format": "png",
+          "height": 150,
+          "image_url": "https://media.api-sports.io/baseball/manager_placeholder.png",
+          "width": 150
+        }
+      ],
+      "results": 1
+    }
+  }
+}

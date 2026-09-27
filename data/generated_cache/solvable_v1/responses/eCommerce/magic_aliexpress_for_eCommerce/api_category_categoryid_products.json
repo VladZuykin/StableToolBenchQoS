@@ -1,0 +1,94 @@
+{
+  "{\"categoryid\":100003819,\"getshopinformation\":true,\"lg\":\"en_US\",\"maxsaleprice\":25,\"minsaleprice\":5,\"shipfromcountry\":\"CN\",\"shiptocountry\":\"US\",\"sort\":\"PRICE_ASC\",\"targetcurrency\":\"USD\"}": {
+    "error": "",
+    "response": {
+      "docs": [
+        {
+          "app_sale_price": 18.99,
+          "app_sale_price_currency": "USD",
+          "discount_rate": 24,
+          "metadata": {
+            "image": {
+              "imageHeight": 800,
+              "imageType": "11",
+              "imageUrl": "http://ae01.alicdn.com/kf/H9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4cT.jpg",
+              "imageWidth": 800
+            },
+            "itemType": "product",
+            "prices": {
+              "sale_price": {
+                "currencyCode": "USD",
+                "discount": 24,
+                "formattedPrice": "US $18.99",
+                "minPrice": 18.99
+              }
+            },
+            "sellingPoint": [
+              {
+                "displayStyle": "text",
+                "sellingPointTag": {
+                  "displayTagType": "positive",
+                  "tagText": "Free Shipping"
+                },
+                "sellingPointType": "shipping"
+              }
+            ],
+            "title": {
+              "displayTitle": "Wireless Bluetooth Earbuds with Charging Case",
+              "seoTitle": "Wireless Bluetooth Earbuds Charging Case"
+            }
+          },
+          "product_id": 1005001234567890,
+          "product_main_image_url": "http://ae01.alicdn.com/kf/H9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4cT.jpg",
+          "product_title": "Wireless Bluetooth Earbuds with Charging Case"
+        },
+        {
+          "app_sale_price": 22.5,
+          "app_sale_price_currency": "USD",
+          "discount_rate": 10,
+          "metadata": {
+            "image": {
+              "imageHeight": 800,
+              "imageType": "11",
+              "imageUrl": "http://ae01.alicdn.com/kf/H1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6dK.jpg",
+              "imageWidth": 800
+            },
+            "itemType": "product",
+            "prices": {
+              "sale_price": {
+                "currencyCode": "USD",
+                "discount": 10,
+                "formattedPrice": "US $22.50",
+                "minPrice": 22.5
+              }
+            },
+            "sellingPoint": [
+              {
+                "displayStyle": "text",
+                "sellingPointTag": {
+                  "displayTagType": "positive",
+                  "tagText": "Ships to US"
+                },
+                "sellingPointType": "shipping"
+              }
+            ],
+            "title": {
+              "displayTitle": "Stainless Steel Kitchen Knife Set 5 Pieces",
+              "seoTitle": "Stainless Steel Kitchen Knife Set"
+            }
+          },
+          "product_id": 1005009876543210,
+          "product_main_image_url": "http://ae01.alicdn.com/kf/H1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6dK.jpg",
+          "product_title": "Stainless Steel Kitchen Knife Set 5 Pieces"
+        }
+      ],
+      "hasNextPage": false,
+      "hasPrevPage": false,
+      "limit": 50,
+      "nextPage": 0,
+      "prvPage": 0,
+      "totalPages": 1,
+      "total_record_count": 2
+    }
+  }
+}

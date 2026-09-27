@@ -1,0 +1,20 @@
+{
+  "{\"collection\":\"app_config\",\"key\":\"feature_flags\"}": {
+    "error": "",
+    "response": {
+      "value": "{\"dark_mode\":true,\"beta_features\":false,\"max_upload_mb\":50}"
+    }
+  },
+  "{\"collection\":\"inventory\",\"key\":\"sku-10023\"}": {
+    "error": "",
+    "response": {
+      "value": "42"
+    }
+  },
+  "{\"collection\":\"user_sessions\",\"key\":\"session_9f8a7b6c\"}": {
+    "error": "",
+    "response": {
+      "value": "eyJ1c2VyX2lkIjoxMjM0NSwiZXhwaXJlcyI6MTcyMDAwMDAwMH0="
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "{\"limit\":10,\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "has_more": true,
+        "max_cursor": 1684900000,
+        "videos": [
+          {
+            "create_time": 1685000000,
+            "desc": "new dance challenge 💃 #fyp",
+            "id": "7234567890123456789",
+            "stats": {
+              "comment_count": 2100,
+              "digg_count": 125000,
+              "play_count": 2500000,
+              "share_count": 3400
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover1.jpg",
+              "duration": 15,
+              "play_addr": "https://v16-webapp.tiktok.com/video1.mp4"
+            }
+          },
+          {
+            "create_time": 1684900000,
+            "desc": "behind the scenes 🎬",
+            "id": "7234567890123456790",
+            "stats": {
+              "comment_count": 1500,
+              "digg_count": 98000,
+              "play_count": 1800000,
+              "share_count": 2100
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover2.jpg",
+              "duration": 22,
+              "play_addr": "https://v16-webapp.tiktok.com/video2.mp4"
+            }
+          }
+        ]
+      },
+      "message": "Success"
+    }
+  },
+  "{\"limit\":30,\"max_cursor\":1684900000,\"sec_uid\":\"MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "has_more": false,
+        "max_cursor": 1684700000,
+        "videos": [
+          {
+            "create_time": 1684800000,
+            "desc": "morning routine ☀️",
+            "id": "7234567890123456791",
+            "stats": {
+              "comment_count": 1200,
+              "digg_count": 76000,
+              "play_count": 1400000,
+              "share_count": 1800
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover3.jpg",
+              "duration": 30,
+              "play_addr": "https://v16-webapp.tiktok.com/video3.mp4"
+            }
+          },
+          {
+            "create_time": 1684700000,
+            "desc": "reacting to your comments 👀",
+            "id": "7234567890123456792",
+            "stats": {
+              "comment_count": 800,
+              "digg_count": 54000,
+              "play_count": 950000,
+              "share_count": 900
+            },
+            "video": {
+              "cover": "https://p16-sign.tiktokcdn.com/cover4.jpg",
+              "duration": 18,
+              "play_addr": "https://v16-webapp.tiktok.com/video4.mp4"
+            }
+          }
+        ]
+      },
+      "message": "Success"
+    }
+  }
+}

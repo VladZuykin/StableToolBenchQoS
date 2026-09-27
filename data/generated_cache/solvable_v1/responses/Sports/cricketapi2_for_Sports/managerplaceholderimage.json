@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "managerplaceholderimage",
+      "parameters": [],
+      "response": [
+        {
+          "format": "png",
+          "height": 1,
+          "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+          "width": 1
+        }
+      ],
+      "results": 1
+    }
+  }
+}

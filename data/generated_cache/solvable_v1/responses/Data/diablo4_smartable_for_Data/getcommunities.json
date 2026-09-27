@@ -1,0 +1,347 @@
+{
+  "{\"page\":1}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "path": "/diablo4/communities",
+      "title": "Diablo 4 Communities",
+      "value": [
+        {
+          "content": "A community for Diablo 4 theorycrafters to share builds and discuss mechanics.",
+          "excerpt": "Share your builds and discuss mechanics with fellow theorycrafters.",
+          "heat": 4820,
+          "images": [
+            {
+              "height": 512,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/theorycraft-banner.jpg",
+              "width": 1024
+            }
+          ],
+          "members": 152340,
+          "name": "Diablo 4 Theorycrafting",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Theorycraft",
+          "path": "/communities/theorycrafting",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Theorycraft",
+          "topics": [
+            "Builds"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Theorycraft"
+        },
+        {
+          "content": "Daily discussions about seasons, patches, and endgame content for Diablo IV.",
+          "excerpt": "Daily discussions about seasons, patches, and endgame content.",
+          "heat": 7310,
+          "images": [
+            {
+              "height": 400,
+              "isCached": false,
+              "url": "https://cdn.example.com/d4/general-banner.jpg",
+              "width": 800
+            }
+          ],
+          "members": 987650,
+          "name": "Diablo 4 General",
+          "originalUrl": "https://www.reddit.com/r/Diablo4",
+          "path": "/communities/general",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4",
+          "topics": [
+            "General"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4"
+        },
+        {
+          "content": "Find groups for Nightmare Dungeons, Uber Lilith, and seasonal grinds.",
+          "excerpt": "Find groups for dungeons, bosses, and seasonal grinds.",
+          "heat": 2140,
+          "images": [
+            {
+              "height": 300,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/lfg-banner.jpg",
+              "width": 600
+            }
+          ],
+          "members": 54320,
+          "name": "Diablo 4 LFG",
+          "originalUrl": "https://discord.gg/diablo4lfg",
+          "path": "/communities/lfg",
+          "provider": {
+            "domain": "discord.gg",
+            "images": [
+              {
+                "height": 128,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/discord-logo.png",
+                "width": 128
+              }
+            ],
+            "name": "Discord"
+          },
+          "sourceUrl": "https://discord.gg/diablo4lfg",
+          "topics": [
+            "LFG"
+          ],
+          "type": "chat",
+          "webUrl": "https://discord.gg/diablo4lfg"
+        }
+      ]
+    }
+  },
+  "{\"page\":2}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "path": "/diablo4/communities",
+      "title": "Diablo 4 Communities",
+      "value": [
+        {
+          "content": "Hardcore players pushing the highest tiers of the Pit and sharing strategies.",
+          "excerpt": "Strategies for pushing the highest Pit tiers in hardcore mode.",
+          "heat": 3980,
+          "images": [
+            {
+              "height": 512,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/hardcore-banner.jpg",
+              "width": 1024
+            }
+          ],
+          "members": 41200,
+          "name": "Diablo 4 Hardcore",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Hardcore",
+          "path": "/communities/hardcore",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Hardcore",
+          "topics": [
+            "Hardcore"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Hardcore"
+        },
+        {
+          "content": "Trade rare items, gold, and materials with other Sanctuary adventurers.",
+          "excerpt": "Trade rare items, gold, and materials with other adventurers.",
+          "heat": 5620,
+          "images": [
+            {
+              "height": 400,
+              "isCached": false,
+              "url": "https://cdn.example.com/d4/trade-banner.jpg",
+              "width": 800
+            }
+          ],
+          "members": 128900,
+          "name": "Diablo 4 Trading",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Trade",
+          "path": "/communities/trading",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Trade",
+          "topics": [
+            "Trading"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Trade"
+        },
+        {
+          "content": "A community dedicated to the lore, story, and world of Diablo IV.",
+          "excerpt": "Discuss the lore, story, and world of Diablo IV.",
+          "heat": 1870,
+          "images": [
+            {
+              "height": 300,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/lore-banner.jpg",
+              "width": 600
+            }
+          ],
+          "members": 27650,
+          "name": "Diablo 4 Lore",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Lore",
+          "path": "/communities/lore",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Lore",
+          "topics": [
+            "Lore"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Lore"
+        }
+      ]
+    }
+  },
+  "{\"page\":3}": {
+    "error": "",
+    "response": {
+      "page": 3,
+      "path": "/diablo4/communities",
+      "title": "Diablo 4 Communities",
+      "value": [
+        {
+          "content": "Barbarian mains unite to discuss whirlwind, hota, and bleed builds.",
+          "excerpt": "Barbarian mains discuss whirlwind, hota, and bleed builds.",
+          "heat": 4450,
+          "images": [
+            {
+              "height": 512,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/barbarian-banner.jpg",
+              "width": 1024
+            }
+          ],
+          "members": 68900,
+          "name": "Diablo 4 Barbarians",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Barbarian",
+          "path": "/communities/barbarian",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Barbarian",
+          "topics": [
+            "Barbarian"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Barbarian"
+        },
+        {
+          "content": "Sorcerer community sharing frozen orb, firewall, and lightning builds.",
+          "excerpt": "Sorcerer community sharing frozen orb, firewall, and lightning builds.",
+          "heat": 4120,
+          "images": [
+            {
+              "height": 400,
+              "isCached": false,
+              "url": "https://cdn.example.com/d4/sorcerer-banner.jpg",
+              "width": 800
+            }
+          ],
+          "members": 63400,
+          "name": "Diablo 4 Sorcerers",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Sorcerer",
+          "path": "/communities/sorcerer",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Sorcerer",
+          "topics": [
+            "Sorcerer"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Sorcerer"
+        },
+        {
+          "content": "Rogue players discussing twisting blades, rapid fire, and trap builds.",
+          "excerpt": "Rogue players discuss twisting blades, rapid fire, and trap builds.",
+          "heat": 3890,
+          "images": [
+            {
+              "height": 300,
+              "isCached": true,
+              "url": "https://cdn.example.com/d4/rogue-banner.jpg",
+              "width": 600
+            }
+          ],
+          "members": 59800,
+          "name": "Diablo 4 Rogues",
+          "originalUrl": "https://www.reddit.com/r/Diablo4Rogue",
+          "path": "/communities/rogue",
+          "provider": {
+            "domain": "reddit.com",
+            "images": [
+              {
+                "height": 256,
+                "isCached": true,
+                "url": "https://cdn.example.com/providers/reddit-logo.png",
+                "width": 256
+              }
+            ],
+            "name": "Reddit"
+          },
+          "sourceUrl": "https://www.reddit.com/r/Diablo4Rogue",
+          "topics": [
+            "Rogue"
+          ],
+          "type": "forum",
+          "webUrl": "https://www.reddit.com/r/Diablo4Rogue"
+        }
+      ]
+    }
+  }
+}

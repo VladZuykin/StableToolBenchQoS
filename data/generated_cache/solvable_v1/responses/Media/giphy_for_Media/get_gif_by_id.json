@@ -1,0 +1,113 @@
+{
+  "{\"gif_id\":\"3o7aD2saalBwwftBIY\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "bitly_gif_url": "http://gph.is/2b8JtGR",
+        "bitly_url": "http://gph.is/2b8JtGR",
+        "content_url": "",
+        "embed_url": "https://giphy.com/embed/3o7aD2saalBwwftBIY",
+        "id": "3o7aD2saalBwwftBIY",
+        "images": {
+          "original": {
+            "frames": "24",
+            "height": "270",
+            "mp4": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.mp4",
+            "size": "1234567",
+            "url": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+            "webp": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.webp",
+            "width": "480"
+          }
+        },
+        "import_datetime": "2016-08-15 14:22:31",
+        "rating": "g",
+        "slug": "3o7aD2saalBwwftBIY",
+        "source": "",
+        "title": "excited dance GIF",
+        "trending_datetime": "2016-08-16 09:00:00",
+        "type": "gif",
+        "url": "https://giphy.com/gifs/3o7aD2saalBwwftBIY",
+        "username": ""
+      },
+      "meta": {
+        "msg": "OK",
+        "response_id": "57f6a9e2d3e3c4a1b2c3d4e5",
+        "status": 200
+      }
+    }
+  },
+  "{\"gif_id\":\"l0HlvtIPzPdt2usKs\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "bitly_gif_url": "http://gph.is/2jK9LmN",
+        "bitly_url": "http://gph.is/2jK9LmN",
+        "content_url": "",
+        "embed_url": "https://giphy.com/embed/l0HlvtIPzPdt2usKs",
+        "id": "l0HlvtIPzPdt2usKs",
+        "images": {
+          "original": {
+            "frames": "18",
+            "height": "281",
+            "mp4": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.mp4",
+            "size": "987654",
+            "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif",
+            "webp": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.webp",
+            "width": "500"
+          }
+        },
+        "import_datetime": "2017-01-04 08:11:02",
+        "rating": "pg",
+        "slug": "l0HlvtIPzPdt2usKs",
+        "source": "",
+        "title": "happy cat GIF",
+        "trending_datetime": "2017-01-05 12:30:00",
+        "type": "gif",
+        "url": "https://giphy.com/gifs/l0HlvtIPzPdt2usKs",
+        "username": "giphystudios"
+      },
+      "meta": {
+        "msg": "OK",
+        "response_id": "5a1b2c3d4e5f6a7b8c9d0e1f",
+        "status": 200
+      }
+    }
+  },
+  "{\"gif_id\":\"xT9IgG50Fb7Mi0prBC\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "bitly_gif_url": "http://gph.is/2pQrStU",
+        "bitly_url": "http://gph.is/2pQrStU",
+        "content_url": "",
+        "embed_url": "https://giphy.com/embed/xT9IgG50Fb7Mi0prBC",
+        "id": "xT9IgG50Fb7Mi0prBC",
+        "images": {
+          "original": {
+            "frames": "30",
+            "height": "360",
+            "mp4": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.mp4",
+            "size": "2345678",
+            "url": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif",
+            "webp": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp",
+            "width": "640"
+          }
+        },
+        "import_datetime": "2018-03-22 19:45:10",
+        "rating": "g",
+        "slug": "xT9IgG50Fb7Mi0prBC",
+        "source": "",
+        "title": "thumbs up GIF",
+        "trending_datetime": "2018-03-23 07:15:00",
+        "type": "gif",
+        "url": "https://giphy.com/gifs/xT9IgG50Fb7Mi0prBC",
+        "username": ""
+      },
+      "meta": {
+        "msg": "OK",
+        "response_id": "9f8e7d6c5b4a39281706f5e4",
+        "status": 200
+      }
+    }
+  }
+}

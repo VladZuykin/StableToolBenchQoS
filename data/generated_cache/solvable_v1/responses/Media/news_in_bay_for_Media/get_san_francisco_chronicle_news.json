@@ -1,0 +1,44 @@
+{
+  "{\"sfchronicle\":\"housing\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published": "2024-06-12T07:15:00Z",
+          "summary": "Bay Area home sales dipped for a third straight month as buyers grapple with elevated borrowing costs.",
+          "title": "San Francisco Housing Market Cools as Mortgage Rates Climb",
+          "url": "https://www.sfchronicle.com/bayarea/article/sf-housing-market-cools-17894521.php"
+        },
+        {
+          "published": "2024-06-11T16:40:00Z",
+          "summary": "The 120-unit development reserves half its apartments for formerly homeless residents.",
+          "title": "New Affordable Housing Complex Opens in Mission District",
+          "url": "https://www.sfchronicle.com/bayarea/article/mission-affordable-housing-17891204.php"
+        }
+      ],
+      "keyword": "housing",
+      "source": "San Francisco Chronicle"
+    }
+  },
+  "{\"sfchronicle\":\"transit\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published": "2024-06-12T05:02:00Z",
+          "summary": "Weekend trains will run until 2 a.m. starting in September under the pilot program.",
+          "title": "BART Approves Late-Night Service Expansion",
+          "url": "https://www.sfchronicle.com/bayarea/article/bart-late-night-service-17893377.php"
+        },
+        {
+          "published": "2024-06-10T21:30:00Z",
+          "summary": "Advocates say trimming lines in the Sunset and Richmond would hurt seniors and students most.",
+          "title": "Muni Riders Push Back on Proposed Bus Route Cuts",
+          "url": "https://www.sfchronicle.com/bayarea/article/muni-route-cuts-17890118.php"
+        }
+      ],
+      "keyword": "transit",
+      "source": "San Francisco Chronicle"
+    }
+  }
+}

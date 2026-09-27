@@ -1,0 +1,17 @@
+{
+  "{\"phone\":442079460958}": {
+    "error": "",
+    "response": {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "format": {
+        "E164": "+442079460958",
+        "RFC3966": "tel:+44-20-7946-0958",
+        "international": "+44 20 7946 0958",
+        "national": "020 7946 0958"
+      },
+      "number_type": "fixed_line",
+      "valid": true
+    }
+  }
+}

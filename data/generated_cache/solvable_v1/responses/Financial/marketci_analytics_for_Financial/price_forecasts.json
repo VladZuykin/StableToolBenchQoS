@@ -1,0 +1,78 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "adjClose": 415.32,
+          "cap": 3085000000000,
+          "close": 416.07,
+          "date": "2024-06-03",
+          "trend": 414.88,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        },
+        {
+          "adjClose": 417.11,
+          "cap": 3098000000000,
+          "close": 417.89,
+          "date": "2024-06-04",
+          "trend": 416.42,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        },
+        {
+          "adjClose": 419.05,
+          "cap": 3112000000000,
+          "close": 419.76,
+          "date": "2024-06-05",
+          "trend": 418.01,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        }
+      ],
+      "symbol": "MSFT"
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "adjClose": 176.44,
+          "cap": 562000000000,
+          "close": 177.29,
+          "date": "2024-06-03",
+          "trend": 175.91,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        },
+        {
+          "adjClose": 178.02,
+          "cap": 567000000000,
+          "close": 178.85,
+          "date": "2024-06-04",
+          "trend": 177.36,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        },
+        {
+          "adjClose": 179.63,
+          "cap": 572000000000,
+          "close": 180.41,
+          "date": "2024-06-05",
+          "trend": 178.88,
+          "yhat": null,
+          "yhat_lower": null,
+          "yhat_upper": null
+        }
+      ],
+      "symbol": "TSLA"
+    }
+  }
+}

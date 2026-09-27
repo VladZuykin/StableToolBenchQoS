@@ -1,0 +1,178 @@
+{
+  "{\"city\":\"New York\",\"offset\":\"0\",\"state_code\":\"NY\"}": {
+    "error": "",
+    "response": {
+      "agent": [
+        {
+          "office_name": "DOUGLAS ELLIMAN REAL ESTATE"
+        },
+        {
+          "office_name": null
+        }
+      ],
+      "branding": [
+        {
+          "name": "Douglas Elliman Real Estate",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "last_update_date": "2023-01-18T14:52:07Z",
+      "list_date": "2022-11-02T09:15:41Z",
+      "list_price": 1450000,
+      "listing_id": "2958124470",
+      "location": {
+        "address": {
+          "city": "New York",
+          "coordinate": {
+            "lat": 40.784512,
+            "lon": -73.953211
+          },
+          "line": "245 E 86th St Apt 12B",
+          "postal_code": "10028",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36061",
+          "name": "New York"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=245%20E%2086th%20St%2C%20New%20York%2C%20NY%2010028&size=640x480&source=outdoor&signature=AbCdEfGhIjKlMnOpQrStUvWxYz0="
+      },
+      "open_house_description": "Open House: Sun Jan 22, 1:00PM - 3:00PM",
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2958124470",
+            "listing_key": null,
+            "primary": true,
+            "status": "for_sale"
+          }
+        ]
+      },
+      "permalink": "https://www.realtor.com/realestateandhomes-detail/245-E-86th-St-Apt-12B_New-York_NY_10028_M29581-24470",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6dl-b2234851845s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6dl-b245756411s.jpg"
+        }
+      ],
+      "price_reduced_amount": 50000,
+      "primary_photo": "https://ap.rdcpix.com/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6dl-b2234851845s.jpg",
+      "property_description": {
+        "baths": 2,
+        "baths_1qtr": null,
+        "baths_3qtr": null,
+        "baths_full": 2,
+        "baths_half": null,
+        "beds": 3,
+        "garage": 0,
+        "lot_sqft": 0,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1420,
+        "stories": 1,
+        "sub_type": "condo",
+        "type": "condo",
+        "year_built": 1985
+      },
+      "property_id": "2958124470",
+      "source": "REALTOR",
+      "status": "for_sale",
+      "tax_record": "7B877F1D098F8D6B2EC1E3AB7C33227B",
+      "type": "mls",
+      "virtual_tour_link": "https://my.matterport.com/show/?m=abc123xyz"
+    }
+  },
+  "{\"city\":\"San Jose\",\"offset\":\"42\",\"state_code\":\"CA\"}": {
+    "error": "",
+    "response": {
+      "agent": [
+        {
+          "office_name": "KELLER WILLIAMS REALTY"
+        },
+        {
+          "office_name": null
+        }
+      ],
+      "branding": [
+        {
+          "name": "Keller Williams Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "last_update_date": "2023-02-03T08:41:55Z",
+      "list_date": "2022-09-14T17:02:33Z",
+      "list_price": 1125000,
+      "listing_id": "2947338210",
+      "location": {
+        "address": {
+          "city": "San Jose",
+          "coordinate": {
+            "lat": 37.322998,
+            "lon": -121.88633
+          },
+          "line": "1420 Sierra Ave",
+          "postal_code": "95126",
+          "state": "California",
+          "state_code": "CA"
+        },
+        "county": {
+          "fips_code": "06085",
+          "name": "Santa Clara"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1420%20Sierra%20Ave%2C%20San%20Jose%2C%20CA%2095126&size=640x480&source=outdoor&signature=ZzYyXxWwVvUuTtSsRrQqPpOoNnM="
+      },
+      "open_house_description": "No Open House Available",
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2947338210",
+            "listing_key": null,
+            "primary": true,
+            "status": "for_sale"
+          }
+        ]
+      },
+      "permalink": "https://www.realtor.com/realestateandhomes-detail/1420-Sierra-Ave_San-Jose_CA_95126_M29473-38210",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/9f8e7d6c5b4a39281706f5e4d3c2b1a0l-b3344851845s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/9f8e7d6c5b4a39281706f5e4d3c2b1a0l-b356756411s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": "https://ap.rdcpix.com/9f8e7d6c5b4a39281706f5e4d3c2b1a0l-b3344851845s.jpg",
+      "property_description": {
+        "baths": 2,
+        "baths_1qtr": null,
+        "baths_3qtr": null,
+        "baths_full": 2,
+        "baths_half": null,
+        "beds": 4,
+        "garage": 2,
+        "lot_sqft": 5400,
+        "name": null,
+        "sold_date": "2019-06-21",
+        "sold_price": 890000,
+        "sqft": 1860,
+        "stories": 2,
+        "sub_type": null,
+        "type": "single_family",
+        "year_built": 1968
+      },
+      "property_id": "2947338210",
+      "source": "BDCA",
+      "status": "for_sale",
+      "tax_record": "8C988A2E109A9E7C3FD2F4BC8D44338C",
+      "type": "mls",
+      "virtual_tour_link": "No Virtual Tour Available"
+    }
+  }
+}

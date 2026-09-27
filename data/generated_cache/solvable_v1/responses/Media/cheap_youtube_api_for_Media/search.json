@@ -1,0 +1,80 @@
+{
+  "{\"q\":\"crypto\"}": {
+    "error": "",
+    "response": {
+      "author": "Coin Bureau",
+      "authorId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "authorUrl": "https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw",
+      "authorVerified": true,
+      "description": "In this video we take a deep dive into the crypto market, covering Bitcoin, Ethereum and the latest altcoin trends.",
+      "descriptionHtml": "<p>In this video we take a deep dive into the crypto market, covering Bitcoin, Ethereum and the latest altcoin trends.</p>",
+      "isUpcoming": false,
+      "lengthSeconds": 1425,
+      "liveNow": false,
+      "premium": false,
+      "published": 1700000000,
+      "publishedText": "2 weeks ago",
+      "title": "Crypto Market Update: Bitcoin, Ethereum & Altcoin Trends",
+      "type": "video",
+      "videoId": "dQw4w9WgXcQ",
+      "videoThumbnails": [
+        {
+          "height": 90,
+          "quality": "start",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/default.jpg",
+          "width": 120
+        },
+        {
+          "height": 90,
+          "quality": "middle",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+          "width": 320
+        },
+        {
+          "height": 90,
+          "quality": "end",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "high",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "maxres",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "sddefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "hqdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "mqdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+          "width": 320
+        }
+      ],
+      "viewCount": 1250000,
+      "viewCountText": "1,250,000 views"
+    }
+  }
+}

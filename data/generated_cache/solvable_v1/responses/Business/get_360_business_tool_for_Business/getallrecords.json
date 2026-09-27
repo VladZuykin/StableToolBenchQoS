@@ -1,0 +1,36 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "records": [
+        {
+          "city": "Copenhagen",
+          "country": "Denmark",
+          "created_at": "2024-01-15T09:30:00Z",
+          "email": "info@acme.dk",
+          "id": 1,
+          "name": "Acme Corp",
+          "phone": "+45 12345678"
+        },
+        {
+          "city": "Aarhus",
+          "country": "Denmark",
+          "created_at": "2024-02-20T14:45:00Z",
+          "email": "contact@nordicsolutions.dk",
+          "id": 2,
+          "name": "Nordic Solutions ApS",
+          "phone": "+45 87654321"
+        },
+        {
+          "city": "London",
+          "country": "United Kingdom",
+          "created_at": "2024-03-05T11:15:00Z",
+          "email": "hello@globaltrading.com",
+          "id": 3,
+          "name": "Global Trading Ltd",
+          "phone": "+44 2079460958"
+        }
+      ]
+    }
+  }
+}

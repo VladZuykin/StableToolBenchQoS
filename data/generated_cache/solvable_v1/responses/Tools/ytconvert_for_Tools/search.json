@@ -1,0 +1,32 @@
+{
+  "{\"searchquery\":\"Bohemian Rhapsody Queen\"}": {
+    "error": "",
+    "response": {
+      "author": "Queen",
+      "duration": "5:55",
+      "image": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+      "title": "Queen – Bohemian Rhapsody (Official Video Remastered)",
+      "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    }
+  },
+  "{\"searchquery\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "author": "Rick Astley",
+      "duration": "3:33",
+      "image": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  },
+  "{\"searchquery\":\"lofi hip hop radio\"}": {
+    "error": "",
+    "response": {
+      "author": "Lofi Girl",
+      "duration": "1:23:45",
+      "image": "https://i.ytimg.com/vi/jfKfPfyJRdk/hqdefault.jpg",
+      "title": "lofi hip hop radio 📚 - beats to relax/study to",
+      "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+    }
+  }
+}

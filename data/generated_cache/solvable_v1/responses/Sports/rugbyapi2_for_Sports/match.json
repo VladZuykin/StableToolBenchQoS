@@ -1,0 +1,168 @@
+{
+  "{\"is_id\":8821347}": {
+    "error": "",
+    "response": {
+      "event": {
+        "awayScore": {
+          "current": 24,
+          "display": 24,
+          "normaltime": 24,
+          "period1": 10,
+          "period2": 14
+        },
+        "awayTeam": {
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand",
+            "slug": "new-zealand"
+          },
+          "fullName": "New Zealand All Blacks",
+          "gender": "M",
+          "id": 4521,
+          "manager": {
+            "country": {
+              "alpha2": "NZ",
+              "alpha3": "NZL",
+              "name": "New Zealand",
+              "slug": "new-zealand"
+            },
+            "id": 7781,
+            "name": "Scott Robertson",
+            "shortName": "S. Robertson",
+            "slug": "scott-robertson"
+          },
+          "name": "New Zealand",
+          "nameCode": "NZL",
+          "national": true,
+          "shortName": "All Blacks",
+          "slug": "new-zealand",
+          "sport": {
+            "id": 12,
+            "name": "Rugby Union",
+            "slug": "rugby-union"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#000000",
+            "secondary": "#FFFFFF",
+            "text": "#FFFFFF"
+          },
+          "type": 1,
+          "userCount": 18432
+        },
+        "changes": {
+          "changeTimestamp": 1718452800,
+          "changes": [
+            "awayScore.current",
+            "awayScore.period2",
+            "homeScore.current",
+            "homeScore.period2",
+            "status",
+            "currentPeriodStartTimestamp"
+          ]
+        },
+        "crowdsourcingDataDisplayEnabled": true,
+        "currentPeriodStartTimestamp": 1718451600,
+        "customId": "ru-2024-nzl-rsa-01",
+        "defaultPeriodCount": 2,
+        "defaultPeriodLength": 2400,
+        "fanRatingEvent": true,
+        "finalResultOnly": false,
+        "hasGlobalHighlights": true,
+        "homeScore": {
+          "current": 31,
+          "display": 31,
+          "normaltime": 31,
+          "period1": 17,
+          "period2": 14
+        },
+        "homeTeam": {
+          "country": {
+            "alpha2": "ZA",
+            "alpha3": "ZAF",
+            "name": "South Africa",
+            "slug": "south-africa"
+          },
+          "fullName": "South Africa Springboks",
+          "gender": "M",
+          "id": 4522,
+          "manager": {
+            "country": {
+              "alpha2": "ZA",
+              "alpha3": "ZAF",
+              "name": "South Africa",
+              "slug": "south-africa"
+            },
+            "id": 7782,
+            "name": "Rassie Erasmus",
+            "shortName": "R. Erasmus",
+            "slug": "rassie-erasmus"
+          },
+          "name": "South Africa",
+          "nameCode": "RSA",
+          "national": true,
+          "shortName": "Springboks",
+          "slug": "south-africa",
+          "sport": {
+            "id": 12,
+            "name": "Rugby Union",
+            "slug": "rugby-union"
+          },
+          "subTeams": [],
+          "teamColors": {
+            "primary": "#007A4D",
+            "secondary": "#FFB612",
+            "text": "#FFFFFF"
+          },
+          "type": 1,
+          "userCount": 21077
+        },
+        "id": 8821347,
+        "roundInfo": {
+          "round": 3
+        },
+        "startTimestamp": 1718449200,
+        "status": {
+          "code": 100,
+          "description": "Ended",
+          "type": "finished"
+        },
+        "time": {
+          "currentPeriodStartTimestamp": 1718451600,
+          "initial": 0,
+          "maxTime": 4800
+        },
+        "tournament": {
+          "category": {
+            "id": 88,
+            "name": "International",
+            "slug": "international"
+          },
+          "id": 1201,
+          "name": "The Rugby Championship",
+          "priority": 1,
+          "slug": "the-rugby-championship",
+          "uniqueTournament": {
+            "id": 1201,
+            "name": "The Rugby Championship",
+            "slug": "the-rugby-championship"
+          }
+        },
+        "venue": {
+          "city": "Johannesburg",
+          "country": {
+            "alpha2": "ZA",
+            "alpha3": "ZAF",
+            "name": "South Africa",
+            "slug": "south-africa"
+          },
+          "id": 3391,
+          "name": "Ellis Park Stadium",
+          "slug": "ellis-park-stadium"
+        },
+        "winnerCode": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"text\":\"Hello World 123\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "description": "QR code image generated for the provided text",
+      "url": "https://qrcodegenerator-47jz.onrender.com/qrcode/download/Hello%20World%20123"
+    }
+  },
+  "{\"text\":\"contact:john.doe@example.com\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "description": "QR code image generated for the provided text",
+      "url": "https://qrcodegenerator-47jz.onrender.com/qrcode/download/contact:john.doe@example.com"
+    }
+  },
+  "{\"text\":\"https://www.example.com\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "description": "QR code image generated for the provided text",
+      "url": "https://qrcodegenerator-47jz.onrender.com/qrcode/download/https://www.example.com"
+    }
+  }
+}

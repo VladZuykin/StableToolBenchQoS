@@ -1,0 +1,26 @@
+{
+  "{\"language\":\"en\",\"videoid\":\"vi7f9a2b3c4d5e6f7g8h9i0j\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Introduction",
+      "type": "chapter"
+    }
+  },
+  "{\"language\":\"es\",\"videoid\":\"vi9z8y7x6w5v4u3t2s1r0q9p\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Capítulo 2: Configuración avanzada",
+      "type": "chapter"
+    }
+  },
+  "{\"language\":\"fr-FR\",\"videoid\":\"vi1a2b3c4d5e6f7g8h9i0j1k\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Chapitre 1 : Les bases",
+      "type": "chapter"
+    }
+  }
+}

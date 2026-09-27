@@ -1,0 +1,176 @@
+{
+  "{\"categoryname\":\"Food and Drink\",\"designername\":\"Maria Lopez\",\"limit\":25,\"orderby\":\"priority\",\"q\":\"food\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1704067200,
+          "category": "Food and Drink",
+          "category_id": "7",
+          "color": 2,
+          "colors": "multicolor",
+          "description": "Colorful food stickers",
+          "detail": 1,
+          "downloads": "87654",
+          "equivalents": 15,
+          "family_id": 78,
+          "family_name": "Culinary",
+          "family_slug": "culinary",
+          "group_id": 9,
+          "group_slug": "lifestyle",
+          "id": 3312456,
+          "images": {
+            "sprite": "https://cdn.flaticon.example.com/sprites/food-stickers.png"
+          },
+          "item_equivalent": "food-stickers",
+          "license": "free",
+          "pack_background": "#FFF8E1",
+          "pack_id": 3312456,
+          "pack_items": 64,
+          "pack_name": "Food Stickers",
+          "pack_priority": "3",
+          "pack_slug": "food-stickers",
+          "premium": 0,
+          "priority": "3",
+          "priority_style": "stickers",
+          "selection": 1,
+          "slug": "food-stickers",
+          "state": 1,
+          "stroke": 2,
+          "style": 5,
+          "style_class": "stickers",
+          "style_id": 5,
+          "style_name": "Stickers",
+          "style_slug": "stickers",
+          "tags": "food,drink,sticker",
+          "tags_id": "301,302,303",
+          "team_id": 34,
+          "team_name": "Maria Lopez",
+          "team_website": "https://marialopez.example.com",
+          "views": "654321"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 1,
+        "total": 1
+      }
+    }
+  },
+  "{\"color\":1,\"icontype\":\"standard\",\"limit\":50,\"orderby\":\"added\",\"page\":2,\"q\":\"business\",\"stroke\":1}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1701388800,
+          "category": "Business",
+          "category_id": "3",
+          "color": 1,
+          "colors": "monocolor",
+          "description": "Minimal linear business icons",
+          "detail": 1,
+          "downloads": "54321",
+          "equivalents": 8,
+          "family_id": 45,
+          "family_name": "Corporate",
+          "family_slug": "corporate",
+          "group_id": 2,
+          "group_slug": "office",
+          "id": 2201987,
+          "images": {
+            "sprite": "https://cdn.flaticon.example.com/sprites/business-line.png"
+          },
+          "item_equivalent": "business-line",
+          "license": "premium",
+          "pack_background": "#F5F5F5",
+          "pack_id": 2201987,
+          "pack_items": 120,
+          "pack_name": "Business Line",
+          "pack_priority": "2",
+          "pack_slug": "business-line",
+          "premium": 1,
+          "priority": "2",
+          "priority_style": "linear",
+          "selection": 0,
+          "slug": "business-line",
+          "state": 1,
+          "stroke": 1,
+          "style": 2,
+          "style_class": "linear",
+          "style_id": 2,
+          "style_name": "Linear",
+          "style_slug": "linear",
+          "tags": "business,office,finance",
+          "tags_id": "201,202,203",
+          "team_id": 12,
+          "team_name": "LineWorks",
+          "team_website": "https://lineworks.example.com",
+          "views": "321098"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 2,
+        "total": 1
+      }
+    }
+  },
+  "{\"limit\":15,\"orderby\":\"priority\",\"page\":1,\"q\":\"media\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1698768000,
+          "category": "Multimedia",
+          "category_id": "12",
+          "color": 2,
+          "colors": "multicolor",
+          "description": "A pack of media player icons",
+          "detail": 1,
+          "downloads": "125430",
+          "equivalents": 12,
+          "family_id": 210,
+          "family_name": "Essentials",
+          "family_slug": "essentials",
+          "group_id": 5,
+          "group_slug": "technology",
+          "id": 1554346,
+          "images": {
+            "sprite": "https://cdn.flaticon.example.com/sprites/media-player.png"
+          },
+          "item_equivalent": "media-player",
+          "license": "free",
+          "pack_background": "#FFFFFF",
+          "pack_id": 1554346,
+          "pack_items": 48,
+          "pack_name": "Media Player",
+          "pack_priority": "1",
+          "pack_slug": "media-player",
+          "premium": 0,
+          "priority": "1",
+          "priority_style": "gradient",
+          "selection": 1,
+          "slug": "media-player",
+          "state": 1,
+          "stroke": 2,
+          "style": 3,
+          "style_class": "gradient",
+          "style_id": 3,
+          "style_name": "Gradient",
+          "style_slug": "gradient",
+          "tags": "media,player,video,audio",
+          "tags_id": "101,102,103,104",
+          "team_id": 88,
+          "team_name": "Pixel Studio",
+          "team_website": "https://pixelstudio.example.com",
+          "views": "980210"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 1,
+        "total": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"word\":\"ephemeral\"}": {
+    "error": "",
+    "response": {
+      "message": "Lasting for a very short time."
+    }
+  },
+  "{\"word\":\"quixotic\"}": {
+    "error": "",
+    "response": {
+      "message": "Exceedingly idealistic; unrealistic and impractical."
+    }
+  },
+  "{\"word\":\"serendipity\"}": {
+    "error": "",
+    "response": {
+      "message": "The occurrence and development of events by chance in a happy or beneficial way."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "message": "User logged out successfully",
+      "type": "success"
+    }
+  }
+}

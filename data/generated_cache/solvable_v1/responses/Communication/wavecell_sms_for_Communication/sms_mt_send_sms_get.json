@@ -1,0 +1,16 @@
+{
+  "{\"accountid\":\"acct_987654\",\"body\":\"Your verification code is 482913. It expires in 10 minutes.\",\"destination\":\"447700900123\",\"encoding\":\"ASCII\",\"password\":\"demo_password_1\",\"scheduleddatetime\":\"0\",\"source\":\"VerifySvc\",\"subaccountid\":\"sub_42\",\"umid\":\"verification_code_482913\"}": {
+    "error": "",
+    "response": {
+      "destination": "447700900123",
+      "encoding": "ASCII",
+      "messageId": "msg_8f3a1c9e-2b47-4d6a-9c1f-7e5b2a0d4f88",
+      "scheduleddatetime": "0",
+      "source": "VerifySvc",
+      "status": "success",
+      "statusCode": 200,
+      "statusDescription": "Message accepted for delivery",
+      "umid": "verification_code_482913"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "{\"is_id\":30965048563652}": {
+    "error": "",
+    "response": {
+      "data": {
+        "billingDate": 15,
+        "cardHolderID": 4821,
+        "cardHolderName": "Amelia Hartman",
+        "cardNumber": 30965048563652,
+        "cardPIN": 7391,
+        "cardTypeCode": "VISA",
+        "cardTypeFullName": "Visa Platinum",
+        "ccv_ccv2": 482,
+        "creditLimit": 12000,
+        "expiryDate": "2027-08-31",
+        "issueDate": "2021-09-01",
+        "issuingBank": "Northwind National Bank"
+      },
+      "metadata": {
+        "message": "Payment card retrieved successfully."
+      }
+    }
+  },
+  "{\"is_id\":47120093847561}": {
+    "error": "",
+    "response": {
+      "data": {
+        "billingDate": 3,
+        "cardHolderID": 915,
+        "cardHolderName": "Marcus Delgado",
+        "cardNumber": 47120093847561,
+        "cardPIN": 2048,
+        "cardTypeCode": "MC",
+        "cardTypeFullName": "Mastercard World Elite",
+        "ccv_ccv2": 917,
+        "creditLimit": 25000,
+        "expiryDate": "2026-02-28",
+        "issueDate": "2020-03-15",
+        "issuingBank": "Northwind National Bank"
+      },
+      "metadata": {
+        "message": "Payment card retrieved successfully."
+      }
+    }
+  }
+}

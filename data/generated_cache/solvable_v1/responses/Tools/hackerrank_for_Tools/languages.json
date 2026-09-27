@@ -1,0 +1,59 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "languages": [
+        {
+          "code": "c",
+          "id": 1,
+          "name": "C"
+        },
+        {
+          "code": "cpp",
+          "id": 2,
+          "name": "C++"
+        },
+        {
+          "code": "java",
+          "id": 3,
+          "name": "Java"
+        },
+        {
+          "code": "python",
+          "id": 4,
+          "name": "Python"
+        },
+        {
+          "code": "ruby",
+          "id": 5,
+          "name": "Ruby"
+        },
+        {
+          "code": "javascript",
+          "id": 6,
+          "name": "JavaScript"
+        },
+        {
+          "code": "go",
+          "id": 7,
+          "name": "Go"
+        },
+        {
+          "code": "csharp",
+          "id": 8,
+          "name": "C#"
+        },
+        {
+          "code": "php",
+          "id": 9,
+          "name": "PHP"
+        },
+        {
+          "code": "swift",
+          "id": 10,
+          "name": "Swift"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "{\"limit\":\"10\",\"offset\":\"0\"}": {
+    "error": "",
+    "response": {
+      "limit": 10,
+      "offset": 0,
+      "songs": [
+        {
+          "apple_ids": {
+            "album_id": "1712345600",
+            "artist_id": "1712300000",
+            "song_id": "1712345678"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/neon-harbor-lights/1712345678",
+          "artist": "The Paper Kites Revival",
+          "composer": "Marisol Vega",
+          "genres": [
+            "Indie Pop",
+            "Dream Pop"
+          ],
+          "id": "trk_9f2a1c",
+          "isrc": "USABC2400123",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 18432
+          },
+          "release_date": "2024-03-15",
+          "spotify_ids": {
+            "album_id": "2hJ8kL3mN4pQ5rS6tU7vW8",
+            "artist_id": "0aB1cD2eF3gH4iJ5kL6mN7",
+            "track_id": "4kL9mN2pQrS7tUvWxYzA1b"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/4kL9mN2pQrS7tUvWxYzA1b",
+          "title": "Neon Harbor Lights"
+        },
+        {
+          "apple_ids": {
+            "album_id": "1723456700",
+            "artist_id": "1723400000",
+            "song_id": "1723456789"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/static-in-the-pines/1723456789",
+          "artist": "Hollow Coast",
+          "composer": "Dorian Ashby",
+          "genres": [
+            "Indie Rock",
+            "Lo-fi"
+          ],
+          "id": "trk_3b7d5e",
+          "isrc": "USABC2400456",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 9271
+          },
+          "release_date": "2024-06-02",
+          "spotify_ids": {
+            "album_id": "5dE6fG7hI8jK9lM0nO1pQ2",
+            "artist_id": "3rS4tU5vW6xY7zA8bC9dE0",
+            "track_id": "7pQ8rS9tU0vW1xY2zA3bC4"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/7pQ8rS9tU0vW1xY2zA3bC4",
+          "title": "Static in the Pines"
+        }
+      ],
+      "total": 2
+    }
+  },
+  "{\"limit\":\"5\",\"offset\":\"20\"}": {
+    "error": "",
+    "response": {
+      "limit": 5,
+      "offset": 20,
+      "songs": [
+        {
+          "apple_ids": {
+            "album_id": "1734567800",
+            "artist_id": "1734500000",
+            "song_id": "1734567890"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/midnight-cassette/1734567890",
+          "artist": "Violet Static",
+          "composer": "June Okafor",
+          "genres": [
+            "Synthwave",
+            "Indie Electronic"
+          ],
+          "id": "trk_6c8f0a",
+          "isrc": "USABC2400789",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 45120
+          },
+          "release_date": "2023-11-21",
+          "spotify_ids": {
+            "album_id": "9oP0qR1sT2uV3wX4yZ5aB6",
+            "artist_id": "7cD8eF9gH0iJ1kL2mN3oP4",
+            "track_id": "1aB2cD3eF4gH5iJ6kL7mN8"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/1aB2cD3eF4gH5iJ6kL7mN8",
+          "title": "Midnight Cassette"
+        },
+        {
+          "apple_ids": {
+            "album_id": "1745678800",
+            "artist_id": "1745600000",
+            "song_id": "1745678901"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/paper-boats/1745678901",
+          "artist": "Lena Marsh",
+          "composer": "Lena Marsh",
+          "genres": [
+            "Folk",
+            "Acoustic"
+          ],
+          "id": "trk_0d2b4f",
+          "isrc": "USABC2400901",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 3120
+          },
+          "release_date": "2024-01-09",
+          "spotify_ids": {
+            "album_id": "8pQ9rS0tU1vW2xY3zA4bC5",
+            "artist_id": "6dE7fG8hI9jK0lM1nO2pQ3",
+            "track_id": "2bC3dE4fG5hI6jK7lM8nO9"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/2bC3dE4fG5hI6jK7lM8nO9",
+          "title": "Paper Boats"
+        },
+        {
+          "apple_ids": {
+            "album_id": "1756789000",
+            "artist_id": "1756700000",
+            "song_id": "1756789012"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/glass-elevator/1756789012",
+          "artist": "Northbound Ghosts",
+          "composer": "Priya Raman",
+          "genres": [
+            "Indie Pop",
+            "Alternative"
+          ],
+          "id": "trk_5e9a3c",
+          "isrc": "USABC2401023",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 22890
+          },
+          "release_date": "2024-08-30",
+          "spotify_ids": {
+            "album_id": "7qR8sT9uV0wX1yZ2aB3cD4",
+            "artist_id": "5eF6gH7iJ8kL9mN0oP1qR2",
+            "track_id": "3cD4eF5gH6iJ7kL8mN9oP0"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/3cD4eF5gH6iJ7kL8mN9oP0",
+          "title": "Glass Elevator"
+        },
+        {
+          "apple_ids": {
+            "album_id": "1767890100",
+            "artist_id": "1767800000",
+            "song_id": "1767890123"
+          },
+          "apple_song_url": "https://music.apple.com/us/song/copper-skyline/1767890123",
+          "artist": "The Quiet Machines",
+          "composer": "Anders Holm",
+          "genres": [
+            "Post-Rock",
+            "Instrumental"
+          ],
+          "id": "trk_8f1b6d",
+          "isrc": "USABC2401145",
+          "label": "Unsigned",
+          "play_counts": {
+            "period_days": 28,
+            "spotify_recent": 7645
+          },
+          "release_date": "2023-05-17",
+          "spotify_ids": {
+            "album_id": "6rS7tU8vW9xY0zA1bC2dE3",
+            "artist_id": "4fG5hI6jK7lM8nO9pQ0rS1",
+            "track_id": "4dE5fG6hI7jK8lM9nO0pQ1"
+          },
+          "spotify_song_url": "https://open.spotify.com/track/4dE5fG6hI7jK8lM9nO0pQ1",
+          "title": "Copper Skyline"
+        }
+      ],
+      "total": 5
+    }
+  }
+}

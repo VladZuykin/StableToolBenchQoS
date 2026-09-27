@@ -1,0 +1,23 @@
+{
+  "{\"path\":\"/Documents/Flowchart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "a1b2c3d4-5678-90ab-cdef-1234567890ab"
+    }
+  },
+  "{\"path\":\"/Projects/OrgChart.vsdx\",\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "b2c3d4e5-6789-0abc-def1-234567890abc"
+    }
+  },
+  "{\"path\":\"/Templates/NetworkDiagram.vsdx\",\"storagename\":\"SharedStorage\"}": {
+    "error": "",
+    "response": {
+      "Error": null,
+      "RequestId": "c3d4e5f6-7890-abcd-ef12-34567890abcd"
+    }
+  }
+}

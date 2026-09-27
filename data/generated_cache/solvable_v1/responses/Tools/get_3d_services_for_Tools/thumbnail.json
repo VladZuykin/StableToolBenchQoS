@@ -1,0 +1,38 @@
+{
+  "{\"url\":\"https://example-assets.com/models/robot_arm_v2.glb\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "height": 1024,
+      "render_engine": "blender",
+      "source_url": "https://example-assets.com/models/robot_arm_v2.glb",
+      "status": "success",
+      "thumbnail_url": "https://cdn.example.com/thumbnails/robot_arm_v2_1024.png",
+      "width": 1024
+    }
+  },
+  "{\"url\":\"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/FlightHelmet/glTF-Binary/FlightHelmet.glb\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "height": 256,
+      "render_engine": "blender",
+      "source_url": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/FlightHelmet/glTF-Binary/FlightHelmet.glb",
+      "status": "success",
+      "thumbnail_url": "https://cdn.example.com/thumbnails/flighthelmet_256.png",
+      "width": 256
+    }
+  },
+  "{\"url\":\"https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF-Binary/Avocado.glb\"}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "height": 512,
+      "render_engine": "blender",
+      "source_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF-Binary/Avocado.glb",
+      "status": "success",
+      "thumbnail_url": "https://cdn.example.com/thumbnails/avocado_512.jpg",
+      "width": 512
+    }
+  }
+}

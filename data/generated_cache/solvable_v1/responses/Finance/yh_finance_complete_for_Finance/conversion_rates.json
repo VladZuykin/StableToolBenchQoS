@@ -1,0 +1,20 @@
+{
+  "{\"conversion\":\"eur-usd\",\"period\":\"P1M\"}": {
+    "error": "",
+    "response": {
+      "message": "Conversion rate for eur-usd over P1M: 1.0874"
+    }
+  },
+  "{\"conversion\":\"usd-jpy\",\"interval\":\"P1W\",\"period\":\"P1Y\"}": {
+    "error": "",
+    "response": {
+      "message": "Conversion rate for usd-jpy over P1Y at P1W intervals: 149.32"
+    }
+  },
+  "{\"conversion\":\"xau-usd\",\"interval\":\"P1M\",\"period\":\"MAX\"}": {
+    "error": "",
+    "response": {
+      "message": "Conversion rate for xau-usd over MAX at P1M intervals: 2035.60"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "{\"lang\":\"de\"}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albanien"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algerien"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorra"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        },
+        {
+          "COUNTRY": "AR",
+          "name": "Argentinien"
+        },
+        {
+          "COUNTRY": "AM",
+          "name": "Armenien"
+        },
+        {
+          "COUNTRY": "AU",
+          "name": "Australien"
+        },
+        {
+          "COUNTRY": "AT",
+          "name": "Österreich"
+        },
+        {
+          "COUNTRY": "AZ",
+          "name": "Aserbaidschan"
+        }
+      ],
+      "_list_length": 278,
+      "description": "Liste aller Länder",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/api-explorer.aspx",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  },
+  "{\"lang\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albanie"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algérie"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorre"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        },
+        {
+          "COUNTRY": "AR",
+          "name": "Argentine"
+        },
+        {
+          "COUNTRY": "AM",
+          "name": "Arménie"
+        },
+        {
+          "COUNTRY": "AU",
+          "name": "Australie"
+        },
+        {
+          "COUNTRY": "AT",
+          "name": "Autriche"
+        },
+        {
+          "COUNTRY": "AZ",
+          "name": "Azerbaïdjan"
+        }
+      ],
+      "_list_length": 278,
+      "description": "Liste de tous les pays",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/api-explorer.aspx",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albania"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algeria"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorra"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        },
+        {
+          "COUNTRY": "AR",
+          "name": "Argentina"
+        },
+        {
+          "COUNTRY": "AM",
+          "name": "Armenia"
+        },
+        {
+          "COUNTRY": "AU",
+          "name": "Australia"
+        },
+        {
+          "COUNTRY": "AT",
+          "name": "Austria"
+        },
+        {
+          "COUNTRY": "AZ",
+          "name": "Azerbaijan"
+        }
+      ],
+      "_list_length": 278,
+      "description": "List of all Countries",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/api-explorer.aspx",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  }
+}

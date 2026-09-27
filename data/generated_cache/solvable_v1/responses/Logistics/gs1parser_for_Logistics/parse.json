@@ -1,0 +1,298 @@
+{
+  "{\"q\":\"(00)123456789012345678(02)09876543210987(37)48\"}": {
+    "error": "",
+    "response": {
+      "parser": {
+        "request": {
+          "data": "(00)123456789012345678(02)09876543210987(37)48",
+          "doc-version": "1.0",
+          "genspec-compliance": "GS1",
+          "invocation-id": "b7e6d5c4-3a2b-4c1d-9e8f-7a6b5c4d3e2f",
+          "service-level": 1,
+          "source": "GS1_ITF14"
+        },
+        "response": {
+          "_list_length": 3,
+          "application-identifiers": [
+            {
+              "AI00": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "IDENTIFIER",
+                  "gs1formatstring": "N18",
+                  "identifierlength": 2,
+                  "maxdatalength": 18,
+                  "mindatalength": 18,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "123456789012345678",
+                "datatitle": "SSCC",
+                "description": "Serial Shipping Container Code",
+                "hri": "(00)123456789012345678",
+                "identifier": "00",
+                "messages": [],
+                "mri": "00",
+                "rendered-content": "123456789012345678",
+                "state": true
+              }
+            },
+            {
+              "AI02": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "IDENTIFIER",
+                  "gs1formatstring": "N14",
+                  "identifierlength": 2,
+                  "maxdatalength": 14,
+                  "mindatalength": 14,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "09876543210987",
+                "datatitle": "CONTENT",
+                "description": "GTIN of contained trade items",
+                "hri": "(02)09876543210987",
+                "identifier": "02",
+                "messages": [],
+                "mri": "02",
+                "rendered-content": "09876543210987",
+                "state": true
+              }
+            },
+            {
+              "AI37": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "NUMBER",
+                  "gs1formatstring": "N..8",
+                  "identifierlength": 2,
+                  "maxdatalength": 8,
+                  "mindatalength": 1,
+                  "terminatorrequired": true,
+                  "unit": "NONE"
+                },
+                "datacontent": "48",
+                "datatitle": "COUNT",
+                "description": "Count of trade items contained in a logistic unit",
+                "hri": "(37)48",
+                "identifier": "37",
+                "messages": [],
+                "mri": "37",
+                "rendered-content": "48",
+                "state": true
+              }
+            }
+          ],
+          "messages": [],
+          "state": true
+        }
+      }
+    }
+  },
+  "{\"q\":\"(01)04012345678901(21)SN-99887766(11)230615(3103)001250\"}": {
+    "error": "",
+    "response": {
+      "parser": {
+        "request": {
+          "data": "(01)04012345678901(21)SN-99887766(11)230615(3103)001250",
+          "doc-version": "1.0",
+          "genspec-compliance": "GS1",
+          "invocation-id": "8c1d5e6f-2a3b-4c5d-8e9f-0a1b2c3d4e5f",
+          "service-level": 1,
+          "source": "GS1_DATAMATRIX"
+        },
+        "response": {
+          "_list_length": 4,
+          "application-identifiers": [
+            {
+              "AI01": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "IDENTIFIER",
+                  "gs1formatstring": "N14",
+                  "identifierlength": 2,
+                  "maxdatalength": 14,
+                  "mindatalength": 14,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "04012345678901",
+                "datatitle": "GTIN",
+                "description": "Global Trade Item Number",
+                "hri": "(01)04012345678901",
+                "identifier": "01",
+                "messages": [],
+                "mri": "01",
+                "rendered-content": "04012345678901",
+                "state": true
+              }
+            },
+            {
+              "AI21": {
+                "aiformat": {
+                  "allowalphanumeric": true,
+                  "datatype": "TEXT",
+                  "gs1formatstring": "X..20",
+                  "identifierlength": 2,
+                  "maxdatalength": 20,
+                  "mindatalength": 1,
+                  "terminatorrequired": true,
+                  "unit": "NONE"
+                },
+                "datacontent": "SN-99887766",
+                "datatitle": "SERIAL NUMBER",
+                "description": "Serial number",
+                "hri": "(21)SN-99887766",
+                "identifier": "21",
+                "messages": [],
+                "mri": "21",
+                "rendered-content": "SN-99887766",
+                "state": true
+              }
+            },
+            {
+              "AI11": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "DATE",
+                  "gs1formatstring": "N6",
+                  "identifierlength": 2,
+                  "maxdatalength": 6,
+                  "mindatalength": 6,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "230615",
+                "datatitle": "PRODUCTION DATE",
+                "description": "Production date (YYMMDD)",
+                "hri": "(11)230615",
+                "identifier": "11",
+                "messages": [],
+                "mri": "11",
+                "rendered-content": "2023-06-15",
+                "state": true
+              }
+            },
+            {
+              "AI3103": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "TRADE_MEASURE",
+                  "gs1formatstring": "N6",
+                  "identifierlength": 4,
+                  "maxdatalength": 6,
+                  "mindatalength": 6,
+                  "terminatorrequired": false,
+                  "unit": "KILOGRAMS"
+                },
+                "datacontent": "001250",
+                "datatitle": "NET WEIGHT (kg)",
+                "description": "Net weight in kilograms",
+                "hri": "(3103)001250",
+                "identifier": "3103",
+                "messages": [],
+                "mri": "3103",
+                "rendered-content": "1.250 kg",
+                "state": true
+              }
+            }
+          ],
+          "messages": [],
+          "state": true
+        }
+      }
+    }
+  },
+  "{\"q\":\"(01)09501101530003(17)250101(10)LOT-77A\"}": {
+    "error": "",
+    "response": {
+      "parser": {
+        "request": {
+          "data": "(01)09501101530003(17)250101(10)LOT-77A",
+          "doc-version": "1.0",
+          "genspec-compliance": "GS1",
+          "invocation-id": "3f2a9c1e-7b4d-4e2a-9c1e-7b4d4e2a9c1e",
+          "service-level": 1,
+          "source": "GS1_128"
+        },
+        "response": {
+          "_list_length": 3,
+          "application-identifiers": [
+            {
+              "AI01": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "IDENTIFIER",
+                  "gs1formatstring": "N14",
+                  "identifierlength": 2,
+                  "maxdatalength": 14,
+                  "mindatalength": 14,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "09501101530003",
+                "datatitle": "GTIN",
+                "description": "Global Trade Item Number",
+                "hri": "(01)09501101530003",
+                "identifier": "01",
+                "messages": [],
+                "mri": "01",
+                "rendered-content": "09501101530003",
+                "state": true
+              }
+            },
+            {
+              "AI17": {
+                "aiformat": {
+                  "allowalphanumeric": false,
+                  "datatype": "DATE",
+                  "gs1formatstring": "N6",
+                  "identifierlength": 2,
+                  "maxdatalength": 6,
+                  "mindatalength": 6,
+                  "terminatorrequired": false,
+                  "unit": "NONE"
+                },
+                "datacontent": "250101",
+                "datatitle": "EXPIRATION DATE",
+                "description": "Expiration date (YYMMDD)",
+                "hri": "(17)250101",
+                "identifier": "17",
+                "messages": [],
+                "mri": "17",
+                "rendered-content": "2025-01-01",
+                "state": true
+              }
+            },
+            {
+              "AI10": {
+                "aiformat": {
+                  "allowalphanumeric": true,
+                  "datatype": "TEXT",
+                  "gs1formatstring": "X..20",
+                  "identifierlength": 2,
+                  "maxdatalength": 20,
+                  "mindatalength": 1,
+                  "terminatorrequired": true,
+                  "unit": "NONE"
+                },
+                "datacontent": "LOT-77A",
+                "datatitle": "BATCH/LOT",
+                "description": "Batch or lot number",
+                "hri": "(10)LOT-77A",
+                "identifier": "10",
+                "messages": [],
+                "mri": "10",
+                "rendered-content": "LOT-77A",
+                "state": true
+              }
+            }
+          ],
+          "messages": [],
+          "state": true
+        }
+      }
+    }
+  }
+}

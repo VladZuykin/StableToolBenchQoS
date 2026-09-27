@@ -1,0 +1,444 @@
+{
+  "{\"channel_id\":\"UC-9-kyTW8ZkZNDHQJ6FgpwQ\"}": {
+    "error": "",
+    "response": {
+      "albums": {
+        "browseId": "MPADUC-9-kyTW8ZkZNDHQJ6FgpwQ",
+        "params": "ggMGBAgB",
+        "results": [
+          {
+            "browseId": "MPREb_abc123",
+            "isExplicit": false,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/album1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/album1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Midnight Echoes",
+            "year": "2023"
+          },
+          {
+            "browseId": "MPREb_def456",
+            "isExplicit": true,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/album2=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/album2=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Neon Horizon",
+            "year": "2021"
+          }
+        ]
+      },
+      "channelId": "UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+      "description": "Electronic music producer blending synthwave and ambient textures.",
+      "name": "Aurora Waves",
+      "radioId": null,
+      "related": {
+        "browseId": null,
+        "results": [
+          {
+            "browseId": "UCrelated001",
+            "subscribers": "1.2M subscribers",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/rel1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/rel1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Lunar Drift"
+          },
+          {
+            "browseId": "UCrelated002",
+            "subscribers": "845K subscribers",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/rel2=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/rel2=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Cobalt Sky"
+          }
+        ]
+      },
+      "shuffleId": null,
+      "singles": {
+        "browseId": "MPADUC-9-kyTW8ZkZNDHQJ6FgpwQ_singles",
+        "params": "ggMGBAgCEAE",
+        "results": [
+          {
+            "browseId": "MPREb_single01",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/single1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/single1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Fading Signals",
+            "year": "2024"
+          }
+        ]
+      },
+      "songs": {
+        "browseId": "VLPLsongs_aurora",
+        "results": [
+          {
+            "album": {
+              "id": "MPREb_abc123",
+              "name": "Midnight Echoes"
+            },
+            "artists": [
+              {
+                "id": "UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+                "name": "Aurora Waves"
+              }
+            ],
+            "duration": "3:42",
+            "isAvailable": true,
+            "isExplicit": false,
+            "likeStatus": "LIKE",
+            "thumbnails": [
+              {
+                "height": 60,
+                "url": "https://lh3.googleusercontent.com/song1=w60-h60-l90-rj",
+                "width": 60
+              },
+              {
+                "height": 120,
+                "url": "https://lh3.googleusercontent.com/song1=w120-h120-l90-rj",
+                "width": 120
+              }
+            ],
+            "title": "Midnight Echoes",
+            "videoId": "vid001abc"
+          },
+          {
+            "album": {
+              "id": "MPREb_def456",
+              "name": "Neon Horizon"
+            },
+            "artists": [
+              {
+                "id": "UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+                "name": "Aurora Waves"
+              }
+            ],
+            "duration": "4:05",
+            "isAvailable": true,
+            "isExplicit": true,
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": [
+              {
+                "height": 60,
+                "url": "https://lh3.googleusercontent.com/song2=w60-h60-l90-rj",
+                "width": 60
+              },
+              {
+                "height": 120,
+                "url": "https://lh3.googleusercontent.com/song2=w120-h120-l90-rj",
+                "width": 120
+              }
+            ],
+            "title": "Neon Horizon",
+            "videoId": "vid002def"
+          }
+        ]
+      }
+    }
+  },
+  "{\"channel_id\":\"UCJ6td3C9QlPO9O_J5dF4ZzA\"}": {
+    "error": "",
+    "response": {
+      "albums": {
+        "browseId": "MPADUCJ6td3C9QlPO9O_J5dF4ZzA",
+        "params": "ggMGBAgB",
+        "results": [
+          {
+            "browseId": "MPREb_hip001",
+            "isExplicit": true,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/albumH1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/albumH1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Concrete Kings",
+            "year": "2024"
+          },
+          {
+            "browseId": "MPREb_hip002",
+            "isExplicit": true,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/albumH2=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/albumH2=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Street Symphony",
+            "year": "2020"
+          }
+        ]
+      },
+      "channelId": "UCJ6td3C9QlPO9O_J5dF4ZzA",
+      "description": "Hip-hop artist and producer from Atlanta.",
+      "name": "MC Vertex",
+      "radioId": null,
+      "related": {
+        "browseId": null,
+        "results": [
+          {
+            "browseId": "UCrelated100",
+            "subscribers": "2.5M subscribers",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/relH1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/relH1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "DJ Pulse"
+          },
+          {
+            "browseId": "UCrelated101",
+            "subscribers": "980K subscribers",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/relH2=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/relH2=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Lyric Nova"
+          }
+        ]
+      },
+      "shuffleId": null,
+      "singles": {
+        "browseId": "MPADUCJ6td3C9QlPO9O_J5dF4ZzA_singles",
+        "params": "ggMGBAgCEAE",
+        "results": [
+          {
+            "browseId": "MPREb_singleH1",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/singleH1=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/singleH1=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "No Sleep",
+            "year": "2025"
+          }
+        ]
+      },
+      "songs": {
+        "browseId": "VLPLsongs_mcvertex",
+        "results": [
+          {
+            "album": {
+              "id": "MPREb_hip001",
+              "name": "Concrete Kings"
+            },
+            "artists": [
+              {
+                "id": "UCJ6td3C9QlPO9O_J5dF4ZzA",
+                "name": "MC Vertex"
+              }
+            ],
+            "duration": "2:57",
+            "isAvailable": true,
+            "isExplicit": true,
+            "likeStatus": "DISLIKE",
+            "thumbnails": [
+              {
+                "height": 60,
+                "url": "https://lh3.googleusercontent.com/songH1=w60-h60-l90-rj",
+                "width": 60
+              },
+              {
+                "height": 120,
+                "url": "https://lh3.googleusercontent.com/songH1=w120-h120-l90-rj",
+                "width": 120
+              }
+            ],
+            "title": "Concrete Kings",
+            "videoId": "vidH001"
+          }
+        ]
+      }
+    }
+  },
+  "{\"channel_id\":\"UCedvOgsKFzcK3hA5taf3KoQ\"}": {
+    "error": "",
+    "response": {
+      "albums": {
+        "browseId": "MPADUCedvOgsKFzcK3hA5taf3KoQ",
+        "params": "ggMGBAgB",
+        "results": [
+          {
+            "browseId": "MPREb_xyz789",
+            "isExplicit": false,
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/albumA=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/albumA=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Golden Hour",
+            "year": "2022"
+          }
+        ]
+      },
+      "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+      "description": "Indie folk singer-songwriter known for acoustic storytelling.",
+      "name": "River & Stone",
+      "radioId": null,
+      "related": {
+        "browseId": null,
+        "results": [
+          {
+            "browseId": "UCrelated010",
+            "subscribers": "320K subscribers",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/relA=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/relA=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Hollow Pines"
+          }
+        ]
+      },
+      "shuffleId": null,
+      "singles": {
+        "browseId": "MPADUCedvOgsKFzcK3hA5taf3KoQ_singles",
+        "params": "ggMGBAgCEAE",
+        "results": [
+          {
+            "browseId": "MPREb_singleA",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://lh3.googleusercontent.com/singleA=w202-h202-l90-rj",
+                "width": 202
+              },
+              {
+                "height": 404,
+                "url": "https://lh3.googleusercontent.com/singleA=w404-h404-l90-rj",
+                "width": 404
+              }
+            ],
+            "title": "Paper Boats",
+            "year": "2023"
+          }
+        ]
+      },
+      "songs": {
+        "browseId": "VLPLsongs_riverstone",
+        "results": [
+          {
+            "album": {
+              "id": "MPREb_xyz789",
+              "name": "Golden Hour"
+            },
+            "artists": [
+              {
+                "id": "UCedvOgsKFzcK3hA5taf3KoQ",
+                "name": "River & Stone"
+              }
+            ],
+            "duration": "3:18",
+            "isAvailable": true,
+            "isExplicit": false,
+            "likeStatus": "LIKE",
+            "thumbnails": [
+              {
+                "height": 60,
+                "url": "https://lh3.googleusercontent.com/songA=w60-h60-l90-rj",
+                "width": 60
+              },
+              {
+                "height": 120,
+                "url": "https://lh3.googleusercontent.com/songA=w120-h120-l90-rj",
+                "width": 120
+              }
+            ],
+            "title": "Golden Hour",
+            "videoId": "vidA001"
+          }
+        ]
+      }
+    }
+  }
+}

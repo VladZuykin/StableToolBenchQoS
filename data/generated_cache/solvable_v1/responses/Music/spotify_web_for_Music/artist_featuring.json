@@ -1,0 +1,206 @@
+{
+  "{\"is_id\":\"0TnOYISbd1XYRBk9myaseg\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "profile": {
+            "name": "Pitbull"
+          },
+          "relatedContent": {
+            "featuring": {
+              "items": [
+                {
+                  "description": "Canadian rapper, singer, and songwriter",
+                  "id": "3TVXtAsR1Inumwj472S9r4",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/abc123",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Drake",
+                  "owner": {
+                    "name": "Drake"
+                  },
+                  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                  "description": "Canadian singer-songwriter",
+                  "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/def456",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "The Weeknd",
+                  "owner": {
+                    "name": "The Weeknd"
+                  },
+                  "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+              ],
+              "totalCount": 8
+            }
+          },
+          "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "profile": {
+            "name": "The Weeknd"
+          },
+          "relatedContent": {
+            "featuring": {
+              "items": [
+                {
+                  "description": "Canadian rapper, singer, and songwriter",
+                  "id": "3TVXtAsR1Inumwj472S9r4",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/abc123",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Drake",
+                  "owner": {
+                    "name": "Drake"
+                  },
+                  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                  "description": "English singer-songwriter",
+                  "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ghi789",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Ed Sheeran",
+                  "owner": {
+                    "name": "Ed Sheeran"
+                  },
+                  "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+              ],
+              "totalCount": 8
+            }
+          },
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"3TVXtAsR1Inumwj472S9r4\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "profile": {
+            "name": "Drake"
+          },
+          "relatedContent": {
+            "featuring": {
+              "items": [
+                {
+                  "description": "Canadian singer-songwriter",
+                  "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/def456",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "The Weeknd",
+                  "owner": {
+                    "name": "The Weeknd"
+                  },
+                  "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                },
+                {
+                  "description": "American rapper",
+                  "id": "0TnOYISbd1XYRBk9myaseg",
+                  "images": {
+                    "items": [
+                      {
+                        "sources": [
+                          {
+                            "height": null,
+                            "url": "https://i.scdn.co/image/jkl012",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ],
+                    "totalCount": 1
+                  },
+                  "name": "Pitbull",
+                  "owner": {
+                    "name": "Pitbull"
+                  },
+                  "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
+                }
+              ],
+              "totalCount": 8
+            }
+          },
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      },
+      "extensions": []
+    }
+  }
+}

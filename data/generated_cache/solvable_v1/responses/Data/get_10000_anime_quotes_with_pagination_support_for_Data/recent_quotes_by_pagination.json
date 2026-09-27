@@ -1,0 +1,172 @@
+{
+  "{\"page\":2}": {
+    "error": "",
+    "response": [
+      {
+        "animename": "Naruto",
+        "character": "Naruto Uzumaki",
+        "image": "https://animequotes.example.com/images/naruto_uzumaki.png",
+        "is_popular": 1,
+        "quote": "I'm not going to run away anymore. I'm going to face my problems head-on.",
+        "quote_id": 4821
+      },
+      {
+        "animename": "Fullmetal Alchemist: Brotherhood",
+        "character": "Roy Mustang",
+        "image": "https://animequotes.example.com/images/roy_mustang.png",
+        "is_popular": 0,
+        "quote": "The world isn't perfect. But it's there for us, doing the best it can.",
+        "quote_id": 4822
+      },
+      {
+        "animename": "Bleach",
+        "character": "Kenpachi Zaraki",
+        "image": "https://animequotes.example.com/images/kenpachi_zaraki.png",
+        "is_popular": 1,
+        "quote": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+        "quote_id": 4823
+      },
+      {
+        "animename": "One Piece",
+        "character": "Monkey D. Luffy",
+        "image": "https://animequotes.example.com/images/monkey_d_luffy.png",
+        "is_popular": 1,
+        "quote": "If you don't take risks, you can't create a future.",
+        "quote_id": 4824
+      },
+      {
+        "animename": "Naruto Shippuden",
+        "character": "Itachi Uchiha",
+        "image": "https://animequotes.example.com/images/itachi_uchiha.png",
+        "is_popular": 1,
+        "quote": "People's lives don't end when they die. It ends when they lose faith.",
+        "quote_id": 4825
+      },
+      {
+        "animename": "Fullmetal Alchemist: Brotherhood",
+        "character": "Edward Elric",
+        "image": "https://animequotes.example.com/images/edward_elric.png",
+        "is_popular": 0,
+        "quote": "A lesson without pain is meaningless.",
+        "quote_id": 4826
+      },
+      {
+        "animename": "Dragon Ball Z",
+        "character": "Goku",
+        "image": "https://animequotes.example.com/images/goku.png",
+        "is_popular": 1,
+        "quote": "Power comes in response to a need, not a desire.",
+        "quote_id": 4827
+      },
+      {
+        "animename": "Fairy Tail",
+        "character": "Gildarts Clive",
+        "image": "https://animequotes.example.com/images/gildarts_clive.png",
+        "is_popular": 0,
+        "quote": "Fear is not evil. It tells you what weakness is.",
+        "quote_id": 4828
+      },
+      {
+        "animename": "Natsume's Book of Friends",
+        "character": "Takashi Natsume",
+        "image": "https://animequotes.example.com/images/takashi_natsume.png",
+        "is_popular": 1,
+        "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+        "quote_id": 4829
+      },
+      {
+        "animename": "Black Clover",
+        "character": "Fuegoleon Vermillion",
+        "image": "https://animequotes.example.com/images/fuegoleon_vermillion.png",
+        "is_popular": 0,
+        "quote": "Being weak is nothing to be ashamed of. Staying weak is.",
+        "quote_id": 4830
+      }
+    ]
+  },
+  "{\"page\":5}": {
+    "error": "",
+    "response": [
+      {
+        "animename": "Naruto",
+        "character": "Naruto Uzumaki",
+        "image": "https://animequotes.example.com/images/naruto_uzumaki.png",
+        "is_popular": 1,
+        "quote": "Hard work is worthless for those that don't believe in themselves.",
+        "quote_id": 4841
+      },
+      {
+        "animename": "Naruto",
+        "character": "Naruto Uzumaki",
+        "image": "https://animequotes.example.com/images/naruto_uzumaki.png",
+        "is_popular": 0,
+        "quote": "It's not the face that makes someone a monster, it's the choices they make.",
+        "quote_id": 4842
+      },
+      {
+        "animename": "Kino's Journey",
+        "character": "Kino",
+        "image": "https://animequotes.example.com/images/kino.png",
+        "is_popular": 1,
+        "quote": "The world is not beautiful, therefore it is.",
+        "quote_id": 4843
+      },
+      {
+        "animename": "Bleach",
+        "character": "Jushiro Ukitake",
+        "image": "https://animequotes.example.com/images/jushiro_ukitake.png",
+        "is_popular": 0,
+        "quote": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
+        "quote_id": 4844
+      },
+      {
+        "animename": "One Piece",
+        "character": "Brook",
+        "image": "https://animequotes.example.com/images/brook.png",
+        "is_popular": 1,
+        "quote": "No matter how deep the night, it always turns to day, eventually.",
+        "quote_id": 4845
+      },
+      {
+        "animename": "My Hero Academia",
+        "character": "Shota Aizawa",
+        "image": "https://animequotes.example.com/images/shota_aizawa.png",
+        "is_popular": 0,
+        "quote": "If you can't do something, then don't. Focus on what you can do.",
+        "quote_id": 4846
+      },
+      {
+        "animename": "Attack on Titan",
+        "character": "Levi Ackerman",
+        "image": "https://animequotes.example.com/images/levi_ackerman.png",
+        "is_popular": 1,
+        "quote": "The only thing we're allowed to do is believe that we won't regret the choice we made.",
+        "quote_id": 4847
+      },
+      {
+        "animename": "Bleach",
+        "character": "Matsumoto Rangiku",
+        "image": "https://animequotes.example.com/images/matsumoto_rangiku.png",
+        "is_popular": 0,
+        "quote": "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have.",
+        "quote_id": 4848
+      },
+      {
+        "animename": "Dragon Ball Z",
+        "character": "Vegeta",
+        "image": "https://animequotes.example.com/images/vegeta.png",
+        "is_popular": 1,
+        "quote": "The past is the past. The future is what matters.",
+        "quote_id": 4849
+      },
+      {
+        "animename": "Attack on Titan",
+        "character": "Eren Yeager",
+        "image": "https://animequotes.example.com/images/eren_yeager.png",
+        "is_popular": 1,
+        "quote": "If you win, you live. If you lose, you die. If you don't fight, you can't win.",
+        "quote_id": 4850
+      }
+    ]
+  }
+}

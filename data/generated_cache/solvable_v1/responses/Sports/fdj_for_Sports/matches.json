@@ -1,0 +1,49 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Olympique de Marseille",
+          "competition": "Ligue 1",
+          "homeTeam": "Paris Saint-Germain",
+          "id": "fdj-2024-05-18-psg-om",
+          "odds": {
+            "awayWin": 4.8,
+            "draw": 3.9,
+            "homeWin": 1.65
+          },
+          "sport": "Football",
+          "startTime": "2024-05-18T19:00:00Z",
+          "status": "pre-game"
+        },
+        {
+          "awayTeam": "Boston Celtics",
+          "competition": "NBA",
+          "homeTeam": "Los Angeles Lakers",
+          "id": "fdj-2024-05-18-lakers-celtics",
+          "odds": {
+            "awayWin": 1.75,
+            "homeWin": 2.1
+          },
+          "sport": "Basketball",
+          "startTime": "2024-05-18T23:30:00Z",
+          "status": "pre-game"
+        },
+        {
+          "awayTeam": "Jannik Sinner",
+          "competition": "ATP Masters",
+          "homeTeam": "Carlos Alcaraz",
+          "id": "fdj-2024-05-18-alcaraz-sinner",
+          "odds": {
+            "awayWin": 1.9,
+            "homeWin": 1.9
+          },
+          "sport": "Tennis",
+          "startTime": "2024-05-18T13:00:00Z",
+          "status": "live"
+        }
+      ]
+    }
+  }
+}

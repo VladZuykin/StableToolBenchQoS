@@ -1,0 +1,87 @@
+{
+  "{\"limit\":\"2\",\"orderby\":\"asc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "name": "Benten-cho",
+        "stats": {
+          "challenges": 4,
+          "graffiti": 9
+        }
+      },
+      {
+        "name": "Dogenzaka Hill",
+        "stats": {
+          "challenges": 3,
+          "graffiti": 8
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"desc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "name": "Kogane-cho",
+        "stats": {
+          "challenges": 6,
+          "graffiti": 14
+        }
+      },
+      {
+        "name": "Shibuya-cho",
+        "stats": {
+          "challenges": 5,
+          "graffiti": 12
+        }
+      },
+      {
+        "name": "Rokkaku-dai Heights",
+        "stats": {
+          "challenges": 5,
+          "graffiti": 11
+        }
+      }
+    ]
+  },
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "name": "Shibuya-cho",
+        "stats": {
+          "challenges": 5,
+          "graffiti": 12
+        }
+      },
+      {
+        "name": "Benten-cho",
+        "stats": {
+          "challenges": 4,
+          "graffiti": 9
+        }
+      },
+      {
+        "name": "Kogane-cho",
+        "stats": {
+          "challenges": 6,
+          "graffiti": 14
+        }
+      },
+      {
+        "name": "Dogenzaka Hill",
+        "stats": {
+          "challenges": 3,
+          "graffiti": 8
+        }
+      },
+      {
+        "name": "Rokkaku-dai Heights",
+        "stats": {
+          "challenges": 5,
+          "graffiti": 11
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "{\"language\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "Location/spott/get_place_by_my_ip",
+      "parameters": [
+        {
+          "name": "language",
+          "value": "fr"
+        }
+      ],
+      "response": [
+        {
+          "adminDivisionId": 3012874,
+          "adminDivisionLocalizedName": "Île-de-France",
+          "adminDivisionName": "Île-de-France",
+          "countryId": 3017382,
+          "countryLocalizedName": "France",
+          "countryName": "France",
+          "id": 2988507,
+          "latitude": 48.85341,
+          "localizedName": "Paris",
+          "longitude": 2.3488,
+          "name": "Paris",
+          "placeType": "city",
+          "population": 2138551,
+          "timeZone": "Europe/Paris"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

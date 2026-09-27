@@ -1,0 +1,64 @@
+{
+  "{\"browse_id\":\"MPTRt_ZXONnvFeQpN\"}": {
+    "error": "",
+    "response": {
+      "contents": [
+        {
+          "album": {
+            "id": "MPREb_9nqEki4ZLHF",
+            "name": "After Hours"
+          },
+          "artists": [
+            {
+              "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+              "name": "The Weeknd"
+            }
+          ],
+          "isExplicit": false,
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "https://lh3.googleusercontent.com/abc123=w60-h60-l90-rj",
+              "width": 60
+            },
+            {
+              "height": 120,
+              "url": "https://lh3.googleusercontent.com/abc123=w120-h120-l90-rj",
+              "width": 120
+            }
+          ],
+          "title": "Blinding Lights",
+          "videoId": "4NRXx6U8ABQ"
+        },
+        {
+          "album": {
+            "id": "MPREb_9nqEki4ZLHF",
+            "name": "After Hours"
+          },
+          "artists": [
+            {
+              "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+              "name": "The Weeknd"
+            }
+          ],
+          "isExplicit": false,
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "https://lh3.googleusercontent.com/def456=w60-h60-l90-rj",
+              "width": 60
+            },
+            {
+              "height": 120,
+              "url": "https://lh3.googleusercontent.com/def456=w120-h120-l90-rj",
+              "width": 120
+            }
+          ],
+          "title": "Save Your Tears",
+          "videoId": "XXYlFuWEuKI"
+        }
+      ],
+      "title": "Related"
+    }
+  }
+}

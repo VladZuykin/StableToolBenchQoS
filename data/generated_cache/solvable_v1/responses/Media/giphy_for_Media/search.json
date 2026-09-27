@@ -1,0 +1,80 @@
+{
+  "{\"limit\":\"10\",\"offset\":\"0\",\"q\":\"happy dance\",\"rating\":\"pg\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "3o7aTskHEUdgCQAXde",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif",
+              "width": "480"
+            }
+          },
+          "rating": "pg",
+          "title": "Happy Dance GIF",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/happy-dance-3o7aTskHEUdgCQAXde"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "abc123def456",
+        "status": 200
+      }
+    }
+  },
+  "{\"limit\":\"5\",\"q\":\"excited dog\",\"rating\":\"g\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "l0HlvtIPzPdt2usKs",
+          "images": {
+            "original": {
+              "height": "281",
+              "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif",
+              "width": "500"
+            }
+          },
+          "rating": "g",
+          "title": "Excited Dog GIF",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/excited-dog-l0HlvtIPzPdt2usKs"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "xyz789ghi012",
+        "status": 200
+      }
+    }
+  },
+  "{\"offset\":\"25\",\"q\":\"celebration\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "26BRuo6sLetdllPAQ",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif",
+              "width": "480"
+            }
+          },
+          "rating": "pg-13",
+          "title": "Celebration GIF",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/celebration-26BRuo6sLetdllPAQ"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "qwe345rty678",
+        "status": 200
+      }
+    }
+  }
+}

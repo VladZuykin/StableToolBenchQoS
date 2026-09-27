@@ -1,0 +1,86 @@
+{
+  "{\"email\":\"info@mailinator.com\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "Email",
+      "parameters": [
+        {
+          "email": "info@mailinator.com"
+        }
+      ],
+      "response": [
+        {
+          "catch_all": false,
+          "disposable": true,
+          "email": "info@mailinator.com",
+          "free": false,
+          "mx_record": true,
+          "reason": "disposable_email",
+          "role": true,
+          "score": 0.12,
+          "smtp_check": true,
+          "status": "invalid",
+          "syntax_check": true
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"email\":\"invalid-email@@domain\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "Email",
+      "parameters": [
+        {
+          "email": "invalid-email@@domain"
+        }
+      ],
+      "response": [
+        {
+          "catch_all": false,
+          "disposable": false,
+          "email": "invalid-email@@domain",
+          "free": false,
+          "mx_record": false,
+          "reason": "invalid_syntax",
+          "role": false,
+          "score": 0.0,
+          "smtp_check": false,
+          "status": "invalid",
+          "syntax_check": false
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"email\":\"john.doe@example.com\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "Email",
+      "parameters": [
+        {
+          "email": "john.doe@example.com"
+        }
+      ],
+      "response": [
+        {
+          "catch_all": false,
+          "disposable": false,
+          "email": "john.doe@example.com",
+          "free": false,
+          "mx_record": true,
+          "reason": "accepted_email",
+          "role": false,
+          "score": 0.98,
+          "smtp_check": true,
+          "status": "valid",
+          "syntax_check": true
+        }
+      ],
+      "results": 1
+    }
+  }
+}

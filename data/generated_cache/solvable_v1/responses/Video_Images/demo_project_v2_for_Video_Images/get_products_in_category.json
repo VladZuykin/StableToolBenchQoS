@@ -1,0 +1,106 @@
+{
+  "{\"category\":\"Books\",\"limit\":3,\"skip\":10}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "products_in_category",
+      "parameters": [
+        {
+          "name": "category",
+          "value": "Books"
+        },
+        {
+          "name": "limit",
+          "value": 3
+        },
+        {
+          "name": "skip",
+          "value": 10
+        }
+      ],
+      "response": [
+        {
+          "category": "Books",
+          "id": "prod_211",
+          "name": "The Pragmatic Programmer",
+          "price": 34.99,
+          "stock": 22
+        },
+        {
+          "category": "Books",
+          "id": "prod_212",
+          "name": "Clean Code",
+          "price": 29.95,
+          "stock": 18
+        },
+        {
+          "category": "Books",
+          "id": "prod_213",
+          "name": "Design Patterns",
+          "price": 44.5,
+          "stock": 9
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"category\":\"Electronics\",\"limit\":5,\"skip\":0}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "products_in_category",
+      "parameters": [
+        {
+          "name": "category",
+          "value": "Electronics"
+        },
+        {
+          "name": "limit",
+          "value": 5
+        },
+        {
+          "name": "skip",
+          "value": 0
+        }
+      ],
+      "response": [
+        {
+          "category": "Electronics",
+          "id": "prod_101",
+          "name": "Wireless Headphones",
+          "price": 59.99,
+          "stock": 120
+        },
+        {
+          "category": "Electronics",
+          "id": "prod_102",
+          "name": "Bluetooth Speaker",
+          "price": 39.5,
+          "stock": 75
+        },
+        {
+          "category": "Electronics",
+          "id": "prod_103",
+          "name": "Smartwatch",
+          "price": 129.0,
+          "stock": 40
+        },
+        {
+          "category": "Electronics",
+          "id": "prod_104",
+          "name": "USB-C Charger",
+          "price": 19.99,
+          "stock": 300
+        },
+        {
+          "category": "Electronics",
+          "id": "prod_105",
+          "name": "Laptop Stand",
+          "price": 24.75,
+          "stock": 85
+        }
+      ],
+      "results": 5
+    }
+  }
+}

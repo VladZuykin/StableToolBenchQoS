@@ -1,0 +1,47 @@
+{
+  "{\"folder\":\"designs\",\"frameid\":1,\"name\":\"layered.psd\"}": {
+    "error": "",
+    "response": {
+      "backgroundColor": "#00FFFFFF",
+      "bitsPerPixel": 32,
+      "frameCount": 5,
+      "frameId": 1,
+      "hasAlpha": true,
+      "height": 1080,
+      "horizontalResolution": 72.0,
+      "pixelFormat": "Format32bppArgb",
+      "verticalResolution": 72.0,
+      "width": 1920
+    }
+  },
+  "{\"folder\":\"images/scans\",\"frameid\":3,\"name\":\"multipage.tiff\",\"storage\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "backgroundColor": "#FFFFFFFF",
+      "bitsPerPixel": 24,
+      "frameCount": 8,
+      "frameId": 3,
+      "hasAlpha": false,
+      "height": 3508,
+      "horizontalResolution": 300.0,
+      "pixelFormat": "Format24bppRgb",
+      "verticalResolution": 300.0,
+      "width": 2480
+    }
+  },
+  "{\"frameid\":0,\"name\":\"animated.gif\"}": {
+    "error": "",
+    "response": {
+      "backgroundColor": "#00000000",
+      "bitsPerPixel": 32,
+      "frameCount": 12,
+      "frameId": 0,
+      "hasAlpha": true,
+      "height": 480,
+      "horizontalResolution": 96.0,
+      "pixelFormat": "Format32bppArgb",
+      "verticalResolution": 96.0,
+      "width": 640
+    }
+  }
+}

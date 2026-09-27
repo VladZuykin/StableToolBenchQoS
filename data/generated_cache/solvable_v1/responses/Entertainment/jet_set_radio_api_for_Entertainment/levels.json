@@ -1,0 +1,97 @@
+{
+  "{\"limit\":\"2\",\"orderby\":\"asc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "2",
+        "name": "Benten-cho",
+        "stats": {
+          "difficulty": "medium",
+          "graffitiTags": 18
+        }
+      },
+      {
+        "id": "4",
+        "name": "Grind Square",
+        "stats": {
+          "difficulty": "medium",
+          "graffitiTags": 15
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"desc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "3",
+        "name": "Kogane-cho",
+        "stats": {
+          "difficulty": "hard",
+          "graffitiTags": 24
+        }
+      },
+      {
+        "id": "5",
+        "name": "Rokkaku-dai Heights",
+        "stats": {
+          "difficulty": "hard",
+          "graffitiTags": 20
+        }
+      },
+      {
+        "id": "2",
+        "name": "Benten-cho",
+        "stats": {
+          "difficulty": "medium",
+          "graffitiTags": 18
+        }
+      }
+    ]
+  },
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "id": "1",
+        "name": "Shibuya-cho",
+        "stats": {
+          "difficulty": "easy",
+          "graffitiTags": 12
+        }
+      },
+      {
+        "id": "2",
+        "name": "Benten-cho",
+        "stats": {
+          "difficulty": "medium",
+          "graffitiTags": 18
+        }
+      },
+      {
+        "id": "3",
+        "name": "Kogane-cho",
+        "stats": {
+          "difficulty": "hard",
+          "graffitiTags": 24
+        }
+      },
+      {
+        "id": "4",
+        "name": "Grind Square",
+        "stats": {
+          "difficulty": "medium",
+          "graffitiTags": 15
+        }
+      },
+      {
+        "id": "5",
+        "name": "Rokkaku-dai Heights",
+        "stats": {
+          "difficulty": "hard",
+          "graffitiTags": 20
+        }
+      }
+    ]
+  }
+}

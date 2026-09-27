@@ -1,0 +1,25 @@
+{
+  "{\"colisid\":\"NC458921337FR\"}": {
+    "error": "",
+    "response": {
+      "country": {
+        "code": "NC",
+        "iso": "NCL",
+        "name": "Nouvelle-Calédonie"
+      },
+      "date": "2024-11-05T14:32:00+11:00",
+      "informations": "Colis pris en charge par le centre de tri de Nouméa",
+      "itemId": "NC458921337FR",
+      "localisation": "Nouméa",
+      "localization": {
+        "longName": "Agence de Nouméa Centre",
+        "name": "Nouméa",
+        "url": "https://www.opt.nc/suivi/agences/noumea"
+      },
+      "pays": "Nouvelle-Calédonie",
+      "rawDateHeure": "20241105143200",
+      "status": "En cours de traitement",
+      "typeEvenement": "Prise en charge"
+    }
+  }
+}

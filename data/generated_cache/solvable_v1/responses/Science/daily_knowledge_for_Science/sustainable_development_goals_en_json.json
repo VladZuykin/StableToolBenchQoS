@@ -1,0 +1,65 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "backgroundColor": "#DDA63A",
+      "image": "https://example.org/sdg-images/goal-02-zero-hunger.png",
+      "introduction": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+      "manifest": "sdg-02-zero-hunger",
+      "number": 2,
+      "slug": "zero-hunger",
+      "targets": [
+        {
+          "body": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-1.png",
+          "title": "Universal access to safe and nutritious food"
+        },
+        {
+          "body": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-2.png",
+          "title": "End all forms of malnutrition"
+        },
+        {
+          "body": "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-3.png",
+          "title": "Double the productivity and incomes of small-scale food producers"
+        },
+        {
+          "body": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-4.png",
+          "title": "Sustainable food production and resilient agricultural practices"
+        },
+        {
+          "body": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-5.png",
+          "title": "Maintain the genetic diversity of seeds, plants and animals"
+        },
+        {
+          "body": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-a.png",
+          "title": "Invest in rural infrastructure, agricultural research and technology"
+        },
+        {
+          "body": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-b.png",
+          "title": "Prevent agricultural trade restrictions and distortions"
+        },
+        {
+          "body": "Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.",
+          "pictogram": "https://example.org/sdg-pictograms/target-2-c.png",
+          "title": "Ensure stable food commodity markets and timely access to information"
+        }
+      ],
+      "tips": [
+        "Buy local and seasonal produce to support small-scale farmers.",
+        "Reduce food waste by planning meals and storing food properly.",
+        "Donate to food banks and community kitchens in your area.",
+        "Support fair trade products that guarantee fair prices for producers.",
+        "Grow your own vegetables or join a community garden.",
+        "Advocate for policies that promote sustainable agriculture and food security.",
+        "Educate others about the importance of ending hunger and malnutrition."
+      ],
+      "title": "Zero Hunger"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "{\"apikey\":\"demo_apikey_1\",\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": [
+      {
+        "acceptedDate": "2023-10-18 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -2400000000,
+        "cik": "0001318605",
+        "date": "2023-09-30",
+        "depreciationAndAmortization": 1200000000,
+        "fillingDate": "2023-10-18",
+        "freeCashFlow": 900000000,
+        "netIncome": 1853000000,
+        "operatingCashFlow": 3300000000,
+        "period": "Q3",
+        "reportedCurrency": "USD",
+        "symbol": "TSLA"
+      },
+      {
+        "acceptedDate": "2023-07-19 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -2100000000,
+        "cik": "0001318605",
+        "date": "2023-06-30",
+        "depreciationAndAmortization": 1100000000,
+        "fillingDate": "2023-07-19",
+        "freeCashFlow": 1500000000,
+        "netIncome": 2703000000,
+        "operatingCashFlow": 3600000000,
+        "period": "Q2",
+        "reportedCurrency": "USD",
+        "symbol": "TSLA"
+      }
+    ]
+  },
+  "{\"symbol\":\"AMZN\"}": {
+    "error": "",
+    "response": [
+      {
+        "acceptedDate": "2023-10-26 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -12400000000,
+        "cik": "0001018724",
+        "date": "2023-09-30",
+        "depreciationAndAmortization": 12300000000,
+        "fillingDate": "2023-10-26",
+        "freeCashFlow": 9200000000,
+        "netIncome": 9879000000,
+        "operatingCashFlow": 21600000000,
+        "period": "Q3",
+        "reportedCurrency": "USD",
+        "symbol": "AMZN"
+      },
+      {
+        "acceptedDate": "2023-08-03 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -11500000000,
+        "cik": "0001018724",
+        "date": "2023-06-30",
+        "depreciationAndAmortization": 11800000000,
+        "fillingDate": "2023-08-03",
+        "freeCashFlow": 8300000000,
+        "netIncome": 6750000000,
+        "operatingCashFlow": 19800000000,
+        "period": "Q2",
+        "reportedCurrency": "USD",
+        "symbol": "AMZN"
+      }
+    ]
+  },
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": [
+      {
+        "acceptedDate": "2023-10-24 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -9200000000,
+        "cik": "0000789019",
+        "date": "2023-09-30",
+        "depreciationAndAmortization": 4200000000,
+        "fillingDate": "2023-10-24",
+        "freeCashFlow": 21300000000,
+        "netIncome": 22290000000,
+        "operatingCashFlow": 30500000000,
+        "period": "Q3",
+        "reportedCurrency": "USD",
+        "symbol": "MSFT"
+      },
+      {
+        "acceptedDate": "2023-07-25 06:01:29",
+        "calendarYear": "2023",
+        "capitalExpenditure": -8900000000,
+        "cik": "0000789019",
+        "date": "2023-06-30",
+        "depreciationAndAmortization": 4100000000,
+        "fillingDate": "2023-07-25",
+        "freeCashFlow": 19900000000,
+        "netIncome": 20080000000,
+        "operatingCashFlow": 28800000000,
+        "period": "Q2",
+        "reportedCurrency": "USD",
+        "symbol": "MSFT"
+      }
+    ]
+  }
+}

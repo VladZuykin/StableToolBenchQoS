@@ -1,0 +1,20 @@
+{
+  "{\"mlemid\":1}": {
+    "error": "",
+    "response": {
+      "message": "https://mlemapi.com/images/mlem_1.jpg"
+    }
+  },
+  "{\"mlemid\":42}": {
+    "error": "",
+    "response": {
+      "message": "https://mlemapi.com/images/mlem_42.jpg"
+    }
+  },
+  "{\"mlemid\":777}": {
+    "error": "",
+    "response": {
+      "message": "https://mlemapi.com/images/mlem_777.jpg"
+    }
+  }
+}

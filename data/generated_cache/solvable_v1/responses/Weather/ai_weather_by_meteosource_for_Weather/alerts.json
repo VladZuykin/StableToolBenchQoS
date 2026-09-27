@@ -1,0 +1,59 @@
+{
+  "{\"language\":\"en\",\"lat\":\"40.7128N\",\"lon\":\"74.0060W\",\"timezone\":\"America/New_York\"}": {
+    "error": "",
+    "response": {
+      "alerts": {
+        "data": [
+          {
+            "areas": [
+              "New York (Manhattan)",
+              "Bronx",
+              "Kings"
+            ],
+            "certainty": "Likely",
+            "description": "Heavy snow expected. Total snow accumulations of 6 to 10 inches.",
+            "end": "2024-01-16T12:00:00-05:00",
+            "event": "Winter Storm Warning",
+            "id": "urn:oid:2.49.0.1.840.0.20240115.001",
+            "sender_name": "NWS New York NY",
+            "severity": "Severe",
+            "start": "2024-01-15T18:00:00-05:00",
+            "urgency": "Expected"
+          }
+        ]
+      },
+      "elevation": 10,
+      "lat": "40.7128",
+      "lon": "-74.0060",
+      "timezone": "America/New_York"
+    }
+  },
+  "{\"language\":\"fr\",\"place_id\":\"london-uk\",\"timezone\":\"Europe/London\"}": {
+    "error": "",
+    "response": {
+      "alerts": {
+        "data": [
+          {
+            "areas": [
+              "London",
+              "South East England"
+            ],
+            "certainty": "Likely",
+            "description": "Vent fort attendu avec des rafales pouvant atteindre 70 mph sur les zones exposées.",
+            "end": "2024-01-15T21:00:00+00:00",
+            "event": "Yellow Warning of Wind",
+            "id": "urn:oid:2.49.0.1.826.0.20240115.007",
+            "sender_name": "Met Office",
+            "severity": "Moderate",
+            "start": "2024-01-15T09:00:00+00:00",
+            "urgency": "Expected"
+          }
+        ]
+      },
+      "elevation": 11,
+      "lat": "51.5074",
+      "lon": "-0.1278",
+      "timezone": "Europe/London"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_base": "https://api.deepseek.com",
+  "endpoint_count": 2491,
+  "endpoints_already_satisfied": 2464,
+  "endpoints_requiring_generation": 27,
+  "examples_required": 47,
+  "execute": true,
+  "existing_unique_examples": 31571,
+  "generator_version": "solvable-response-cache-v3",
+  "model": "deepseek-chat",
+  "parameterless_endpoint_count": 615,
+  "parameterless_endpoint_target": 1,
+  "prompt_version": "solvable-cache-examples-v2",
+  "query_records": 769,
+  "query_roots": [
+    "solvable_queries",
+    "solvable_queries_example"
+  ],
+  "seed": 42,
+  "source_fingerprint_sha256": "7051ab49643eab3cee9e50c675e80c075a8ff988698118a7d8d336bc42d20f51",
+  "target_examples_per_endpoint": 3
+}

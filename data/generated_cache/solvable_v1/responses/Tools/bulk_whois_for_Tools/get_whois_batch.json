@@ -1,0 +1,64 @@
+{
+  "{\"batch_id\":\"b7f3a9c2-1d4e-4a6b-9f2c-8e5d3a1b7c40\"}": {
+    "error": "",
+    "response": {
+      "batch_id": "b7f3a9c2-1d4e-4a6b-9f2c-8e5d3a1b7c40",
+      "results": [
+        {
+          "created": "1995-08-14",
+          "domain": "example.com",
+          "expires": "2024-08-13",
+          "registrar": "RESERVED-Internet Assigned Numbers Authority",
+          "status": "clientTransferProhibited"
+        },
+        {
+          "created": "1995-08-14",
+          "domain": "example.org",
+          "expires": "2024-08-13",
+          "registrar": "RESERVED-Internet Assigned Numbers Authority",
+          "status": "clientTransferProhibited"
+        }
+      ],
+      "status": "completed",
+      "total": 2
+    }
+  },
+  "{\"batch_id\":\"batch-2024-06-15-001\"}": {
+    "error": "",
+    "response": {
+      "batch_id": "batch-2024-06-15-001",
+      "completed": 3,
+      "results": [
+        {
+          "created": "2001-04-19",
+          "domain": "openai.com",
+          "expires": "2025-04-19",
+          "registrar": "MarkMonitor Inc.",
+          "status": "clientUpdateProhibited"
+        },
+        {
+          "created": "2007-10-09",
+          "domain": "github.com",
+          "expires": "2025-10-09",
+          "registrar": "MarkMonitor Inc.",
+          "status": "clientTransferProhibited"
+        },
+        {
+          "created": "2003-12-26",
+          "domain": "stackoverflow.com",
+          "expires": "2025-12-26",
+          "registrar": "NameCheap, Inc.",
+          "status": "clientTransferProhibited"
+        }
+      ],
+      "status": "processing",
+      "total": 5
+    }
+  },
+  "{\"batch_id\":\"whois_batch_9f8e7d6c\"}": {
+    "error": "",
+    "response": {
+      "error": "Batch not found"
+    }
+  }
+}

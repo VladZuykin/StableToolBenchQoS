@@ -1,0 +1,21 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "bet": "Over 2.5 Goals",
+      "betQuote": 1.85,
+      "betState": 1,
+      "countryLogo": "https://cdn.example.com/flags/england.png",
+      "countryName": "England",
+      "data": "2024-05-18",
+      "hits": 7,
+      "leagueName": "Premier League",
+      "localTeamLogo": "https://cdn.example.com/teams/manchester-city.png",
+      "localTeamName": "Manchester City",
+      "matchDate": "2024-05-18T15:00:00Z",
+      "probability": 0.72,
+      "visitorTeamLogo": "https://cdn.example.com/teams/liverpool.png",
+      "visitorTeamName": "Liverpool"
+    }
+  }
+}

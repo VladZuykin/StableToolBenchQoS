@@ -1,0 +1,101 @@
+{
+  "{\"division\":\"I\",\"queue\":\"RANKED_SOLO_5x5\",\"region\":\"NA\",\"tier\":\"GOLD\"}": {
+    "error": "",
+    "response": {
+      "division": "I",
+      "players": [
+        {
+          "freshBlood": true,
+          "hotStreak": false,
+          "inactive": false,
+          "leaguePoints": 75,
+          "losses": 98,
+          "summonerId": "abc123",
+          "summonerName": "FakerFan99",
+          "veteran": false,
+          "wins": 120
+        },
+        {
+          "freshBlood": false,
+          "hotStreak": true,
+          "inactive": false,
+          "leaguePoints": 42,
+          "losses": 70,
+          "summonerId": "def456",
+          "summonerName": "MidLaneKing",
+          "veteran": true,
+          "wins": 88
+        }
+      ],
+      "queue": "RANKED_SOLO_5x5",
+      "region": "NA",
+      "tier": "GOLD"
+    }
+  },
+  "{\"division\":\"II\",\"queue\":\"RANKED_SOLO_5x5\",\"region\":\"KR\",\"tier\":\"PLATINUM\"}": {
+    "error": "",
+    "response": {
+      "division": "II",
+      "players": [
+        {
+          "freshBlood": false,
+          "hotStreak": true,
+          "inactive": false,
+          "leaguePoints": 90,
+          "losses": 150,
+          "summonerId": "mno345",
+          "summonerName": "KRChallenger",
+          "veteran": true,
+          "wins": 200
+        },
+        {
+          "freshBlood": true,
+          "hotStreak": false,
+          "inactive": false,
+          "leaguePoints": 55,
+          "losses": 110,
+          "summonerId": "pqr678",
+          "summonerName": "TopLaneGod",
+          "veteran": false,
+          "wins": 130
+        }
+      ],
+      "queue": "RANKED_SOLO_5x5",
+      "region": "KR",
+      "tier": "PLATINUM"
+    }
+  },
+  "{\"division\":\"III\",\"queue\":\"RANKED_FLEX_SR\",\"region\":\"EUW\",\"tier\":\"SILVER\"}": {
+    "error": "",
+    "response": {
+      "division": "III",
+      "players": [
+        {
+          "freshBlood": false,
+          "hotStreak": false,
+          "inactive": false,
+          "leaguePoints": 30,
+          "losses": 40,
+          "summonerId": "ghi789",
+          "summonerName": "FlexMaster",
+          "veteran": false,
+          "wins": 45
+        },
+        {
+          "freshBlood": false,
+          "hotStreak": false,
+          "inactive": true,
+          "leaguePoints": 12,
+          "losses": 25,
+          "summonerId": "jkl012",
+          "summonerName": "TeamPlayerX",
+          "veteran": false,
+          "wins": 22
+        }
+      ],
+      "queue": "RANKED_FLEX_SR",
+      "region": "EUW",
+      "tier": "SILVER"
+    }
+  }
+}

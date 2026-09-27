@@ -1,0 +1,30 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published_at": "2025-06-12T08:30:00Z",
+          "source": "Example News",
+          "summary": "Stock markets surged worldwide after new data showed inflation easing in major economies.",
+          "title": "Global Markets Rally as Inflation Cools",
+          "url": "https://news.example.com/global-markets-rally"
+        },
+        {
+          "published_at": "2025-06-12T07:15:00Z",
+          "source": "Tech Daily",
+          "summary": "Researchers announced a new battery technology that could store solar power for weeks.",
+          "title": "Breakthrough in Renewable Energy Storage",
+          "url": "https://news.example.com/renewable-energy-storage"
+        },
+        {
+          "published_at": "2025-06-11T22:45:00Z",
+          "source": "Sports Network",
+          "summary": "The season finale attracted the largest audience in the league's history.",
+          "title": "Championship Final Draws Record Viewership",
+          "url": "https://news.example.com/championship-final"
+        }
+      ]
+    }
+  }
+}

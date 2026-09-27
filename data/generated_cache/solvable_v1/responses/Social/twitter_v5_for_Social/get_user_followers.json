@@ -1,0 +1,89 @@
+{
+  "{\"count\":\"100\",\"user\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABF8k3LQoAAgjZAAIAAg",
+      "followers": [
+        {
+          "followers_count": 220,
+          "id": "1111111111",
+          "name": "Elon Fan",
+          "username": "elon_fan",
+          "verified": false
+        },
+        {
+          "followers_count": 45000,
+          "id": "2222222222",
+          "name": "Space News",
+          "username": "space_news",
+          "verified": true
+        },
+        {
+          "followers_count": 780,
+          "id": "3333333333",
+          "name": "Tesla Owner",
+          "username": "tesla_owner",
+          "verified": false
+        },
+        {
+          "followers_count": 9800,
+          "id": "4444444444",
+          "name": "Mars Colony",
+          "username": "mars_colony",
+          "verified": false
+        }
+      ]
+    }
+  },
+  "{\"count\":\"20\",\"cursor\":\"DAABCgABF8k3LQoAAgjZ\",\"user\":\"2455740283\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABF8k3LQoAAgjZAAI",
+      "followers": [
+        {
+          "followers_count": 340,
+          "id": "5555555555",
+          "name": "Mike Developer",
+          "username": "dev_mike",
+          "verified": false
+        },
+        {
+          "followers_count": 1500,
+          "id": "6666666666",
+          "name": "Sara Codes",
+          "username": "sara_codes",
+          "verified": false
+        }
+      ]
+    }
+  },
+  "{\"count\":\"50\",\"user\":\"783214\"}": {
+    "error": "",
+    "response": {
+      "cursor": "DAABCgABF8k3LQoAAgjZ",
+      "followers": [
+        {
+          "followers_count": 512345,
+          "id": "2244994945",
+          "name": "Twitter Dev",
+          "username": "TwitterDev",
+          "verified": true
+        },
+        {
+          "followers_count": 12000,
+          "id": "1234567890",
+          "name": "Tech Guru",
+          "username": "tech_guru",
+          "verified": false
+        },
+        {
+          "followers_count": 890000,
+          "id": "9876543210",
+          "name": "Daily News",
+          "username": "news_daily",
+          "verified": true
+        }
+      ]
+    }
+  }
+}

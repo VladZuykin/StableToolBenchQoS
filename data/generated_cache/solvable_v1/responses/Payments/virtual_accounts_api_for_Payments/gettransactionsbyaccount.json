@@ -1,0 +1,49 @@
+{
+  "{\"is_id\":\"0dd3a3be-7783-4f87-b347-d9aed69a4334\"}": {
+    "error": "",
+    "response": {
+      "transactions": [
+        {
+          "account_id": "0dd3a3be-7783-4f87-b347-d9aed69a4334",
+          "amount": 250.0,
+          "created_at": "2024-06-01T12:34:56Z",
+          "currency": "USD",
+          "id": "txn_8f14e45fceea167a",
+          "status": "completed",
+          "type": "credit"
+        },
+        {
+          "account_id": "0dd3a3be-7783-4f87-b347-d9aed69a4334",
+          "amount": 75.5,
+          "created_at": "2024-06-02T09:15:00Z",
+          "currency": "USD",
+          "id": "txn_45c48cce2e2d7fbdea",
+          "status": "pending",
+          "type": "debit"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":\"3f2504e0-4f89-11d3-9a0c-0305e82c3301\"}": {
+    "error": "",
+    "response": {
+      "transactions": []
+    }
+  },
+  "{\"is_id\":\"7c9e6679-7425-40de-944b-e07fc1f90ae7\"}": {
+    "error": "",
+    "response": {
+      "transactions": [
+        {
+          "account_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+          "amount": 1200.0,
+          "created_at": "2024-05-20T18:45:12Z",
+          "currency": "EUR",
+          "id": "txn_aab3238922bcc25a",
+          "status": "completed",
+          "type": "credit"
+        }
+      ]
+    }
+  }
+}

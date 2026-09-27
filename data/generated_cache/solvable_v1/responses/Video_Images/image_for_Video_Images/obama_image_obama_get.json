@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://cdn.example.net/uploads/selfie.jpeg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/obama/1a2b3c4d5e.png",
+      "message": "Image processed with Obama effect."
+    }
+  },
+  "{\"url\":\"https://example.com/photos/portrait.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/obama/8f3a2b1c9d.png",
+      "message": "Successfully applied Obama filter to the image."
+    }
+  },
+  "{\"url\":\"https://images.example.org/avatar/user123.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/obama/4e7d6c5b2a.png",
+      "message": "Obama image generated successfully."
+    }
+  }
+}

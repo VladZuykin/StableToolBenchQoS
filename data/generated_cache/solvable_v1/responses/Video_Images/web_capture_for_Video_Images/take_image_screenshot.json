@@ -1,0 +1,14 @@
+{
+  "{\"height\":900,\"url\":\"https://www.wikipedia.org\",\"width\":1440}": {
+    "error": "",
+    "response": {
+      "captured_at": "2024-06-11T14:32:07Z",
+      "format": "png",
+      "height": 900,
+      "screenshot_url": "https://cdn.webcapture.io/screenshots/9f3a1c2b7d4e5f60.png",
+      "size_bytes": 284517,
+      "url": "https://www.wikipedia.org",
+      "width": 1440
+    }
+  }
+}

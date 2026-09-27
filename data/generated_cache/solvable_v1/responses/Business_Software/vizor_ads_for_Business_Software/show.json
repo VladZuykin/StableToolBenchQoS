@@ -1,0 +1,83 @@
+{
+  "{\"slug\":\"aB3dEf9K\",\"x_rapidapi_host\":\"vizor-ads.p.rapidapi.com\",\"x_rapidapi_key\":\"demo_x_rapidapi_key_1\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "embed",
+      "message": "Embed record retrieved successfully",
+      "parameters": [
+        {
+          "name": "slug",
+          "value": "aB3dEf9K"
+        }
+      ],
+      "response": [
+        {
+          "created_at": "2025-03-15T10:30:00Z",
+          "id": "aB3dEf9K",
+          "qr_code": "https://cdn.vizorads.com/qr/aB3dEf9K.png",
+          "status": "active",
+          "title": "Product Launch QR",
+          "type": "image",
+          "url": "https://cdn.vizorads.com/embeds/aB3dEf9K.png"
+        }
+      ],
+      "results": 1,
+      "status": 200
+    }
+  },
+  "{\"slug\":\"mN4kLp8Q\",\"x_rapidapi_host\":\"vizor-ads.p.rapidapi.com\",\"x_rapidapi_key\":\"demo_x_rapidapi_key_2\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "embed",
+      "message": "Embed record retrieved successfully",
+      "parameters": [
+        {
+          "name": "slug",
+          "value": "mN4kLp8Q"
+        }
+      ],
+      "response": [
+        {
+          "created_at": "2025-05-10T09:15:00Z",
+          "id": "mN4kLp8Q",
+          "qr_code": "https://cdn.vizorads.com/qr/mN4kLp8Q.png",
+          "status": "active",
+          "title": "Smart Contract QR",
+          "type": "smart_contract",
+          "url": "https://cdn.vizorads.com/embeds/mN4kLp8Q.json"
+        }
+      ],
+      "results": 1,
+      "status": 200
+    }
+  },
+  "{\"slug\":\"xY7zPq2R\",\"x_rapidapi_host\":\"vizor-ads.p.rapidapi.com\",\"x_rapidapi_key\":\"demo_x_rapidapi_key_3\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "embed",
+      "message": "Embed record retrieved successfully",
+      "parameters": [
+        {
+          "name": "slug",
+          "value": "xY7zPq2R"
+        }
+      ],
+      "response": [
+        {
+          "created_at": "2025-04-02T14:45:00Z",
+          "id": "xY7zPq2R",
+          "qr_code": "https://cdn.vizorads.com/qr/xY7zPq2R.png",
+          "status": "active",
+          "title": "NFT Collection Promo",
+          "type": "document",
+          "url": "https://cdn.vizorads.com/embeds/xY7zPq2R.pdf"
+        }
+      ],
+      "results": 1,
+      "status": 200
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "{\"percentage\":\"25\",\"videourl\":\"https://example.com/media/nature-documentary.mp4\"}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "height": 720,
+      "percentage": "25",
+      "thumbnailUrl": "https://cdn.example.com/thumbnails/nature-documentary-25.jpg",
+      "videoUrl": "https://example.com/media/nature-documentary.mp4",
+      "width": 1280
+    }
+  },
+  "{\"percentage\":\"75\",\"videourl\":\"https://storage.example.org/videos/product-demo-2024.mp4\"}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "height": 1080,
+      "percentage": "75",
+      "thumbnailUrl": "https://cdn.example.com/thumbnails/product-demo-2024-75.jpg",
+      "videoUrl": "https://storage.example.org/videos/product-demo-2024.mp4",
+      "width": 1920
+    }
+  },
+  "{\"videourl\":\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4\"}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "height": 720,
+      "percentage": "50",
+      "thumbnailUrl": "https://cdn.example.com/thumbnails/elephants-dream-50.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "width": 1280
+    }
+  }
+}

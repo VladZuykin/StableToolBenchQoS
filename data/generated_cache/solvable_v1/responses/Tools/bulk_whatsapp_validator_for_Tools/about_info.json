@@ -1,0 +1,20 @@
+{
+  "{\"phone\":14155552671}": {
+    "error": "",
+    "response": {
+      "message": "Available"
+    }
+  },
+  "{\"phone\":34605797764}": {
+    "error": "",
+    "response": {
+      "message": "Hey there! I am using WhatsApp."
+    }
+  },
+  "{\"phone\":919876543210}": {
+    "error": "",
+    "response": {
+      "message": "Busy"
+    }
+  }
+}

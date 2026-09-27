@@ -1,0 +1,86 @@
+{
+  "{\"profile_id\":\"a1b2c3d4e5f6\"}": {
+    "error": "",
+    "response": {
+      "carriers": [
+        {
+          "disease": "Cystic Fibrosis",
+          "mutations": 0,
+          "status": "not_a_carrier"
+        },
+        {
+          "disease": "Sickle Cell Anemia",
+          "mutations": 1,
+          "status": "carrier"
+        },
+        {
+          "disease": "Tay-Sachs Disease",
+          "mutations": 0,
+          "status": "not_a_carrier"
+        },
+        {
+          "disease": "Bloom Syndrome",
+          "mutations": null,
+          "status": "not_analyzed"
+        }
+      ],
+      "profile_id": "a1b2c3d4e5f6"
+    }
+  },
+  "{\"profile_id\":\"demo\"}": {
+    "error": "",
+    "response": {
+      "carriers": [
+        {
+          "disease": "Cystic Fibrosis",
+          "mutations": 1,
+          "status": "carrier"
+        },
+        {
+          "disease": "Sickle Cell Anemia",
+          "mutations": 0,
+          "status": "not_a_carrier"
+        },
+        {
+          "disease": "Tay-Sachs Disease",
+          "mutations": null,
+          "status": "not_analyzed"
+        },
+        {
+          "disease": "Gaucher Disease",
+          "mutations": 2,
+          "status": "affected"
+        }
+      ],
+      "profile_id": "demo"
+    }
+  },
+  "{\"profile_id\":\"user-98765\"}": {
+    "error": "",
+    "response": {
+      "carriers": [
+        {
+          "disease": "Cystic Fibrosis",
+          "mutations": null,
+          "status": "not_analyzed"
+        },
+        {
+          "disease": "Sickle Cell Anemia",
+          "mutations": null,
+          "status": "not_analyzed"
+        },
+        {
+          "disease": "Tay-Sachs Disease",
+          "mutations": null,
+          "status": "not_analyzed"
+        },
+        {
+          "disease": "Gaucher Disease",
+          "mutations": null,
+          "status": "not_analyzed"
+        }
+      ],
+      "profile_id": "user-98765"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "dateTime": "2024-06-15T14:32:07Z",
+      "description": "Numerology descriptions for all core numbers",
+      "detail": [
+        {
+          "category": "Life Path",
+          "description": "Reveals your life's purpose, the path you are meant to walk, and the core lessons you will encounter.",
+          "language": "en"
+        },
+        {
+          "category": "Expression",
+          "description": "Describes your natural talents, abilities, and the way you interact with the world around you.",
+          "language": "en"
+        },
+        {
+          "category": "Soul Urge",
+          "description": "Reflects your inner desires, motivations, and what your heart truly yearns for.",
+          "language": "en"
+        },
+        {
+          "category": "Personality",
+          "description": "Shows how others perceive you and the outer mask you present to the world.",
+          "language": "en"
+        },
+        {
+          "category": "Birth Day",
+          "description": "Highlights a special talent or ability you possess from birth.",
+          "language": "en"
+        },
+        {
+          "category": "Maturity",
+          "description": "Represents the person you are becoming and the goals you strive toward in later life.",
+          "language": "en"
+        },
+        {
+          "category": "Balance",
+          "description": "Indicates how you handle stress and maintain harmony in your daily life.",
+          "language": "en"
+        },
+        {
+          "category": "Karmic Debt",
+          "description": "Points to unresolved lessons from past experiences that you must address in this lifetime.",
+          "language": "en"
+        },
+        {
+          "category": "Hidden Passion",
+          "description": "Unveils the strengths you rely on most and the talents you may not fully recognize.",
+          "language": "en"
+        }
+      ],
+      "statusReasonPhrase": "OK",
+      "statusValue": 200
+    }
+  }
+}

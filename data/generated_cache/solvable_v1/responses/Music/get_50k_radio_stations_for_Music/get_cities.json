@@ -1,0 +1,46 @@
+{
+  "{\"country_id\":1,\"keyword\":\"New\"}": {
+    "error": "",
+    "response": {
+      "cities": [
+        {
+          "country_id": 1,
+          "id": 4,
+          "name": "New York"
+        },
+        {
+          "country_id": 1,
+          "id": 5,
+          "name": "New Orleans"
+        },
+        {
+          "country_id": 1,
+          "id": 6,
+          "name": "Newark"
+        }
+      ]
+    }
+  },
+  "{\"country_id\":63,\"keyword\":\"Manila\"}": {
+    "error": "",
+    "response": {
+      "cities": [
+        {
+          "country_id": 63,
+          "id": 1,
+          "name": "Manila"
+        },
+        {
+          "country_id": 63,
+          "id": 2,
+          "name": "Quezon City"
+        },
+        {
+          "country_id": 63,
+          "id": 3,
+          "name": "Makati"
+        }
+      ]
+    }
+  }
+}

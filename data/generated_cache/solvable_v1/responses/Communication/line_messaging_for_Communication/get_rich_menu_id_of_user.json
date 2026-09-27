@@ -1,0 +1,20 @@
+{
+  "{\"userid\":\"U1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p\"}": {
+    "error": "",
+    "response": {
+      "message": "richmenu-abcdef1234567890abcdef1234567890"
+    }
+  },
+  "{\"userid\":\"U4af4980629e885a5b3f5b2b0e1c2d3e4\"}": {
+    "error": "",
+    "response": {
+      "message": "richmenu-1234567890abcdef1234567890abcdef"
+    }
+  },
+  "{\"userid\":\"U9z8y7x6w5v4u3t2s1r0q9p8o7n6m5l4k\"}": {
+    "error": "",
+    "response": {
+      "message": "richmenu-0f1e2d3c4b5a69788796a5b4c3d2e1f0"
+    }
+  }
+}

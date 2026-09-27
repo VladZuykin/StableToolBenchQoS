@@ -1,0 +1,59 @@
+{
+  "{\"variable_id\":\"5f8a3b2c1d4e6f7a8b9c0d1e\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1698765432000,
+      "device": "3c9d7e1a2b4f5c6d7e8f9a0b",
+      "icon": "thermometer",
+      "id": "5f8a3b2c1d4e6f7a8b9c0d1e",
+      "label": "Temperature Sensor",
+      "last_value": 23.7,
+      "last_value_timestamp": 1698765432000,
+      "name": "temperature",
+      "properties": {
+        "color": "#FF5733",
+        "decimals": 2
+      },
+      "type": "float",
+      "unit": "°C"
+    }
+  },
+  "{\"variable_id\":\"a1b2c3d4e5f60718293a4b5c\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1699123456000,
+      "device": "7e8f9a0b1c2d3e4f5a6b7c8d",
+      "icon": "water-percent",
+      "id": "a1b2c3d4e5f60718293a4b5c",
+      "label": "Relative Humidity",
+      "last_value": 58,
+      "last_value_timestamp": 1699123456000,
+      "name": "humidity",
+      "properties": {
+        "color": "#33A1FF",
+        "decimals": 0
+      },
+      "type": "integer",
+      "unit": "%"
+    }
+  },
+  "{\"variable_id\":\"c0ffee1234567890abcdef00\"}": {
+    "error": "",
+    "response": {
+      "created_at": 1699456789000,
+      "device": "1a2b3c4d5e6f708192a3b4c5",
+      "icon": "door",
+      "id": "c0ffee1234567890abcdef00",
+      "label": "Main Door",
+      "last_value": "closed",
+      "last_value_timestamp": 1699456789000,
+      "name": "door_status",
+      "properties": {
+        "color": "#4CAF50",
+        "decimals": null
+      },
+      "type": "string",
+      "unit": ""
+    }
+  }
+}

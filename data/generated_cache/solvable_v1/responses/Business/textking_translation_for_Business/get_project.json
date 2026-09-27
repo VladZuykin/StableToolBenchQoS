@@ -1,0 +1,20 @@
+{
+  "{\"projectid\":\"550e8400-e29b-41d4-a716-446655440000\"}": {
+    "error": "",
+    "response": {
+      "description": "Mobile app store listing translation for Spanish and Italian"
+    }
+  },
+  "{\"projectid\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "description": "Marketing website localization for German and French markets"
+    }
+  },
+  "{\"projectid\":\"f47ac10b-58cc-4372-a567-0e02b2c3d479\"}": {
+    "error": "",
+    "response": {
+      "description": "User manual translation from English to Japanese"
+    }
+  }
+}

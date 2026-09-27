@@ -1,0 +1,20 @@
+{
+  "{\"caid\":214970}": {
+    "error": "",
+    "response": {
+      "message": "Root category 214970 with 12 direct children and 3 levels of recursive subcategories retrieved successfully."
+    }
+  },
+  "{\"caid\":214971}": {
+    "error": "",
+    "response": {
+      "message": "Category 214971 has 5 direct children and 2 levels of recursive subcategories."
+    }
+  },
+  "{\"caid\":214972}": {
+    "error": "",
+    "response": {
+      "message": "Category 214972 has no children categories."
+    }
+  }
+}

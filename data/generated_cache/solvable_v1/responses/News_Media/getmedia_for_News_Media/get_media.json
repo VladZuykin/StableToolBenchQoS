@@ -1,0 +1,69 @@
+{
+  "{\"title\":\"Election\"}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "duration": 300,
+          "id": "m003",
+          "published_at": "2024-05-30T14:00:00Z",
+          "title": "Election Coverage Highlights",
+          "type": "video",
+          "url": "https://media.example.com/videos/election-highlights.mp4"
+        },
+        {
+          "id": "m004",
+          "published_at": "2024-05-30T16:00:00Z",
+          "title": "Election Results Infographic",
+          "type": "image",
+          "url": "https://media.example.com/images/election-results.png"
+        }
+      ]
+    }
+  },
+  "{\"title\":\"Sports\"}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "duration": 240,
+          "id": "m005",
+          "published_at": "2024-05-29T20:00:00Z",
+          "title": "Championship Final Recap",
+          "type": "video",
+          "url": "https://media.example.com/videos/championship-final.mp4"
+        },
+        {
+          "duration": 600,
+          "id": "m006",
+          "published_at": "2024-05-29T21:00:00Z",
+          "title": "Player Interview",
+          "type": "audio",
+          "url": "https://media.example.com/audio/player-interview.mp3"
+        }
+      ]
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "duration": 180,
+          "id": "m001",
+          "published_at": "2024-06-01T10:00:00Z",
+          "title": "Breaking News: Global Summit",
+          "type": "video",
+          "url": "https://media.example.com/videos/global-summit.mp4"
+        },
+        {
+          "id": "m002",
+          "published_at": "2024-06-01T08:30:00Z",
+          "title": "Weather Update",
+          "type": "image",
+          "url": "https://media.example.com/images/weather.jpg"
+        }
+      ]
+    }
+  }
+}

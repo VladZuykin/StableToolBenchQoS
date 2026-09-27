@@ -1,0 +1,29 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "description": "Learn to identify flaws in reasoning with this daily knowledge guide.",
+      "example": "Ad hominem: attacking the person instead of the argument.",
+      "exampleText": "Example: \"You can't trust his opinion on climate change because he's not a scientist.\" This attacks the person rather than the evidence.",
+      "first": "Ad hominem",
+      "head": "Logical Fallacies",
+      "meta": {
+        "og": {
+          "og:description": "Learn to identify flaws in reasoning with this daily knowledge guide.",
+          "og:image": "https://example.com/images/logical-fallacies.png",
+          "og:image:height": 630,
+          "og:image:width": 1200,
+          "og:title": "Logical Fallacies - Daily Knowledge"
+        },
+        "seo": {
+          "description": "Learn to identify flaws in reasoning with this daily knowledge guide.",
+          "title": "Logical Fallacies - Daily Knowledge"
+        }
+      },
+      "name": "Logical Fallacies",
+      "pageTitle": "Logical Fallacies - Daily Knowledge",
+      "slug": "logical-fallacies-en",
+      "title": "Logical Fallacies"
+    }
+  }
+}

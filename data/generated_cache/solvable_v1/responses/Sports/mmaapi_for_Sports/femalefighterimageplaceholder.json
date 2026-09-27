@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "femalefighterimageplaceholder",
+      "parameters": [],
+      "response": [
+        {
+          "format": "png",
+          "height": 500,
+          "image_url": "https://mmaapi.p.rapidapi.com/images/female-fighter-placeholder.png",
+          "width": 500
+        }
+      ],
+      "results": 1
+    }
+  }
+}

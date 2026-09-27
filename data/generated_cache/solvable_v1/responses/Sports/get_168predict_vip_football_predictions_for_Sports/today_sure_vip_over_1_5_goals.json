@@ -1,0 +1,55 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "date": "2025-06-14",
+      "predictions": [
+        {
+          "away_team": "Chelsea",
+          "confidence": "High",
+          "home_team": "Arsenal",
+          "kickoff": "15:00",
+          "league": "England Premier League",
+          "odds": 1.28,
+          "prediction": "Over 1.5 Goals"
+        },
+        {
+          "away_team": "Sevilla",
+          "confidence": "High",
+          "home_team": "Real Madrid",
+          "kickoff": "18:30",
+          "league": "Spain La Liga",
+          "odds": 1.22,
+          "prediction": "Over 1.5 Goals"
+        },
+        {
+          "away_team": "Napoli",
+          "confidence": "Medium",
+          "home_team": "Inter Milan",
+          "kickoff": "20:45",
+          "league": "Italy Serie A",
+          "odds": 1.35,
+          "prediction": "Over 1.5 Goals"
+        },
+        {
+          "away_team": "Borussia Dortmund",
+          "confidence": "High",
+          "home_team": "Bayern Munich",
+          "kickoff": "17:30",
+          "league": "Germany Bundesliga",
+          "odds": 1.18,
+          "prediction": "Over 1.5 Goals"
+        },
+        {
+          "away_team": "Marseille",
+          "confidence": "Medium",
+          "home_team": "Paris Saint-Germain",
+          "kickoff": "21:00",
+          "league": "France Ligue 1",
+          "odds": 1.3,
+          "prediction": "Over 1.5 Goals"
+        }
+      ]
+    }
+  }
+}

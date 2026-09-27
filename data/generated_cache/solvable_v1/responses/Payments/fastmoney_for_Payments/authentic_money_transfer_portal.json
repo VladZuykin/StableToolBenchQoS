@@ -1,0 +1,36 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "currency": "INR",
+      "message": "India's Fastest Money Transfer and Recharge Portal",
+      "portal": "Authentic Money Transfer Portal",
+      "server_time": "2024-06-15T10:30:00+05:30",
+      "services": [
+        {
+          "name": "Money Transfer",
+          "status": "available"
+        },
+        {
+          "name": "Mobile Recharge",
+          "status": "available"
+        },
+        {
+          "name": "DTH Recharge",
+          "status": "available"
+        },
+        {
+          "name": "Bill Payments",
+          "status": "available"
+        }
+      ],
+      "status": "success",
+      "supported_networks": [
+        "IMPS",
+        "NEFT",
+        "RTGS",
+        "UPI"
+      ]
+    }
+  }
+}

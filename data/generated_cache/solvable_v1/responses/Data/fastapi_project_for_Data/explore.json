@@ -1,0 +1,32 @@
+{
+  "{\"another_interest\":\"hiking\",\"country\":\"Japan\",\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "detail": [
+        {
+          "loc": [
+            "query",
+            "country"
+          ],
+          "msg": "Invalid country filter",
+          "type": "value_error.missing"
+        }
+      ]
+    }
+  },
+  "{\"country\":\"Brazil\",\"lang\":\"pt\"}": {
+    "error": "",
+    "response": {
+      "detail": [
+        {
+          "loc": [
+            "query",
+            "another_interest"
+          ],
+          "msg": "Interest not recognized",
+          "type": "value_error.missing"
+        }
+      ]
+    }
+  }
+}

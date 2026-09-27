@@ -1,0 +1,12 @@
+{
+  "{\"url\":\"https://cdn.example.com/photos/sunset-beach-2048.jpg\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "model": "stable-diffusion-v1-5",
+        "prompt": "a serene beach at sunset, golden orange sky reflecting on calm ocean waves, silhouettes of palm trees, warm cinematic lighting, highly detailed, 4k"
+      },
+      "status": true
+    }
+  }
+}

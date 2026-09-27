@@ -1,0 +1,128 @@
+{
+  "{\"email\":\"info@nonexistentdomain-xyz123.net\",\"format\":\"json\",\"opt\":\"VerifyMailbox:Express\"}": {
+    "error": "",
+    "response": {
+      "Records": [
+        {
+          "BreachCount": "0",
+          "DateChecked": "2024-06-14T11:03:47Z",
+          "DeliverabilityConfidenceScore": "5",
+          "DomainAddress1": "",
+          "DomainAdministrativeArea": "",
+          "DomainAgeEstimated": "",
+          "DomainAuthenticationStatus": "",
+          "DomainAvailability": "Not Available",
+          "DomainCountry": "",
+          "DomainCountryCode": "",
+          "DomainCreatedDate": "",
+          "DomainEmail": "",
+          "DomainExpirationDate": "",
+          "DomainLocality": "",
+          "DomainName": "nonexistentdomain-xyz123.net",
+          "DomainOrganization": "",
+          "DomainPostalCode": "",
+          "DomainPrivateProxy": "",
+          "DomainTypeIndicator": "Unknown",
+          "DomainUpdatedDate": "",
+          "EmailAddress": "info@nonexistentdomain-xyz123.net",
+          "EmailAgeEstimated": "",
+          "MXServer": "",
+          "MailboxName": "info",
+          "PrivacyFlag": "No",
+          "RecordID": "1",
+          "Results": "Domain Not Found",
+          "TopLevelDomain": "net",
+          "TopLevelDomainName": "Network"
+        }
+      ],
+      "TotalRecords": "1",
+      "TransmissionReference": "ref-20240614-003",
+      "TransmissionResults": "",
+      "Version": "4.0.0"
+    }
+  },
+  "{\"email\":\"john.doe@gmail.com\",\"format\":\"json\",\"opt\":\"VerifyMailbox:Express\"}": {
+    "error": "",
+    "response": {
+      "Records": [
+        {
+          "BreachCount": "0",
+          "DateChecked": "2024-06-14T09:12:33Z",
+          "DeliverabilityConfidenceScore": "98",
+          "DomainAddress1": "1600 Amphitheatre Parkway",
+          "DomainAdministrativeArea": "CA",
+          "DomainAgeEstimated": "28",
+          "DomainAuthenticationStatus": "SPF:Pass;DKIM:Pass;DMARC:Pass",
+          "DomainAvailability": "Available",
+          "DomainCountry": "United States",
+          "DomainCountryCode": "US",
+          "DomainCreatedDate": "1995-08-14",
+          "DomainEmail": "support@gmail.com",
+          "DomainExpirationDate": "2025-08-13",
+          "DomainLocality": "Mountain View",
+          "DomainName": "gmail.com",
+          "DomainOrganization": "Google LLC",
+          "DomainPostalCode": "94043",
+          "DomainPrivateProxy": "No",
+          "DomainTypeIndicator": "Free Email",
+          "DomainUpdatedDate": "2024-01-09",
+          "EmailAddress": "john.doe@gmail.com",
+          "EmailAgeEstimated": "12",
+          "MXServer": "gmail-smtp-in.l.google.com",
+          "MailboxName": "john.doe",
+          "PrivacyFlag": "No",
+          "RecordID": "1",
+          "Results": "Mailbox Verified",
+          "TopLevelDomain": "com",
+          "TopLevelDomainName": "Commercial"
+        }
+      ],
+      "TotalRecords": "1",
+      "TransmissionReference": "ref-20240614-001",
+      "TransmissionResults": "",
+      "Version": "4.0.0"
+    }
+  },
+  "{\"email\":\"laura.martinez@acmecorp.io\",\"opt\":\"VerifyMailbox:ExpressPremium\"}": {
+    "error": "",
+    "response": {
+      "Records": [
+        {
+          "BreachCount": "2",
+          "DateChecked": "2024-06-14T10:45:02Z",
+          "DeliverabilityConfidenceScore": "87",
+          "DomainAddress1": "500 Congress Ave",
+          "DomainAdministrativeArea": "TX",
+          "DomainAgeEstimated": "9",
+          "DomainAuthenticationStatus": "SPF:Pass;DKIM:Fail;DMARC:None",
+          "DomainAvailability": "Available",
+          "DomainCountry": "United States",
+          "DomainCountryCode": "US",
+          "DomainCreatedDate": "2015-03-22",
+          "DomainEmail": "admin@acmecorp.io",
+          "DomainExpirationDate": "2026-03-21",
+          "DomainLocality": "Austin",
+          "DomainName": "acmecorp.io",
+          "DomainOrganization": "Acme Corporation",
+          "DomainPostalCode": "78701",
+          "DomainPrivateProxy": "No",
+          "DomainTypeIndicator": "Business",
+          "DomainUpdatedDate": "2023-11-30",
+          "EmailAddress": "laura.martinez@acmecorp.io",
+          "EmailAgeEstimated": "7",
+          "MXServer": "mx1.acmecorp.io",
+          "MailboxName": "laura.martinez",
+          "PrivacyFlag": "No",
+          "RecordID": "1",
+          "Results": "Mailbox Verified",
+          "TopLevelDomain": "io",
+          "TopLevelDomainName": "Country Code"
+        }
+      ],
+      "TotalRecords": "1",
+      "TransmissionReference": "ref-20240614-002",
+      "TransmissionResults": "",
+      "Version": "4.0.0"
+    }
+  }
+}

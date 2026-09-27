@@ -1,0 +1,20 @@
+{
+  "{\"url\":\"https://www.instagram.com/p/CxYzAbCdEfG/\"}": {
+    "error": "",
+    "response": {
+      "message": "Media retrieved successfully"
+    }
+  },
+  "{\"url\":\"https://www.instagram.com/reel/Cz123456789/\"}": {
+    "error": "",
+    "response": {
+      "message": "Media retrieved successfully"
+    }
+  },
+  "{\"url\":\"https://www.instagram.com/tv/CaBcDeFgHiJ/\"}": {
+    "error": "",
+    "response": {
+      "message": "Media retrieved successfully"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "{\"url\":\"https://finance.detik.com/bursa-dan-valas/d-5206657/bei-buka-suspensi-saham-pollux\"}": {
+    "error": "",
+    "response": {
+      "author": "Tim detikcom",
+      "content": "Jakarta - Bursa Efek Indonesia (BEI) membuka suspensi saham PT Pollux Properti Indonesia Tbk (POLL). Suspensi dibuka setelah perseroan menyampaikan keterbukaan informasi.",
+      "date": "2020-11-25 15:30:00",
+      "source": "detikFinance",
+      "tags": [
+        "BEI",
+        "saham",
+        "Pollux"
+      ],
+      "title": "BEI Buka Suspensi Saham Pollux",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-5206657/bei-buka-suspensi-saham-pollux"
+    }
+  },
+  "{\"url\":\"https://news.detik.com/berita/d-5206657/update-corona-indonesia-25-november-502-positif-baru\"}": {
+    "error": "",
+    "response": {
+      "author": "Tim detikcom",
+      "content": "Jakarta - Pemerintah melaporkan penambahan 502 kasus positif Corona di Indonesia pada Rabu (25/11/2020). Total kasus aktif kini mencapai 502.110 orang.",
+      "date": "2020-11-25 16:00:00",
+      "source": "detikNews",
+      "tags": [
+        "Corona",
+        "COVID-19",
+        "Indonesia"
+      ],
+      "title": "Update Corona Indonesia 25 November: 502 Positif Baru",
+      "url": "https://news.detik.com/berita/d-5206657/update-corona-indonesia-25-november-502-positif-baru"
+    }
+  },
+  "{\"url\":\"https://sport.detik.com/sepakbola/d-5206657/persija-jakarta-kalahkan-persib-bandung-2-1\"}": {
+    "error": "",
+    "response": {
+      "author": "Tim detikSport",
+      "content": "Jakarta - Persija Jakarta berhasil mengalahkan Persib Bandung dengan skor 2-1 dalam laga lanjutan Liga 1 2020. Gol kemenangan Persija dicetak oleh Marko Simic dan Riko Simanjuntak.",
+      "date": "2020-11-25 20:00:00",
+      "source": "detikSport",
+      "tags": [
+        "Persija",
+        "Persib",
+        "Liga 1"
+      ],
+      "title": "Persija Jakarta Kalahkan Persib Bandung 2-1",
+      "url": "https://sport.detik.com/sepakbola/d-5206657/persija-jakarta-kalahkan-persib-bandung-2-1"
+    }
+  }
+}

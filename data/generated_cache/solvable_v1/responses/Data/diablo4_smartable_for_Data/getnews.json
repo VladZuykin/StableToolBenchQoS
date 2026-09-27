@@ -1,0 +1,335 @@
+{
+  "{\"page\":1}": {
+    "error": "",
+    "response": {
+      "nextPage": 2,
+      "page": 1,
+      "value": [
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "News"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "Blizzard has revealed the first details of Season 5, including new endgame activities and class balance changes.",
+          "excerpt": "Season 5 brings new endgame content and balance updates.",
+          "featuredContent": null,
+          "heat": 87,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 675,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-season5.jpg",
+              "width": 1200
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-season5",
+          "path": "/d4-season5",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 675,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-season5.jpg",
+                "width": 1200
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-06-01T12:00:00Z",
+          "sourceUrl": "https://example.com/d4-season5",
+          "tags": null,
+          "title": "Diablo 4 Season 5 Details Revealed",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-season5"
+        },
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "Guide"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "A comprehensive guide to the new Pit dungeon, covering strategies and rewards.",
+          "excerpt": "Master the Pit with this in-depth guide.",
+          "featuredContent": null,
+          "heat": 72,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 720,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-pit-guide.jpg",
+              "width": 1280
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-pit-guide",
+          "path": "/d4-pit-guide",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 720,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-pit-guide.jpg",
+                "width": 1280
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-05-28T09:30:00Z",
+          "sourceUrl": "https://example.com/d4-pit-guide",
+          "tags": null,
+          "title": "Diablo 4 Pit Guide: Tips and Tricks",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-pit-guide"
+        }
+      ]
+    }
+  },
+  "{\"page\":2}": {
+    "error": "",
+    "response": {
+      "nextPage": 3,
+      "page": 2,
+      "value": [
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "Patch Notes"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "Patch 1.4.2 addresses several bugs and adjusts drop rates for Uber Uniques.",
+          "excerpt": "Patch 1.4.2 fixes bugs and tweaks drop rates.",
+          "featuredContent": null,
+          "heat": 65,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 675,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-patch142.jpg",
+              "width": 1200
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-patch142",
+          "path": "/d4-patch142",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 675,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-patch142.jpg",
+                "width": 1200
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-05-20T15:45:00Z",
+          "sourceUrl": "https://example.com/d4-patch142",
+          "tags": null,
+          "title": "Diablo 4 Patch 1.4.2 Now Live",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-patch142"
+        },
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "Esports"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "The Diablo 4 World Championship concluded with Team Inferno taking home the trophy.",
+          "excerpt": "Team Inferno wins the Diablo 4 World Championship.",
+          "featuredContent": null,
+          "heat": 91,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 720,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-championship.jpg",
+              "width": 1280
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-championship",
+          "path": "/d4-championship",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 720,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-championship.jpg",
+                "width": 1280
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-05-15T18:00:00Z",
+          "sourceUrl": "https://example.com/d4-championship",
+          "tags": null,
+          "title": "Diablo 4 World Championship Recap",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-championship"
+        }
+      ]
+    }
+  },
+  "{\"page\":3}": {
+    "error": "",
+    "response": {
+      "nextPage": 4,
+      "page": 3,
+      "value": [
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "Interview"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "Game director Joe Shely discusses the future of Diablo 4 and upcoming features.",
+          "excerpt": "An interview with game director Joe Shely.",
+          "featuredContent": null,
+          "heat": 78,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 675,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-interview.jpg",
+              "width": 1200
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-interview",
+          "path": "/d4-interview",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 675,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-interview.jpg",
+                "width": 1200
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-05-10T11:20:00Z",
+          "sourceUrl": "https://example.com/d4-interview",
+          "tags": null,
+          "title": "Interview: Diablo 4's Future Plans",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-interview"
+        },
+        {
+          "ampWebUrl": null,
+          "categories": [
+            "Update"
+          ],
+          "cdnAmpWebUrl": null,
+          "content": "Blizzard announces a new seasonal event with exclusive rewards for players.",
+          "excerpt": "New seasonal event announced with exclusive rewards.",
+          "featuredContent": null,
+          "heat": 82,
+          "highlight": null,
+          "images": [
+            {
+              "attribution": null,
+              "height": 720,
+              "isCached": true,
+              "title": null,
+              "url": "https://example.com/images/d4-event.jpg",
+              "width": 1280
+            }
+          ],
+          "locale": "en-us",
+          "originalUrl": "https://example.com/d4-event",
+          "path": "/d4-event",
+          "provider": {
+            "authors": null,
+            "domain": "example.com",
+            "images": [
+              {
+                "attribution": null,
+                "height": 720,
+                "isCached": true,
+                "title": null,
+                "url": "https://example.com/images/d4-event.jpg",
+                "width": 1280
+              }
+            ],
+            "name": "Example Gaming",
+            "publishers": null
+          },
+          "publishedDateTime": "2024-05-05T08:00:00Z",
+          "sourceUrl": "https://example.com/d4-event",
+          "tags": null,
+          "title": "New Diablo 4 Seasonal Event Announced",
+          "topics": [
+            "Diablo 4"
+          ],
+          "type": "Article",
+          "updatedDateTime": null,
+          "webUrl": "https://example.com/d4-event"
+        }
+      ]
+    }
+  }
+}

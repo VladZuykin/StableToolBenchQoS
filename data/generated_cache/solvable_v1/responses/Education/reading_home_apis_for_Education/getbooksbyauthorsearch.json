@@ -1,0 +1,85 @@
+{
+  "{\"page\":0,\"search\":\"Leo Elsinger\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "Leo Elsinger",
+          "genre": "True Crime",
+          "id": "1",
+          "published_year": 2019,
+          "rating": 4.5,
+          "title": "The Silent Patient"
+        },
+        {
+          "author": "Leo Elsinger",
+          "genre": "Personal Growth",
+          "id": "2",
+          "published_year": 2018,
+          "rating": 4.8,
+          "title": "Atomic Habits"
+        },
+        {
+          "author": "Leo Elsinger",
+          "genre": "Contemporary Fiction",
+          "id": "3",
+          "published_year": 2020,
+          "rating": 4.2,
+          "title": "The Midnight Library"
+        }
+      ],
+      "page": 0,
+      "total_pages": 1
+    }
+  },
+  "{\"page\":1,\"search\":\"J.K. Rowling\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "J.K. Rowling",
+          "genre": "YA",
+          "id": "4",
+          "published_year": 1997,
+          "rating": 4.9,
+          "title": "Harry Potter and the Sorcerer's Stone"
+        },
+        {
+          "author": "J.K. Rowling",
+          "genre": "YA",
+          "id": "5",
+          "published_year": 1998,
+          "rating": 4.7,
+          "title": "Harry Potter and the Chamber of Secrets"
+        }
+      ],
+      "page": 1,
+      "total_pages": 2
+    }
+  },
+  "{\"page\":2,\"search\":\"Agatha Christie\"}": {
+    "error": "",
+    "response": {
+      "books": [
+        {
+          "author": "Agatha Christie",
+          "genre": "True Crime",
+          "id": "6",
+          "published_year": 1934,
+          "rating": 4.6,
+          "title": "Murder on the Orient Express"
+        },
+        {
+          "author": "Agatha Christie",
+          "genre": "True Crime",
+          "id": "7",
+          "published_year": 1939,
+          "rating": 4.8,
+          "title": "And Then There Were None"
+        }
+      ],
+      "page": 2,
+      "total_pages": 3
+    }
+  }
+}

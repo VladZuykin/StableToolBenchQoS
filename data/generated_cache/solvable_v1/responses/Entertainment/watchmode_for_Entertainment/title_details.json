@@ -1,0 +1,212 @@
+{
+  "{\"is_id\":\"movie-278\",\"language\":\"EN\"}": {
+    "error": "",
+    "response": {
+      "backdrop": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "critic_score": 82,
+      "end_year": null,
+      "english_title": "The Shawshank Redemption",
+      "genre_names": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "genres": [
+        18,
+        80,
+        53
+      ],
+      "id": 3173903,
+      "imdb_id": "tt0111161",
+      "network_names": [
+        "Netflix"
+      ],
+      "networks": [
+        203
+      ],
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "plot_overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "poster": "https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "release_date": "1994-09-23",
+      "relevance_percentile": 0.98,
+      "runtime_minutes": 142,
+      "similar_titles": [
+        278,
+        238,
+        240,
+        424,
+        13,
+        680,
+        311,
+        769,
+        497,
+        155,
+        274,
+        510,
+        637,
+        1891,
+        429,
+        73,
+        275,
+        603,
+        745,
+        12162,
+        122,
+        85,
+        862,
+        550,
+        27205
+      ],
+      "title": "The Shawshank Redemption",
+      "tmdb_id": 278,
+      "tmdb_type": "movie",
+      "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "trailer_thumbnail": "https://img.youtube.com/vi/6hB3S9bIaco/hqdefault.jpg",
+      "type": "movie",
+      "us_rating": "R",
+      "user_rating": 8.7,
+      "year": 1994
+    }
+  },
+  "{\"is_id\":\"tt1375666\",\"language\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+      "critic_score": 74,
+      "end_year": null,
+      "english_title": "Inception",
+      "genre_names": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "genres": [
+        28,
+        878,
+        12
+      ],
+      "id": 3173905,
+      "imdb_id": "tt1375666",
+      "network_names": [
+        "Netflix"
+      ],
+      "networks": [
+        203
+      ],
+      "original_language": "en",
+      "original_title": "Inception",
+      "plot_overview": "Cobb, un voleur expérimenté dans l'art de l'extraction, est le meilleur dans ce domaine dangereux. Il est engagé pour une ultime mission : l'inception, l'implantation d'une idée dans l'esprit d'une cible.",
+      "poster": "https://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "release_date": "2010-07-16",
+      "relevance_percentile": 0.97,
+      "runtime_minutes": 148,
+      "similar_titles": [
+        27205,
+        157336,
+        550,
+        603,
+        155,
+        680,
+        13,
+        238,
+        278,
+        424,
+        497,
+        769,
+        274,
+        510,
+        637,
+        1891,
+        429,
+        73,
+        275,
+        745,
+        12162,
+        122,
+        85,
+        862,
+        240
+      ],
+      "title": "Inception",
+      "tmdb_id": 27205,
+      "tmdb_type": "movie",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "trailer_thumbnail": "https://img.youtube.com/vi/YoHD9XEInc0/hqdefault.jpg",
+      "type": "movie",
+      "us_rating": "PG-13",
+      "user_rating": 8.4,
+      "year": 2010
+    }
+  },
+  "{\"is_id\":\"tv-1396\"}": {
+    "error": "",
+    "response": {
+      "backdrop": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "critic_score": 96,
+      "end_year": 2013,
+      "english_title": "Breaking Bad",
+      "genre_names": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "genres": [
+        18,
+        80,
+        53
+      ],
+      "id": 3173904,
+      "imdb_id": "tt0903747",
+      "network_names": [
+        "AMC"
+      ],
+      "networks": [
+        174
+      ],
+      "original_language": "en",
+      "original_title": "Breaking Bad",
+      "plot_overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live, he becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future by entering the world of crime and drug manufacturing.",
+      "poster": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "release_date": "2008-01-20",
+      "relevance_percentile": 0.99,
+      "runtime_minutes": null,
+      "similar_titles": [
+        1396,
+        60059,
+        1438,
+        46648,
+        1402,
+        1416,
+        1399,
+        60625,
+        76479,
+        1398,
+        94605,
+        63174,
+        1397,
+        1622,
+        87108,
+        46639,
+        1409,
+        1415,
+        1414,
+        1413,
+        1412,
+        1411,
+        1410,
+        1408,
+        1407
+      ],
+      "title": "Breaking Bad",
+      "tmdb_id": 1396,
+      "tmdb_type": "tv",
+      "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+      "trailer_thumbnail": "https://img.youtube.com/vi/HhesaQXLuRY/hqdefault.jpg",
+      "type": "tv_series",
+      "us_rating": "TV-MA",
+      "user_rating": 9.5,
+      "year": 2008
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"livestreamid\":\"li400mYKSgQ6xs7taUeSaEKr\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "My Live Stream",
+      "type": "live"
+    }
+  },
+  "{\"livestreamid\":\"li7yZ8kQ2mNp4rT6vWx1bC3d\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Weekly Product Demo",
+      "type": "live"
+    }
+  },
+  "{\"livestreamid\":\"li9aB2cD4eF6gH8iJ0kL2mN4o\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Conference Keynote 2024",
+      "type": "live"
+    }
+  }
+}

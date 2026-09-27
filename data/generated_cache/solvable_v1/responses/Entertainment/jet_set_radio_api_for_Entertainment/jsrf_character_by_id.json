@@ -1,0 +1,22 @@
+{
+  "{\"characterid\":\"643c71888cabe0dcede868a3\",\"limit\":\"3\",\"orderby\":\"desc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": {
+      "affiliation": "GG's",
+      "age": 17,
+      "bio": "A founding member of the GG's and a talented graffiti artist who uses inline skates to traverse Tokyo-to.",
+      "firstAppearance": "Jet Set Radio",
+      "gender": "Male",
+      "id": "643c71888cabe0dcede868a3",
+      "name": "Beat",
+      "skateStyle": "Aggressive",
+      "stats": {
+        "graffiti": 8,
+        "power": 7,
+        "speed": 9,
+        "stamina": 6
+      },
+      "voiceActor": "Anthony D. Smith"
+    }
+  }
+}

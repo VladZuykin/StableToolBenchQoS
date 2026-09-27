@@ -1,0 +1,146 @@
+{
+  "{\"x\":\"12\",\"y\":\"6\",\"z\":\"8\"}": {
+    "error": "",
+    "response": {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                2.3522,
+                48.8566
+              ],
+              [
+                2.353,
+                48.857
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "major",
+            "elevation": 35
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                2.351,
+                48.856
+              ],
+              [
+                2.354,
+                48.858
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "minor",
+            "elevation": 40
+          },
+          "type": "Feature"
+        }
+      ],
+      "type": "FeatureCollection"
+    }
+  },
+  "{\"x\":\"20\",\"y\":\"15\",\"z\":\"10\"}": {
+    "error": "",
+    "response": {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                139.6917,
+                35.6895
+              ],
+              [
+                139.6925,
+                35.69
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "major",
+            "elevation": 50
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                139.69,
+                35.688
+              ],
+              [
+                139.693,
+                35.691
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "minor",
+            "elevation": 60
+          },
+          "type": "Feature"
+        }
+      ],
+      "type": "FeatureCollection"
+    }
+  },
+  "{\"x\":\"3\",\"y\":\"10\",\"z\":\"5\"}": {
+    "error": "",
+    "response": {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                -122.4194,
+                37.7749
+              ],
+              [
+                -122.418,
+                37.776
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "major",
+            "elevation": 100
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                -122.42,
+                37.7755
+              ],
+              [
+                -122.4175,
+                37.7765
+              ]
+            ],
+            "type": "LineString"
+          },
+          "properties": {
+            "contour_type": "minor",
+            "elevation": 120
+          },
+          "type": "Feature"
+        }
+      ],
+      "type": "FeatureCollection"
+    }
+  }
+}

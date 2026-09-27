@@ -1,0 +1,26 @@
+{
+  "{\"currentpage\":1,\"pagesize\":10,\"sortby\":\"createdAt\",\"sortorder\":\"asc\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Players retrieved successfully",
+      "type": "player-list"
+    }
+  },
+  "{\"currentpage\":2,\"pagesize\":25,\"sortby\":\"name\",\"sortorder\":\"asc\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Players retrieved successfully",
+      "type": "player-list"
+    }
+  },
+  "{\"currentpage\":3,\"pagesize\":50,\"sortby\":\"updatedAt\",\"sortorder\":\"desc\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Players retrieved successfully",
+      "type": "player-list"
+    }
+  }
+}

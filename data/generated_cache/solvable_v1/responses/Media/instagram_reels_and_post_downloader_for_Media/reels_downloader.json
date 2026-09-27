@@ -1,0 +1,20 @@
+{
+  "{\"link\":\"https://www.instagram.com/reels/CxYzAbC1234/\"}": {
+    "error": "",
+    "response": {
+      "download_links": [
+        {
+          "quality": "hd",
+          "url": "https://cdn.instagram-downloader.example.com/media/CxYzAbC1234_hd.mp4"
+        },
+        {
+          "quality": "sd",
+          "url": "https://cdn.instagram-downloader.example.com/media/CxYzAbC1234_sd.mp4"
+        }
+      ],
+      "link": "https://www.instagram.com/reels/CxYzAbC1234/",
+      "success": true,
+      "type": "reel"
+    }
+  }
+}

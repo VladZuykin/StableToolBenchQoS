@@ -1,0 +1,32 @@
+{
+  "{\"userid\":\"U1234567890abcdef1234567890abcdef\"}": {
+    "error": "",
+    "response": {
+      "displayName": "Hanako Suzuki",
+      "language": "en",
+      "pictureUrl": "https://profile.line-scdn.net/0hZzYyXxWwVvUuTtSsRrQqPpOoNnM",
+      "statusMessage": "Working from home",
+      "userId": "U1234567890abcdef1234567890abcdef"
+    }
+  },
+  "{\"userid\":\"U4af4980629e885a5b3f5c4f5d3e6b7c8\"}": {
+    "error": "",
+    "response": {
+      "displayName": "Taro Yamada",
+      "language": "ja",
+      "pictureUrl": "https://profile.line-scdn.net/0hAbCdEfGhIjKlMnOpQrStUvWxYz",
+      "statusMessage": "Hello, LINE!",
+      "userId": "U4af4980629e885a5b3f5c4f5d3e6b7c8"
+    }
+  },
+  "{\"userid\":\"Uabcdefabcdefabcdefabcdefabcdefab\"}": {
+    "error": "",
+    "response": {
+      "displayName": "Kenji",
+      "language": "ja",
+      "pictureUrl": "https://profile.line-scdn.net/0hQwErTyUiOpAsDfGhJkLzXcVbNm",
+      "statusMessage": "",
+      "userId": "Uabcdefabcdefabcdefabcdefabcdefab"
+    }
+  }
+}

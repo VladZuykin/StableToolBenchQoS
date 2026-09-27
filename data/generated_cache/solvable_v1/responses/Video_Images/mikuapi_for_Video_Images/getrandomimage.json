@@ -1,0 +1,13 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "apiUrl": "https://api.mikuapi.com/images/random/7f3a9c2e",
+      "artist": "IllustratorName",
+      "description": "A vibrant digital illustration of Hatsune Miku singing on stage under blue and green lights.",
+      "sourceLink": "https://www.pixiv.net/en/artworks/12345678",
+      "title": "Miku Live Concert",
+      "webPLink": "https://api.mikuapi.com/images/random/7f3a9c2e.webp"
+    }
+  }
+}

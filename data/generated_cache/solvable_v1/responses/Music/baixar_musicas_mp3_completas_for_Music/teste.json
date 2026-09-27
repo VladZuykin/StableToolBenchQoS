@@ -1,0 +1,13 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "download_url": "https://example.com/downloads/musicas_mp3_completas.zip",
+      "formato": "mp3",
+      "message": "Download de músicas MP3 iniciado",
+      "qualidade": "320kbps",
+      "status": "success",
+      "total_musicas": 25
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "memes": [
+        {
+          "author": "dev_dan",
+          "comments": 342,
+          "created_utc": 1712345678,
+          "id": "m1",
+          "score": 15420,
+          "subreddit": "programminghumor",
+          "title": "When your code compiles on the first try",
+          "url": "https://i.redd.it/abc123.jpg"
+        },
+        {
+          "author": "code_carl",
+          "comments": 210,
+          "created_utc": 1712349999,
+          "id": "m2",
+          "score": 9821,
+          "subreddit": "ProgrammerHumor",
+          "title": "It works on my machine",
+          "url": "https://i.redd.it/def456.png"
+        },
+        {
+          "author": "bug_hunter",
+          "comments": 98,
+          "created_utc": 1712354321,
+          "id": "m3",
+          "score": 7654,
+          "subreddit": "programmingmemes",
+          "title": "99 little bugs in the code",
+          "url": "https://i.redd.it/ghi789.jpg"
+        }
+      ]
+    }
+  }
+}

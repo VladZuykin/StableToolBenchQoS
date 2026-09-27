@@ -1,0 +1,20 @@
+{
+  "{\"date\":\"2022-07-04\",\"sport\":\"tennis\"}": {
+    "error": "",
+    "response": {
+      "message": "Scheduled games for tennis on 2022-07-04: 8 games found."
+    }
+  },
+  "{\"date\":\"2023-09-10\",\"sport\":\"basketball\"}": {
+    "error": "",
+    "response": {
+      "message": "Scheduled games for basketball on 2023-09-10: 5 games found."
+    }
+  },
+  "{\"date\":\"2024-01-01\",\"sport\":\"ice-hockey\"}": {
+    "error": "",
+    "response": {
+      "message": "Scheduled games for ice-hockey on 2024-01-01: 12 games found."
+    }
+  }
+}

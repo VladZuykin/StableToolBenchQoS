@@ -1,0 +1,248 @@
+{
+  "{\"is_id\":\"1DFixLWuPkv3KT3TnV35uz\"}": {
+    "error": "",
+    "response": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "copyrights": [
+        {
+          "text": "(C) 2011 Hollywood Records, Inc.",
+          "type": "C"
+        },
+        {
+          "text": "(P) 2011 Hollywood Records, Inc.",
+          "type": "P"
+        }
+      ],
+      "external_ids": {
+        "upc": "050087239511"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35uz"
+      },
+      "id": "1DFixLWuPkv3KT3TnV35uz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6e3f6e3f6e3f6e3f6e3f6e3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6e3f6e3f6e3f6e3f6e3f6e3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6e3f6e3f6e3f6e3f6e3f6e3",
+          "width": 64
+        }
+      ],
+      "label": "Hollywood Records",
+      "name": "A Night At The Opera (Deluxe Remastered Version)",
+      "popularity": 78,
+      "release_date": "1975-11-21",
+      "tracks": [
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+              },
+              "id": "1dfeR4HaWDbWqFHLkxsg1d",
+              "name": "Queen",
+              "type": "artist",
+              "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 354320,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5jKZQ2l5jKZQ2l5jKZQ2l5"
+          },
+          "id": "5jKZQ2l5jKZQ2l5jKZQ2l5",
+          "is_local": false,
+          "name": "Bohemian Rhapsody",
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:5jKZQ2l5jKZQ2l5jKZQ2l5"
+        }
+      ],
+      "uri": "spotify:album:1DFixLWuPkv3KT3TnV35uz"
+    }
+  },
+  "{\"is_id\":\"4aawyAB9vmqN3uQ7FjRGTy\"}": {
+    "error": "",
+    "response": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "copyrights": [
+        {
+          "text": "(C) 2015 XL Recordings Ltd",
+          "type": "C"
+        },
+        {
+          "text": "(P) 2015 XL Recordings Ltd",
+          "type": "P"
+        }
+      ],
+      "external_ids": {
+        "upc": "634904077910"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
+      },
+      "id": "4aawyAB9vmqN3uQ7FjRGTy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2b2b2b2b2b2b2b2b2b2b2b2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2b2b2b2b2b2b2b2b2b2b2b2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b2b2b2b2b2b2b2b2b2b2b2b2",
+          "width": 64
+        }
+      ],
+      "label": "XL Recordings",
+      "name": "25",
+      "popularity": 85,
+      "release_date": "2015-11-20",
+      "tracks": [
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+              },
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "type": "artist",
+              "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 295502,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+          },
+          "id": "6Nle9hKrkL1wQpwNfEkxjh",
+          "is_local": false,
+          "name": "Hello",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6Nle9hKrkL1wQpwNfEkxjh"
+        }
+      ],
+      "uri": "spotify:album:4aawyAB9vmqN3uQ7FjRGTy"
+    }
+  },
+  "{\"is_id\":\"6JWc4iAiJ9FjyK0B59ABb4\"}": {
+    "error": "",
+    "response": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          },
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "copyrights": [
+        {
+          "text": "(C) 2019 Taylor Swift",
+          "type": "C"
+        },
+        {
+          "text": "(P) 2019 Taylor Swift",
+          "type": "P"
+        }
+      ],
+      "external_ids": {
+        "upc": "00602577618341"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4"
+      },
+      "id": "6JWc4iAiJ9FjyK0B59ABb4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1a1a1a1a1a1a1a1a1a1a1a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a1a1a1a1a1a1a1a1a1a1a1a1",
+          "width": 64
+        }
+      ],
+      "label": "Taylor Swift",
+      "name": "Lover",
+      "popularity": 88,
+      "release_date": "2019-08-23",
+      "tracks": [
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+              },
+              "id": "06HL4z0CvFAxyc27GXpf02",
+              "name": "Taylor Swift",
+              "type": "artist",
+              "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 221320,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "id": "1dGr1c8CrMLDpV6mPbImSI",
+          "is_local": false,
+          "name": "I Forgot That You Existed",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+        }
+      ],
+      "uri": "spotify:album:6JWc4iAiJ9FjyK0B59ABb4"
+    }
+  }
+}

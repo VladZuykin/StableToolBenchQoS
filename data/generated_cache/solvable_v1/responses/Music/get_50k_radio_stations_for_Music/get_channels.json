@@ -1,0 +1,54 @@
+{
+  "{\"city_id\":12,\"country_id\":44,\"genre_id\":5,\"keyword\":\"rock\",\"page\":1}": {
+    "error": "",
+    "response": {
+      "channels": [
+        {
+          "city": "London",
+          "country": "United Kingdom",
+          "genre": "Rock",
+          "id": 201,
+          "name": "Classic Rock UK",
+          "stream_url": "http://stream.example.com/classicrockuk"
+        },
+        {
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "genre": "Rock",
+          "id": 202,
+          "name": "Rock FM",
+          "stream_url": "http://stream.example.com/rockfm"
+        }
+      ],
+      "page": 1,
+      "total_pages": 3,
+      "total_results": 45
+    }
+  },
+  "{\"city_id\":345,\"country_id\":50,\"genre_id\":12,\"keyword\":\"jazz\",\"page\":2}": {
+    "error": "",
+    "response": {
+      "channels": [
+        {
+          "city": "New York",
+          "country": "United States",
+          "genre": "Jazz",
+          "id": 101,
+          "name": "Smooth Jazz 24/7",
+          "stream_url": "http://stream.example.com/smoothjazz"
+        },
+        {
+          "city": "Paris",
+          "country": "France",
+          "genre": "Jazz",
+          "id": 102,
+          "name": "Jazz Radio Paris",
+          "stream_url": "http://stream.example.com/jazzparis"
+        }
+      ],
+      "page": 2,
+      "total_pages": 5,
+      "total_results": 98
+    }
+  }
+}

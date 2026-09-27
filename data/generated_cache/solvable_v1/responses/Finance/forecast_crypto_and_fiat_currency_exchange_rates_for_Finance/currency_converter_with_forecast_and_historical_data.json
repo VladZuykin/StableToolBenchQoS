@@ -1,0 +1,20 @@
+{
+  "{\"currency\":\"btc\",\"currency_cross\":\"usd\"}": {
+    "error": "",
+    "response": {
+      "message": "1 BTC = 61245.78 USD (Bitcoin)"
+    }
+  },
+  "{\"currency\":\"cny\",\"currency_cross\":\"mdl\"}": {
+    "error": "",
+    "response": {
+      "message": "1 CNY = 2.4781 MDL (Kazakhstan Central Bank)"
+    }
+  },
+  "{\"currency\":\"usd\",\"currency_cross\":\"eur\"}": {
+    "error": "",
+    "response": {
+      "message": "1 USD = 0.9234 EUR (European Central Bank)"
+    }
+  }
+}

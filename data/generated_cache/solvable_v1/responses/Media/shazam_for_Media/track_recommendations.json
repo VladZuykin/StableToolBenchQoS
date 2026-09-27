@@ -1,0 +1,159 @@
+{
+  "{\"limit\":4,\"track_id\":296831279}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/rec/v1/track/296831279/recommendations?limit=4&offset=4",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "adamid": "159260351",
+              "alias": "Taylor Swift",
+              "follow": {
+                "followkey": "taylor-swift"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {},
+          "hub": {},
+          "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/aa/bb/cc/background.jpg/1080x1080bb.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/bb/cc/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/bb/cc/cover.jpg/800x800cc.jpg",
+            "joecolor": "b2b2b2:ffffff:000000:000000"
+          },
+          "key": "123456789",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "avatar": "https://www.shazam.com/i/artist/159260351/avatar.jpg",
+            "href": "https://www.shazam.com/track/123456789",
+            "html": "<iframe src=\"https://www.shazam.com/embed/123456789\"></iframe>",
+            "image": "https://www.shazam.com/i/track/123456789/image.jpg",
+            "snapchat": "https://www.shazam.com/track/123456789",
+            "subject": "Anti-Hero",
+            "text": "Anti-Hero by Taylor Swift",
+            "twitter": "https://www.shazam.com/track/123456789"
+          },
+          "subtitle": "Taylor Swift",
+          "title": "Anti-Hero",
+          "type": "song",
+          "url": "https://www.shazam.com/track/123456789"
+        },
+        {
+          "artists": [
+            {
+              "adamid": "159260351",
+              "alias": "Taylor Swift",
+              "follow": {
+                "followkey": "taylor-swift"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {},
+          "hub": {},
+          "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/dd/ee/ff/background.jpg/1080x1080bb.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/ee/ff/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/ee/ff/cover.jpg/800x800cc.jpg",
+            "joecolor": "c3c3c3:ffffff:000000:000000"
+          },
+          "key": "987654321",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "avatar": "https://www.shazam.com/i/artist/159260351/avatar.jpg",
+            "href": "https://www.shazam.com/track/987654321",
+            "html": "<iframe src=\"https://www.shazam.com/embed/987654321\"></iframe>",
+            "image": "https://www.shazam.com/i/track/987654321/image.jpg",
+            "snapchat": "https://www.shazam.com/track/987654321",
+            "subject": "Cruel Summer",
+            "text": "Cruel Summer by Taylor Swift",
+            "twitter": "https://www.shazam.com/track/987654321"
+          },
+          "subtitle": "Taylor Swift",
+          "title": "Cruel Summer",
+          "type": "song",
+          "url": "https://www.shazam.com/track/987654321"
+        },
+        {
+          "artists": [
+            {
+              "adamid": "159260351",
+              "alias": "Taylor Swift",
+              "follow": {
+                "followkey": "taylor-swift"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {},
+          "hub": {},
+          "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/gg/hh/ii/background.jpg/1080x1080bb.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/gg/hh/ii/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/gg/hh/ii/cover.jpg/800x800cc.jpg",
+            "joecolor": "d4d4d4:ffffff:000000:000000"
+          },
+          "key": "456789123",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "avatar": "https://www.shazam.com/i/artist/159260351/avatar.jpg",
+            "href": "https://www.shazam.com/track/456789123",
+            "html": "<iframe src=\"https://www.shazam.com/embed/456789123\"></iframe>",
+            "image": "https://www.shazam.com/i/track/456789123/image.jpg",
+            "snapchat": "https://www.shazam.com/track/456789123",
+            "subject": "Blank Space",
+            "text": "Blank Space by Taylor Swift",
+            "twitter": "https://www.shazam.com/track/456789123"
+          },
+          "subtitle": "Taylor Swift",
+          "title": "Blank Space",
+          "type": "song",
+          "url": "https://www.shazam.com/track/456789123"
+        },
+        {
+          "artists": [
+            {
+              "adamid": "159260351",
+              "alias": "Taylor Swift",
+              "follow": {
+                "followkey": "taylor-swift"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {},
+          "hub": {},
+          "images": {
+            "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/jj/kk/ll/background.jpg/1080x1080bb.jpg",
+            "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/jj/kk/ll/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/jj/kk/ll/cover.jpg/800x800cc.jpg",
+            "joecolor": "e5e5e5:ffffff:000000:000000"
+          },
+          "key": "789123456",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "avatar": "https://www.shazam.com/i/artist/159260351/avatar.jpg",
+            "href": "https://www.shazam.com/track/789123456",
+            "html": "<iframe src=\"https://www.shazam.com/embed/789123456\"></iframe>",
+            "image": "https://www.shazam.com/i/track/789123456/image.jpg",
+            "snapchat": "https://www.shazam.com/track/789123456",
+            "subject": "Shake It Off",
+            "text": "Shake It Off by Taylor Swift",
+            "twitter": "https://www.shazam.com/track/789123456"
+          },
+          "subtitle": "Taylor Swift",
+          "title": "Shake It Off",
+          "type": "song",
+          "url": "https://www.shazam.com/track/789123456"
+        }
+      ]
+    }
+  }
+}

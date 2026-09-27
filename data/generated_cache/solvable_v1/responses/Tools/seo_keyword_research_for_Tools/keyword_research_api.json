@@ -1,0 +1,35 @@
+{
+  "{\"country\":\"au\",\"keyword\":\"yoga retreats\"}": {
+    "error": "",
+    "response": {
+      "competition": "Low",
+      "cpc": "$0.95",
+      "score": 38.7,
+      "text": "yoga retreats",
+      "v": 450,
+      "vol": 5400
+    }
+  },
+  "{\"country\":\"uk\",\"keyword\":\"best coffee beans\"}": {
+    "error": "",
+    "response": {
+      "competition": "Medium",
+      "cpc": "$1.80",
+      "score": 54.2,
+      "text": "best coffee beans",
+      "v": 890,
+      "vol": 9900
+    }
+  },
+  "{\"country\":\"us\",\"keyword\":\"digital marketing agency\"}": {
+    "error": "",
+    "response": {
+      "competition": "High",
+      "cpc": "$4.25",
+      "score": 72.5,
+      "text": "digital marketing agency",
+      "v": 1200,
+      "vol": 18100
+    }
+  }
+}

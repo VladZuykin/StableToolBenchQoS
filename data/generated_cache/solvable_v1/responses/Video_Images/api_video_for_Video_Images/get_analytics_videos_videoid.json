@@ -1,0 +1,26 @@
+{
+  "{\"currentpage\":1,\"metadata\":[{\"key\":\"device\",\"value\":\"mobile\"},{\"key\":\"browser\",\"value\":\"chrome\"}],\"pagesize\":25,\"period\":\"2023-05\",\"videoid\":\"vi5555555555aaaaa\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Analytics for video vi5555555555aaaaa",
+      "type": "video_analytics"
+    }
+  },
+  "{\"currentpage\":1,\"pagesize\":10,\"period\":\"2023-01-01/2023-01-31\",\"videoid\":\"vi1234567890abcdef\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Analytics for video vi1234567890abcdef",
+      "type": "video_analytics"
+    }
+  },
+  "{\"currentpage\":2,\"metadata\":[{\"key\":\"country\",\"value\":\"US\"}],\"pagesize\":5,\"period\":\"2023-W15\",\"videoid\":\"vi9876543210fedcba\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Analytics for video vi9876543210fedcba",
+      "type": "video_analytics"
+    }
+  }
+}

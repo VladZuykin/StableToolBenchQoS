@@ -1,0 +1,110 @@
+{
+  "{\"zip\":\"10115\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "end_timestamp": 1735689600,
+          "localcell": "DE-BE-10115",
+          "localprice": 92.13,
+          "marketprice": 87.45,
+          "start_timestamp": 1735686000,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735693200,
+          "localcell": "DE-BE-10115",
+          "localprice": 88.77,
+          "marketprice": 84.2,
+          "start_timestamp": 1735689600,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735696800,
+          "localcell": "DE-BE-10115",
+          "localprice": 84.02,
+          "marketprice": 79.9,
+          "start_timestamp": 1735693200,
+          "unit": "EUR/MWh"
+        }
+      ],
+      "documentation": "https://api.energy.example.com/docs/marketdata",
+      "license": "CC BY 4.0",
+      "object": "list",
+      "support": "support@energy.example.com",
+      "url": "https://api.energy.example.com/v1/marketdata?zip=10115"
+    }
+  },
+  "{\"zip\":\"20095\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "end_timestamp": 1735718400,
+          "localcell": "DE-HH-20095",
+          "localprice": 76.11,
+          "marketprice": 72.3,
+          "start_timestamp": 1735714800,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735722000,
+          "localcell": "DE-HH-20095",
+          "localprice": 72.44,
+          "marketprice": 68.85,
+          "start_timestamp": 1735718400,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735725600,
+          "localcell": "DE-HH-20095",
+          "localprice": 68.9,
+          "marketprice": 65.4,
+          "start_timestamp": 1735722000,
+          "unit": "EUR/MWh"
+        }
+      ],
+      "documentation": "https://api.energy.example.com/docs/marketdata",
+      "license": "CC BY 4.0",
+      "object": "list",
+      "support": "support@energy.example.com",
+      "url": "https://api.energy.example.com/v1/marketdata?zip=20095"
+    }
+  },
+  "{\"zip\":\"80331\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "end_timestamp": 1735704000,
+          "localcell": "DE-BY-80331",
+          "localprice": 101.34,
+          "marketprice": 95.6,
+          "start_timestamp": 1735700400,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735707600,
+          "localcell": "DE-BY-80331",
+          "localprice": 105.88,
+          "marketprice": 99.15,
+          "start_timestamp": 1735704000,
+          "unit": "EUR/MWh"
+        },
+        {
+          "end_timestamp": 1735711200,
+          "localcell": "DE-BY-80331",
+          "localprice": 109.45,
+          "marketprice": 102.7,
+          "start_timestamp": 1735707600,
+          "unit": "EUR/MWh"
+        }
+      ],
+      "documentation": "https://api.energy.example.com/docs/marketdata",
+      "license": "CC BY 4.0",
+      "object": "list",
+      "support": "support@energy.example.com",
+      "url": "https://api.energy.example.com/v1/marketdata?zip=80331"
+    }
+  }
+}

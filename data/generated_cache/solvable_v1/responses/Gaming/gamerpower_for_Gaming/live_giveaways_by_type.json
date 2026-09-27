@@ -1,0 +1,65 @@
+{
+  "{\"type\":\"beta\"}": {
+    "error": "",
+    "response": {
+      "description": "Join the closed beta for an upcoming sci-fi shooter.",
+      "end_date": "2025-07-01 23:59:59",
+      "gamerpower_url": "https://www.gamerpower.com/open/sci-fi-shooter-beta",
+      "id": 4822,
+      "image": "https://www.gamerpower.com/images/sci-fi-beta.jpg",
+      "instructions": "Register on the official website and wait for an invite.",
+      "open_giveaway": "https://www.gamerpower.com/open/sci-fi-shooter-beta",
+      "open_giveaway_url": "https://www.gamerpower.com/open/sci-fi-shooter-beta",
+      "platforms": "PC",
+      "published_date": "2025-06-05 14:30:00",
+      "status": "Active",
+      "thumbnail": "https://www.gamerpower.com/thumbnails/sci-fi-beta.jpg",
+      "title": "Sci-Fi Shooter Beta",
+      "type": "beta",
+      "users": 8000,
+      "worth": "Free"
+    }
+  },
+  "{\"type\":\"game\"}": {
+    "error": "",
+    "response": {
+      "description": "Get a free copy of the classic adventure game.",
+      "end_date": "2025-06-20 23:59:59",
+      "gamerpower_url": "https://www.gamerpower.com/open/classic-adventure-game",
+      "id": 4823,
+      "image": "https://www.gamerpower.com/images/classic-adventure.jpg",
+      "instructions": "Add the game to your library on the store page.",
+      "open_giveaway": "https://www.gamerpower.com/open/classic-adventure-game",
+      "open_giveaway_url": "https://www.gamerpower.com/open/classic-adventure-game",
+      "platforms": "PC, Xbox",
+      "published_date": "2025-06-10 09:00:00",
+      "status": "Active",
+      "thumbnail": "https://www.gamerpower.com/thumbnails/classic-adventure.jpg",
+      "title": "Classic Adventure Game",
+      "type": "game",
+      "users": 25000,
+      "worth": "$9.99"
+    }
+  },
+  "{\"type\":\"loot\"}": {
+    "error": "",
+    "response": {
+      "description": "Claim a free in-game loot bundle including weapon skins and currency.",
+      "end_date": "2025-06-15 23:59:59",
+      "gamerpower_url": "https://www.gamerpower.com/open/free-loot-bundle",
+      "id": 4821,
+      "image": "https://www.gamerpower.com/images/loot-bundle.jpg",
+      "instructions": "Log in to the game and redeem the code in the store.",
+      "open_giveaway": "https://www.gamerpower.com/open/free-loot-bundle",
+      "open_giveaway_url": "https://www.gamerpower.com/open/free-loot-bundle",
+      "platforms": "PC, PlayStation",
+      "published_date": "2025-06-01 10:00:00",
+      "status": "Active",
+      "thumbnail": "https://www.gamerpower.com/thumbnails/loot-bundle.jpg",
+      "title": "Free Loot Bundle",
+      "type": "loot",
+      "users": 12500,
+      "worth": "$19.99"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "{\"url\":\"https://www.tiktok.com/@charlidamelio/video/6800111723257941253\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar/charlie.jpg",
+          "digg": 500,
+          "fans": 120000000,
+          "following": 1000,
+          "heart": 1000000000,
+          "id": "111222333",
+          "name": "charlidamelio",
+          "nickName": "Charli D'Amelio",
+          "private": false,
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Dancer",
+          "verified": true,
+          "video": 2000
+        },
+        "commentCount": 300000,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover/default.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover/origin.jpg"
+        },
+        "createTime": 1583251200,
+        "diggCount": 15000000,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/dance.jpg",
+            "id": "12345",
+            "name": "dance",
+            "title": "Dance"
+          },
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/challenge.jpg",
+            "id": "67890",
+            "name": "challenge",
+            "title": "Challenge"
+          }
+        ],
+        "id": "6800111723257941253",
+        "imageUrl": "https://p16-sign-va.tiktokcdn.com/image.jpg",
+        "mentions": [
+          "@dixiedamelio"
+        ],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music/large.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music/medium.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music/thumb.jpg",
+          "duration": 15,
+          "musicAuthor": "Lottery",
+          "musicId": "6789012345678901234",
+          "musicName": "Renegade",
+          "musicOriginal": false
+        },
+        "playCount": 80000000,
+        "secretID": "secret789",
+        "shareCount": 800000,
+        "text": "Dance challenge with my sister #dance #challenge",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/no_watermark.mp4",
+        "videoMeta": {
+          "duetEnabled": true,
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "duration": 15,
+          "height": 1920,
+          "ratio": "720p",
+          "stitchEnabled": true,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video_no_watermark.mp4"
+      }
+    ]
+  },
+  "{\"url\":\"https://www.tiktok.com/@therock/video/6800111723257941253\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar/therock.jpg",
+          "digg": 300,
+          "fans": 75000000,
+          "following": 500,
+          "heart": 250000000,
+          "id": "123456789",
+          "name": "therock",
+          "nickName": "The Rock",
+          "private": false,
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Founder of Teremana Tequila",
+          "verified": true,
+          "video": 1200
+        },
+        "commentCount": 45000,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover/default.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover/origin.jpg"
+        },
+        "createTime": 1583251200,
+        "diggCount": 2500000,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/fitness.jpg",
+            "id": "12345",
+            "name": "fitness",
+            "title": "Fitness"
+          },
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/gym.jpg",
+            "id": "67890",
+            "name": "gym",
+            "title": "Gym"
+          }
+        ],
+        "id": "6800111723257941253",
+        "imageUrl": "https://p16-sign-va.tiktokcdn.com/image.jpg",
+        "mentions": [
+          "@kevinhart"
+        ],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music/large.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music/medium.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music/thumb.jpg",
+          "duration": 245,
+          "musicAuthor": "Survivor",
+          "musicId": "6789012345678901234",
+          "musicName": "Eye of the Tiger",
+          "musicOriginal": false
+        },
+        "playCount": 15000000,
+        "secretID": "secret123",
+        "shareCount": 120000,
+        "text": "The Rock's morning workout motivation #fitness #gym",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/no_watermark.mp4",
+        "videoMeta": {
+          "duetEnabled": true,
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "duration": 15,
+          "height": 1920,
+          "ratio": "720p",
+          "stitchEnabled": true,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video_no_watermark.mp4"
+      }
+    ]
+  },
+  "{\"url\":\"https://www.tiktok.com/@tiktok/video/6800111723257941253\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign-va.tiktokcdn.com/avatar/tiktok.jpg",
+          "digg": 200,
+          "fans": 100000000,
+          "following": 100,
+          "heart": 500000000,
+          "id": "987654321",
+          "name": "tiktok",
+          "nickName": "TikTok",
+          "private": false,
+          "secUid": "MS4wLjABAAAA...",
+          "signature": "Make Your Day",
+          "verified": true,
+          "video": 500
+        },
+        "commentCount": 200000,
+        "covers": {
+          "default": "https://p16-sign-va.tiktokcdn.com/cover/default.jpg",
+          "origin": "https://p16-sign-va.tiktokcdn.com/cover/origin.jpg"
+        },
+        "createTime": 1583251200,
+        "diggCount": 10000000,
+        "downloaded": false,
+        "hashtags": [
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/tiktok.jpg",
+            "id": "12345",
+            "name": "tiktok",
+            "title": "TikTok"
+          },
+          {
+            "cover": "https://p16-sign-va.tiktokcdn.com/hashtag/welcome.jpg",
+            "id": "67890",
+            "name": "welcome",
+            "title": "Welcome"
+          }
+        ],
+        "id": "6800111723257941253",
+        "imageUrl": "https://p16-sign-va.tiktokcdn.com/image.jpg",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign-va.tiktokcdn.com/music/large.jpg",
+          "coverMedium": "https://p16-sign-va.tiktokcdn.com/music/medium.jpg",
+          "coverThumb": "https://p16-sign-va.tiktokcdn.com/music/thumb.jpg",
+          "duration": 30,
+          "musicAuthor": "TikTok",
+          "musicId": "6789012345678901234",
+          "musicName": "TikTok Theme",
+          "musicOriginal": true
+        },
+        "playCount": 50000000,
+        "secretID": "secret456",
+        "shareCount": 500000,
+        "text": "Welcome to TikTok! #tiktok #welcome",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/no_watermark.mp4",
+        "videoMeta": {
+          "duetEnabled": false,
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "duration": 30,
+          "height": 1920,
+          "ratio": "720p",
+          "stitchEnabled": false,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video_no_watermark.mp4"
+      }
+    ]
+  }
+}

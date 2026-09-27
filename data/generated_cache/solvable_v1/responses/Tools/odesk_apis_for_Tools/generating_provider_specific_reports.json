@@ -1,0 +1,284 @@
+{
+  "{\"format\":\"csv\",\"provider\":24680,\"tq\":\"SELECT worked_on, assignment_team_id, hours, task, memo WHERE worked_on > '2023-03-01' AND worked_on <= '2023-03-31'\"}": {
+    "error": "",
+    "response": {
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "worked_on",
+            "label": "Worked On",
+            "type": "date"
+          },
+          {
+            "id": "assignment_team_id",
+            "label": "Assignment Team ID",
+            "type": "number"
+          },
+          {
+            "id": "hours",
+            "label": "Hours",
+            "type": "number"
+          },
+          {
+            "id": "task",
+            "label": "Task",
+            "type": "string"
+          },
+          {
+            "id": "memo",
+            "label": "Memo",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "2023-03-07"
+              },
+              {
+                "v": 3001
+              },
+              {
+                "v": 4.5
+              },
+              {
+                "v": "Development"
+              },
+              {
+                "v": "Added new feature"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-03-15"
+              },
+              {
+                "v": 3002
+              },
+              {
+                "v": 6.0
+              },
+              {
+                "v": "Testing"
+              },
+              {
+                "v": "Performed regression tests"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-03-28"
+              },
+              {
+                "v": 3001
+              },
+              {
+                "v": 3.0
+              },
+              {
+                "v": "Documentation"
+              },
+              {
+                "v": "Updated user guide"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "{\"format\":\"json\",\"provider\":12345,\"tq\":\"SELECT worked_on, assignment_team_id, hours, task, memo WHERE worked_on > '2023-01-01' AND worked_on <= '2023-01-31'\"}": {
+    "error": "",
+    "response": {
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "worked_on",
+            "label": "Worked On",
+            "type": "date"
+          },
+          {
+            "id": "assignment_team_id",
+            "label": "Assignment Team ID",
+            "type": "number"
+          },
+          {
+            "id": "hours",
+            "label": "Hours",
+            "type": "number"
+          },
+          {
+            "id": "task",
+            "label": "Task",
+            "type": "string"
+          },
+          {
+            "id": "memo",
+            "label": "Memo",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "2023-01-05"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": 3.5
+              },
+              {
+                "v": "Development"
+              },
+              {
+                "v": "Worked on feature X"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-01-12"
+              },
+              {
+                "v": 1002
+              },
+              {
+                "v": 2.0
+              },
+              {
+                "v": "Testing"
+              },
+              {
+                "v": "Tested module Y"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-01-20"
+              },
+              {
+                "v": 1001
+              },
+              {
+                "v": 4.0
+              },
+              {
+                "v": "Development"
+              },
+              {
+                "v": "Fixed bug Z"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "{\"format\":\"xml\",\"provider\":67890,\"tq\":\"SELECT worked_on, assignment_team_id, hours, task, memo WHERE worked_on > '2023-02-01' AND worked_on <= '2023-02-28'\"}": {
+    "error": "",
+    "response": {
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "worked_on",
+            "label": "Worked On",
+            "type": "date"
+          },
+          {
+            "id": "assignment_team_id",
+            "label": "Assignment Team ID",
+            "type": "number"
+          },
+          {
+            "id": "hours",
+            "label": "Hours",
+            "type": "number"
+          },
+          {
+            "id": "task",
+            "label": "Task",
+            "type": "string"
+          },
+          {
+            "id": "memo",
+            "label": "Memo",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "2023-02-03"
+              },
+              {
+                "v": 2001
+              },
+              {
+                "v": 5.0
+              },
+              {
+                "v": "Design"
+              },
+              {
+                "v": "Created wireframes"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-02-14"
+              },
+              {
+                "v": 2002
+              },
+              {
+                "v": 3.0
+              },
+              {
+                "v": "Development"
+              },
+              {
+                "v": "Implemented API"
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2023-02-22"
+              },
+              {
+                "v": 2001
+              },
+              {
+                "v": 2.5
+              },
+              {
+                "v": "Meeting"
+              },
+              {
+                "v": "Client call"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

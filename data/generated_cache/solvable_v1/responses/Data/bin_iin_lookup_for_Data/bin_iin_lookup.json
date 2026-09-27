@@ -1,0 +1,20 @@
+{
+  "{\"bin\":539983}": {
+    "error": "",
+    "response": {
+      "bin": "539983",
+      "brand": "MASTERCARD",
+      "card_number_length": 16,
+      "category": "STANDARD",
+      "issuer": {
+        "country": "Mexico",
+        "country_code": "MX",
+        "name": "BANCO NACIONAL DE MEXICO",
+        "phone": "+52 55 1226 9000",
+        "website": "https://www.banorte.com"
+      },
+      "luhn_valid": true,
+      "type": "DEBIT"
+    }
+  }
+}

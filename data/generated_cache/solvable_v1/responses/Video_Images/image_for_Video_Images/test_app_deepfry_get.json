@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://example.com/photos/sunset.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deepfry/8f3a2b1c9d.png",
+      "message": "Image deepfried successfully"
+    }
+  },
+  "{\"url\":\"https://i.imgur.com/abc123.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deepfry/4e7d6c5b2a.png",
+      "message": "Image deepfried successfully"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/deepfry/1a2b3c4d5e.png",
+      "message": "Image deepfried successfully"
+    }
+  }
+}

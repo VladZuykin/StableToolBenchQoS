@@ -1,0 +1,379 @@
+{
+  "{\"city\":\"Fort Lauderdale\",\"limit\":5,\"offset\":10,\"price_max\":600000,\"sort\":\"NEWEST\"}": {
+    "error": "",
+    "response": {
+      "@context": [
+        "https://schema.org",
+        "https://schema.org/Offer",
+        "https://schema.org/Product",
+        "https://schema.org/Place",
+        "https://schema.org/PostalAddress",
+        "https://schema.org/ContactPoint",
+        "https://schema.org/Organization",
+        "https://schema.org/Person",
+        "https://schema.org/QuantitativeValue",
+        "https://schema.org/GeoCoordinates"
+      ],
+      "@type": "SearchResultsPage",
+      "ActionStatus": "CompletedActionStatus",
+      "Result": {
+        "@type": "SearchResultsPage",
+        "Creator": {
+          "@type": "RealEstateAgent",
+          "Address": {
+            "@type": "PostalAddress",
+            "AddressCountry": "US",
+            "AddressLocality": "Fort Lauderdale",
+            "PostalCode": "33301",
+            "StreetAddress": "2400 E Las Olas Blvd"
+          },
+          "ContactPoint": {
+            "@type": "ContactPoint",
+            "EMail": "ftlauderdale@floridarealty.example",
+            "Name": "Fort Lauderdale Office"
+          },
+          "Name": "Florida Realty Network",
+          "SameAs": "https://www.floridarealty.example/fort-lauderdale"
+        },
+        "Offers": [
+          {
+            "@context": [
+              "https://schema.org",
+              "https://schema.org/Offer",
+              "https://schema.org/Product",
+              "https://schema.org/Place",
+              "https://schema.org/PostalAddress",
+              "https://schema.org/ContactPoint",
+              "https://schema.org/Organization",
+              "https://schema.org/Person",
+              "https://schema.org/QuantitativeValue",
+              "https://schema.org/GeoCoordinates",
+              "https://schema.org/BedDetails",
+              "https://schema.org/Accommodation",
+              "https://schema.org/House",
+              "https://schema.org/Place",
+              "https://schema.org/Offer"
+            ],
+            "@id": "https://www.floridarealty.example/listings/ftl-33304-2001",
+            "@type": "Offer",
+            "Availability": "InStock",
+            "BusinessFunction": "Sell",
+            "Identifier": "FTL-33304-2001",
+            "ItemOffered": {
+              "@id": "https://www.floridarealty.example/properties/ftl-33304-2001",
+              "@type": "Condominium",
+              "Address": {
+                "@type": "PostalAddress",
+                "AddressCountry": "US",
+                "AddressLocality": "Fort Lauderdale",
+                "PostalCode": "33308",
+                "StreetAddress": "3100 NE 49th St Unit 706"
+              },
+              "AmenityFeature": [],
+              "FloorLevel": null,
+              "FloorSize": {
+                "@type": "QuantitativeValue",
+                "Name": "Living Area",
+                "UnitCode": "FTK",
+                "UnitText": "square feet",
+                "Value": 1650
+              },
+              "NumberOfBathroomsTotal": 2,
+              "NumberOfBedrooms": 2,
+              "NumberOfFullBathrooms": 2,
+              "NumberOfPartialBathrooms": 0
+            },
+            "OfferedBy": {
+              "@type": "RealEstateAgent",
+              "JobTitle": "Listing Agent",
+              "Name": "Elena Vasquez",
+              "WorksFor": {
+                "@type": "Organization",
+                "Name": "Florida Realty Network"
+              }
+            },
+            "Price": 525000,
+            "PriceCurrency": "USD"
+          },
+          {
+            "@context": [
+              "https://schema.org",
+              "https://schema.org/Offer",
+              "https://schema.org/Product",
+              "https://schema.org/Place",
+              "https://schema.org/PostalAddress",
+              "https://schema.org/ContactPoint",
+              "https://schema.org/Organization",
+              "https://schema.org/Person",
+              "https://schema.org/QuantitativeValue",
+              "https://schema.org/GeoCoordinates",
+              "https://schema.org/BedDetails",
+              "https://schema.org/Accommodation",
+              "https://schema.org/House",
+              "https://schema.org/Place",
+              "https://schema.org/Offer"
+            ],
+            "@id": "https://www.floridarealty.example/listings/ftl-33301-2002",
+            "@type": "Offer",
+            "Availability": "InStock",
+            "BusinessFunction": "Sell",
+            "Identifier": "FTL-33301-2002",
+            "ItemOffered": {
+              "@id": "https://www.floridarealty.example/properties/ftl-33301-2002",
+              "@type": "Townhouse",
+              "Address": {
+                "@type": "PostalAddress",
+                "AddressCountry": "US",
+                "AddressLocality": "Fort Lauderdale",
+                "PostalCode": "33301",
+                "StreetAddress": "512 SE 7th Ave Unit 3"
+              },
+              "AmenityFeature": [],
+              "FloorLevel": null,
+              "FloorSize": {
+                "@type": "QuantitativeValue",
+                "Name": "Living Area",
+                "UnitCode": "FTK",
+                "UnitText": "square feet",
+                "Value": 2240
+              },
+              "NumberOfBathroomsTotal": 3,
+              "NumberOfBedrooms": 3,
+              "NumberOfFullBathrooms": 3,
+              "NumberOfPartialBathrooms": 0
+            },
+            "OfferedBy": {
+              "@type": "RealEstateAgent",
+              "JobTitle": "Listing Agent",
+              "Name": "Darnell Brooks",
+              "WorksFor": {
+                "@type": "Organization",
+                "Name": "Florida Realty Network"
+              }
+            },
+            "Price": 589000,
+            "PriceCurrency": "USD"
+          }
+        ]
+      }
+    }
+  },
+  "{\"city\":\"Naples\",\"limit\":10,\"offset\":0,\"price_max\":450000,\"sort\":\"PRICE_LOW\"}": {
+    "error": "",
+    "response": {
+      "@context": [
+        "https://schema.org",
+        "https://schema.org/Offer",
+        "https://schema.org/Product",
+        "https://schema.org/Place",
+        "https://schema.org/PostalAddress",
+        "https://schema.org/ContactPoint",
+        "https://schema.org/Organization",
+        "https://schema.org/Person",
+        "https://schema.org/QuantitativeValue",
+        "https://schema.org/GeoCoordinates"
+      ],
+      "@type": "SearchResultsPage",
+      "ActionStatus": "CompletedActionStatus",
+      "Result": {
+        "@type": "SearchResultsPage",
+        "Creator": {
+          "@type": "RealEstateAgent",
+          "Address": {
+            "@type": "PostalAddress",
+            "AddressCountry": "US",
+            "AddressLocality": "Naples",
+            "PostalCode": "34102",
+            "StreetAddress": "1200 Gulf Shore Blvd N"
+          },
+          "ContactPoint": {
+            "@type": "ContactPoint",
+            "EMail": "naples@floridarealty.example",
+            "Name": "Naples Office"
+          },
+          "Name": "Florida Realty Network",
+          "SameAs": "https://www.floridarealty.example/naples"
+        },
+        "Offers": [
+          {
+            "@context": [
+              "https://schema.org",
+              "https://schema.org/Offer",
+              "https://schema.org/Product",
+              "https://schema.org/Place",
+              "https://schema.org/PostalAddress",
+              "https://schema.org/ContactPoint",
+              "https://schema.org/Organization",
+              "https://schema.org/Person",
+              "https://schema.org/QuantitativeValue",
+              "https://schema.org/GeoCoordinates",
+              "https://schema.org/BedDetails",
+              "https://schema.org/Accommodation",
+              "https://schema.org/House",
+              "https://schema.org/Place",
+              "https://schema.org/Offer"
+            ],
+            "@id": "https://www.floridarealty.example/listings/naples-34102-1001",
+            "@type": "Offer",
+            "Availability": "InStock",
+            "BusinessFunction": "Sell",
+            "Identifier": "NPL-34102-1001",
+            "ItemOffered": {
+              "@id": "https://www.floridarealty.example/properties/naples-34102-1001",
+              "@type": "Condominium",
+              "Address": {
+                "@type": "PostalAddress",
+                "AddressCountry": "US",
+                "AddressLocality": "Naples",
+                "PostalCode": "34112",
+                "StreetAddress": "4101 Bay Beach Ln Unit 204"
+              },
+              "AmenityFeature": [],
+              "FloorLevel": null,
+              "FloorSize": {
+                "@type": "QuantitativeValue",
+                "Name": "Living Area",
+                "UnitCode": "FTK",
+                "UnitText": "square feet",
+                "Value": 1420
+              },
+              "NumberOfBathroomsTotal": 2,
+              "NumberOfBedrooms": 2,
+              "NumberOfFullBathrooms": 2,
+              "NumberOfPartialBathrooms": 0
+            },
+            "OfferedBy": {
+              "@type": "RealEstateAgent",
+              "JobTitle": "Listing Agent",
+              "Name": "Sandra Whitfield",
+              "WorksFor": {
+                "@type": "Organization",
+                "Name": "Florida Realty Network"
+              }
+            },
+            "Price": 289000,
+            "PriceCurrency": "USD"
+          },
+          {
+            "@context": [
+              "https://schema.org",
+              "https://schema.org/Offer",
+              "https://schema.org/Product",
+              "https://schema.org/Place",
+              "https://schema.org/PostalAddress",
+              "https://schema.org/ContactPoint",
+              "https://schema.org/Organization",
+              "https://schema.org/Person",
+              "https://schema.org/QuantitativeValue",
+              "https://schema.org/GeoCoordinates",
+              "https://schema.org/BedDetails",
+              "https://schema.org/Accommodation",
+              "https://schema.org/House",
+              "https://schema.org/Place",
+              "https://schema.org/Offer"
+            ],
+            "@id": "https://www.floridarealty.example/listings/naples-34103-1002",
+            "@type": "Offer",
+            "Availability": "InStock",
+            "BusinessFunction": "Sell",
+            "Identifier": "NPL-34103-1002",
+            "ItemOffered": {
+              "@id": "https://www.floridarealty.example/properties/naples-34103-1002",
+              "@type": "Townhouse",
+              "Address": {
+                "@type": "PostalAddress",
+                "AddressCountry": "US",
+                "AddressLocality": "Naples",
+                "PostalCode": "34102",
+                "StreetAddress": "875 9th St S Unit 12"
+              },
+              "AmenityFeature": [],
+              "FloorLevel": null,
+              "FloorSize": {
+                "@type": "QuantitativeValue",
+                "Name": "Living Area",
+                "UnitCode": "FTK",
+                "UnitText": "square feet",
+                "Value": 1785
+              },
+              "NumberOfBathroomsTotal": 3,
+              "NumberOfBedrooms": 3,
+              "NumberOfFullBathrooms": 2,
+              "NumberOfPartialBathrooms": 1
+            },
+            "OfferedBy": {
+              "@type": "RealEstateAgent",
+              "JobTitle": "Listing Agent",
+              "Name": "Marcus Delgado",
+              "WorksFor": {
+                "@type": "Organization",
+                "Name": "Florida Realty Network"
+              }
+            },
+            "Price": 335000,
+            "PriceCurrency": "USD"
+          },
+          {
+            "@context": [
+              "https://schema.org",
+              "https://schema.org/Offer",
+              "https://schema.org/Product",
+              "https://schema.org/Place",
+              "https://schema.org/PostalAddress",
+              "https://schema.org/ContactPoint",
+              "https://schema.org/Organization",
+              "https://schema.org/Person",
+              "https://schema.org/QuantitativeValue",
+              "https://schema.org/GeoCoordinates",
+              "https://schema.org/BedDetails",
+              "https://schema.org/Accommodation",
+              "https://schema.org/House",
+              "https://schema.org/Place",
+              "https://schema.org/Offer"
+            ],
+            "@id": "https://www.floridarealty.example/listings/naples-34105-1003",
+            "@type": "Offer",
+            "Availability": "InStock",
+            "BusinessFunction": "Sell",
+            "Identifier": "NPL-34105-1003",
+            "ItemOffered": {
+              "@id": "https://www.floridarealty.example/properties/naples-34105-1003",
+              "@type": "Condominium",
+              "Address": {
+                "@type": "PostalAddress",
+                "AddressCountry": "US",
+                "AddressLocality": "Naples",
+                "PostalCode": "34108",
+                "StreetAddress": "6200 Pelican Bay Blvd Unit 1508"
+              },
+              "AmenityFeature": [],
+              "FloorLevel": null,
+              "FloorSize": {
+                "@type": "QuantitativeValue",
+                "Name": "Living Area",
+                "UnitCode": "FTK",
+                "UnitText": "square feet",
+                "Value": 2010
+              },
+              "NumberOfBathroomsTotal": 2,
+              "NumberOfBedrooms": 3,
+              "NumberOfFullBathrooms": 2,
+              "NumberOfPartialBathrooms": 0
+            },
+            "OfferedBy": {
+              "@type": "RealEstateAgent",
+              "JobTitle": "Listing Agent",
+              "Name": "Priya Raman",
+              "WorksFor": {
+                "@type": "Organization",
+                "Name": "Florida Realty Network"
+              }
+            },
+            "Price": 412500,
+            "PriceCurrency": "USD"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "male_fighter_image_placeholder",
+      "parameters": [],
+      "response": [
+        {
+          "fighterId": null,
+          "fighterName": "Placeholder Fighter",
+          "imageUrl": "https://mmaapi.com/images/placeholders/male-fighter.png",
+          "record": "0-0-0",
+          "status": "placeholder",
+          "weightClass": "Heavyweight"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

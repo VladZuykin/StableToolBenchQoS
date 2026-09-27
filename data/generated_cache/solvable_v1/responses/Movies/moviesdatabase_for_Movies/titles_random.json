@@ -1,0 +1,250 @@
+{
+  "{\"endyear\":2020,\"info\":\"mini_info\",\"limit\":10,\"sort\":\"year.decr\",\"startyear\":2015}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/titles/random",
+      "parameters": [
+        {
+          "startYear": 2015
+        },
+        {
+          "endYear": 2020
+        },
+        {
+          "sort": "year.decr"
+        },
+        {
+          "limit": 10
+        },
+        {
+          "info": "mini_info"
+        }
+      ],
+      "response": [
+        {
+          "id": "tt7286456",
+          "rating": 8.4,
+          "title": "Joker",
+          "type": "movie",
+          "year": 2019
+        },
+        {
+          "id": "tt4154796",
+          "rating": 8.4,
+          "title": "Avengers: Endgame",
+          "type": "movie",
+          "year": 2019
+        },
+        {
+          "id": "tt6751668",
+          "rating": 8.5,
+          "title": "Parasite",
+          "type": "movie",
+          "year": 2019
+        },
+        {
+          "id": "tt2582802",
+          "rating": 8.5,
+          "title": "Whiplash",
+          "type": "movie",
+          "year": 2014
+        },
+        {
+          "id": "tt1375666",
+          "rating": 8.8,
+          "title": "Inception",
+          "type": "movie",
+          "year": 2010
+        },
+        {
+          "id": "tt0111161",
+          "rating": 9.3,
+          "title": "The Shawshank Redemption",
+          "type": "movie",
+          "year": 1994
+        },
+        {
+          "id": "tt0068646",
+          "rating": 9.2,
+          "title": "The Godfather",
+          "type": "movie",
+          "year": 1972
+        },
+        {
+          "id": "tt0468569",
+          "rating": 9.0,
+          "title": "The Dark Knight",
+          "type": "movie",
+          "year": 2008
+        },
+        {
+          "id": "tt0108052",
+          "rating": 9.0,
+          "title": "Schindler's List",
+          "type": "movie",
+          "year": 1993
+        },
+        {
+          "id": "tt0167260",
+          "rating": 9.0,
+          "title": "The Lord of the Rings: The Return of the King",
+          "type": "movie",
+          "year": 2003
+        }
+      ],
+      "results": 10
+    }
+  },
+  "{\"genre\":\"Comedy\",\"info\":\"base_info\",\"limit\":5,\"titletype\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/titles/random",
+      "parameters": [
+        {
+          "genre": "Comedy"
+        },
+        {
+          "titleType": "movie"
+        },
+        {
+          "limit": 5
+        },
+        {
+          "info": "base_info"
+        }
+      ],
+      "response": [
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt0109686",
+          "originalTitle": "Dumb and Dumber",
+          "rating": 7.3,
+          "releaseDate": "1994-12-16",
+          "runtime": 107,
+          "title": "Dumb and Dumber",
+          "type": "movie",
+          "votes": 380000,
+          "year": 1994
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt0838283",
+          "originalTitle": "Step Brothers",
+          "rating": 6.9,
+          "releaseDate": "2008-07-25",
+          "runtime": 98,
+          "title": "Step Brothers",
+          "type": "movie",
+          "votes": 290000,
+          "year": 2008
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt1119646",
+          "originalTitle": "The Hangover",
+          "rating": 7.7,
+          "releaseDate": "2009-06-05",
+          "runtime": 100,
+          "title": "The Hangover",
+          "type": "movie",
+          "votes": 780000,
+          "year": 2009
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt1478338",
+          "originalTitle": "Bridesmaids",
+          "rating": 6.8,
+          "releaseDate": "2011-05-13",
+          "runtime": 125,
+          "title": "Bridesmaids",
+          "type": "movie",
+          "votes": 280000,
+          "year": 2011
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "id": "tt2704998",
+          "originalTitle": "Game Night",
+          "rating": 6.9,
+          "releaseDate": "2018-02-23",
+          "runtime": 100,
+          "title": "Game Night",
+          "type": "movie",
+          "votes": 250000,
+          "year": 2018
+        }
+      ],
+      "results": 5
+    }
+  },
+  "{\"info\":\"image\",\"limit\":3,\"list\":\"top_rated_series_250\",\"year\":2021}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "/titles/random",
+      "parameters": [
+        {
+          "list": "top_rated_series_250"
+        },
+        {
+          "year": 2021
+        },
+        {
+          "limit": 3
+        },
+        {
+          "info": "image"
+        }
+      ],
+      "response": [
+        {
+          "id": "tt0903747",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGc@._V1_.jpg",
+            "width": 1382
+          },
+          "title": "Breaking Bad",
+          "type": "tvSeries",
+          "year": 2008
+        },
+        {
+          "id": "tt5491994",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGc@._V1_.jpg",
+            "width": 1382
+          },
+          "title": "Planet Earth II",
+          "type": "tvSeries",
+          "year": 2016
+        },
+        {
+          "id": "tt0795176",
+          "image": {
+            "height": 2048,
+            "url": "https://m.media-amazon.com/images/M/MV5BMzI0ZmY3OTgtZjcxMS00YjA2LWE4YzQtYzQ2YzM2YzM2YzM2XkEyXkFqcGc@._V1_.jpg",
+            "width": 1382
+          },
+          "title": "Planet Earth",
+          "type": "tvSeries",
+          "year": 2006
+        }
+      ],
+      "results": 3
+    }
+  }
+}

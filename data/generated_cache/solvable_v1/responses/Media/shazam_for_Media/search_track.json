@@ -1,0 +1,221 @@
+{
+  "{\"limit\":1,\"track\":\"Levitating\"}": {
+    "error": "",
+    "response": {
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 1,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "3",
+                "name": "share",
+                "type": "share"
+              }
+            ],
+            "alias": "Levitating",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "1031397873",
+                "alias": "Dua Lipa",
+                "follow": {
+                  "followkey": "dua-lipa"
+                },
+                "id": "1031397873"
+              }
+            ],
+            "heading": {
+              "subtitle": "Dua Lipa",
+              "title": "Levitating"
+            },
+            "images": {
+              "blurred": "https://www.shazam.com/images/blurred/levitating.jpg",
+              "default": "https://www.shazam.com/images/default/levitating.jpg",
+              "play": "https://www.shazam.com/images/play/levitating.jpg"
+            },
+            "key": "levitating",
+            "share": {
+              "avatar": "https://www.shazam.com/avatar/levitating.jpg",
+              "href": "https://www.shazam.com/track/levitating",
+              "html": "<div>Levitating</div>",
+              "image": "https://www.shazam.com/image/levitating.jpg",
+              "snapchat": "https://www.shazam.com/snapchat/levitating",
+              "subject": "Levitating",
+              "text": "Listen to Levitating",
+              "twitter": "https://www.shazam.com/twitter/levitating"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "play",
+                    "uri": "https://music.apple.com/play/levitating"
+                  }
+                ],
+                "coverarturl": "https://www.shazam.com/coverart/levitating.jpg",
+                "explicit": false,
+                "previewurl": "https://www.shazam.com/preview/levitating.mp3",
+                "productid": "456789123",
+                "trackid": "456789123"
+              }
+            },
+            "streams": {},
+            "type": "track",
+            "url": "https://www.shazam.com/track/levitating",
+            "urlparams": {}
+          }
+        ],
+        "next": "https://www.shazam.com/search?track=Levitating&limit=1&offset=1"
+      }
+    }
+  },
+  "{\"limit\":10,\"track\":\"Blinding Lights\"}": {
+    "error": "",
+    "response": {
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 1,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "2",
+                "name": "share",
+                "type": "share"
+              }
+            ],
+            "alias": "Blinding Lights",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "479756766",
+                "alias": "The Weeknd",
+                "follow": {
+                  "followkey": "the-weeknd"
+                },
+                "id": "479756766"
+              }
+            ],
+            "heading": {
+              "subtitle": "The Weeknd",
+              "title": "Blinding Lights"
+            },
+            "images": {
+              "blurred": "https://www.shazam.com/images/blurred/blinding-lights.jpg",
+              "default": "https://www.shazam.com/images/default/blinding-lights.jpg",
+              "play": "https://www.shazam.com/images/play/blinding-lights.jpg"
+            },
+            "key": "blinding-lights",
+            "share": {
+              "avatar": "https://www.shazam.com/avatar/blinding-lights.jpg",
+              "href": "https://www.shazam.com/track/blinding-lights",
+              "html": "<div>Blinding Lights</div>",
+              "image": "https://www.shazam.com/image/blinding-lights.jpg",
+              "snapchat": "https://www.shazam.com/snapchat/blinding-lights",
+              "subject": "Blinding Lights",
+              "text": "Listen to Blinding Lights",
+              "twitter": "https://www.shazam.com/twitter/blinding-lights"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "play",
+                    "uri": "https://music.apple.com/play/blinding-lights"
+                  }
+                ],
+                "coverarturl": "https://www.shazam.com/coverart/blinding-lights.jpg",
+                "explicit": false,
+                "previewurl": "https://www.shazam.com/preview/blinding-lights.mp3",
+                "productid": "987654321",
+                "trackid": "987654321"
+              }
+            },
+            "streams": {},
+            "type": "track",
+            "url": "https://www.shazam.com/track/blinding-lights",
+            "urlparams": {}
+          }
+        ],
+        "next": "https://www.shazam.com/search?track=Blinding+Lights&limit=10&offset=10"
+      }
+    }
+  },
+  "{\"limit\":3,\"track\":\"Shape of You\"}": {
+    "error": "",
+    "response": {
+      "tracks": {
+        "hits": [
+          {
+            "_list_length": 1,
+            "actions": [
+              {
+                "_list_length": 1,
+                "id": "1",
+                "name": "share",
+                "type": "share"
+              }
+            ],
+            "alias": "Shape of You",
+            "artists": [
+              {
+                "_list_length": 1,
+                "adamid": "1834504",
+                "alias": "Ed Sheeran",
+                "follow": {
+                  "followkey": "ed-sheeran"
+                },
+                "id": "1834504"
+              }
+            ],
+            "heading": {
+              "subtitle": "Ed Sheeran",
+              "title": "Shape of You"
+            },
+            "images": {
+              "blurred": "https://www.shazam.com/images/blurred/shape-of-you.jpg",
+              "default": "https://www.shazam.com/images/default/shape-of-you.jpg",
+              "play": "https://www.shazam.com/images/play/shape-of-you.jpg"
+            },
+            "key": "shape-of-you",
+            "share": {
+              "avatar": "https://www.shazam.com/avatar/shape-of-you.jpg",
+              "href": "https://www.shazam.com/track/shape-of-you",
+              "html": "<div>Shape of You</div>",
+              "image": "https://www.shazam.com/image/shape-of-you.jpg",
+              "snapchat": "https://www.shazam.com/snapchat/shape-of-you",
+              "subject": "Shape of You",
+              "text": "Listen to Shape of You",
+              "twitter": "https://www.shazam.com/twitter/shape-of-you"
+            },
+            "stores": {
+              "apple": {
+                "actions": [
+                  {
+                    "_list_length": 1,
+                    "type": "play",
+                    "uri": "https://music.apple.com/play/shape-of-you"
+                  }
+                ],
+                "coverarturl": "https://www.shazam.com/coverart/shape-of-you.jpg",
+                "explicit": false,
+                "previewurl": "https://www.shazam.com/preview/shape-of-you.mp3",
+                "productid": "123456789",
+                "trackid": "123456789"
+              }
+            },
+            "streams": {},
+            "type": "track",
+            "url": "https://www.shazam.com/track/shape-of-you",
+            "urlparams": {}
+          }
+        ],
+        "next": "https://www.shazam.com/search?track=Shape+of+You&limit=3&offset=3"
+      }
+    }
+  }
+}

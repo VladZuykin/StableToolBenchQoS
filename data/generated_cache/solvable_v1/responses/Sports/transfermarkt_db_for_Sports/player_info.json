@@ -1,0 +1,183 @@
+{
+  "{\"locale\":\"DE\",\"player_id\":28003}": {
+    "error": "",
+    "response": {
+      "data": {
+        "details": {
+          "club": {
+            "flag": null,
+            "fullName": "FC Bayern München",
+            "id": "27",
+            "image": "https://tmssl.akamaized.net/images/wappen/head/27.png",
+            "mainCompetition": {
+              "id": "L1",
+              "image": "https://tmssl.akamaized.net/images/logo/header/L1.png",
+              "isTournament": null,
+              "leagueLevel": null,
+              "name": "Bundesliga",
+              "shortName": "Bundesliga"
+            },
+            "marketValue": null,
+            "name": "Bayern Munich",
+            "nationalTeam": "Germany"
+          },
+          "player": {
+            "age": null,
+            "dateOfBirth": null,
+            "heroImage": null,
+            "id": "28003",
+            "image": "https://tmssl.akamaized.net/images/portrait/header/28003.jpg",
+            "imageLarge": "https://tmssl.akamaized.net/images/portrait/originals/28003.jpg",
+            "imageSource": "imago images",
+            "isGoalkeeper": false,
+            "marketValue": {
+              "currency": "€",
+              "progression": null,
+              "value": 110000000
+            },
+            "name": "Jamal Musiala",
+            "nationalities": [
+              {
+                "id": 1,
+                "image": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+                "name": "Germany"
+              },
+              {
+                "id": 2,
+                "image": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+                "name": "England"
+              }
+            ],
+            "positions": null,
+            "shirtNumber": "42"
+          }
+        },
+        "share": {
+          "description": "Jamal Musiala - FC Bayern München - Market value: €110.00m",
+          "image": null,
+          "title": "Jamal Musiala",
+          "url": "https://www.transfermarkt.com/jamal-musiala/profil/spieler/28003"
+        }
+      }
+    }
+  },
+  "{\"locale\":\"DE\",\"player_id\":8198}": {
+    "error": "",
+    "response": {
+      "data": {
+        "details": {
+          "club": {
+            "flag": null,
+            "fullName": "FC Barcelona",
+            "id": "131",
+            "image": "https://tmssl.akamaized.net/images/wappen/head/131.png",
+            "mainCompetition": {
+              "id": "ES1",
+              "image": "https://tmssl.akamaized.net/images/logo/header/ES1.png",
+              "isTournament": null,
+              "leagueLevel": null,
+              "name": "LaLiga",
+              "shortName": "LaLiga"
+            },
+            "marketValue": null,
+            "name": "FC Barcelona",
+            "nationalTeam": "Poland"
+          },
+          "player": {
+            "age": null,
+            "dateOfBirth": null,
+            "heroImage": null,
+            "id": "8198",
+            "image": "https://tmssl.akamaized.net/images/portrait/header/8198.jpg",
+            "imageLarge": "https://tmssl.akamaized.net/images/portrait/originals/8198.jpg",
+            "imageSource": "imago images",
+            "isGoalkeeper": false,
+            "marketValue": {
+              "currency": "€",
+              "progression": null,
+              "value": 15000000
+            },
+            "name": "Robert Lewandowski",
+            "nationalities": [
+              {
+                "id": 143,
+                "image": "https://tmssl.akamaized.net/images/flagge/verysmall/143.png",
+                "name": "Poland"
+              }
+            ],
+            "positions": null,
+            "shirtNumber": "9"
+          }
+        },
+        "share": {
+          "description": "Robert Lewandowski - FC Barcelona - Market value: €15.00m",
+          "image": null,
+          "title": "Robert Lewandowski",
+          "url": "https://www.transfermarkt.com/robert-lewandowski/profil/spieler/8198"
+        }
+      }
+    }
+  },
+  "{\"locale\":\"EN\",\"player_id\":418560}": {
+    "error": "",
+    "response": {
+      "data": {
+        "details": {
+          "club": {
+            "flag": null,
+            "fullName": "Real Madrid",
+            "id": "418",
+            "image": "https://tmssl.akamaized.net/images/wappen/head/418.png",
+            "mainCompetition": {
+              "id": "ES1",
+              "image": "https://tmssl.akamaized.net/images/logo/header/ES1.png",
+              "isTournament": null,
+              "leagueLevel": null,
+              "name": "LaLiga",
+              "shortName": "LaLiga"
+            },
+            "marketValue": null,
+            "name": "Real Madrid",
+            "nationalTeam": "Brazil"
+          },
+          "player": {
+            "age": null,
+            "dateOfBirth": null,
+            "heroImage": null,
+            "id": "418560",
+            "image": "https://tmssl.akamaized.net/images/portrait/header/418560.jpg",
+            "imageLarge": "https://tmssl.akamaized.net/images/portrait/originals/418560.jpg",
+            "imageSource": "imago images",
+            "isGoalkeeper": false,
+            "marketValue": {
+              "currency": "€",
+              "progression": null,
+              "value": 180000000
+            },
+            "name": "Vinícius Júnior",
+            "nationalities": [
+              {
+                "id": 26,
+                "image": "https://tmssl.akamaized.net/images/flagge/verysmall/26.png",
+                "name": "Brazil"
+              },
+              {
+                "id": 157,
+                "image": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png",
+                "name": "Spain"
+              }
+            ],
+            "positions": null,
+            "shirtNumber": "7"
+          }
+        },
+        "share": {
+          "description": "Vinícius Júnior - Real Madrid - Market value: €180.00m",
+          "image": null,
+          "title": "Vinícius Júnior",
+          "url": "https://www.transfermarkt.com/vinicius-junior/profil/spieler/418560"
+        }
+      }
+    }
+  }
+}

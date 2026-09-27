@@ -1,0 +1,29 @@
+{
+  "{\"is_id\":\"550e8400-e29b-41d4-a716-446655440000\"}": {
+    "error": "",
+    "response": {
+      "created": "2024-03-15T10:30:00Z",
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "size": 20480,
+      "source": "logo.png"
+    }
+  },
+  "{\"is_id\":\"6ba7b810-9dad-11d1-80b4-00c04fd430c8\"}": {
+    "error": "",
+    "response": {
+      "created": "2024-06-01T08:15:45Z",
+      "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "size": 153600,
+      "source": "banner.jpg"
+    }
+  },
+  "{\"is_id\":\"f47ac10b-58cc-4372-a567-0e02b2c3d479\"}": {
+    "error": "",
+    "response": {
+      "created": "2025-01-20T22:05:12Z",
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "size": 51200,
+      "source": "qr-background.webp"
+    }
+  }
+}

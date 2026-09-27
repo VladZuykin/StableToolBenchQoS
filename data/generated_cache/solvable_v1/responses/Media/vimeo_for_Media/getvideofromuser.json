@@ -1,0 +1,258 @@
+{
+  "{\"format\":\"json\",\"full_response\":false,\"page\":1,\"per_page\":\"10\",\"sort\":\"newest\",\"summary_response\":true,\"user_id\":\"12345678\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "created_time": "2023-01-15T10:00:00Z",
+          "description": "A short description of my first video.",
+          "duration": 120,
+          "height": 1080,
+          "link": "https://vimeo.com/111111",
+          "modified_time": "2023-01-16T12:00:00Z",
+          "name": "My First Video",
+          "pictures": {
+            "active": true,
+            "sizes": [
+              {
+                "height": 75,
+                "link": "https://i.vimeocdn.com/video/111111_100x75.jpg",
+                "width": 100
+              }
+            ],
+            "type": "custom",
+            "uri": "/videos/111111/pictures"
+          },
+          "release_time": "2023-01-15T10:00:00Z",
+          "stats": {
+            "plays": 150
+          },
+          "tags": [],
+          "uri": "/videos/111111",
+          "user": {
+            "link": "https://vimeo.com/johndoe",
+            "name": "John Doe",
+            "pictures": {
+              "active": true,
+              "sizes": [
+                {
+                  "height": 100,
+                  "link": "https://i.vimeocdn.com/portrait/12345678_100x100.jpg",
+                  "width": 100
+                }
+              ],
+              "type": "custom",
+              "uri": "/users/12345678/pictures"
+            },
+            "uri": "/users/12345678"
+          },
+          "width": 1920
+        },
+        {
+          "created_time": "2023-02-20T14:30:00Z",
+          "description": "Another video.",
+          "duration": 90,
+          "height": 720,
+          "link": "https://vimeo.com/222222",
+          "modified_time": "2023-02-21T09:15:00Z",
+          "name": "My Second Video",
+          "pictures": {
+            "active": true,
+            "sizes": [
+              {
+                "height": 75,
+                "link": "https://i.vimeocdn.com/video/222222_100x75.jpg",
+                "width": 100
+              }
+            ],
+            "type": "custom",
+            "uri": "/videos/222222/pictures"
+          },
+          "release_time": "2023-02-20T14:30:00Z",
+          "stats": {
+            "plays": 75
+          },
+          "tags": [],
+          "uri": "/videos/222222",
+          "user": {
+            "link": "https://vimeo.com/johndoe",
+            "name": "John Doe",
+            "pictures": {
+              "active": true,
+              "sizes": [
+                {
+                  "height": 100,
+                  "link": "https://i.vimeocdn.com/portrait/12345678_100x100.jpg",
+                  "width": 100
+                }
+              ],
+              "type": "custom",
+              "uri": "/users/12345678/pictures"
+            },
+            "uri": "/users/12345678"
+          },
+          "width": 1280
+        }
+      ],
+      "page": 1,
+      "paging": {
+        "first": "/users/12345678/videos?page=1",
+        "last": "/users/12345678/videos?page=1",
+        "next": null,
+        "previous": null
+      },
+      "per_page": 10,
+      "total": 2
+    }
+  },
+  "{\"format\":\"php\",\"full_response\":false,\"page\":1,\"per_page\":\"50\",\"sort\":\"most_liked\",\"summary_response\":true,\"user_id\":\"987654321\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "created_time": "2023-04-05T16:20:00Z",
+          "description": "This video has many likes.",
+          "duration": 180,
+          "height": 720,
+          "link": "https://vimeo.com/444444",
+          "modified_time": "2023-04-06T11:45:00Z",
+          "name": "Most Liked Video",
+          "pictures": {
+            "active": true,
+            "sizes": [
+              {
+                "height": 75,
+                "link": "https://i.vimeocdn.com/video/444444_100x75.jpg",
+                "width": 100
+              }
+            ],
+            "type": "custom",
+            "uri": "/videos/444444/pictures"
+          },
+          "release_time": "2023-04-05T16:20:00Z",
+          "stats": {
+            "plays": 2000
+          },
+          "tags": [],
+          "uri": "/videos/444444",
+          "user": {
+            "link": "https://vimeo.com/janesmith",
+            "name": "Jane Smith",
+            "pictures": {
+              "active": true,
+              "sizes": [
+                {
+                  "height": 100,
+                  "link": "https://i.vimeocdn.com/portrait/987654321_100x100.jpg",
+                  "width": 100
+                }
+              ],
+              "type": "custom",
+              "uri": "/users/987654321/pictures"
+            },
+            "uri": "/users/987654321"
+          },
+          "width": 1280
+        }
+      ],
+      "page": 1,
+      "paging": {
+        "first": "/users/987654321/videos?page=1&per_page=50",
+        "last": "/users/987654321/videos?page=1&per_page=50",
+        "next": null,
+        "previous": null
+      },
+      "per_page": 50,
+      "total": 1
+    }
+  },
+  "{\"format\":\"xml\",\"full_response\":true,\"page\":2,\"per_page\":\"5\",\"sort\":\"most_played\",\"summary_response\":false,\"user_id\":\"johndoe\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "created_time": "2023-03-10T08:00:00Z",
+          "description": "This video has many plays.",
+          "duration": 300,
+          "embed": {
+            "html": "<iframe src=\"https://player.vimeo.com/video/333333\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+          },
+          "height": 1080,
+          "link": "https://vimeo.com/333333",
+          "modified_time": "2023-03-11T10:00:00Z",
+          "name": "Popular Video",
+          "pictures": {
+            "active": true,
+            "sizes": [
+              {
+                "height": 75,
+                "link": "https://i.vimeocdn.com/video/333333_100x75.jpg",
+                "width": 100
+              }
+            ],
+            "type": "custom",
+            "uri": "/videos/333333/pictures"
+          },
+          "privacy": {
+            "add": true,
+            "comments": "anybody",
+            "download": true,
+            "embed": "public",
+            "view": "anybody"
+          },
+          "release_time": "2023-03-10T08:00:00Z",
+          "stats": {
+            "plays": 5000
+          },
+          "tags": [
+            {
+              "canonical": "popular",
+              "metadata": {
+                "connections": {
+                  "videos": {
+                    "options": [
+                      "GET"
+                    ],
+                    "total": 100,
+                    "uri": "/tags/popular/videos"
+                  }
+                }
+              },
+              "name": "popular",
+              "tag": "popular",
+              "uri": "/tags/popular"
+            }
+          ],
+          "uri": "/videos/333333",
+          "user": {
+            "link": "https://vimeo.com/johndoe",
+            "name": "John Doe",
+            "pictures": {
+              "active": true,
+              "sizes": [
+                {
+                  "height": 100,
+                  "link": "https://i.vimeocdn.com/portrait/johndoe_100x100.jpg",
+                  "width": 100
+                }
+              ],
+              "type": "custom",
+              "uri": "/users/johndoe/pictures"
+            },
+            "uri": "/users/johndoe"
+          },
+          "width": 1920
+        }
+      ],
+      "page": 2,
+      "paging": {
+        "first": "/users/johndoe/videos?page=1&per_page=5",
+        "last": "/users/johndoe/videos?page=3&per_page=5",
+        "next": "/users/johndoe/videos?page=3&per_page=5",
+        "previous": "/users/johndoe/videos?page=1&per_page=5"
+      },
+      "per_page": 5,
+      "total": 12
+    }
+  }
+}

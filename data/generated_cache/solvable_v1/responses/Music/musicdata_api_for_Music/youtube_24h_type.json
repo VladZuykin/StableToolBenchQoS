@@ -1,0 +1,35 @@
+{
+  "{\"type\":\"asian\"}": {
+    "error": "",
+    "response": {
+      "likes": "2.1M",
+      "link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "ranking": "1",
+      "status": "success",
+      "video": "BLACKPINK - 'How You Like That' M/V",
+      "views": "1.4B"
+    }
+  },
+  "{\"type\":\"english\"}": {
+    "error": "",
+    "response": {
+      "likes": "1.2M",
+      "link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "ranking": "1",
+      "status": "success",
+      "video": "PSY - GANGNAM STYLE (강남스타일) M/V",
+      "views": "4.9B"
+    }
+  },
+  "{\"type\":\"spanish\"}": {
+    "error": "",
+    "response": {
+      "likes": "890K",
+      "link": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "ranking": "1",
+      "status": "success",
+      "video": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "views": "8.3B"
+    }
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "{\"expand\":\"team.roster\",\"season\":20222023}": {
+    "error": "",
+    "response": {
+      "teams": [
+        {
+          "abbreviation": "NJD",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 1,
+          "name": "New Jersey Devils",
+          "roster": [
+            {
+              "name": "Jack Hughes",
+              "number": 86,
+              "playerId": 8478402,
+              "position": "C"
+            },
+            {
+              "name": "Nico Hischier",
+              "number": 13,
+              "playerId": 8479318,
+              "position": "C"
+            },
+            {
+              "name": "Dougie Hamilton",
+              "number": 7,
+              "playerId": 8476883,
+              "position": "D"
+            }
+          ],
+          "season": 20222023
+        },
+        {
+          "abbreviation": "BOS",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 6,
+          "name": "Boston Bruins",
+          "roster": [
+            {
+              "name": "Brad Marchand",
+              "number": 63,
+              "playerId": 8473419,
+              "position": "LW"
+            },
+            {
+              "name": "David Pastrnak",
+              "number": 88,
+              "playerId": 8477956,
+              "position": "RW"
+            },
+            {
+              "name": "Charlie McAvoy",
+              "number": 73,
+              "playerId": 8474565,
+              "position": "D"
+            }
+          ],
+          "season": 20222023
+        },
+        {
+          "abbreviation": "EDM",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 29,
+          "name": "Edmonton Oilers",
+          "roster": [
+            {
+              "name": "Connor McDavid",
+              "number": 97,
+              "playerId": 8478402,
+              "position": "C"
+            },
+            {
+              "name": "Leon Draisaitl",
+              "number": 29,
+              "playerId": 8477934,
+              "position": "C"
+            },
+            {
+              "name": "Darnell Nurse",
+              "number": 25,
+              "playerId": 8475784,
+              "position": "D"
+            }
+          ],
+          "season": 20222023
+        }
+      ]
+    }
+  },
+  "{\"expand\":\"team.stats\"}": {
+    "error": "",
+    "response": {
+      "teams": [
+        {
+          "abbreviation": "NJD",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 1,
+          "name": "New Jersey Devils",
+          "season": 20172018,
+          "stats": {
+            "gamesPlayed": 82,
+            "goalsAgainst": 244,
+            "goalsFor": 248,
+            "losses": 29,
+            "overtimeLosses": 9,
+            "points": 97,
+            "wins": 44
+          }
+        },
+        {
+          "abbreviation": "BOS",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 6,
+          "name": "Boston Bruins",
+          "season": 20172018,
+          "stats": {
+            "gamesPlayed": 82,
+            "goalsAgainst": 214,
+            "goalsFor": 270,
+            "losses": 20,
+            "overtimeLosses": 12,
+            "points": 112,
+            "wins": 50
+          }
+        },
+        {
+          "abbreviation": "EDM",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 29,
+          "name": "Edmonton Oilers",
+          "season": 20172018,
+          "stats": {
+            "gamesPlayed": 82,
+            "goalsAgainst": 263,
+            "goalsFor": 234,
+            "losses": 40,
+            "overtimeLosses": 6,
+            "points": 78,
+            "wins": 36
+          }
+        }
+      ]
+    }
+  },
+  "{\"season\":20232024}": {
+    "error": "",
+    "response": {
+      "teams": [
+        {
+          "abbreviation": "NJD",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 1,
+          "name": "New Jersey Devils",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "NYI",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 2,
+          "name": "New York Islanders",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "NYR",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 3,
+          "name": "New York Rangers",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "PHI",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 4,
+          "name": "Philadelphia Flyers",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "PIT",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 5,
+          "name": "Pittsburgh Penguins",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "BOS",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 6,
+          "name": "Boston Bruins",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "BUF",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 7,
+          "name": "Buffalo Sabres",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "MTL",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 8,
+          "name": "Montreal Canadiens",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "OTT",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 9,
+          "name": "Ottawa Senators",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "TOR",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 10,
+          "name": "Toronto Maple Leafs",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "CAR",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 11,
+          "name": "Carolina Hurricanes",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "FLA",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 12,
+          "name": "Florida Panthers",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "TBL",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 13,
+          "name": "Tampa Bay Lightning",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "WSH",
+          "conference": "Eastern",
+          "division": "Metropolitan",
+          "id": 14,
+          "name": "Washington Capitals",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "CHI",
+          "conference": "Western",
+          "division": "Central",
+          "id": 15,
+          "name": "Chicago Blackhawks",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "DET",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "id": 16,
+          "name": "Detroit Red Wings",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "NSH",
+          "conference": "Western",
+          "division": "Central",
+          "id": 17,
+          "name": "Nashville Predators",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "STL",
+          "conference": "Western",
+          "division": "Central",
+          "id": 18,
+          "name": "St. Louis Blues",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "COL",
+          "conference": "Western",
+          "division": "Central",
+          "id": 19,
+          "name": "Colorado Avalanche",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "ARI",
+          "conference": "Western",
+          "division": "Central",
+          "id": 20,
+          "name": "Arizona Coyotes",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "MIN",
+          "conference": "Western",
+          "division": "Central",
+          "id": 21,
+          "name": "Minnesota Wild",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "WPG",
+          "conference": "Western",
+          "division": "Central",
+          "id": 22,
+          "name": "Winnipeg Jets",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "DAL",
+          "conference": "Western",
+          "division": "Central",
+          "id": 23,
+          "name": "Dallas Stars",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "ANA",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 24,
+          "name": "Anaheim Ducks",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "LAK",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 25,
+          "name": "Los Angeles Kings",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "SJS",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 26,
+          "name": "San Jose Sharks",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "VAN",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 27,
+          "name": "Vancouver Canucks",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "CGY",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 28,
+          "name": "Calgary Flames",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "EDM",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 29,
+          "name": "Edmonton Oilers",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "SEA",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 30,
+          "name": "Seattle Kraken",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "VGK",
+          "conference": "Western",
+          "division": "Pacific",
+          "id": 31,
+          "name": "Vegas Golden Knights",
+          "season": 20232024
+        },
+        {
+          "abbreviation": "UTA",
+          "conference": "Western",
+          "division": "Central",
+          "id": 32,
+          "name": "Utah Hockey Club",
+          "season": 20232024
+        }
+      ]
+    }
+  }
+}

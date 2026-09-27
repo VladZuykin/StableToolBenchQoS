@@ -1,0 +1,72 @@
+{
+  "{\"carriercode\":\"china-post\",\"lang\":\"cn\",\"trackingnumber\":\"LP123456789CN\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "data": {
+        "carrier_code": "china-post",
+        "destination_country": "AU",
+        "events": [
+          {
+            "description": "Accepted at origin",
+            "location": "Shenzhen, CN",
+            "time": "2024-05-10T02:15:00Z"
+          }
+        ],
+        "origin_country": "CN",
+        "status": "pending",
+        "tracking_number": "LP123456789CN"
+      }
+    }
+  },
+  "{\"carriercode\":\"dhl\",\"lang\":\"en\",\"trackingnumber\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "data": {
+        "carrier_code": "dhl",
+        "destination_country": "US",
+        "events": [
+          {
+            "description": "Departed facility",
+            "location": "Frankfurt, DE",
+            "time": "2024-05-01T08:30:00Z"
+          },
+          {
+            "description": "Arrived at delivery facility",
+            "location": "New York, US",
+            "time": "2024-05-03T14:12:00Z"
+          }
+        ],
+        "origin_country": "DE",
+        "status": "transit",
+        "tracking_number": "1234567890"
+      }
+    }
+  },
+  "{\"carriercode\":\"fedex\",\"lang\":\"es\",\"trackingnumber\":\"772019283746\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "data": {
+        "carrier_code": "fedex",
+        "destination_country": "MX",
+        "events": [
+          {
+            "description": "In transit",
+            "location": "Memphis, US",
+            "time": "2024-04-20T09:00:00Z"
+          },
+          {
+            "description": "Delivered, signed by R. Gomez",
+            "location": "Mexico City, MX",
+            "time": "2024-04-22T16:45:00Z"
+          }
+        ],
+        "origin_country": "US",
+        "status": "delivered",
+        "tracking_number": "772019283746"
+      }
+    }
+  }
+}

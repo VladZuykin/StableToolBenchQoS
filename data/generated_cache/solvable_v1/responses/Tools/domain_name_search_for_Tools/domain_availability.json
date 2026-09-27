@@ -1,0 +1,104 @@
+{
+  "{\"currency\":\"EUR\",\"domain\":\"techstartup.io\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "available": true,
+        "currency": "EUR",
+        "domain": "techstartup.io",
+        "domain_negatives": [
+          "The .io extension may be less familiar to non-technical audiences"
+        ],
+        "domain_positives": [
+          "Short and memorable",
+          "Strong association with technology and startups",
+          "Popular among tech companies"
+        ],
+        "is_aftermarket": false,
+        "is_premium": false,
+        "purchase_price": "12.99",
+        "register_price": "12.99",
+        "renew_price": "14.99",
+        "sld": "techstartup",
+        "tld": "io",
+        "transfer_price": "12.99",
+        "valid": true,
+        "whois_privacy_offered": true
+      },
+      "parameters": {
+        "currency": "EUR",
+        "domain": "techstartup.io"
+      },
+      "request_id": "req_8f3a2b1c9d",
+      "status": "success"
+    }
+  },
+  "{\"currency\":\"GBP\",\"domain\":\"quantumleap.xyz\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "available": true,
+        "currency": "GBP",
+        "domain": "quantumleap.xyz",
+        "domain_negatives": [
+          "The .xyz extension may be perceived as less trustworthy by some users"
+        ],
+        "domain_positives": [
+          "Modern and futuristic feel",
+          "Often used by innovative projects",
+          "Low registration cost"
+        ],
+        "is_aftermarket": false,
+        "is_premium": true,
+        "purchase_price": "250.00",
+        "register_price": "250.00",
+        "renew_price": "250.00",
+        "sld": "quantumleap",
+        "tld": "xyz",
+        "transfer_price": "250.00",
+        "valid": true,
+        "whois_privacy_offered": true
+      },
+      "parameters": {
+        "currency": "GBP",
+        "domain": "quantumleap.xyz"
+      },
+      "request_id": "req_5d1f8e3a7c",
+      "status": "success"
+    }
+  },
+  "{\"domain\":\"best-coffee-shop.net\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "available": false,
+        "currency": "USD",
+        "domain": "best-coffee-shop.net",
+        "domain_negatives": [
+          "Hyphenated names can be harder to communicate verbally"
+        ],
+        "domain_positives": [
+          "Descriptive and keyword-rich",
+          "Clear indication of business type",
+          "Good for local SEO"
+        ],
+        "is_aftermarket": false,
+        "is_premium": false,
+        "purchase_price": "0.00",
+        "register_price": "0.00",
+        "renew_price": "0.00",
+        "sld": "best-coffee-shop",
+        "tld": "net",
+        "transfer_price": "0.00",
+        "valid": true,
+        "whois_privacy_offered": false
+      },
+      "parameters": {
+        "currency": "USD",
+        "domain": "best-coffee-shop.net"
+      },
+      "request_id": "req_2c7e5a9b4f",
+      "status": "success"
+    }
+  }
+}

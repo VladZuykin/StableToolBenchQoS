@@ -1,0 +1,229 @@
+{
+  "{\"lat\":\"35.6762\",\"long\":\"139.6503\"}": {
+    "error": "",
+    "response": {
+      "plus_code": {
+        "compound_code": "M7G2+24 Tokyo, Japan",
+        "global_code": "8Q7XM7G2+24"
+      },
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Tokyo",
+              "short_name": "Tokyo",
+              "types": [
+                "locality"
+              ]
+            },
+            {
+              "long_name": "Tokyo",
+              "short_name": "Tokyo",
+              "types": [
+                "administrative_area_level_1"
+              ]
+            },
+            {
+              "long_name": "Japan",
+              "short_name": "JP",
+              "types": [
+                "country"
+              ]
+            },
+            {
+              "long_name": "160-0022",
+              "short_name": "160-0022",
+              "types": [
+                "postal_code"
+              ]
+            }
+          ],
+          "formatted_address": "Tokyo 160-0022, Japan",
+          "geometry": {
+            "location": {
+              "lat": 35.6762,
+              "lng": 139.6503
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+              "northeast": {
+                "lat": 35.6776,
+                "lng": 139.6517
+              },
+              "southwest": {
+                "lat": 35.6748,
+                "lng": 139.6489
+              }
+            }
+          },
+          "place_id": "ChIJXSModoWLGGARILWiCfeu2M0",
+          "plus_code": {
+            "compound_code": "M7G2+24 Tokyo, Japan",
+            "global_code": "8Q7XM7G2+24"
+          },
+          "types": [
+            "locality",
+            "political"
+          ]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  "{\"lat\":\"40.7128\",\"long\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "plus_code": {
+        "compound_code": "P2XQ+5R New York, NY, USA",
+        "global_code": "87G7P2XQ+5R"
+      },
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "New York",
+              "short_name": "New York",
+              "types": [
+                "locality"
+              ]
+            },
+            {
+              "long_name": "New York County",
+              "short_name": "New York County",
+              "types": [
+                "administrative_area_level_2"
+              ]
+            },
+            {
+              "long_name": "New York",
+              "short_name": "NY",
+              "types": [
+                "administrative_area_level_1"
+              ]
+            },
+            {
+              "long_name": "United States",
+              "short_name": "US",
+              "types": [
+                "country"
+              ]
+            },
+            {
+              "long_name": "10007",
+              "short_name": "10007",
+              "types": [
+                "postal_code"
+              ]
+            }
+          ],
+          "formatted_address": "New York, NY 10007, USA",
+          "geometry": {
+            "location": {
+              "lat": 40.7128,
+              "lng": -74.006
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+              "northeast": {
+                "lat": 40.7142,
+                "lng": -74.0046
+              },
+              "southwest": {
+                "lat": 40.7114,
+                "lng": -74.0074
+              }
+            }
+          },
+          "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+          "plus_code": {
+            "compound_code": "P2XQ+5R New York, NY, USA",
+            "global_code": "87G7P2XQ+5R"
+          },
+          "types": [
+            "locality",
+            "political"
+          ]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  "{\"lat\":\"51.5074\",\"long\":\"-0.1278\"}": {
+    "error": "",
+    "response": {
+      "plus_code": {
+        "compound_code": "GV2M+3V London, UK",
+        "global_code": "9C3XGV2M+3V"
+      },
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "London",
+              "short_name": "London",
+              "types": [
+                "locality"
+              ]
+            },
+            {
+              "long_name": "Greater London",
+              "short_name": "Greater London",
+              "types": [
+                "administrative_area_level_2"
+              ]
+            },
+            {
+              "long_name": "England",
+              "short_name": "England",
+              "types": [
+                "administrative_area_level_1"
+              ]
+            },
+            {
+              "long_name": "United Kingdom",
+              "short_name": "GB",
+              "types": [
+                "country"
+              ]
+            },
+            {
+              "long_name": "SW1A",
+              "short_name": "SW1A",
+              "types": [
+                "postal_code"
+              ]
+            }
+          ],
+          "formatted_address": "London SW1A, UK",
+          "geometry": {
+            "location": {
+              "lat": 51.5074,
+              "lng": -0.1278
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+              "northeast": {
+                "lat": 51.5088,
+                "lng": -0.1264
+              },
+              "southwest": {
+                "lat": 51.506,
+                "lng": -0.1292
+              }
+            }
+          },
+          "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+          "plus_code": {
+            "compound_code": "GV2M+3V London, UK",
+            "global_code": "9C3XGV2M+3V"
+          },
+          "types": [
+            "locality",
+            "political"
+          ]
+        }
+      ],
+      "status": "OK"
+    }
+  }
+}

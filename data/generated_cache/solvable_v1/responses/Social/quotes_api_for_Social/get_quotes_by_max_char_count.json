@@ -1,0 +1,54 @@
+{
+  "{\"max_char_count\":140}": {
+    "error": "",
+    "response": [
+      {
+        "char_count": 45,
+        "id": 233,
+        "quote": "In the middle of difficulty lies opportunity.",
+        "source": "Albert Einstein"
+      },
+      {
+        "char_count": 58,
+        "id": 5567,
+        "quote": "The journey of a thousand miles begins with a single step.",
+        "source": "Lao Tzu"
+      },
+      {
+        "char_count": 122,
+        "id": 7788,
+        "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+        "source": "Charles Darwin"
+      },
+      {
+        "char_count": 63,
+        "id": 12045,
+        "quote": "Whether you think you can or you think you can't, you're right.",
+        "source": "Henry Ford"
+      }
+    ]
+  },
+  "{\"max_char_count\":50}": {
+    "error": "",
+    "response": [
+      {
+        "char_count": 49,
+        "id": 412,
+        "quote": "The only way to do great work is to love what you do.",
+        "source": "Steve Jobs"
+      },
+      {
+        "char_count": 24,
+        "id": 1873,
+        "quote": "Stay hungry, stay foolish.",
+        "source": "Steve Jobs"
+      },
+      {
+        "char_count": 42,
+        "id": 9021,
+        "quote": "Simplicity is the ultimate sophistication.",
+        "source": "Leonardo da Vinci"
+      }
+    ]
+  }
+}

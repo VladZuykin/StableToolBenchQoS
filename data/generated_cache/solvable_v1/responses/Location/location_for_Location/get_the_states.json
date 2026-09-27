@@ -1,0 +1,50 @@
+{
+  "{\"abbreviation\":\"ON\",\"name\":\"Ontario\",\"page\":\"1\"}": {
+    "error": "",
+    "response": {
+      "abbreviation": "ON",
+      "country": {
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "countryCode": "1",
+        "id": "country_ca",
+        "name": "Canada",
+        "number": 1
+      },
+      "id": "state_on",
+      "name": "Ontario"
+    }
+  },
+  "{\"abbreviation\":\"TX\",\"page\":\"2\"}": {
+    "error": "",
+    "response": {
+      "abbreviation": "TX",
+      "country": {
+        "alpha2": "US",
+        "alpha3": "USA",
+        "countryCode": "1",
+        "id": "country_us",
+        "name": "United States",
+        "number": 1
+      },
+      "id": "state_tx",
+      "name": "Texas"
+    }
+  },
+  "{\"name\":\"California\"}": {
+    "error": "",
+    "response": {
+      "abbreviation": "CA",
+      "country": {
+        "alpha2": "US",
+        "alpha3": "USA",
+        "countryCode": "1",
+        "id": "country_us",
+        "name": "United States",
+        "number": 1
+      },
+      "id": "state_ca",
+      "name": "California"
+    }
+  }
+}

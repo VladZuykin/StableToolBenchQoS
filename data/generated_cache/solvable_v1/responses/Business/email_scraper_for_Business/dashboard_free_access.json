@@ -1,0 +1,20 @@
+{
+  "{\"get_dash_url\":\"False\"}": {
+    "error": "",
+    "response": {
+      "message": "Dashboard URL not requested. Set get_dash_url to True to receive your access link."
+    }
+  },
+  "{\"get_dash_url\":\"True\"}": {
+    "error": "",
+    "response": {
+      "message": "Dashboard access granted. Visit https://dashboard.emailscraper.io to view your leads."
+    }
+  },
+  "{\"get_dash_url\":\"true\"}": {
+    "error": "",
+    "response": {
+      "message": "Your free dashboard is ready. Open https://dashboard.emailscraper.io to explore scraped emails."
+    }
+  }
+}

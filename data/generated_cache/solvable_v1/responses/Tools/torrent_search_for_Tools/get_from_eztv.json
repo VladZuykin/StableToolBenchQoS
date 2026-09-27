@@ -1,0 +1,98 @@
+{
+  "{\"searchtopic\":\"breaking bad\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T",
+          "Quality": "720p",
+          "Size": "1.2 GB",
+          "Torrent": "https://eztv.re/ep/123456/breaking-bad-s01e01-720p/",
+          "Type": "HDTV",
+          "_list_length": 2
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:9Z8Y7X6W5V4U3T2S1R0Q9P8O7N6M5L4K3J2H1G0F",
+          "Quality": "1080p",
+          "Size": "2.4 GB",
+          "Torrent": "https://eztv.re/ep/123457/breaking-bad-s01e02-1080p/",
+          "Type": "WEB",
+          "_list_length": 2
+        }
+      ],
+      "Genre": "Crime, Drama, Thriller",
+      "Language": "English",
+      "Likes": "1.2M",
+      "Name": "Breaking Bad",
+      "Poster": "https://eztv.re/images/breaking-bad.jpg",
+      "Rating": "9.5",
+      "ReleasedDate": "2008-01-20",
+      "Runtime": "49 min",
+      "Url": "https://eztv.re/breaking-bad"
+    }
+  },
+  "{\"searchtopic\":\"stranger things\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:7H8J9K0L1M2N3B4V5C6X7Z8A9S0D1F2G3H4J5K6L",
+          "Quality": "720p",
+          "Size": "1.5 GB",
+          "Torrent": "https://eztv.re/ep/345678/stranger-things-s01e01-720p/",
+          "Type": "WEB",
+          "_list_length": 2
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:6L5K4J3H2G1F0D9S8A7Z6X5C4V3B2N1M0L9K8J7H",
+          "Quality": "1080p",
+          "Size": "3.0 GB",
+          "Torrent": "https://eztv.re/ep/345679/stranger-things-s01e02-1080p/",
+          "Type": "WEB",
+          "_list_length": 2
+        }
+      ],
+      "Genre": "Drama, Fantasy, Horror",
+      "Language": "English",
+      "Likes": "1.5M",
+      "Name": "Stranger Things",
+      "Poster": "https://eztv.re/images/stranger-things.jpg",
+      "Rating": "8.7",
+      "ReleasedDate": "2016-07-15",
+      "Runtime": "51 min",
+      "Url": "https://eztv.re/stranger-things"
+    }
+  },
+  "{\"searchtopic\":\"the office\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:5T6Y7U8I9O0P1A2S3D4F5G6H7J8K9L0M1N2B3V4C",
+          "Quality": "720p",
+          "Size": "900 MB",
+          "Torrent": "https://eztv.re/ep/234567/the-office-s02e01-720p/",
+          "Type": "HDTV",
+          "_list_length": 2
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:4C3V2B1N0M9L8K7J6H5G4F3D2S1A0P9O8I7U6Y5T",
+          "Quality": "1080p",
+          "Size": "1.8 GB",
+          "Torrent": "https://eztv.re/ep/234568/the-office-s02e02-1080p/",
+          "Type": "WEB",
+          "_list_length": 2
+        }
+      ],
+      "Genre": "Comedy",
+      "Language": "English",
+      "Likes": "800K",
+      "Name": "The Office",
+      "Poster": "https://eztv.re/images/the-office.jpg",
+      "Rating": "8.9",
+      "ReleasedDate": "2005-03-24",
+      "Runtime": "22 min",
+      "Url": "https://eztv.re/the-office"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "f9e8d7c6-b5a4-9382-7160-5f4e3d2c1b0a"
+    }
+  },
+  "{\"storagename\":\"ProductionStorage\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "12345678-90ab-cdef-1234-567890abcdef"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    }
+  }
+}

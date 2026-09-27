@@ -1,0 +1,172 @@
+{
+  "{\"seasonid\":16829,\"tournamentid\":11184}": {
+    "error": "",
+    "response": {
+      "tournamentTeamEvents": {
+        "65888": {
+          "187575": [
+            {
+              "awayScore": {
+                "current": 287,
+                "display": 287,
+                "innings": {
+                  "inning1": {
+                    "inningDeclare": 0,
+                    "overs": 50,
+                    "runRate": 5.74,
+                    "score": 287,
+                    "wickets": 8
+                  }
+                }
+              },
+              "awayTeam": {
+                "disabled": false,
+                "gender": "M",
+                "id": 187575,
+                "name": "Mumbai Indians",
+                "nameCode": "MI",
+                "national": false,
+                "shortName": "MI",
+                "slug": "mumbai-indians",
+                "sport": {
+                  "id": 1,
+                  "name": "Cricket",
+                  "slug": "cricket"
+                },
+                "teamColors": {
+                  "primary": "#004BA0",
+                  "secondary": "#D1AB3E",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 48213
+              },
+              "customId": "mi-2023",
+              "finalResultOnly": false,
+              "homeScore": {
+                "current": 291,
+                "display": 291,
+                "innings": {
+                  "inning1": {
+                    "inningDeclare": 0,
+                    "overs": 49.2,
+                    "runRate": 5.9,
+                    "score": 291,
+                    "wickets": 6
+                  }
+                }
+              },
+              "homeTeam": {
+                "disabled": false,
+                "gender": "M",
+                "id": 187576,
+                "name": "Chennai Super Kings",
+                "nameCode": "CSK",
+                "national": false,
+                "shortName": "CSK",
+                "slug": "chennai-super-kings",
+                "sport": {
+                  "id": 1,
+                  "name": "Cricket",
+                  "slug": "cricket"
+                },
+                "teamColors": {
+                  "primary": "#FFFF00",
+                  "secondary": "#0081E9",
+                  "text": "#000000"
+                },
+                "type": 1,
+                "userCount": 51002
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"seasonid\":16830,\"tournamentid\":11185}": {
+    "error": "",
+    "response": {
+      "tournamentTeamEvents": {
+        "65901": {
+          "188102": [
+            {
+              "awayScore": {
+                "current": 154,
+                "display": 154,
+                "innings": {
+                  "inning1": {
+                    "inningDeclare": 0,
+                    "overs": 20,
+                    "runRate": 7.7,
+                    "score": 154,
+                    "wickets": 9
+                  }
+                }
+              },
+              "awayTeam": {
+                "disabled": false,
+                "gender": "M",
+                "id": 188102,
+                "name": "Sydney Sixers",
+                "nameCode": "SIX",
+                "national": false,
+                "shortName": "SIX",
+                "slug": "sydney-sixers",
+                "sport": {
+                  "id": 1,
+                  "name": "Cricket",
+                  "slug": "cricket"
+                },
+                "teamColors": {
+                  "primary": "#E4007C",
+                  "secondary": "#000000",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 22140
+              },
+              "customId": "six-bbl",
+              "finalResultOnly": true,
+              "homeScore": {
+                "current": 158,
+                "display": 158,
+                "innings": {
+                  "inning1": {
+                    "inningDeclare": 0,
+                    "overs": 19.4,
+                    "runRate": 8.03,
+                    "score": 158,
+                    "wickets": 5
+                  }
+                }
+              },
+              "homeTeam": {
+                "disabled": false,
+                "gender": "M",
+                "id": 188103,
+                "name": "Perth Scorchers",
+                "nameCode": "SCO",
+                "national": false,
+                "shortName": "SCO",
+                "slug": "perth-scorchers",
+                "sport": {
+                  "id": 1,
+                  "name": "Cricket",
+                  "slug": "cricket"
+                },
+                "teamColors": {
+                  "primary": "#F58220",
+                  "secondary": "#000000",
+                  "text": "#FFFFFF"
+                },
+                "type": 1,
+                "userCount": 19875
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

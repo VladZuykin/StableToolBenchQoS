@@ -1,0 +1,30 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "createdAt": "2024-06-11T09:45:00Z",
+          "description": "Bitcoin climbed above $70,000 on Tuesday as spot ETF inflows hit a weekly record, signaling renewed institutional demand.",
+          "thumbnail": "https://images.cointelegraph.com/images/bitcoin-70k.jpg",
+          "title": "Bitcoin Surges Past $70K as Institutional Inflows Accelerate",
+          "url": "https://cointelegraph.com/news/bitcoin-surges-past-70k-institutional-inflows"
+        },
+        {
+          "createdAt": "2024-06-11T08:20:00Z",
+          "description": "Combined daily transactions across major Ethereum layer-2 networks reached a new peak, driven by lower fees after the Dencun upgrade.",
+          "thumbnail": "https://images.cointelegraph.com/images/eth-l2.jpg",
+          "title": "Ethereum Layer-2 Activity Hits All-Time High",
+          "url": "https://cointelegraph.com/news/ethereum-layer-2-activity-all-time-high"
+        },
+        {
+          "createdAt": "2024-06-11T07:05:00Z",
+          "description": "The regulator finalized rules requiring brokerages to hold client crypto assets with qualified custodians, drawing mixed industry reactions.",
+          "thumbnail": "https://images.cointelegraph.com/images/sec-custody.jpg",
+          "title": "SEC Approves New Crypto Custody Rules for Brokerages",
+          "url": "https://cointelegraph.com/news/sec-approves-crypto-custody-rules"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "{\"is_id\":712345678,\"server\":\"america\"}": {
+    "error": "",
+    "response": {
+      "message": "Traveler"
+    }
+  },
+  "{\"is_id\":901234567,\"server\":\"europa\"}": {
+    "error": "",
+    "response": {
+      "message": "Lumine"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "{\"username\":\"alice_smith\"}": {
+    "error": "",
+    "response": {
+      "email": "alice.smith@example.com",
+      "firstName": "Alice",
+      "id": 42,
+      "lastName": "Smith",
+      "password": "s3cr3tP@ss",
+      "phone": "555-9876",
+      "userStatus": 0,
+      "username": "alice_smith"
+    }
+  },
+  "{\"username\":\"bob_jones\"}": {
+    "error": "",
+    "response": {
+      "email": "bob.jones@example.com",
+      "firstName": "Bob",
+      "id": 108,
+      "lastName": "Jones",
+      "password": "bobpass2024",
+      "phone": "555-4321",
+      "userStatus": 2,
+      "username": "bob_jones"
+    }
+  },
+  "{\"username\":\"user1\"}": {
+    "error": "",
+    "response": {
+      "email": "john.doe@example.com",
+      "firstName": "John",
+      "id": 1,
+      "lastName": "Doe",
+      "password": "password123",
+      "phone": "555-1234",
+      "userStatus": 1,
+      "username": "user1"
+    }
+  }
+}

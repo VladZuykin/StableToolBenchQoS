@@ -1,0 +1,70 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "date": "2025-06-11",
+      "predictions": [
+        {
+          "analysis": "Both sides average over 3.1 combined goals in recent meetings; strong attacking form and defensive gaps favor a high-scoring affair.",
+          "away_team": "Chelsea",
+          "confidence": "VIP Sure",
+          "country": "England",
+          "home_team": "Arsenal",
+          "kickoff": "2025-06-11T19:45:00Z",
+          "league": "Premier League",
+          "match_id": "168P-OV25-001",
+          "odds": 1.72,
+          "prediction": "Over 2.5 Goals"
+        },
+        {
+          "analysis": "Villarreal's away games have produced 2.9 goals on average, while Betis have scored in each of their last 9 home fixtures.",
+          "away_team": "Villarreal",
+          "confidence": "VIP Sure",
+          "country": "Spain",
+          "home_team": "Real Betis",
+          "kickoff": "2025-06-11T20:00:00Z",
+          "league": "La Liga",
+          "match_id": "168P-OV25-002",
+          "odds": 1.65,
+          "prediction": "Over 2.5 Goals"
+        },
+        {
+          "analysis": "Two of the highest-scoring attacks in the league meet; head-to-heads have averaged 3.4 goals over the last five encounters.",
+          "away_team": "RB Leipzig",
+          "confidence": "VIP Sure",
+          "country": "Germany",
+          "home_team": "Bayer Leverkusen",
+          "kickoff": "2025-06-11T18:30:00Z",
+          "league": "Bundesliga",
+          "match_id": "168P-OV25-003",
+          "odds": 1.58,
+          "prediction": "Over 2.5 Goals"
+        },
+        {
+          "analysis": "Atalanta's high-press system and Napoli's counter-attacking threat create end-to-end chances; both teams scored in 8 of their last 10.",
+          "away_team": "Napoli",
+          "confidence": "VIP Sure",
+          "country": "Italy",
+          "home_team": "Atalanta",
+          "kickoff": "2025-06-11T19:00:00Z",
+          "league": "Serie A",
+          "match_id": "168P-OV25-004",
+          "odds": 1.8,
+          "prediction": "Over 2.5 Goals"
+        },
+        {
+          "analysis": "De Klassieker rivals consistently deliver goals; the last six meetings produced an average of 3.8 goals per game.",
+          "away_team": "PSV",
+          "confidence": "VIP Sure",
+          "country": "Netherlands",
+          "home_team": "Feyenoord",
+          "kickoff": "2025-06-11T18:00:00Z",
+          "league": "Eredivisie",
+          "match_id": "168P-OV25-005",
+          "odds": 1.55,
+          "prediction": "Over 2.5 Goals"
+        }
+      ]
+    }
+  }
+}

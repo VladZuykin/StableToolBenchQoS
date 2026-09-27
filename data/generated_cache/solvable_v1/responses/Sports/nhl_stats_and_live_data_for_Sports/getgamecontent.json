@@ -1,0 +1,119 @@
+{
+  "{\"is_id\":2017020851}": {
+    "error": "",
+    "response": {
+      "awayTeam": {
+        "abbreviation": "MTL",
+        "id": 8,
+        "name": "Montreal Canadiens"
+      },
+      "gameDate": "2017-10-04",
+      "gameId": 2017020851,
+      "highlights": [
+        {
+          "period": 1,
+          "player": "Auston Matthews",
+          "team": "TOR",
+          "time": "12:34",
+          "type": "goal"
+        },
+        {
+          "period": 3,
+          "player": "Max Pacioretty",
+          "team": "MTL",
+          "time": "18:22",
+          "type": "goal"
+        }
+      ],
+      "homeTeam": {
+        "abbreviation": "TOR",
+        "id": 10,
+        "name": "Toronto Maple Leafs"
+      },
+      "score": {
+        "away": 2,
+        "home": 3
+      },
+      "status": "Final",
+      "venue": "Scotiabank Arena"
+    }
+  },
+  "{\"is_id\":2017030411}": {
+    "error": "",
+    "response": {
+      "awayTeam": {
+        "abbreviation": "PHI",
+        "id": 1,
+        "name": "Philadelphia Flyers"
+      },
+      "gameDate": "2018-04-11",
+      "gameId": 2017030411,
+      "highlights": [
+        {
+          "period": 1,
+          "player": "Sidney Crosby",
+          "team": "PIT",
+          "time": "08:20",
+          "type": "goal"
+        },
+        {
+          "period": 3,
+          "player": "Claude Giroux",
+          "team": "PHI",
+          "time": "14:55",
+          "type": "goal"
+        }
+      ],
+      "homeTeam": {
+        "abbreviation": "PIT",
+        "id": 5,
+        "name": "Pittsburgh Penguins"
+      },
+      "score": {
+        "away": 2,
+        "home": 5
+      },
+      "status": "Final",
+      "venue": "PPG Paints Arena"
+    }
+  },
+  "{\"is_id\":2018020001}": {
+    "error": "",
+    "response": {
+      "awayTeam": {
+        "abbreviation": "FLA",
+        "id": 13,
+        "name": "Florida Panthers"
+      },
+      "gameDate": "2018-10-03",
+      "gameId": 2018020001,
+      "highlights": [
+        {
+          "period": 2,
+          "player": "Brad Marchand",
+          "team": "BOS",
+          "time": "05:12",
+          "type": "goal"
+        },
+        {
+          "period": 3,
+          "player": "Tuukka Rask",
+          "team": "BOS",
+          "time": "10:45",
+          "type": "save"
+        }
+      ],
+      "homeTeam": {
+        "abbreviation": "BOS",
+        "id": 6,
+        "name": "Boston Bruins"
+      },
+      "score": {
+        "away": 1,
+        "home": 4
+      },
+      "status": "Final",
+      "venue": "TD Garden"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "marks": [
+        {
+          "event": "100m",
+          "marks": [
+            {
+              "mark": 9.58,
+              "points": 1000
+            },
+            {
+              "mark": 10.12,
+              "points": 900
+            },
+            {
+              "mark": 10.72,
+              "points": 800
+            },
+            {
+              "mark": 11.38,
+              "points": 700
+            },
+            {
+              "mark": 12.1,
+              "points": 600
+            }
+          ],
+          "unit": "seconds"
+        },
+        {
+          "event": "Long Jump",
+          "marks": [
+            {
+              "mark": 8.95,
+              "points": 1000
+            },
+            {
+              "mark": 8.2,
+              "points": 900
+            },
+            {
+              "mark": 7.45,
+              "points": 800
+            },
+            {
+              "mark": 6.7,
+              "points": 700
+            },
+            {
+              "mark": 5.95,
+              "points": 600
+            }
+          ],
+          "unit": "meters"
+        },
+        {
+          "event": "Shot Put",
+          "marks": [
+            {
+              "mark": 23.37,
+              "points": 1000
+            },
+            {
+              "mark": 21.5,
+              "points": 900
+            },
+            {
+              "mark": 19.6,
+              "points": 800
+            },
+            {
+              "mark": 17.7,
+              "points": 700
+            },
+            {
+              "mark": 15.8,
+              "points": 600
+            }
+          ],
+          "unit": "meters"
+        }
+      ]
+    }
+  }
+}

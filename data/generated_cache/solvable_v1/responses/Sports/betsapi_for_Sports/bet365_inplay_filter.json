@@ -1,0 +1,120 @@
+{
+  "{\"league_id\":1980,\"skip_esports\":true,\"sport_id\":1}": {
+    "error": "",
+    "response": {
+      "pager": {
+        "page": 1,
+        "per_page": 50,
+        "total": 2
+      },
+      "results": [
+        {
+          "away": {
+            "id": "a_202",
+            "name": "Chelsea"
+          },
+          "ev_id": "987654321",
+          "home": {
+            "id": "h_101",
+            "name": "Arsenal"
+          },
+          "id": "123456789",
+          "league": {
+            "id": "1980",
+            "name": "Premier League"
+          },
+          "our_event_id": "oev_55231",
+          "r_id": "r_88123",
+          "sport_id": "1",
+          "ss": "0-0",
+          "time": "1718452800",
+          "time_status": "1",
+          "updated_at": "1718453100"
+        },
+        {
+          "away": {
+            "id": "a_204",
+            "name": "Manchester City"
+          },
+          "ev_id": "987654322",
+          "home": {
+            "id": "h_103",
+            "name": "Liverpool"
+          },
+          "id": "123456790",
+          "league": {
+            "id": "1980",
+            "name": "Premier League"
+          },
+          "our_event_id": "oev_55232",
+          "r_id": "r_88124",
+          "sport_id": "1",
+          "ss": "",
+          "time": "1718456400",
+          "time_status": "0",
+          "updated_at": "1718453105"
+        }
+      ],
+      "success": 1
+    }
+  },
+  "{\"skip_esports\":false,\"sport_id\":2}": {
+    "error": "",
+    "response": {
+      "pager": {
+        "page": 1,
+        "per_page": 50,
+        "total": 2
+      },
+      "results": [
+        {
+          "away": {
+            "id": "a_502",
+            "name": "Celtics"
+          },
+          "ev_id": "887654321",
+          "home": {
+            "id": "h_501",
+            "name": "Lakers"
+          },
+          "id": "223456781",
+          "league": {
+            "id": "3001",
+            "name": "NBA"
+          },
+          "our_event_id": "oev_66101",
+          "r_id": "r_99123",
+          "sport_id": "2",
+          "ss": "88-84",
+          "time": "1718458200",
+          "time_status": "1",
+          "updated_at": "1718453400"
+        },
+        {
+          "away": {
+            "id": "a_504",
+            "name": "Bulls"
+          },
+          "ev_id": "887654322",
+          "home": {
+            "id": "h_503",
+            "name": "Warriors"
+          },
+          "id": "223456782",
+          "league": {
+            "id": "3001",
+            "name": "NBA"
+          },
+          "our_event_id": "oev_66102",
+          "r_id": "r_99124",
+          "sport_id": "2",
+          "ss": "",
+          "time": "1718461800",
+          "time_status": "0",
+          "updated_at": "1718453405"
+        }
+      ],
+      "success": 1
+    }
+  }
+}

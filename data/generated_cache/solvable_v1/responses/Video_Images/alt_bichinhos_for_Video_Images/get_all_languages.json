@@ -1,0 +1,13 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "english": "Dog",
+      "file": "dog_en.png",
+      "german": "Hund",
+      "id": "lang_001",
+      "portuguese": "Cachorro",
+      "spanish": "Perro"
+    }
+  }
+}

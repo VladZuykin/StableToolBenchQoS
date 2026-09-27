@@ -1,0 +1,65 @@
+{
+  "{\"channel_name\":\"gmhikaru\"}": {
+    "error": "",
+    "response": {
+      "emotes": [
+        {
+          "id": "emote_201",
+          "image_url": "https://static.kick.com/emotes/hikaruGG.png",
+          "name": "hikaruGG",
+          "subscribers_only": false
+        },
+        {
+          "id": "emote_202",
+          "image_url": "https://static.kick.com/emotes/hikaruThink.png",
+          "name": "hikaruThink",
+          "subscribers_only": true
+        }
+      ]
+    }
+  },
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "emotes": [
+        {
+          "id": "emote_101",
+          "image_url": "https://static.kick.com/emotes/trainHYPE.png",
+          "name": "trainHYPE",
+          "subscribers_only": false
+        },
+        {
+          "id": "emote_102",
+          "image_url": "https://static.kick.com/emotes/trainRIP.png",
+          "name": "trainRIP",
+          "subscribers_only": true
+        },
+        {
+          "id": "emote_103",
+          "image_url": "https://static.kick.com/emotes/trainW.png",
+          "name": "trainW",
+          "subscribers_only": false
+        }
+      ]
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "emotes": [
+        {
+          "id": "emote_001",
+          "image_url": "https://static.kick.com/emotes/xqcL.png",
+          "name": "xqcL",
+          "subscribers_only": false
+        },
+        {
+          "id": "emote_002",
+          "image_url": "https://static.kick.com/emotes/xqcGasm.png",
+          "name": "xqcGasm",
+          "subscribers_only": true
+        }
+      ]
+    }
+  }
+}

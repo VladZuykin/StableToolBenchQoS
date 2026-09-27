@@ -1,0 +1,46 @@
+{
+  "{\"is_id\":\"movie-278\",\"regions\":\"US\"}": {
+    "error": "",
+    "response": [
+      {
+        "android_url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+        "episodes": null,
+        "format": "HD",
+        "ios_url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
+        "name": "Amazon Prime Video",
+        "price": 3.99,
+        "region": "US",
+        "seasons": null,
+        "source_id": 26,
+        "type": "buy",
+        "web_url": "https://www.amazon.com/gp/video/detail/B000I9WW4S"
+      },
+      {
+        "android_url": "https://play.google.com/store/apps/details?id=com.google.android.videos",
+        "episodes": null,
+        "format": "HD",
+        "ios_url": "https://apps.apple.com/us/app/google-tv/id582007913",
+        "name": "Google Play Movies",
+        "price": 3.99,
+        "region": "US",
+        "seasons": null,
+        "source_id": 68,
+        "type": "buy",
+        "web_url": "https://play.google.com/store/movies/details?id=The_Shawshank_Redemption"
+      },
+      {
+        "android_url": "https://play.google.com/store/apps/details?id=com.hbo.hbonow",
+        "episodes": null,
+        "format": "HD",
+        "ios_url": "https://apps.apple.com/us/app/hbo-max/id1179759666",
+        "name": "HBO Max",
+        "price": 0.0,
+        "region": "US",
+        "seasons": null,
+        "source_id": 1899,
+        "type": "sub",
+        "web_url": "https://www.hbomax.com/feature/the-shawshank-redemption"
+      }
+    ]
+  }
+}

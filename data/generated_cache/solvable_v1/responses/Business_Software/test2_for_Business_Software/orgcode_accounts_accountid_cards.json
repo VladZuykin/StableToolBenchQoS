@@ -1,0 +1,46 @@
+{
+  "{\"accountid\":\"acct_101\",\"locale\":\"es_ES\",\"msid\":\"sess_def456\",\"muid\":\"user_789\",\"orgcode\":\"ORG002\",\"x_xsrf_token\":\"demo_x_xsrf_token_1\"}": {
+    "error": "",
+    "response": {
+      "cards": [
+        {
+          "cardId": "card_003",
+          "cardNumber": "**** **** **** 9012",
+          "cardType": "Visa Credit",
+          "expiryDate": "03/26",
+          "status": "Active"
+        }
+      ],
+      "message": "Cards retrieved successfully"
+    }
+  },
+  "{\"accountid\":\"acct_345\",\"locale\":\"fr_FR\",\"msid\":\"sess_ghi789\",\"muid\":\"user_012\",\"orgcode\":\"ORG003\",\"x_xsrf_token\":\"demo_x_xsrf_token_2\"}": {
+    "error": "",
+    "response": {
+      "cards": [],
+      "message": "Cards retrieved successfully"
+    }
+  },
+  "{\"accountid\":\"acct_789\",\"locale\":\"en_US\",\"msid\":\"sess_abc123\",\"muid\":\"user_456\",\"orgcode\":\"ORG001\",\"x_xsrf_token\":\"demo_x_xsrf_token_3\"}": {
+    "error": "",
+    "response": {
+      "cards": [
+        {
+          "cardId": "card_001",
+          "cardNumber": "**** **** **** 1234",
+          "cardType": "Visa Debit",
+          "expiryDate": "12/25",
+          "status": "Active"
+        },
+        {
+          "cardId": "card_002",
+          "cardNumber": "**** **** **** 5678",
+          "cardType": "Mastercard Credit",
+          "expiryDate": "06/24",
+          "status": "Active"
+        }
+      ],
+      "message": "Cards retrieved successfully"
+    }
+  }
+}

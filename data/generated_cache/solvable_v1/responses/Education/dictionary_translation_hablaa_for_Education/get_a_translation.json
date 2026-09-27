@@ -1,0 +1,29 @@
+{
+  "{\"lang_code_src_lang_code_dst\":\"de-it\",\"text_to_translate\":\"danke\"}": {
+    "error": "",
+    "response": {
+      "destination_language": "it",
+      "source_language": "de",
+      "translation": "grazie",
+      "word": "danke"
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"en-es\",\"text_to_translate\":\"hello\"}": {
+    "error": "",
+    "response": {
+      "destination_language": "es",
+      "source_language": "en",
+      "translation": "hola",
+      "word": "hello"
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"es-fr\",\"text_to_translate\":\"gato\"}": {
+    "error": "",
+    "response": {
+      "destination_language": "fr",
+      "source_language": "es",
+      "translation": "chat",
+      "word": "gato"
+    }
+  }
+}

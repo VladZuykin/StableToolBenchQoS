@@ -1,0 +1,14 @@
+{
+  "{\"audio_lang\":\"fr\",\"from_publish_date\":\"2015-06-01\",\"from_record_date\":\"2015-01-01\",\"is_id\":1972,\"to_publish_date\":\"2018-12-31\",\"to_record_date\":\"2018-12-31\"}": {
+    "error": "",
+    "response": {
+      "message": "Talk found: 1"
+    }
+  },
+  "{\"max_duration\":1200,\"min_duration\":600,\"speaker\":\"brene_brown\",\"subtitle_lang\":\"es\",\"topic\":\"psychology\"}": {
+    "error": "",
+    "response": {
+      "message": "Talks found: 3"
+    }
+  }
+}

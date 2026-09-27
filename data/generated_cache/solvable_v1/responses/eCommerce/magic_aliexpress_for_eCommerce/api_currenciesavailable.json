@@ -1,0 +1,39 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "Code": "USD",
+        "Name": "United States Dollar"
+      },
+      {
+        "Code": "EUR",
+        "Name": "Euros"
+      },
+      {
+        "Code": "INR",
+        "Name": "Indian Rupee"
+      },
+      {
+        "Code": "GBP",
+        "Name": "British Pound"
+      },
+      {
+        "Code": "JPY",
+        "Name": "Japanese Yen"
+      },
+      {
+        "Code": "AUD",
+        "Name": "Australian Dollar"
+      },
+      {
+        "Code": "CAD",
+        "Name": "Canadian Dollar"
+      },
+      {
+        "Code": "BRL",
+        "Name": "Brazilian Real"
+      }
+    ]
+  }
+}

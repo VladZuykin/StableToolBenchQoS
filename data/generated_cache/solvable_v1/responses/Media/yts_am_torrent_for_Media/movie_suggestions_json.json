@@ -1,0 +1,162 @@
+{
+  "{\"movie_id\":12345}": {
+    "error": "",
+    "response": {
+      "data": {
+        "movie_count": 4,
+        "movies": [
+          {
+            "genres": [
+              "Action",
+              "Sci-Fi"
+            ],
+            "id": 12345,
+            "rating": 8.7,
+            "title": "The Matrix",
+            "year": 1999
+          },
+          {
+            "genres": [
+              "Action",
+              "Sci-Fi",
+              "Thriller"
+            ],
+            "id": 67890,
+            "rating": 8.8,
+            "title": "Inception",
+            "year": 2010
+          },
+          {
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Sci-Fi"
+            ],
+            "id": 24680,
+            "rating": 8.6,
+            "title": "Interstellar",
+            "year": 2014
+          },
+          {
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "id": 13579,
+            "rating": 9.0,
+            "title": "The Dark Knight",
+            "year": 2008
+          }
+        ]
+      },
+      "status": "ok"
+    }
+  },
+  "{\"movie_id\":54321}": {
+    "error": "",
+    "response": {
+      "data": {
+        "movie_count": 4,
+        "movies": [
+          {
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "id": 54321,
+            "rating": 8.9,
+            "title": "Pulp Fiction",
+            "year": 1994
+          },
+          {
+            "genres": [
+              "Drama"
+            ],
+            "id": 98765,
+            "rating": 8.8,
+            "title": "Fight Club",
+            "year": 1999
+          },
+          {
+            "genres": [
+              "Biography",
+              "Crime",
+              "Drama"
+            ],
+            "id": 11223,
+            "rating": 8.7,
+            "title": "Goodfellas",
+            "year": 1990
+          },
+          {
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "id": 44556,
+            "rating": 9.2,
+            "title": "The Godfather",
+            "year": 1972
+          }
+        ]
+      },
+      "status": "ok"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "data": {
+        "movie_count": 4,
+        "movies": [
+          {
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Family"
+            ],
+            "id": 77777,
+            "rating": 8.6,
+            "title": "Spirited Away",
+            "year": 2001
+          },
+          {
+            "genres": [
+              "Animation",
+              "Drama",
+              "Fantasy"
+            ],
+            "id": 88888,
+            "rating": 8.4,
+            "title": "Your Name",
+            "year": 2016
+          },
+          {
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 99999,
+            "rating": 8.3,
+            "title": "Princess Mononoke",
+            "year": 1997
+          },
+          {
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "id": 10101,
+            "rating": 8.1,
+            "title": "My Neighbor Totoro",
+            "year": 1988
+          }
+        ]
+      },
+      "status": "ok"
+    }
+  }
+}

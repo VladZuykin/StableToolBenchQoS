@@ -1,0 +1,11 @@
+{
+  "{\"endpointid\":\"ep_9f8a7b6c5d4e\",\"userid\":\"usr_1029384756\"}": {
+    "error": "",
+    "response": {
+      "endpointId": "ep_9f8a7b6c5d4e",
+      "message": "Endpoint removed successfully",
+      "success": true,
+      "userId": "usr_1029384756"
+    }
+  }
+}

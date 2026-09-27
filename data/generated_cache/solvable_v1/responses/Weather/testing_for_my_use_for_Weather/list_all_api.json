@@ -1,0 +1,82 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "1forge.com": {
+        "added": "2017-06-01T00:00:00.000Z",
+        "preferred": "0.0.1",
+        "versions": {
+          "0.0.1": {
+            "added": "2017-06-01T00:00:00.000Z",
+            "info": {
+              "contact": {
+                "email": "support@1forge.com",
+                "name": "1Forge Support",
+                "url": "https://1forge.com"
+              },
+              "description": "Forex and crypto quotes API",
+              "title": "1Forge API",
+              "version": "0.0.1",
+              "x-apisguru-categories": [
+                "financial"
+              ],
+              "x-logo": {
+                "backgroundColor": "#1a1a1a",
+                "url": "https://api.apis.guru/v2/cache/logo/https_1forge.com_logo.png"
+              },
+              "x-origin": [
+                {
+                  "_list_length": 1,
+                  "format": "swagger",
+                  "url": "https://1forge.com/swagger.json",
+                  "version": "2.0"
+                }
+              ],
+              "x-providerName": "1forge.com"
+            },
+            "link": "https://api.apis.guru/v2/specs/1forge.com/0.0.1",
+            "openapiVer": "3.0.0",
+            "swaggerUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json",
+            "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.yaml",
+            "updated": "2017-06-01T00:00:00.000Z"
+          }
+        }
+      },
+      "1password.com:events": {
+        "added": "2018-02-13T00:00:00.000Z",
+        "preferred": "1.0.0",
+        "versions": {
+          "1.0.0": {
+            "added": "2018-02-13T00:00:00.000Z",
+            "info": {
+              "description": "1Password Events API",
+              "title": "1Password Events",
+              "version": "1.0.0",
+              "x-apisguru-categories": [
+                "security"
+              ],
+              "x-logo": {
+                "url": "https://api.apis.guru/v2/cache/logo/https_1password.com_logo.png"
+              },
+              "x-origin": [
+                {
+                  "_list_length": 1,
+                  "format": "swagger",
+                  "url": "https://events.1password.com/api/v1/openapi.json",
+                  "version": "2.0"
+                }
+              ],
+              "x-providerName": "1password.com",
+              "x-serviceName": "events"
+            },
+            "link": "https://api.apis.guru/v2/specs/1password.com/events/1.0.0",
+            "openapiVer": "3.0.0",
+            "swaggerUrl": "https://api.apis.guru/v2/specs/1password.com/events/1.0.0/swagger.json",
+            "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1password.com/events/1.0.0/swagger.yaml",
+            "updated": "2018-02-13T00:00:00.000Z"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "{\"newspaperid\":\"bbc\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published": "2024-03-04T22:05:00Z",
+          "summary": "Two goals in five minutes complete a dramatic turnaround at Anfield.",
+          "title": "Liverpool comeback stuns Everton in Merseyside derby",
+          "url": "https://www.bbc.com/sport/football/liverpool-everton-derby"
+        },
+        {
+          "published": "2024-03-04T20:30:00Z",
+          "summary": "A stubborn Getafe side frustrates Barcelona at the Camp Nou.",
+          "title": "Barcelona held to draw as La Liga title race tightens",
+          "url": "https://www.bbc.com/sport/football/barcelona-getafe-draw"
+        },
+        {
+          "published": "2024-03-03T15:00:00Z",
+          "summary": "The manager names three uncapped players in a 26-man squad for the March internationals.",
+          "title": "England squad announced for upcoming friendlies",
+          "url": "https://www.bbc.com/sport/football/england-squad-announced"
+        }
+      ],
+      "source": "bbc"
+    }
+  },
+  "{\"newspaperid\":\"marca\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published": "2024-03-04T23:15:00Z",
+          "summary": "The forward scores twice in a comfortable win ahead of the Champions League clash.",
+          "title": "Mbappé shines as PSG cruise in Ligue 1",
+          "url": "https://www.marca.com/en/football/psg-ligue-1-win"
+        },
+        {
+          "published": "2024-03-04T17:40:00Z",
+          "summary": "Reports in Spain suggest Diego Simeone has identified a new number nine.",
+          "title": "Atlético Madrid eye summer move for Premier League striker",
+          "url": "https://www.marca.com/en/football/atletico-madrid-transfer"
+        },
+        {
+          "published": "2024-03-03T09:20:00Z",
+          "summary": "The Andalusian club turns to an experienced manager to steady the ship.",
+          "title": "Sevilla appoint new head coach after poor run",
+          "url": "https://www.marca.com/en/football/sevilla-new-coach"
+        }
+      ],
+      "source": "marca"
+    }
+  },
+  "{\"newspaperid\":\"skysports\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "published": "2024-03-03T21:45:00Z",
+          "summary": "A late goal at the Emirates hands Arsenal a crucial three points in the Premier League title race.",
+          "title": "Arsenal edge past Manchester City in title race thriller",
+          "url": "https://www.skysports.com/football/news/arsenal-man-city-title-race"
+        },
+        {
+          "published": "2024-03-03T18:10:00Z",
+          "summary": "Los Blancos tie down their midfield anchor until 2028 after a standout season.",
+          "title": "Real Madrid confirm contract extension for key midfielder",
+          "url": "https://www.skysports.com/football/news/real-madrid-contract-extension"
+        },
+        {
+          "published": "2024-03-02T12:00:00Z",
+          "summary": "Europe's elite learn their fate as the Champions League quarter-final draw is made in Nyon.",
+          "title": "Champions League draw: quarter-final pairings revealed",
+          "url": "https://www.skysports.com/football/news/champions-league-quarter-final-draw"
+        }
+      ],
+      "source": "skysports"
+    }
+  }
+}

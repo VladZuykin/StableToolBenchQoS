@@ -1,0 +1,152 @@
+{
+  "{\"page\":2,\"with_genres\":\"28\"}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+          "genre_ids": [
+            28,
+            12,
+            14
+          ],
+          "id": 460465,
+          "original_language": "en",
+          "original_title": "Mortal Kombat",
+          "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions.",
+          "popularity": 4123.456,
+          "poster_path": "/6Wdl9N6dL0Hi0T1qJLWSz6gMLbd.jpg",
+          "release_date": "2021-04-07",
+          "title": "Mortal Kombat",
+          "video": false,
+          "vote_average": 7.2,
+          "vote_count": 3456
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+          "genre_ids": [
+            28,
+            53,
+            12
+          ],
+          "id": 522627,
+          "original_language": "en",
+          "original_title": "The Hitman's Wife's Bodyguard",
+          "overview": "The world's most lethal odd couple - bodyguard Michael Bryce and hitman Darius Kincaid - are back on another life-threatening mission.",
+          "popularity": 2876.123,
+          "poster_path": "/6C3f4jZ0k1y0Q0Z0Z0Z0Z0Z0Z0.jpg",
+          "release_date": "2021-06-14",
+          "title": "The Hitman's Wife's Bodyguard",
+          "video": false,
+          "vote_average": 6.8,
+          "vote_count": 1234
+        }
+      ],
+      "total_pages": 500,
+      "total_results": 10000
+    }
+  },
+  "{\"page\":3,\"with_genres\":\"878\"}": {
+    "error": "",
+    "response": {
+      "page": 3,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "id": 299534,
+          "original_language": "en",
+          "original_title": "Avengers: Endgame",
+          "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more.",
+          "popularity": 5678.901,
+          "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+          "release_date": "2019-04-24",
+          "title": "Avengers: Endgame",
+          "video": false,
+          "vote_average": 8.3,
+          "vote_count": 34567
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+          "genre_ids": [
+            878,
+            12,
+            18
+          ],
+          "id": 419704,
+          "original_language": "en",
+          "original_title": "Ad Astra",
+          "overview": "The near future, a time when both hope and hardships are things that are meant to be experienced in the vastness of space.",
+          "popularity": 1234.567,
+          "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+          "release_date": "2019-09-17",
+          "title": "Ad Astra",
+          "video": false,
+          "vote_average": 6.1,
+          "vote_count": 2345
+        }
+      ],
+      "total_pages": 300,
+      "total_results": 6000
+    }
+  },
+  "{\"with_genres\":\"35,18\"}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+          "genre_ids": [
+            35,
+            18,
+            10749
+          ],
+          "id": 337401,
+          "original_language": "en",
+          "original_title": "Mulan",
+          "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army, a young woman steps in to take her father's place.",
+          "popularity": 1987.654,
+          "poster_path": "/aKx1ARwG74RhGFzs2nyDn1uToX8.jpg",
+          "release_date": "2020-09-04",
+          "title": "Mulan",
+          "video": false,
+          "vote_average": 7.0,
+          "vote_count": 5678
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "genre_ids": [
+            35,
+            18,
+            80
+          ],
+          "id": 475557,
+          "original_language": "en",
+          "original_title": "Joker",
+          "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City.",
+          "popularity": 3456.789,
+          "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+          "release_date": "2019-10-02",
+          "title": "Joker",
+          "video": false,
+          "vote_average": 8.2,
+          "vote_count": 23456
+        }
+      ],
+      "total_pages": 250,
+      "total_results": 5000
+    }
+  }
+}

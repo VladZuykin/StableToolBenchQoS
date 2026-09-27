@@ -1,0 +1,24 @@
+{
+  "{\"amount\":3,\"maxlength\":8,\"minlength\":4,\"startswith\":\"пр\"}": {
+    "error": "",
+    "response": [
+      {
+        "word": "право"
+      },
+      {
+        "word": "прилад"
+      },
+      {
+        "word": "простір"
+      }
+    ]
+  },
+  "{\"endswith\":\"а\",\"excludes\":\"кл\",\"includes\":\"ол\",\"length\":5}": {
+    "error": "",
+    "response": [
+      {
+        "word": "школа"
+      }
+    ]
+  }
+}

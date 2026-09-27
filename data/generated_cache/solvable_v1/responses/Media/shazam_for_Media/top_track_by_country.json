@@ -1,0 +1,254 @@
+{
+  "{\"country_code\":\"GB\",\"limit\":10}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/GB/tracks?page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "987654321",
+              "alias": "Ed Sheeran",
+              "follow": {
+                "followkey": "ed-sheeran"
+              },
+              "id": "987654321"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/ed-sheeran/987654321",
+            "relatedhighlightsurl": "https://www.shazam.com/track/987654321/related"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "button"
+              }
+            ],
+            "displayname": "Pop",
+            "explicit": false,
+            "image": "https://images.shazam.com/hub/pop.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play/987654321"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "Play on Shazam",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/option/play.jpg",
+                "listcaption": "Play",
+                "overflowimage": "https://images.shazam.com/option/overflow.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "987654321",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/987654321",
+            "html": "<iframe src=\"https://www.shazam.com/embed/987654321\"></iframe>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat/987654321",
+            "subject": "Ed Sheeran - Shape of You",
+            "text": "Listen to Shape of You on Shazam",
+            "twitter": "https://www.shazam.com/twitter/987654321"
+          },
+          "subtitle": "Ed Sheeran",
+          "title": "Shape of You"
+        }
+      ]
+    }
+  },
+  "{\"country_code\":\"JP\",\"limit\":3}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/JP/tracks?page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "555555555",
+              "alias": "YOASOBI",
+              "follow": {
+                "followkey": "yoasobi"
+              },
+              "id": "555555555"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/yoasobi/555555555",
+            "relatedhighlightsurl": "https://www.shazam.com/track/555555555/related"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "button"
+              }
+            ],
+            "displayname": "J-Pop",
+            "explicit": false,
+            "image": "https://images.shazam.com/hub/jpop.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play/555555555"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "Play on Shazam",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/option/play.jpg",
+                "listcaption": "Play",
+                "overflowimage": "https://images.shazam.com/option/overflow.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "555555555",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/555555555",
+            "html": "<iframe src=\"https://www.shazam.com/embed/555555555\"></iframe>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat/555555555",
+            "subject": "YOASOBI - Idol",
+            "text": "Listen to Idol on Shazam",
+            "twitter": "https://www.shazam.com/twitter/555555555"
+          },
+          "subtitle": "YOASOBI",
+          "title": "Idol"
+        }
+      ]
+    }
+  },
+  "{\"country_code\":\"US\",\"limit\":5}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/amapi/v1/catalog/US/tracks?page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "159260351",
+              "alias": "Taylor Swift",
+              "follow": {
+                "followkey": "taylor-swift"
+              },
+              "id": "159260351"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/taylor-swift/159260351",
+            "relatedhighlightsurl": "https://www.shazam.com/track/123456789/related"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "play",
+                "name": "Play",
+                "type": "button"
+              }
+            ],
+            "displayname": "Pop",
+            "explicit": false,
+            "image": "https://images.shazam.com/hub/pop.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play/123456789"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "shazam",
+                  "type": "track"
+                },
+                "caption": "Play on Shazam",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/option/play.jpg",
+                "listcaption": "Play",
+                "overflowimage": "https://images.shazam.com/option/overflow.jpg",
+                "providername": "shazam",
+                "type": "track"
+              }
+            ],
+            "type": "track"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "123456789",
+          "layout": "5",
+          "properties": {},
+          "share": {
+            "href": "https://www.shazam.com/track/123456789",
+            "html": "<iframe src=\"https://www.shazam.com/embed/123456789\"></iframe>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat/123456789",
+            "subject": "Taylor Swift - Anti-Hero",
+            "text": "Listen to Anti-Hero on Shazam",
+            "twitter": "https://www.shazam.com/twitter/123456789"
+          },
+          "subtitle": "Taylor Swift",
+          "title": "Anti-Hero"
+        }
+      ]
+    }
+  }
+}

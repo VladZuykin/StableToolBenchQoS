@@ -1,0 +1,14 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "available": true,
+      "brand": "Farm Fresh",
+      "in_stock": true,
+      "organic": true,
+      "price": 3.99,
+      "product": "natural milk",
+      "unit": "1 gallon"
+    }
+  }
+}

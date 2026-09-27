@@ -1,0 +1,20 @@
+{
+  "{\"gid\":\"120363044823414490\",\"user\":\"rapid_api_user_01\"}": {
+    "error": "",
+    "response": {
+      "message": "Webhook received successfully"
+    }
+  },
+  "{\"gid\":\"120363099887766554\",\"user\":\"gateway_bot_77\"}": {
+    "error": "",
+    "response": {
+      "message": "Webhook received successfully"
+    }
+  },
+  "{\"user\":\"john_doe_rapid\"}": {
+    "error": "",
+    "response": {
+      "message": "Webhook received successfully"
+    }
+  }
+}

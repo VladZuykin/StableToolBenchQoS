@@ -1,0 +1,88 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/index-trend",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "date": "2024-03-31",
+          "earningsEstimate": 2.83,
+          "epsActual": 2.94,
+          "revenueActual": 61858000000,
+          "revenueEstimate": 60800000000
+        },
+        {
+          "date": "2023-12-31",
+          "earningsEstimate": 2.76,
+          "epsActual": 2.93,
+          "revenueActual": 62020000000,
+          "revenueEstimate": 61100000000
+        },
+        {
+          "date": "2023-09-30",
+          "earningsEstimate": 2.65,
+          "epsActual": 2.99,
+          "revenueActual": 56517000000,
+          "revenueEstimate": 54500000000
+        },
+        {
+          "date": "2023-06-30",
+          "earningsEstimate": 2.55,
+          "epsActual": 2.69,
+          "revenueActual": 56189000000,
+          "revenueEstimate": 55400000000
+        }
+      ],
+      "results": 4
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/index-trend",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "date": "2024-03-31",
+          "earningsEstimate": 0.52,
+          "epsActual": 0.45,
+          "revenueActual": 21301000000,
+          "revenueEstimate": 22300000000
+        },
+        {
+          "date": "2023-12-31",
+          "earningsEstimate": 0.74,
+          "epsActual": 0.71,
+          "revenueActual": 25167000000,
+          "revenueEstimate": 25600000000
+        },
+        {
+          "date": "2023-09-30",
+          "earningsEstimate": 0.73,
+          "epsActual": 0.66,
+          "revenueActual": 23350000000,
+          "revenueEstimate": 24200000000
+        },
+        {
+          "date": "2023-06-30",
+          "earningsEstimate": 0.82,
+          "epsActual": 0.91,
+          "revenueActual": 24927000000,
+          "revenueEstimate": 24500000000
+        }
+      ],
+      "results": 4
+    }
+  }
+}

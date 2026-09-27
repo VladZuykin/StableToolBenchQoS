@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "latency_ms": 42,
+      "message": "VPS tester is reachable",
+      "status": "ok"
+    }
+  }
+}

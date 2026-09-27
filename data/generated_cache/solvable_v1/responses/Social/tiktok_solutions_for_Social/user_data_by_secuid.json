@@ -1,0 +1,150 @@
+{
+  "{\"sec_user_id\":\"MS4wLjABAAAA7Zk8vQ2mNpLxR4tYbWcEfGhJkLmNoPqRsTuVwXyZ0123456789\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "status_code": 0,
+        "user": {
+          "account_type": 1,
+          "avatar_168x168": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_168x168.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_168x168.jpeg"
+            ]
+          },
+          "avatar_300x300": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_300x300.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_300x300.jpeg"
+            ]
+          },
+          "avatar_larger": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_1080x1080.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_1080x1080.jpeg"
+            ]
+          },
+          "avatar_medium": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_720x720.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_720x720.jpeg"
+            ]
+          },
+          "avatar_thumb": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_100x100.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/abc123def456~c5_100x100.jpeg"
+            ]
+          },
+          "aweme_count": 142,
+          "commerce_user_info": {
+            "ad_experience_entry": false,
+            "ad_experience_text": "",
+            "ad_revenue_rits": []
+          },
+          "custom_verify": "",
+          "follower_count": 58200,
+          "following_count": 311,
+          "ins_id": "dance_star_anna",
+          "nickname": "Anna Dance",
+          "original_musician": {
+            "digg_count": 0,
+            "music_count": 0,
+            "music_used_count": 0
+          },
+          "privacy_setting": {
+            "following_visibility": 0
+          },
+          "sec_uid": "MS4wLjABAAAA7Zk8vQ2mNpLxR4tYbWcEfGhJkLmNoPqRsTuVwXyZ0123456789",
+          "share_info": {
+            "bool_persist": 0,
+            "share_desc": "Check out Anna Dance on TikTok!",
+            "share_desc_info": "Anna Dance (@dance_star_anna) on TikTok",
+            "share_title": "Anna Dance",
+            "share_url": "https://www.tiktok.com/@dance_star_anna"
+          }
+        }
+      },
+      "status": "success"
+    }
+  },
+  "{\"sec_user_id\":\"MS4wLjABAAAAM9nBvCxZaSdFgHjKlQwErTyUiOpAsDfGhJkLzXcVbNm9876543210\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "status_code": 0,
+        "user": {
+          "account_type": 2,
+          "avatar_168x168": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_168x168.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_168x168.jpeg"
+            ]
+          },
+          "avatar_300x300": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_300x300.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_300x300.jpeg"
+            ]
+          },
+          "avatar_larger": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_1080x1080.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_1080x1080.jpeg"
+            ]
+          },
+          "avatar_medium": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_720x720.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_720x720.jpeg"
+            ]
+          },
+          "avatar_thumb": {
+            "uri": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012",
+            "url_list": [
+              "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_100x100.jpeg",
+              "https://p19-sign-va.tiktokcdn.com/tos-maliva-avt-0068/xyz789uvw012~c5_100x100.jpeg"
+            ]
+          },
+          "aweme_count": 87,
+          "commerce_user_info": {
+            "ad_experience_entry": true,
+            "ad_experience_text": "Ad experience enabled",
+            "ad_revenue_rits": []
+          },
+          "custom_verify": "Verified Creator",
+          "follower_count": 1240000,
+          "following_count": 45,
+          "ins_id": "chef_mike_official",
+          "nickname": "Chef Mike",
+          "original_musician": {
+            "digg_count": 1200,
+            "music_count": 3,
+            "music_used_count": 540
+          },
+          "privacy_setting": {
+            "following_visibility": 1
+          },
+          "sec_uid": "MS4wLjABAAAAM9nBvCxZaSdFgHjKlQwErTyUiOpAsDfGhJkLzXcVbNm9876543210",
+          "share_info": {
+            "bool_persist": 1,
+            "share_desc": "Follow Chef Mike for daily recipes!",
+            "share_desc_info": "Chef Mike (@chef_mike_official) on TikTok",
+            "share_title": "Chef Mike",
+            "share_url": "https://www.tiktok.com/@chef_mike_official"
+          }
+        }
+      },
+      "status": "success"
+    }
+  }
+}

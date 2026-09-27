@@ -1,0 +1,45 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "companies": [
+        {
+          "address": "Nørrebrogade 42",
+          "city": "København N",
+          "country": "Danmark",
+          "createdAt": "2019-04-12T08:30:00Z",
+          "cvr": "12345678",
+          "email": "info@nordiskdesign.dk",
+          "id": 1,
+          "name": "Nordisk Design ApS",
+          "phone": "+45 33 12 34 56",
+          "postalCode": "2200"
+        },
+        {
+          "address": "Søndergade 15",
+          "city": "Aarhus C",
+          "country": "Danmark",
+          "createdAt": "2020-09-01T10:15:00Z",
+          "cvr": "87654321",
+          "email": "kontakt@jysksoftware.dk",
+          "id": 2,
+          "name": "Jysk Software Solutions A/S",
+          "phone": "+45 87 11 22 33",
+          "postalCode": "8000"
+        },
+        {
+          "address": "Havnegade 7",
+          "city": "Odense C",
+          "country": "Danmark",
+          "createdAt": "2021-02-23T13:45:00Z",
+          "cvr": "11223344",
+          "email": "post@fynsklogistik.dk",
+          "id": 3,
+          "name": "Fynsk Logistik ApS",
+          "phone": "+45 66 44 55 66",
+          "postalCode": "5000"
+        }
+      ]
+    }
+  }
+}

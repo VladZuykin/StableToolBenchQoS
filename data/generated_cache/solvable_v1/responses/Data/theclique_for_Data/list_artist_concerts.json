@@ -1,0 +1,152 @@
+{
+  "{\"id_artist\":\"6eUKZXaKkcviH0Ku9w2n3V\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "artists": [
+            {
+              "id": "6eUKZXaKkcviH0Ku9w2n3V",
+              "imageUri": "https://img.example.com/artist1.jpg",
+              "name": "The Clique",
+              "topTrackUri": "spotify:track:abc123",
+              "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+            }
+          ],
+          "date": "2024-07-15",
+          "festival": false,
+          "id": "concert-001",
+          "lat": 40.7505,
+          "location": "New York, NY",
+          "lon": -73.9934,
+          "ticketers": [
+            {
+              "imageURL": "https://img.example.com/tm.png",
+              "partnerDisplayName": "TicketMaster",
+              "type": "primary",
+              "url": "https://tickets.example.com/concert-001"
+            }
+          ],
+          "ticketing": [
+            {
+              "maxPrice": "150.00",
+              "minPrice": "45.00"
+            }
+          ],
+          "title": "Summer Nights Live",
+          "type": "concert",
+          "venue": "Madison Square Garden"
+        },
+        {
+          "artists": [
+            {
+              "id": "6eUKZXaKkcviH0Ku9w2n3V",
+              "imageUri": "https://img.example.com/artist1.jpg",
+              "name": "The Clique",
+              "topTrackUri": "spotify:track:abc123",
+              "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+            }
+          ],
+          "date": "2024-09-02",
+          "festival": false,
+          "id": "concert-002",
+          "lat": 37.784,
+          "location": "San Francisco, CA",
+          "lon": -122.433,
+          "ticketers": [
+            {
+              "imageURL": "https://img.example.com/sh.png",
+              "partnerDisplayName": "StubHub",
+              "type": "resale",
+              "url": "https://tickets.example.com/concert-002"
+            }
+          ],
+          "ticketing": [
+            {
+              "maxPrice": "90.00",
+              "minPrice": "30.00"
+            }
+          ],
+          "title": "Acoustic Evening",
+          "type": "concert",
+          "venue": "The Fillmore"
+        }
+      ]
+    }
+  },
+  "{\"id_artist\":\"taylor-swift\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "artists": [
+            {
+              "id": "taylor-swift",
+              "imageUri": "https://img.example.com/ts.jpg",
+              "name": "Taylor Swift",
+              "topTrackUri": "spotify:track:ts001",
+              "uri": "spotify:artist:taylor-swift"
+            }
+          ],
+          "date": "2024-08-10",
+          "festival": false,
+          "id": "concert-101",
+          "lat": 33.9535,
+          "location": "Los Angeles, CA",
+          "lon": -118.3392,
+          "ticketers": [
+            {
+              "imageURL": "https://img.example.com/tm.png",
+              "partnerDisplayName": "TicketMaster",
+              "type": "primary",
+              "url": "https://tickets.example.com/eras"
+            }
+          ],
+          "ticketing": [
+            {
+              "maxPrice": "450.00",
+              "minPrice": "120.00"
+            }
+          ],
+          "title": "Eras Tour",
+          "type": "concert",
+          "venue": "SoFi Stadium"
+        },
+        {
+          "artists": [
+            {
+              "id": "taylor-swift",
+              "imageUri": "https://img.example.com/ts.jpg",
+              "name": "Taylor Swift",
+              "topTrackUri": "spotify:track:ts001",
+              "uri": "spotify:artist:taylor-swift"
+            }
+          ],
+          "date": "2024-06-22",
+          "festival": true,
+          "id": "concert-102",
+          "lat": 51.149,
+          "location": "Somerset, UK",
+          "lon": -2.586,
+          "ticketers": [
+            {
+              "imageURL": "https://img.example.com/glasto.png",
+              "partnerDisplayName": "Glastonbury",
+              "type": "primary",
+              "url": "https://tickets.example.com/glasto"
+            }
+          ],
+          "ticketing": [
+            {
+              "maxPrice": "600.00",
+              "minPrice": "200.00"
+            }
+          ],
+          "title": "Festival Headliner",
+          "type": "festival",
+          "venue": "Glastonbury"
+        }
+      ]
+    }
+  }
+}

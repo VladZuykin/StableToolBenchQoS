@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "account": {
+        "created_at": "2023-04-12T09:15:00Z",
+        "credits": 250,
+        "email": "johndoe@example.com",
+        "encoding_seconds_remaining": 81550,
+        "encoding_seconds_used": 18450,
+        "id": 12345,
+        "login": "johndoe",
+        "max_concurrent_encodings": 5,
+        "plan": "pro",
+        "status": "active"
+      }
+    }
+  }
+}

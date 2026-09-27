@@ -1,0 +1,221 @@
+{
+  "{\"query\":\"funny cat videos\",\"safesearch\":true,\"type\":\"video\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC000=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UC1234567890",
+            "name": "Funny Cat Videos"
+          },
+          "description": null,
+          "duration": 600,
+          "duration_formatted": "10:00",
+          "id": "hY7m5jjJ9mM",
+          "live": false,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 500000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "hY7m5jjJ9mM",
+            "url": "https://i.ytimg.com/vi/hY7m5jjJ9mM/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "Funny Cats Compilation 2023",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2023-01-15T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=hY7m5jjJ9mM",
+          "views": 25000000
+        },
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC111=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UC0987654321",
+            "name": "Cat Lovers"
+          },
+          "description": null,
+          "duration": 300,
+          "duration_formatted": "5:00",
+          "id": "9bZkp7q19f0",
+          "live": false,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 350000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "9bZkp7q19f0",
+            "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "Cats vs Cucumbers - Funny Compilation",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2022-11-20T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+          "views": 18000000
+        }
+      ]
+    }
+  },
+  "{\"query\":\"lofi hip hop radio\",\"safesearch\":true,\"type\":\"video\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC123=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+            "name": "Lofi Girl"
+          },
+          "description": null,
+          "duration": 0,
+          "duration_formatted": "LIVE",
+          "id": "jfKfPfyJRdk",
+          "live": true,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 450000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "jfKfPfyJRdk",
+            "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "lofi hip hop radio 📚 - beats to relax/study to",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2022-01-01T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+          "views": 12345678
+        },
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC123=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+            "name": "Lofi Girl"
+          },
+          "description": null,
+          "duration": 0,
+          "duration_formatted": "LIVE",
+          "id": "5qap5aO4i9A",
+          "live": true,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 320000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "5qap5aO4i9A",
+            "url": "https://i.ytimg.com/vi/5qap5aO4i9A/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "lofi hip hop radio - beats to sleep/chill to",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2022-03-15T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+          "views": 9876543
+        }
+      ]
+    }
+  },
+  "{\"query\":\"python tutorial for beginners\",\"safesearch\":false}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC456=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UC8butISFwT-Wl7EV0hUK0BQ",
+            "name": "freeCodeCamp.org"
+          },
+          "description": null,
+          "duration": 16000,
+          "duration_formatted": "4:26:40",
+          "id": "rfscVS0vtbw",
+          "live": false,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 1200000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "rfscVS0vtbw",
+            "url": "https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "Learn Python - Full Course for Beginners [Tutorial]",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2018-07-11T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+          "views": 45000000
+        },
+        {
+          "channel": {
+            "icon": "https://yt3.ggpht.com/ytc/ABC789=s88-c-k-c0x00ffffff-no-rj",
+            "id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "name": "Programming with Mosh"
+          },
+          "description": null,
+          "duration": 3600,
+          "duration_formatted": "1:00:00",
+          "id": "kqtD5dpn9C8",
+          "live": false,
+          "nsfw": false,
+          "private": false,
+          "ratings": {
+            "dislikes": 0,
+            "likes": 800000
+          },
+          "shorts": false,
+          "shorts_url": "",
+          "tags": {},
+          "thumbnail": {
+            "height": 360,
+            "id": "kqtD5dpn9C8",
+            "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/hqdefault.jpg",
+            "width": 480
+          },
+          "title": "Python for Beginners - Learn Python in 1 Hour",
+          "type": "video",
+          "unlisted": false,
+          "uploadedAt": "2020-09-14T00:00:00Z",
+          "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+          "views": 15000000
+        }
+      ]
+    }
+  }
+}

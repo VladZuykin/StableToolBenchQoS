@@ -1,0 +1,61 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author": "wanderlust_sam",
+          "desc": "Sunset timelapse over the ocean #nature #travel",
+          "hashtags": [
+            "nature",
+            "travel",
+            "sunset"
+          ],
+          "id": "7234567890123456789",
+          "music": "Chill Vibes - LoFi Dreams",
+          "stats": {
+            "comments": 8400,
+            "likes": 1250000,
+            "shares": 32000,
+            "views": 9800000
+          }
+        },
+        {
+          "author": "quickbites",
+          "desc": "Easy 5-minute pasta recipe 🍝",
+          "hashtags": [
+            "food",
+            "recipe",
+            "pasta"
+          ],
+          "id": "7234567890123456790",
+          "music": "Cooking Time - Chef Beats",
+          "stats": {
+            "comments": 12000,
+            "likes": 890000,
+            "shares": 45000,
+            "views": 5600000
+          }
+        },
+        {
+          "author": "danceking",
+          "desc": "New dance challenge 🔥",
+          "hashtags": [
+            "dance",
+            "challenge",
+            "viral"
+          ],
+          "id": "7234567890123456791",
+          "music": "Beat Drop - DJ Nova",
+          "stats": {
+            "comments": 23000,
+            "likes": 2100000,
+            "shares": 78000,
+            "views": 15400000
+          }
+        }
+      ],
+      "message": "Trending videos retrieved successfully"
+    }
+  }
+}

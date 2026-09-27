@@ -1,0 +1,38 @@
+{
+  "{\"email\":\"contact@example.com\"}": {
+    "error": "",
+    "response": {
+      "complete": false,
+      "fqdn": "mail.example.com",
+      "host": "mail.example.com",
+      "port": 25,
+      "recipient": "contact@example.com",
+      "status": "UNKNOWN",
+      "timeout": 10
+    }
+  },
+  "{\"email\":\"john.doe@gmail.com\"}": {
+    "error": "",
+    "response": {
+      "complete": true,
+      "fqdn": "gmail-smtp-in.l.google.com",
+      "host": "gmail-smtp-in.l.google.com",
+      "port": 25,
+      "recipient": "john.doe@gmail.com",
+      "status": "OK",
+      "timeout": 10
+    }
+  },
+  "{\"email\":\"nonexistent.user12345@yahoo.com\"}": {
+    "error": "",
+    "response": {
+      "complete": true,
+      "fqdn": "mta5.am0.yahoodns.net",
+      "host": "mta5.am0.yahoodns.net",
+      "port": 25,
+      "recipient": "nonexistent.user12345@yahoo.com",
+      "status": "INVALID",
+      "timeout": 10
+    }
+  }
+}

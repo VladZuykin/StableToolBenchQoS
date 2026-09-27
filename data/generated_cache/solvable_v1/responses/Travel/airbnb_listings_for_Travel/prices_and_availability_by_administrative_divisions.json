@@ -1,0 +1,48 @@
+{
+  "{\"admin1\":\"Cataluna\",\"admin2\":\"Barcelona\",\"admin3\":\"Barcelona\",\"bedrooms\":\"3\",\"country_code\":\"ES\",\"maxguestcapacity\":6,\"month\":\"12\",\"place\":\"Gotic\",\"year\":2023}": {
+    "error": "",
+    "response": {
+      "admin1": "Cataluna",
+      "admin2": "Barcelona",
+      "admin3": "Barcelona",
+      "availability_percent": 54.1,
+      "average_price": 142.87,
+      "average_price_available_only": 158.9,
+      "country_code": "ES",
+      "month": "12",
+      "place": "Gotic",
+      "processed_properties": 3217,
+      "year": 2023
+    }
+  },
+  "{\"admin1\":\"Ile-de-France\",\"admin2\":\"Paris\",\"bedrooms\":\"1\",\"country_code\":\"FR\",\"maxguestcapacity\":2,\"month\":\"7\",\"year\":2024}": {
+    "error": "",
+    "response": {
+      "admin1": "Ile-de-France",
+      "admin2": "Paris",
+      "availability_percent": 68.3,
+      "average_price": 187.42,
+      "average_price_available_only": 203.15,
+      "country_code": "FR",
+      "month": "7",
+      "processed_properties": 12458,
+      "year": 2024
+    }
+  },
+  "{\"admin1\":\"New York\",\"admin2\":\"New York County\",\"admin3\":\"Manhattan\",\"admin4\":\"Midtown\",\"bedrooms\":\"2\",\"country_code\":\"US\",\"maxguestcapacity\":4,\"month\":\"4\",\"year\":2025}": {
+    "error": "",
+    "response": {
+      "admin1": "New York",
+      "admin2": "New York County",
+      "admin3": "Manhattan",
+      "admin4": "Midtown",
+      "availability_percent": 72.9,
+      "average_price": 312.55,
+      "average_price_available_only": 341.2,
+      "country_code": "US",
+      "month": "4",
+      "processed_properties": 5894,
+      "year": 2025
+    }
+  }
+}

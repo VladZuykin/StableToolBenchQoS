@@ -1,0 +1,28 @@
+{
+  "{\"admin1\":\"11\",\"admin2\":\"75\",\"admin3\":\"101\",\"admin4\":\"10101\",\"countrycode\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "admin1": "11",
+          "admin2": "75",
+          "admin3": "101",
+          "admin4": "10101"
+        }
+      ]
+    }
+  },
+  "{\"admin1\":\"CA\",\"countrycode\":\"US\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "admin1": "CA",
+          "admin2": "Los Angeles County",
+          "admin3": "Los Angeles",
+          "admin4": "Los Angeles"
+        }
+      ]
+    }
+  }
+}

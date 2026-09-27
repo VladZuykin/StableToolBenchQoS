@@ -1,0 +1,20 @@
+{
+  "{\"jobid\":\"a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d\",\"projectid\":\"7f3a9c2e-1b4d-4e8a-9f6c-2d5b8e1a3c7f\"}": {
+    "error": "",
+    "response": {
+      "description": "This is the source document content for the translation job. It contains the original text that needs to be translated into the target language."
+    }
+  },
+  "{\"jobid\":\"d0c30471-7c70-45d4-bcc1-a7773cb352b\",\"projectid\":\"bc141454-5949-401b-9c05-7591ee2f562\"}": {
+    "error": "",
+    "response": {
+      "description": "Source document text: Welcome to our platform. Please review the terms and conditions carefully before proceeding."
+    }
+  },
+  "{\"jobid\":\"f4a7b2c9-1d3e-4f5a-8b6c-9d0e1f2a3b4c\",\"projectid\":\"3e8d1f5a-9c2b-4d7e-8a1f-6b3c9d2e5a4f\"}": {
+    "error": "",
+    "response": {
+      "description": "The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English alphabet and is commonly used for testing."
+    }
+  }
+}

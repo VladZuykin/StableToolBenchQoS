@@ -1,0 +1,23 @@
+{
+  "{\"path\":\"/contracts/agreement.pdf\",\"storagename\":\"DefaultStorage\",\"versionid\":\"3\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "a1b2c3d4-3333-4a2b-9c3d-000000000003"
+    }
+  },
+  "{\"path\":\"/documents/report.docx\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "a1b2c3d4-1111-4a2b-9c3d-000000000001"
+    }
+  },
+  "{\"path\":\"/folder\",\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "requestId": "a1b2c3d4-2222-4a2b-9c3d-000000000002"
+    }
+  }
+}

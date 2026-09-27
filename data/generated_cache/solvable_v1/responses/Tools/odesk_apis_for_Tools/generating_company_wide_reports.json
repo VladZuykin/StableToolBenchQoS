@@ -1,0 +1,108 @@
+{
+  "{\"company\":13579,\"format\":\"xml\",\"tq\":\"SELECT week_worked_on, assignment_team_id, sum(hours), sum(charges) WHERE worked_on > '2012-09-01' AND worked_on <= '2012-09-30'\"}": {
+    "error": "",
+    "response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<data>\n  <table>\n    <cols>\n      <col id=\"A\" label=\"week_worked_on\" type=\"string\"/>\n      <col id=\"B\" label=\"assignment_team_id\" type=\"number\"/>\n      <col id=\"C\" label=\"sum(hours)\" type=\"number\"/>\n      <col id=\"D\" label=\"sum(charges)\" type=\"number\"/>\n    </cols>\n    <rows>\n      <row><c v=\"2012-09-03\"/><c v=\"310\"/><c v=\"76.5\"/><c v=\"2295.0\"/></row>\n      <row><c v=\"2012-09-10\"/><c v=\"310\"/><c v=\"84.0\"/><c v=\"2520.0\"/></row>\n      <row><c v=\"2012-09-17\"/><c v=\"311\"/><c v=\"91.25\"/><c v=\"2737.5\"/></row>\n      <row><c v=\"2012-09-24\"/><c v=\"311\"/><c v=\"88.75\"/><c v=\"2662.5\"/></row>\n    </rows>\n  </table>\n</data>\n"
+  },
+  "{\"company\":24680,\"format\":\"csv\",\"tq\":\"SELECT week_worked_on, assignment_team_id, sum(hours) WHERE worked_on > '2011-06-01' AND worked_on <= '2011-06-30'\"}": {
+    "error": "",
+    "response": "week_worked_on,assignment_team_id,sum(hours)\n2011-06-06,205,88.5\n2011-06-13,205,95.0\n2011-06-20,206,110.25\n2011-06-27,206,102.75\n"
+  },
+  "{\"company\":67890,\"format\":\"json\",\"tq\":\"SELECT week_worked_on, assignment_team_id, sum(hours), sum(charges) WHERE worked_on > '2010-01-01' AND worked_on <= '2010-03-31'\"}": {
+    "error": "",
+    "response": {
+      "reqId": "0",
+      "status": "ok",
+      "table": {
+        "cols": [
+          {
+            "id": "A",
+            "label": "week_worked_on",
+            "type": "string"
+          },
+          {
+            "id": "B",
+            "label": "assignment_team_id",
+            "type": "number"
+          },
+          {
+            "id": "C",
+            "label": "sum(hours)",
+            "type": "number"
+          },
+          {
+            "id": "D",
+            "label": "sum(charges)",
+            "type": "number"
+          }
+        ],
+        "rows": [
+          {
+            "c": [
+              {
+                "v": "2010-01-04"
+              },
+              {
+                "v": 101
+              },
+              {
+                "v": 142.5
+              },
+              {
+                "v": 4275.0
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2010-01-11"
+              },
+              {
+                "v": 101
+              },
+              {
+                "v": 160.0
+              },
+              {
+                "v": 4800.0
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2010-02-01"
+              },
+              {
+                "v": 102
+              },
+              {
+                "v": 98.25
+              },
+              {
+                "v": 2947.5
+              }
+            ]
+          },
+          {
+            "c": [
+              {
+                "v": "2010-03-15"
+              },
+              {
+                "v": 102
+              },
+              {
+                "v": 120.75
+              },
+              {
+                "v": 3622.5
+              }
+            ]
+          }
+        ]
+      },
+      "version": "0.6"
+    }
+  }
+}

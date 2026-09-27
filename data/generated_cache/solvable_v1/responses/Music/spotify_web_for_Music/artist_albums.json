@@ -1,0 +1,429 @@
+{
+  "{\"is_id\":\"06HL4z0CvFAxyc27GXpf02\",\"limit\":100,\"offset\":0}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "albums": {
+              "items": [
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2022-10-21T00:00:00Z",
+                          "year": 2022
+                        },
+                        "id": "1o59UpKw81iHR0HPiSkJR0",
+                        "name": "Midnights",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "1o59UpKw81iHR0HPiSkJR0",
+                          "shareUrl": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+                        },
+                        "tracks": {
+                          "totalCount": 13
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1o59UpKw81iHR0HPiSkJR0"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2020-07-24T00:00:00Z",
+                          "year": 2020
+                        },
+                        "id": "2fenSS68JI1h4Fo296JfGr",
+                        "name": "folklore",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "2fenSS68JI1h4Fo296JfGr",
+                          "shareUrl": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+                        },
+                        "tracks": {
+                          "totalCount": 16
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b4871b1d1e3b8f5e5b1e3b8f",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b4871b1d1e3b8f5e5b1e3b8f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b4871b1d1e3b8f5e5b1e3b8f",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2019-08-23T00:00:00Z",
+                          "year": 2019
+                        },
+                        "id": "1NAmidJlEaVgA3MpcPFYGq",
+                        "name": "Lover",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "1NAmidJlEaVgA3MpcPFYGq",
+                          "shareUrl": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+                        },
+                        "tracks": {
+                          "totalCount": 18
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "totalCount": 11
+            }
+          }
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"0TnOYISbd1XYRBk9myaseg\",\"limit\":50,\"offset\":0}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "albums": {
+              "items": [
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e8b066f70c206551210d902b",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e8b066f70c206551210d902b",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2022-05-06T00:00:00Z",
+                          "year": 2022
+                        },
+                        "id": "0TnOYISbd1XYRBk9myaseg",
+                        "name": "Un Verano Sin Ti",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "0TnOYISbd1XYRBk9myaseg",
+                          "shareUrl": "https://open.spotify.com/album/0TnOYISbd1XYRBk9myaseg"
+                        },
+                        "tracks": {
+                          "totalCount": 23
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0TnOYISbd1XYRBk9myaseg"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2020-11-27T00:00:00Z",
+                          "year": 2020
+                        },
+                        "id": "1ATL5GLyefJaxhQzSPVrLX",
+                        "name": "EL ÚLTIMO TOUR DEL MUNDO",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "1ATL5GLyefJaxhQzSPVrLX",
+                          "shareUrl": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+                        },
+                        "tracks": {
+                          "totalCount": 16
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c3af0c2355c24ed7023cd394",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c3af0c2355c24ed7023cd394",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2018-12-24T00:00:00Z",
+                          "year": 2018
+                        },
+                        "id": "6OCbgoVGwYJhOv1GgI9NsF",
+                        "name": "X 100PRE",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "6OCbgoVGwYJhOv1GgI9NsF",
+                          "shareUrl": "https://open.spotify.com/album/6OCbgoVGwYJhOv1GgI9NsF"
+                        },
+                        "tracks": {
+                          "totalCount": 15
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6OCbgoVGwYJhOv1GgI9NsF"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "totalCount": 11
+            }
+          }
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\",\"limit\":25,\"offset\":10}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "discography": {
+            "albums": {
+              "items": [
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2020-03-20T00:00:00Z",
+                          "year": 2020
+                        },
+                        "id": "4yP0hdKOZPNshxUOjY0cZj",
+                        "name": "After Hours",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "4yP0hdKOZPNshxUOjY0cZj",
+                          "shareUrl": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+                        },
+                        "tracks": {
+                          "totalCount": 14
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "_list_length": 1,
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ef017e899c0547766997d874",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ef017e899c0547766997d874",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "date": {
+                          "isoString": "2016-11-25T00:00:00Z",
+                          "year": 2016
+                        },
+                        "id": "4g1ZRSobMefqF6nelkgibi",
+                        "name": "Starboy",
+                        "playability": {
+                          "playable": true,
+                          "reason": ""
+                        },
+                        "sharingInfo": {
+                          "shareId": "4g1ZRSobMefqF6nelkgibi",
+                          "shareUrl": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+                        },
+                        "tracks": {
+                          "totalCount": 18
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "totalCount": 11
+            }
+          }
+        }
+      },
+      "extensions": []
+    }
+  }
+}

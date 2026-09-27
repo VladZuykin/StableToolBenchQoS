@@ -1,0 +1,38 @@
+{
+  "{\"userid\":\"jdoe456\"}": {
+    "error": "",
+    "response": {
+      "department": "Product",
+      "displayName": "John Doe",
+      "email": "john.doe@example.com",
+      "id": "jdoe456",
+      "jobTitle": "Product Manager",
+      "officeLocation": "New York",
+      "preferredLanguage": "en-US"
+    }
+  },
+  "{\"userid\":\"mchen789\"}": {
+    "error": "",
+    "response": {
+      "department": "Analytics",
+      "displayName": "Mei Chen",
+      "email": "mei.chen@example.com",
+      "id": "mchen789",
+      "jobTitle": "Data Analyst",
+      "officeLocation": "Singapore",
+      "preferredLanguage": "zh-CN"
+    }
+  },
+  "{\"userid\":\"user123\"}": {
+    "error": "",
+    "response": {
+      "department": "Engineering",
+      "displayName": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "id": "user123",
+      "jobTitle": "Software Engineer",
+      "officeLocation": "Seattle",
+      "preferredLanguage": "en-US"
+    }
+  }
+}

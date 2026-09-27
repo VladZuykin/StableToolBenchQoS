@@ -1,0 +1,23 @@
+{
+  "{\"title\":\"despacito_clip\",\"type\":\"MP4\",\"url\":\"https://www.youtube.com/watch?v=kJQP7kiw5Fk\"}": {
+    "error": "",
+    "response": {
+      "key": "video_mp4_despacito_clip",
+      "url": "https://cdn.ytconvert.example.com/downloads/video_mp4_despacito_clip.mp4"
+    }
+  },
+  "{\"title\":\"gangnam_style_audio\",\"type\":\"MP3\",\"url\":\"https://www.youtube.com/watch?v=9bZkp7q19f0\"}": {
+    "error": "",
+    "response": {
+      "key": "audio_mp3_gangnam_style",
+      "url": "https://cdn.ytconvert.example.com/downloads/audio_mp3_gangnam_style.mp3"
+    }
+  },
+  "{\"title\":\"rick_astley_video\",\"type\":\"MP4\",\"url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "key": "video_mp4_rick_astley",
+      "url": "https://cdn.ytconvert.example.com/downloads/video_mp4_rick_astley.mp4"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "{\"normalizecitynamedst\":\"La Plata\",\"normalizecitynamesrc\":\"Mendoza\",\"stateisocodedst\":\"B\",\"stateisocodesrc\":\"D\",\"weight\":0.5}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "message": "Quote retrieved successfully",
+      "statusCode": 200
+    }
+  },
+  "{\"normalizecitynamedst\":\"Salta\",\"normalizecitynamesrc\":\"Rosario\",\"stateisocodedst\":\"A\",\"stateisocodesrc\":\"C\",\"weight\":5}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "message": "Quote retrieved successfully",
+      "statusCode": 200
+    }
+  }
+}

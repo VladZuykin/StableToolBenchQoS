@@ -1,0 +1,62 @@
+{
+  "{\"latitude\":\"35.6895\",\"longitude\":\"139.6917\"}": {
+    "error": "",
+    "response": {
+      "currentWeather": {
+        "cloudCover": 1.0,
+        "conditionCode": "Rain",
+        "daylight": false,
+        "humidity": 88.0,
+        "pressure": 1005.6,
+        "readTime": "2024-06-15T22:10:00Z",
+        "reportedTime": "2024-06-15T22:05:00Z",
+        "temperature": 18.9
+      },
+      "parameters": {
+        "latitude": "35.6895",
+        "longitude": "139.6917"
+      },
+      "resource": "current_conditions"
+    }
+  },
+  "{\"latitude\":\"40.7128\",\"longitude\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "currentWeather": {
+        "cloudCover": 0.75,
+        "conditionCode": "Cloudy",
+        "daylight": true,
+        "humidity": 68.0,
+        "pressure": 1013.2,
+        "readTime": "2024-06-15T14:30:00Z",
+        "reportedTime": "2024-06-15T14:25:00Z",
+        "temperature": 24.5
+      },
+      "parameters": {
+        "latitude": "40.7128",
+        "longitude": "-74.0060"
+      },
+      "resource": "current_conditions"
+    }
+  },
+  "{\"latitude\":\"48.8566\",\"longitude\":\"2.3522\"}": {
+    "error": "",
+    "response": {
+      "currentWeather": {
+        "cloudCover": 0.2,
+        "conditionCode": "Mostly Sunny",
+        "daylight": true,
+        "humidity": 52.0,
+        "pressure": 1020.8,
+        "readTime": "2024-06-15T16:45:00Z",
+        "reportedTime": "2024-06-15T16:40:00Z",
+        "temperature": 21.3
+      },
+      "parameters": {
+        "latitude": "48.8566",
+        "longitude": "2.3522"
+      },
+      "resource": "current_conditions"
+    }
+  }
+}

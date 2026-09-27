@@ -1,0 +1,54 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Michael D. Shear",
+          "headline": "Biden Unveils New Economic Plan in Pennsylvania",
+          "id": "biden-nyt-2024-001",
+          "newspaper": "The New York Times",
+          "published_date": "2024-03-14",
+          "summary": "President Biden announced a new economic initiative aimed at manufacturing and clean energy jobs during a visit to Pennsylvania.",
+          "url": "https://www.nytimes.com/2024/03/14/us/politics/biden-economic-plan.html"
+        },
+        {
+          "author": "Lisa Friedman",
+          "headline": "Biden Administration Tightens Rules on Power Plant Emissions",
+          "id": "biden-wapo-2024-002",
+          "newspaper": "The Washington Post",
+          "published_date": "2024-04-25",
+          "summary": "The EPA finalized new regulations requiring coal and new gas plants to cut carbon emissions, a centerpiece of Biden's climate agenda.",
+          "url": "https://www.washingtonpost.com/climate-environment/2024/04/25/biden-power-plant-emissions/"
+        },
+        {
+          "author": "Michelle Hackman",
+          "headline": "Biden Faces Pressure From Allies on Border Policy",
+          "id": "biden-wsj-2024-003",
+          "newspaper": "The Wall Street Journal",
+          "published_date": "2024-02-08",
+          "summary": "Democratic governors and mayors are urging the White House to take executive action on immigration as border encounters remain high.",
+          "url": "https://www.wsj.com/politics/policy/biden-border-policy-pressure-2024"
+        },
+        {
+          "author": "Noah Bierman",
+          "headline": "Biden Courts Latino Voters in Nevada and Arizona",
+          "id": "biden-lat-2024-004",
+          "newspaper": "Los Angeles Times",
+          "published_date": "2024-05-02",
+          "summary": "The president's reelection campaign launched a bilingual ad blitz and targeted outreach in key southwestern battleground states.",
+          "url": "https://www.latimes.com/politics/story/2024-05-02/biden-latino-voters-nevada-arizona"
+        },
+        {
+          "author": "Joey Garrison",
+          "headline": "Biden Marks Anniversary of Inflation Reduction Act",
+          "id": "biden-usa-2024-005",
+          "newspaper": "USA Today",
+          "published_date": "2024-08-16",
+          "summary": "The White House highlighted clean energy investments and prescription drug savings while Republicans criticized the law's cost.",
+          "url": "https://www.usatoday.com/story/news/politics/2024/08/16/biden-inflation-reduction-act-anniversary/"
+        }
+      ]
+    }
+  }
+}

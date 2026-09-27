@@ -1,0 +1,136 @@
+{
+  "{\"is_id\":\"06HL4z0CvFAxyc27GXpf02\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "profile": {
+            "name": "Taylor Swift"
+          },
+          "relatedContent": {
+            "appearsOn": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "artists": {
+                          "items": [
+                            {
+                              "profile": {
+                                "name": "Ed Sheeran"
+                              },
+                              "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                            }
+                          ]
+                        },
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273taylor1",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02taylor1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851taylor1",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "id": "3n3Ppam7vgaVa1iaRUc9Lp",
+                        "name": "The Joker And The Queen",
+                        "sharingInfo": {
+                          "shareId": "share-taylor-joker-queen",
+                          "shareUrl": "https://open.spotify.com/album/3n3Ppam7vgaVa1iaRUc9Lp"
+                        },
+                        "uri": "spotify:album:3n3Ppam7vgaVa1iaRUc9Lp"
+                      }
+                    ],
+                    "totalCount": 1
+                  }
+                }
+              ],
+              "totalCount": 50
+            }
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+        }
+      },
+      "extensions": []
+    }
+  },
+  "{\"is_id\":\"3TVXtAsR1Inumwj472S9r4\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "profile": {
+            "name": "Drake"
+          },
+          "relatedContent": {
+            "appearsOn": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "artists": {
+                          "items": [
+                            {
+                              "profile": {
+                                "name": "Future"
+                              },
+                              "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+                            }
+                          ]
+                        },
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273drake1",
+                              "width": 640
+                            },
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02drake1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851drake1",
+                              "width": 64
+                            }
+                          ]
+                        },
+                        "id": "2m5VD5uzXc9t2f3s4d5f6g",
+                        "name": "Life Is Good",
+                        "sharingInfo": {
+                          "shareId": "share-drake-life-is-good",
+                          "shareUrl": "https://open.spotify.com/album/2m5VD5uzXc9t2f3s4d5f6g"
+                        },
+                        "uri": "spotify:album:2m5VD5uzXc9t2f3s4d5f6g"
+                      }
+                    ],
+                    "totalCount": 1
+                  }
+                }
+              ],
+              "totalCount": 50
+            }
+          },
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      },
+      "extensions": []
+    }
+  }
+}

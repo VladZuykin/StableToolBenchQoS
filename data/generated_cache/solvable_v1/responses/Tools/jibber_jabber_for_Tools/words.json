@@ -1,0 +1,20 @@
+{
+  "{\"maximumwordlength\":9,\"minimumwordlength\":6,\"numberofwords\":3}": {
+    "error": "",
+    "response": [
+      "mountain",
+      "whisper",
+      "lantern"
+    ]
+  },
+  "{\"numberofwords\":5}": {
+    "error": "",
+    "response": [
+      "apple",
+      "river",
+      "stone",
+      "lamp",
+      "cloud"
+    ]
+  }
+}

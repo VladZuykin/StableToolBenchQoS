@@ -1,0 +1,13 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "bucket_count": 3,
+      "last_updated": "2024-06-01T12:34:56Z",
+      "object_count": 42,
+      "storage_limit_bytes": 10737418240,
+      "storage_used_bytes": 1073741824,
+      "storage_used_percent": 10.0
+    }
+  }
+}

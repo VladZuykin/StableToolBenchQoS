@@ -1,0 +1,85 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "KolektifAPI": "str",
+      "istekler": {
+        "akaryakit": [
+          "str",
+          "str",
+          "str"
+        ],
+        "bim": [
+          "str",
+          "str",
+          "str"
+        ],
+        "deprem": [
+          "str",
+          "str",
+          "str"
+        ],
+        "doviz": [
+          "str",
+          "str",
+          "str"
+        ],
+        "eczane": [
+          "str",
+          "str",
+          "str"
+        ],
+        "ezan": [
+          "str",
+          "str",
+          "str"
+        ],
+        "google": [
+          "str",
+          "str",
+          "str"
+        ],
+        "haber": [
+          "str",
+          "str",
+          "str"
+        ],
+        "piiz": [
+          "str",
+          "str",
+          "str"
+        ],
+        "sahibinden": [
+          "str",
+          "str",
+          "str"
+        ],
+        "trendyol_kategori": [
+          "str",
+          "str",
+          "str"
+        ],
+        "trendyol_urun": [
+          "str",
+          "str",
+          "str"
+        ],
+        "ucak": [
+          "str",
+          "str",
+          "str"
+        ],
+        "udemy": [
+          "str",
+          "str",
+          "str"
+        ],
+        "youtube": [
+          "str",
+          "str",
+          "str"
+        ]
+      }
+    }
+  }
+}

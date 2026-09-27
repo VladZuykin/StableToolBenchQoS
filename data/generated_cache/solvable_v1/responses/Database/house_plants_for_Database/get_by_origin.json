@@ -1,0 +1,64 @@
+{
+  "{\"origin\":\"Africa\"}": {
+    "error": "",
+    "response": {
+      "category": "Succulent",
+      "climate": "Arid",
+      "common": [
+        "Aloe Vera"
+      ],
+      "diseases": "Root rot",
+      "family": "Asphodelaceae",
+      "id": 42,
+      "ideallight": "Bright indirect light",
+      "insects": "Mealybugs",
+      "latin": "Aloe barbadensis miller",
+      "origin": "Africa",
+      "tempmax": {
+        "celsius": 30,
+        "fahrenheit": 86.0
+      },
+      "tempmin": {
+        "celsius": 10,
+        "fahrenheit": 50
+      },
+      "toleratedlight": "Full sun",
+      "use": [
+        "Medicinal",
+        "Ornamental"
+      ],
+      "watering": "Low"
+    }
+  },
+  "{\"origin\":\"South America\"}": {
+    "error": "",
+    "response": {
+      "category": "Flowering",
+      "climate": "Tropical",
+      "common": [
+        "Peace Lily"
+      ],
+      "diseases": "Leaf spot",
+      "family": "Araceae",
+      "id": 87,
+      "ideallight": "Medium indirect light",
+      "insects": "Spider mites",
+      "latin": "Spathiphyllum wallisii",
+      "origin": "South America",
+      "tempmax": {
+        "celsius": 27,
+        "fahrenheit": 80.6
+      },
+      "tempmin": {
+        "celsius": 15,
+        "fahrenheit": 59
+      },
+      "toleratedlight": "Low light",
+      "use": [
+        "Ornamental",
+        "Air purification"
+      ],
+      "watering": "Medium"
+    }
+  }
+}

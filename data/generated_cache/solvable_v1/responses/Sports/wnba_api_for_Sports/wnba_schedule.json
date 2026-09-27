@@ -1,0 +1,109 @@
+{
+  "{\"day\":\"16\",\"month\":\"06\",\"year\":\"2023\"}": {
+    "error": "",
+    "response": {
+      "20230616": {
+        "calendar": [
+          "2023-06-16"
+        ],
+        "calendartype": "league",
+        "games": [
+          {
+            "competitions": [
+              {
+                "broadcasts": [
+                  {
+                    "market": "national",
+                    "names": [
+                      "ESPN"
+                    ]
+                  }
+                ],
+                "competitors": [
+                  {
+                    "homeAway": "home",
+                    "score": "78",
+                    "team": {
+                      "abbreviation": "IND",
+                      "displayName": "Indiana Fever",
+                      "id": "9"
+                    },
+                    "uid": "s:40~l:59~t:9"
+                  },
+                  {
+                    "homeAway": "away",
+                    "score": "85",
+                    "team": {
+                      "abbreviation": "NYL",
+                      "displayName": "New York Liberty",
+                      "id": "17"
+                    },
+                    "uid": "s:40~l:59~t:17"
+                  }
+                ],
+                "conferenceCompetition": false,
+                "date": "2023-06-16T23:00Z",
+                "format": {
+                  "regulation": {
+                    "periods": 4
+                  }
+                },
+                "geoBroadcasts": [
+                  {
+                    "lang": "en",
+                    "market": {
+                      "id": "1",
+                      "type": "National"
+                    },
+                    "media": {
+                      "shortName": "ESPN"
+                    },
+                    "region": "us",
+                    "type": {
+                      "id": "1",
+                      "shortName": "TV"
+                    }
+                  }
+                ],
+                "notes": [],
+                "playByPlayAvailable": true,
+                "tickets": [
+                  {
+                    "links": [
+                      {
+                        "href": "https://example.com/tickets/401455123"
+                      }
+                    ],
+                    "numberAvailable": 842,
+                    "summary": "Tickets from $18"
+                  }
+                ],
+                "timeValid": true,
+                "type": {
+                  "abbreviation": "STD",
+                  "id": "1"
+                },
+                "uid": "s:40~l:59~e:401455123~c:401455123",
+                "venue": {
+                  "address": {
+                    "city": "Indianapolis",
+                    "state": "IN"
+                  },
+                  "capacity": 17923,
+                  "fullName": "Gainbridge Fieldhouse",
+                  "id": "1234",
+                  "indoor": true
+                }
+              }
+            ],
+            "date": "2023-06-16T23:00Z",
+            "name": "New York Liberty at Indiana Fever",
+            "uid": "s:40~l:59~e:401455123"
+          }
+        ],
+        "leagueName": "WNBA",
+        "leagues": []
+      }
+    }
+  }
+}

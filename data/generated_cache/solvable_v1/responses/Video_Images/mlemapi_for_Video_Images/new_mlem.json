@@ -1,0 +1,17 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "brightness": "0.85",
+      "code": 200,
+      "height": 1080,
+      "id": 4821,
+      "orientation": "landscape",
+      "tags": [
+        "cat"
+      ],
+      "url": "https://mlemapi.example.com/images/4821.jpg",
+      "width": 1920
+    }
+  }
+}

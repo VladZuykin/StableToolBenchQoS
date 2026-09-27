@@ -1,0 +1,61 @@
+{
+  "{\"application_id\":\"Mashape\",\"json\":\"{\\\"id\\\":\\\"null\\\",\\\"method\\\":\\\"friend.list\\\",\\\"params\\\":{\\\"count\\\":10,\\\"offset\\\":0,\\\"user_id\\\":\\\"12345\\\"}}\",\"mask\":\"{\\\"friends\\\":{\\\"id\\\":1,\\\"fullname\\\":1,\\\"avatar\\\":1}}\"}": {
+    "error": "",
+    "response": {
+      "friends": [
+        {
+          "avatar": "https://example.com/avatar1.jpg",
+          "fullname": "John Doe",
+          "id": 12345
+        },
+        {
+          "avatar": "https://example.com/avatar2.jpg",
+          "fullname": "Jane Smith",
+          "id": 67890
+        }
+      ]
+    }
+  },
+  "{\"application_id\":\"Mashape\",\"json\":\"{\\\"id\\\":\\\"null\\\",\\\"method\\\":\\\"friend.list\\\",\\\"params\\\":{\\\"count\\\":20,\\\"offset\\\":0,\\\"user_id\\\":\\\"99999\\\"}}\",\"mask\":\"{\\\"friends\\\":{\\\"id\\\":1,\\\"fullname\\\":1}}\"}": {
+    "error": "",
+    "response": {
+      "friends": [
+        {
+          "fullname": "Charlie Davis",
+          "id": 33333
+        },
+        {
+          "fullname": "Diana Evans",
+          "id": 44444
+        },
+        {
+          "fullname": "Ethan Foster",
+          "id": 55555
+        }
+      ]
+    }
+  },
+  "{\"application_id\":\"Mashape\",\"json\":\"{\\\"id\\\":\\\"null\\\",\\\"method\\\":\\\"friend.list\\\",\\\"params\\\":{\\\"count\\\":5,\\\"offset\\\":10,\\\"user_id\\\":\\\"67890\\\"}}\",\"mask\":\"{\\\"friends\\\":{\\\"id\\\":1,\\\"url_id\\\":1,\\\"fullname\\\":1,\\\"gender\\\":1,\\\"avatar\\\":1,\\\"is_page\\\":1}}\"}": {
+    "error": "",
+    "response": {
+      "friends": [
+        {
+          "avatar": "https://example.com/avatar3.jpg",
+          "fullname": "Alice Johnson",
+          "gender": "female",
+          "id": 11111,
+          "is_page": 0,
+          "url_id": "user11111"
+        },
+        {
+          "avatar": "https://example.com/avatar4.jpg",
+          "fullname": "Bob Brown",
+          "gender": "male",
+          "id": 22222,
+          "is_page": 0,
+          "url_id": "user22222"
+        }
+      ]
+    }
+  }
+}

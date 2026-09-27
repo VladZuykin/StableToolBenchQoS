@@ -1,0 +1,103 @@
+{
+  "{\"ids\":\"3o7aD2saalBwwftBI\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "3o7aD2saalBwwftBI",
+          "images": {
+            "original": {
+              "height": "281",
+              "url": "https://media.giphy.com/media/3o7aD2saalBwwftBI/giphy.gif",
+              "width": "500"
+            }
+          },
+          "title": "Excited Panda",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/3o7aD2saalBwwftBI"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "def456",
+        "status": 200
+      }
+    }
+  },
+  "{\"ids\":\"feqkVgjJpYtjy,7rzbxdu0ZEXLy\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "feqkVgjJpYtjy",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/feqkVgjJpYtjy/giphy.gif",
+              "width": "480"
+            }
+          },
+          "title": "Funny Cat",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/feqkVgjJpYtjy"
+        },
+        {
+          "id": "7rzbxdu0ZEXLy",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/7rzbxdu0ZEXLy/giphy.gif",
+              "width": "480"
+            }
+          },
+          "title": "Dancing Dog",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/7rzbxdu0ZEXLy"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "abc123",
+        "status": 200
+      }
+    }
+  },
+  "{\"ids\":\"l0HlvtIPzPdt2usKs,26ufdipQqU2lhNA4g\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "l0HlvtIPzPdt2usKs",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif",
+              "width": "480"
+            }
+          },
+          "title": "Happy Dance",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/l0HlvtIPzPdt2usKs"
+        },
+        {
+          "id": "26ufdipQqU2lhNA4g",
+          "images": {
+            "original": {
+              "height": "270",
+              "url": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+              "width": "480"
+            }
+          },
+          "title": "Surprised Sloth",
+          "type": "gif",
+          "url": "https://giphy.com/gifs/26ufdipQqU2lhNA4g"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "ghi789",
+        "status": 200
+      }
+    }
+  }
+}

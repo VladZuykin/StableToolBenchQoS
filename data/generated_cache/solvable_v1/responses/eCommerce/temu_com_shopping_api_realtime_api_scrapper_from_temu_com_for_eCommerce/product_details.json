@@ -1,0 +1,414 @@
+{
+  "{\"goodsid\":\"601099512499291\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "afterSale": {
+          "contents": [
+            "Free return within 90 days",
+            "Money back guarantee"
+          ],
+          "title": "Free Returns",
+          "title2": "90-day buyer protection",
+          "type": 1
+        },
+        "gallery": [
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099512499291/g1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099512499291/g2.jpg"
+          }
+        ],
+        "goodsId": 601099512499291,
+        "goodsName": "Wireless Bluetooth Earbuds with Charging Case, Noise Cancelling Headphones",
+        "goodsProperty": [
+          {
+            "key": "Brand",
+            "value": "Generic"
+          },
+          {
+            "key": "Color",
+            "value": "Black"
+          }
+        ],
+        "hdThumbUrl": "https://img.temu.com/601099512499291/hd.jpg",
+        "imageUrl": "https://img.temu.com/601099512499291/main.jpg",
+        "isOnsale": 1,
+        "itemId": "601099512499291",
+        "maxOnSalePrice": 2599,
+        "minOnSaleLinePrice": 1999,
+        "minOnSalePrice": 1299,
+        "minOnSalePriceStr": "$12.99",
+        "minToMaxPriceStr": "$12.99 - $25.99",
+        "offers": {
+          "@type": "Offer",
+          "availability": "InStock",
+          "itemCondition": "NewCondition",
+          "price": "12.99",
+          "priceCurrency": "USD",
+          "url": "https://www.temu.com/goods.html?goods_id=601099512499291"
+        },
+        "saleInfo": {
+          "mallLogo": "https://img.temu.com/mall/logo1.png",
+          "mallName": "TechGadget Store",
+          "mallSalesTip": "10K+ sold",
+          "pddRoute": "techgadget",
+          "seoUrl": "https://www.temu.com/techgadget",
+          "sideSalesTip": "Top Rated"
+        },
+        "skc": [],
+        "sku": [
+          {
+            "autoTuneNumberToast": "",
+            "canSubscribe": 0,
+            "control": {},
+            "galleryId": 1,
+            "goodsId": 601099512499291,
+            "isOnsale": 1,
+            "limitQuantity": 10,
+            "linePriceRich": [
+              {
+                "text": "$19.99",
+                "textFormat": {
+                  "bold": 0,
+                  "color": "#999999",
+                  "fontSize": 12,
+                  "fontWeight": 400
+                },
+                "type": "text"
+              }
+            ],
+            "normalLinePrice": 1999,
+            "normalLinePriceStr": "$19.99",
+            "normalPrice": 1999,
+            "normalPriceStr": "$19.99",
+            "reduction": {
+              "backgroundColor": "#FFEEEE",
+              "borderColor": "#FF0000",
+              "textRich": [
+                {
+                  "text": "35% OFF",
+                  "textFormat": {
+                    "bold": 1,
+                    "color": "#FF0000",
+                    "fontSize": 12,
+                    "fontWeight": 700
+                  },
+                  "type": "text"
+                }
+              ]
+            },
+            "salePriceRich": [
+              {
+                "text": "$12.99",
+                "textFormat": {
+                  "bold": 1,
+                  "color": "#FF0000",
+                  "fontSize": 14,
+                  "fontWeight": 700
+                },
+                "type": "text"
+              }
+            ],
+            "skuId": 1001,
+            "skuLimitToast": "",
+            "specs": [
+              {
+                "specKey": "Color",
+                "specKeyId": 1,
+                "specValue": "Black",
+                "specValueId": 11
+              }
+            ],
+            "subscribeStatus": 0,
+            "thumbUrl": "https://img.temu.com/601099512499291/sku1.jpg"
+          }
+        ],
+        "soldQuantity": 15420,
+        "status": 1,
+        "thumbUrl": "https://img.temu.com/601099512499291/thumb.jpg"
+      }
+    }
+  },
+  "{\"goodsid\":\"601099512865631\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "afterSale": {
+          "contents": [
+            "Free return within 90 days",
+            "Money back guarantee"
+          ],
+          "title": "Free Returns",
+          "title2": "90-day buyer protection",
+          "type": 1
+        },
+        "gallery": [
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099512865631/g1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099512865631/g2.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099512865631/g3.jpg"
+          }
+        ],
+        "goodsId": 601099512865631,
+        "goodsName": "Stainless Steel Kitchen Knife Set, 5-Piece Professional Chef Knives",
+        "goodsProperty": [
+          {
+            "key": "Material",
+            "value": "Stainless Steel"
+          },
+          {
+            "key": "Pieces",
+            "value": "5"
+          }
+        ],
+        "hdThumbUrl": "https://img.temu.com/601099512865631/hd.jpg",
+        "imageUrl": "https://img.temu.com/601099512865631/main.jpg",
+        "isOnsale": 1,
+        "itemId": "601099512865631",
+        "maxOnSalePrice": 3499,
+        "minOnSaleLinePrice": 3999,
+        "minOnSalePrice": 2499,
+        "minOnSalePriceStr": "$24.99",
+        "minToMaxPriceStr": "$24.99 - $34.99",
+        "offers": {
+          "@type": "Offer",
+          "availability": "InStock",
+          "itemCondition": "NewCondition",
+          "price": "24.99",
+          "priceCurrency": "USD",
+          "url": "https://www.temu.com/goods.html?goods_id=601099512865631"
+        },
+        "saleInfo": {
+          "mallLogo": "https://img.temu.com/mall/logo2.png",
+          "mallName": "HomeChef Supplies",
+          "mallSalesTip": "5K+ sold",
+          "pddRoute": "homechef",
+          "seoUrl": "https://www.temu.com/homechef",
+          "sideSalesTip": "Best Seller"
+        },
+        "skc": [],
+        "sku": [
+          {
+            "autoTuneNumberToast": "",
+            "canSubscribe": 0,
+            "control": {},
+            "galleryId": 1,
+            "goodsId": 601099512865631,
+            "isOnsale": 1,
+            "limitQuantity": 5,
+            "linePriceRich": [
+              {
+                "text": "$39.99",
+                "textFormat": {
+                  "bold": 0,
+                  "color": "#999999",
+                  "fontSize": 12,
+                  "fontWeight": 400
+                },
+                "type": "text"
+              }
+            ],
+            "normalLinePrice": 3999,
+            "normalLinePriceStr": "$39.99",
+            "normalPrice": 3999,
+            "normalPriceStr": "$39.99",
+            "reduction": {
+              "backgroundColor": "#FFEEEE",
+              "borderColor": "#FF0000",
+              "textRich": [
+                {
+                  "text": "37% OFF",
+                  "textFormat": {
+                    "bold": 1,
+                    "color": "#FF0000",
+                    "fontSize": 12,
+                    "fontWeight": 700
+                  },
+                  "type": "text"
+                }
+              ]
+            },
+            "salePriceRich": [
+              {
+                "text": "$24.99",
+                "textFormat": {
+                  "bold": 1,
+                  "color": "#FF0000",
+                  "fontSize": 14,
+                  "fontWeight": 700
+                },
+                "type": "text"
+              }
+            ],
+            "skuId": 2001,
+            "skuLimitToast": "",
+            "specs": [
+              {
+                "specKey": "Set",
+                "specKeyId": 2,
+                "specValue": "5-Piece",
+                "specValueId": 21
+              }
+            ],
+            "subscribeStatus": 0,
+            "thumbUrl": "https://img.temu.com/601099512865631/sku1.jpg"
+          }
+        ],
+        "soldQuantity": 8320,
+        "status": 1,
+        "thumbUrl": "https://img.temu.com/601099512865631/thumb.jpg"
+      }
+    }
+  },
+  "{\"goodsid\":\"601099513000001\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "afterSale": {
+          "contents": [
+            "Free return within 90 days",
+            "Money back guarantee"
+          ],
+          "title": "Free Returns",
+          "title2": "90-day buyer protection",
+          "type": 1
+        },
+        "gallery": [
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099513000001/g1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://img.temu.com/601099513000001/g2.jpg"
+          }
+        ],
+        "goodsId": 601099513000001,
+        "goodsName": "Cotton Blend Oversized Hoodie, Unisex Casual Pullover Sweatshirt",
+        "goodsProperty": [
+          {
+            "key": "Fabric",
+            "value": "Cotton Blend"
+          },
+          {
+            "key": "Fit",
+            "value": "Oversized"
+          }
+        ],
+        "hdThumbUrl": "https://img.temu.com/601099513000001/hd.jpg",
+        "imageUrl": "https://img.temu.com/601099513000001/main.jpg",
+        "isOnsale": 1,
+        "itemId": "601099513000001",
+        "maxOnSalePrice": 2299,
+        "minOnSaleLinePrice": 2999,
+        "minOnSalePrice": 1899,
+        "minOnSalePriceStr": "$18.99",
+        "minToMaxPriceStr": "$18.99 - $22.99",
+        "offers": {
+          "@type": "Offer",
+          "availability": "InStock",
+          "itemCondition": "NewCondition",
+          "price": "18.99",
+          "priceCurrency": "USD",
+          "url": "https://www.temu.com/goods.html?goods_id=601099513000001"
+        },
+        "saleInfo": {
+          "mallLogo": "https://img.temu.com/mall/logo3.png",
+          "mallName": "UrbanWear Co.",
+          "mallSalesTip": "20K+ sold",
+          "pddRoute": "urbanwear",
+          "seoUrl": "https://www.temu.com/urbanwear",
+          "sideSalesTip": "Trending"
+        },
+        "skc": [],
+        "sku": [
+          {
+            "autoTuneNumberToast": "",
+            "canSubscribe": 0,
+            "control": {},
+            "galleryId": 1,
+            "goodsId": 601099513000001,
+            "isOnsale": 1,
+            "limitQuantity": 3,
+            "linePriceRich": [
+              {
+                "text": "$29.99",
+                "textFormat": {
+                  "bold": 0,
+                  "color": "#999999",
+                  "fontSize": 12,
+                  "fontWeight": 400
+                },
+                "type": "text"
+              }
+            ],
+            "normalLinePrice": 2999,
+            "normalLinePriceStr": "$29.99",
+            "normalPrice": 2999,
+            "normalPriceStr": "$29.99",
+            "reduction": {
+              "backgroundColor": "#FFEEEE",
+              "borderColor": "#FF0000",
+              "textRich": [
+                {
+                  "text": "37% OFF",
+                  "textFormat": {
+                    "bold": 1,
+                    "color": "#FF0000",
+                    "fontSize": 12,
+                    "fontWeight": 700
+                  },
+                  "type": "text"
+                }
+              ]
+            },
+            "salePriceRich": [
+              {
+                "text": "$18.99",
+                "textFormat": {
+                  "bold": 1,
+                  "color": "#FF0000",
+                  "fontSize": 14,
+                  "fontWeight": 700
+                },
+                "type": "text"
+              }
+            ],
+            "skuId": 3001,
+            "skuLimitToast": "",
+            "specs": [
+              {
+                "specKey": "Size",
+                "specKeyId": 3,
+                "specValue": "M",
+                "specValueId": 31
+              },
+              {
+                "specKey": "Color",
+                "specKeyId": 1,
+                "specValue": "Grey",
+                "specValueId": 12
+              }
+            ],
+            "subscribeStatus": 0,
+            "thumbUrl": "https://img.temu.com/601099513000001/sku1.jpg"
+          }
+        ],
+        "soldQuantity": 22150,
+        "status": 1,
+        "thumbUrl": "https://img.temu.com/601099513000001/thumb.jpg"
+      }
+    }
+  }
+}

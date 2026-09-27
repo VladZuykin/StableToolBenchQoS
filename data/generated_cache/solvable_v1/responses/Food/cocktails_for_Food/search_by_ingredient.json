@@ -1,0 +1,20 @@
+{
+  "{\"ingredient\":\"Rum\"}": {
+    "error": "",
+    "response": {
+      "message": "Found 8 cocktails with Rum"
+    }
+  },
+  "{\"ingredient\":\"Tequila\"}": {
+    "error": "",
+    "response": {
+      "message": "Found 5 cocktails with Tequila"
+    }
+  },
+  "{\"ingredient\":\"Vodka\"}": {
+    "error": "",
+    "response": {
+      "message": "Found 12 cocktails with Vodka"
+    }
+  }
+}

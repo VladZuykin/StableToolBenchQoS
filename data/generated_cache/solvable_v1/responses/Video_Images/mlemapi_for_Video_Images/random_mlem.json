@@ -1,0 +1,47 @@
+{
+  "{\"brightness\":\"bright\",\"orientation\":\"square\",\"tag\":\"blep\"}": {
+    "error": "",
+    "response": {
+      "brightness": "bright",
+      "code": 200,
+      "height": 1000,
+      "id": 9162,
+      "orientation": "square",
+      "tags": [
+        "blep"
+      ],
+      "url": "https://mlemapi.example.com/images/9162.jpg",
+      "width": 1000
+    }
+  },
+  "{\"brightness\":\"dark\",\"orientation\":\"landscape\",\"tag\":\"cat\"}": {
+    "error": "",
+    "response": {
+      "brightness": "dark",
+      "code": 200,
+      "height": 1080,
+      "id": 4821,
+      "orientation": "landscape",
+      "tags": [
+        "cat"
+      ],
+      "url": "https://mlemapi.example.com/images/4821.jpg",
+      "width": 1920
+    }
+  },
+  "{\"maxheight\":1200,\"maxwidth\":1600,\"minheight\":600,\"minwidth\":800}": {
+    "error": "",
+    "response": {
+      "brightness": "bright",
+      "code": 200,
+      "height": 900,
+      "id": 7355,
+      "orientation": "landscape",
+      "tags": [
+        "dog"
+      ],
+      "url": "https://mlemapi.example.com/images/7355.jpg",
+      "width": 1440
+    }
+  }
+}

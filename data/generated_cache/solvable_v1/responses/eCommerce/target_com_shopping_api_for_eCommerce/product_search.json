@@ -1,0 +1,115 @@
+{
+  "{\"count\":\"10\",\"keyword\":\"kitchen blender\",\"offset\":\"0\",\"store_id\":\"1122\"}": {
+    "error": "",
+    "response": {
+      "count": 10,
+      "message": "Products found for 'kitchen blender' at store 1122",
+      "offset": 0,
+      "products": [
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 39.99,
+          "product_id": "D13579246",
+          "rating": 4.3,
+          "reviews": 54,
+          "title": "Countertop Blender - 6 Speed",
+          "url": "https://www.target.com/p/D13579246"
+        },
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 24.99,
+          "product_id": "E86420975",
+          "rating": 4.1,
+          "reviews": 89,
+          "title": "Personal Blender with Travel Cup",
+          "url": "https://www.target.com/p/E86420975"
+        }
+      ],
+      "total_results": 2
+    }
+  },
+  "{\"count\":\"25\",\"keyword\":\"mens t-shirts\",\"offset\":\"25\",\"store_id\":\"1122\"}": {
+    "error": "",
+    "response": {
+      "count": 25,
+      "message": "Products found for 'mens t-shirts' at store 1122",
+      "offset": 25,
+      "products": [
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 12.99,
+          "product_id": "F19283746",
+          "rating": 4.4,
+          "reviews": 312,
+          "title": "Men's Crew Neck T-Shirt - Navy",
+          "url": "https://www.target.com/p/F19283746"
+        },
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 14.99,
+          "product_id": "G56473829",
+          "rating": 4.0,
+          "reviews": 145,
+          "title": "Men's V-Neck T-Shirt - Gray",
+          "url": "https://www.target.com/p/G56473829"
+        },
+        {
+          "currency": "USD",
+          "in_stock": false,
+          "price": 16.99,
+          "product_id": "H91827364",
+          "rating": 4.6,
+          "reviews": 98,
+          "title": "Men's Graphic T-Shirt - Black",
+          "url": "https://www.target.com/p/H91827364"
+        }
+      ],
+      "total_results": 3
+    }
+  },
+  "{\"count\":\"25\",\"keyword\":\"womens shoes\",\"offset\":\"0\",\"store_id\":\"1122\"}": {
+    "error": "",
+    "response": {
+      "count": 25,
+      "message": "Products found for 'womens shoes' at store 1122",
+      "offset": 0,
+      "products": [
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 49.99,
+          "product_id": "A12345678",
+          "rating": 4.5,
+          "reviews": 128,
+          "title": "Women's Running Shoes - Black",
+          "url": "https://www.target.com/p/A12345678"
+        },
+        {
+          "currency": "USD",
+          "in_stock": true,
+          "price": 34.99,
+          "product_id": "B98765432",
+          "rating": 4.2,
+          "reviews": 76,
+          "title": "Women's Casual Sneakers - White",
+          "url": "https://www.target.com/p/B98765432"
+        },
+        {
+          "currency": "USD",
+          "in_stock": false,
+          "price": 59.99,
+          "product_id": "C24681357",
+          "rating": 4.7,
+          "reviews": 203,
+          "title": "Women's Ankle Boots - Brown",
+          "url": "https://www.target.com/p/C24681357"
+        }
+      ],
+      "total_results": 3
+    }
+  }
+}

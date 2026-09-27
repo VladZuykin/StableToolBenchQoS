@@ -1,0 +1,92 @@
+{
+  "{\"domain\":\"yandex.com\",\"page\":0,\"query\":\"bitcoin\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "items": [
+          {
+            "duration": "5:12",
+            "source": "youtube.com",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/1234567/abc123",
+            "title": "Bitcoin Explained in 5 Minutes",
+            "url": "https://yandex.com/video/preview/1234567890"
+          },
+          {
+            "duration": "42:07",
+            "source": "vimeo.com",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/7654321/def456",
+            "title": "How Bitcoin Works - Full Documentary",
+            "url": "https://yandex.com/video/preview/9876543210"
+          }
+        ],
+        "pagination": {
+          "current_page": 0,
+          "last_page": 9
+        },
+        "region": null
+      },
+      "description": "Yandex video search results for 'bitcoin' on yandex.com",
+      "status": 200
+    }
+  },
+  "{\"domain\":\"yandex.kz\",\"page\":1,\"query\":\"python tutorial\",\"videoduration\":\"long\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "items": [
+          {
+            "duration": "6:01:22",
+            "source": "youtube.com",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/3344556/mno345",
+            "title": "Python Full Course for Beginners",
+            "url": "https://yandex.kz/video/preview/3344556677"
+          },
+          {
+            "duration": "2:14:09",
+            "source": "vimeo.com",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/7788990/pqr678",
+            "title": "Advanced Python Programming Tutorial",
+            "url": "https://yandex.kz/video/preview/7788990011"
+          }
+        ],
+        "pagination": {
+          "current_page": 1,
+          "last_page": 5
+        },
+        "region": null
+      },
+      "description": "Yandex video search results for 'python tutorial' on yandex.kz",
+      "status": 200
+    }
+  },
+  "{\"domain\":\"yandex.ru\",\"page\":2,\"query\":\"paris travel vlog\",\"region\":\"Paris, France\",\"videohd\":true,\"videorecent\":true}": {
+    "error": "",
+    "response": {
+      "data": {
+        "items": [
+          {
+            "duration": "18:33",
+            "source": "youtube.com",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/2233445/ghi789",
+            "title": "Paris Travel Vlog 2024 | 4K HD",
+            "url": "https://yandex.ru/video/preview/1122334455"
+          },
+          {
+            "duration": "12:45",
+            "source": "rutube.ru",
+            "thumbnail": "https://avatars.mds.yandex.net/get-vthumb/6677889/jkl012",
+            "title": "A Weekend in Paris - Travel Guide",
+            "url": "https://yandex.ru/video/preview/5566778899"
+          }
+        ],
+        "pagination": {
+          "current_page": 2,
+          "last_page": 7
+        },
+        "region": "Paris, France"
+      },
+      "description": "Yandex video search results for 'paris travel vlog' on yandex.ru",
+      "status": 200
+    }
+  }
+}

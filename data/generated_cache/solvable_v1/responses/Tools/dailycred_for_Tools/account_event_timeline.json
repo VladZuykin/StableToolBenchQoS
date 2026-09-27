@@ -1,0 +1,65 @@
+{
+  "{\"client_id\":\"dc_cli_3c8d91f6\",\"client_secret\":\"demo_client_secret_1\",\"event_type\":\"password_reset\"}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "event_type": "password_reset",
+          "ip_address": "192.0.2.140",
+          "provider": "email",
+          "timestamp": "2024-06-04T17:52:19Z",
+          "user_id": "usr_30117"
+        }
+      ]
+    }
+  },
+  "{\"client_id\":\"dc_cli_7b2e55c4\",\"client_secret\":\"demo_client_secret_2\",\"event_type\":\"signup\"}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "event_type": "signup",
+          "ip_address": "203.0.113.101",
+          "provider": "email",
+          "timestamp": "2024-06-03T08:15:44Z",
+          "user_id": "usr_20501"
+        },
+        {
+          "event_type": "signup",
+          "ip_address": "198.51.100.77",
+          "provider": "twitter",
+          "timestamp": "2024-06-03T11:29:58Z",
+          "user_id": "usr_20502"
+        }
+      ]
+    }
+  },
+  "{\"client_id\":\"dc_cli_9f3a72b1\",\"client_secret\":\"demo_client_secret_3\",\"event_type\":\"login\"}": {
+    "error": "",
+    "response": {
+      "events": [
+        {
+          "event_type": "login",
+          "ip_address": "203.0.113.45",
+          "provider": "email",
+          "timestamp": "2024-06-01T14:22:31Z",
+          "user_id": "usr_10293"
+        },
+        {
+          "event_type": "login",
+          "ip_address": "198.51.100.22",
+          "provider": "twitter",
+          "timestamp": "2024-06-01T15:03:12Z",
+          "user_id": "usr_10294"
+        },
+        {
+          "event_type": "login",
+          "ip_address": "192.0.2.88",
+          "provider": "linkedin",
+          "timestamp": "2024-06-02T09:47:05Z",
+          "user_id": "usr_10295"
+        }
+      ]
+    }
+  }
+}

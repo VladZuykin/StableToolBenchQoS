@@ -1,0 +1,29 @@
+{
+  "{\"amount\":1000,\"currency_from\":\"gbp\",\"currency_to\":\"ltc\"}": {
+    "error": "",
+    "response": {
+      "amount": 1000,
+      "currency_from": "gbp",
+      "currency_to": "ltc",
+      "estimated_amount": 14.9254
+    }
+  },
+  "{\"amount\":250,\"currency_from\":\"eur\",\"currency_to\":\"eth\"}": {
+    "error": "",
+    "response": {
+      "amount": 250,
+      "currency_from": "eur",
+      "currency_to": "eth",
+      "estimated_amount": 0.0781
+    }
+  },
+  "{\"amount\":7500.75,\"currency_from\":\"brl\",\"currency_to\":\"xrp\"}": {
+    "error": "",
+    "response": {
+      "amount": 7500.75,
+      "currency_from": "brl",
+      "currency_to": "xrp",
+      "estimated_amount": 1285.3476
+    }
+  }
+}

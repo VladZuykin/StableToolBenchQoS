@@ -1,0 +1,227 @@
+{
+  "{\"track_id\":123456789}": {
+    "error": "",
+    "response": {
+      "albumadamid": "1440818588",
+      "alias": "Levitating",
+      "artists": [
+        {
+          "adamid": "1031397873",
+          "alias": "Dua Lipa",
+          "id": "1031397873"
+        }
+      ],
+      "genres": {
+        "primary": "Pop"
+      },
+      "hub": {
+        "actions": [
+          {
+            "id": "1440818588",
+            "name": "Listen on Apple Music",
+            "type": "applemusic"
+          },
+          {
+            "id": "1440818588",
+            "name": "Listen on Spotify",
+            "type": "spotify"
+          }
+        ],
+        "displayname": "Dua Lipa",
+        "explicit": false,
+        "image": "https://images.shazam.com/coverart/t123456789-b1440818588_s400.jpg",
+        "type": "artist"
+      },
+      "images": {
+        "background": "https://images.shazam.com/coverart/t123456789-b1440818588_s1080.jpg",
+        "coverart": "https://images.shazam.com/coverart/t123456789-b1440818588_s400.jpg",
+        "coverarthq": "https://images.shazam.com/coverart/t123456789-b1440818588_s800.jpg",
+        "joecolor": "b:000000:p:ffffff:s:cccccc"
+      },
+      "isrc": "GBAHT2000123",
+      "key": "123456789",
+      "layout": "5",
+      "releasedate": "2020-03-27",
+      "sections": [
+        {
+          "metadata": [
+            {
+              "text": "Pop",
+              "title": "Genre"
+            },
+            {
+              "text": "2020",
+              "title": "Released"
+            }
+          ],
+          "tabname": "Song",
+          "type": "SONG"
+        }
+      ],
+      "share": {
+        "avatar": "https://images.shazam.com/coverart/t123456789-b1440818588_s400.jpg",
+        "href": "https://www.shazam.com/track/123456789/levitating",
+        "html": "<a href=\"https://www.shazam.com/track/123456789/levitating\">Levitating</a>",
+        "image": "https://images.shazam.com/coverart/t123456789-b1440818588_s400.jpg",
+        "subject": "Levitating - Dua Lipa",
+        "text": "Levitating by Dua Lipa",
+        "twitter": "https://twitter.com/intent/tweet?text=Levitating+by+Dua+Lipa"
+      },
+      "subtitle": "Dua Lipa",
+      "title": "Levitating",
+      "trackadamid": "1440818588",
+      "type": "song",
+      "url": "https://www.shazam.com/track/123456789/levitating"
+    }
+  },
+  "{\"track_id\":296831279}": {
+    "error": "",
+    "response": {
+      "albumadamid": "1440833098",
+      "alias": "Dance Monkey",
+      "artists": [
+        {
+          "adamid": "1440833098",
+          "alias": "Tones and I",
+          "id": "1440833098"
+        }
+      ],
+      "genres": {
+        "primary": "Pop"
+      },
+      "hub": {
+        "actions": [
+          {
+            "id": "1440833098",
+            "name": "Listen on Apple Music",
+            "type": "applemusic"
+          },
+          {
+            "id": "1440833098",
+            "name": "Listen on Spotify",
+            "type": "spotify"
+          }
+        ],
+        "displayname": "Tones and I",
+        "explicit": false,
+        "image": "https://images.shazam.com/coverart/t296831279-b1440833098_s400.jpg",
+        "type": "artist"
+      },
+      "images": {
+        "background": "https://images.shazam.com/coverart/t296831279-b1440833098_s1080.jpg",
+        "coverart": "https://images.shazam.com/coverart/t296831279-b1440833098_s400.jpg",
+        "coverarthq": "https://images.shazam.com/coverart/t296831279-b1440833098_s800.jpg",
+        "joecolor": "b:000000:p:ffffff:s:cccccc"
+      },
+      "isrc": "USUM71912345",
+      "key": "296831279",
+      "layout": "5",
+      "releasedate": "2019-05-10",
+      "sections": [
+        {
+          "metadata": [
+            {
+              "text": "Pop",
+              "title": "Genre"
+            },
+            {
+              "text": "2019",
+              "title": "Released"
+            }
+          ],
+          "tabname": "Song",
+          "type": "SONG"
+        }
+      ],
+      "share": {
+        "avatar": "https://images.shazam.com/coverart/t296831279-b1440833098_s400.jpg",
+        "href": "https://www.shazam.com/track/296831279/dance-monkey",
+        "html": "<a href=\"https://www.shazam.com/track/296831279/dance-monkey\">Dance Monkey</a>",
+        "image": "https://images.shazam.com/coverart/t296831279-b1440833098_s400.jpg",
+        "subject": "Dance Monkey - Tones and I",
+        "text": "Dance Monkey by Tones and I",
+        "twitter": "https://twitter.com/intent/tweet?text=Dance+Monkey+by+Tones+and+I"
+      },
+      "subtitle": "Tones and I",
+      "title": "Dance Monkey",
+      "trackadamid": "1440833098",
+      "type": "song",
+      "url": "https://www.shazam.com/track/296831279/dance-monkey"
+    }
+  },
+  "{\"track_id\":5494321}": {
+    "error": "",
+    "response": {
+      "albumadamid": "1440935467",
+      "alias": "Blinding Lights",
+      "artists": [
+        {
+          "adamid": "5458412",
+          "alias": "The Weeknd",
+          "id": "5458412"
+        }
+      ],
+      "genres": {
+        "primary": "R&B/Soul"
+      },
+      "hub": {
+        "actions": [
+          {
+            "id": "1440935467",
+            "name": "Listen on Apple Music",
+            "type": "applemusic"
+          },
+          {
+            "id": "1440935467",
+            "name": "Listen on Spotify",
+            "type": "spotify"
+          }
+        ],
+        "displayname": "The Weeknd",
+        "explicit": false,
+        "image": "https://images.shazam.com/coverart/t5494321-b1440935467_s400.jpg",
+        "type": "artist"
+      },
+      "images": {
+        "background": "https://images.shazam.com/coverart/t5494321-b1440935467_s1080.jpg",
+        "coverart": "https://images.shazam.com/coverart/t5494321-b1440935467_s400.jpg",
+        "coverarthq": "https://images.shazam.com/coverart/t5494321-b1440935467_s800.jpg",
+        "joecolor": "b:000000:p:ffffff:s:cccccc"
+      },
+      "isrc": "USUG11904206",
+      "key": "5494321",
+      "layout": "5",
+      "releasedate": "2019-11-29",
+      "sections": [
+        {
+          "metadata": [
+            {
+              "text": "R&B/Soul",
+              "title": "Genre"
+            },
+            {
+              "text": "2019",
+              "title": "Released"
+            }
+          ],
+          "tabname": "Song",
+          "type": "SONG"
+        }
+      ],
+      "share": {
+        "avatar": "https://images.shazam.com/coverart/t5494321-b1440935467_s400.jpg",
+        "href": "https://www.shazam.com/track/5494321/blinding-lights",
+        "html": "<a href=\"https://www.shazam.com/track/5494321/blinding-lights\">Blinding Lights</a>",
+        "image": "https://images.shazam.com/coverart/t5494321-b1440935467_s400.jpg",
+        "subject": "Blinding Lights - The Weeknd",
+        "text": "Blinding Lights by The Weeknd",
+        "twitter": "https://twitter.com/intent/tweet?text=Blinding+Lights+by+The+Weeknd"
+      },
+      "subtitle": "The Weeknd",
+      "title": "Blinding Lights",
+      "trackadamid": "1440935467",
+      "type": "song",
+      "url": "https://www.shazam.com/track/5494321/blinding-lights"
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "{\"genre\":\"K_POP\"}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/charts/get-top-songs-in-world-by-genre?genre=K_POP&page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "223344556",
+              "alias": "bts",
+              "id": "667788990"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/bts",
+            "trackhighlighturl": "https://www.shazam.com/track/dynamite"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "2",
+                "name": "Listen",
+                "type": "button"
+              }
+            ],
+            "displayname": "BTS",
+            "explicit": false,
+            "image": "https://images.shazam.com/bts.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "Apple Music",
+                  "type": "provider"
+                },
+                "caption": "Play on Apple Music",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/applemusic.png",
+                "listcaption": "Apple Music",
+                "overflowimage": "https://images.shazam.com/applemusic-overflow.png",
+                "providername": "Apple Music",
+                "type": "provider"
+              }
+            ],
+            "type": "artist"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "kpop-1",
+          "layout": "default",
+          "properties": {},
+          "share": {
+            "avatar": "https://images.shazam.com/avatar.jpg",
+            "href": "https://www.shazam.com/track/dynamite",
+            "html": "<a href='https://www.shazam.com/track/dynamite'>Dynamite</a>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat",
+            "subject": "Dynamite",
+            "text": "Listen to Dynamite",
+            "twitter": "https://www.shazam.com/twitter"
+          },
+          "subtitle": "BTS",
+          "title": "Dynamite"
+        }
+      ]
+    }
+  },
+  "{\"genre\":\"LATIN\"}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/charts/get-top-songs-in-world-by-genre?genre=LATIN&page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "334455667",
+              "alias": "badbunny",
+              "id": "778899001"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/badbunny",
+            "trackhighlighturl": "https://www.shazam.com/track/tití-me-preguntó"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "3",
+                "name": "Listen",
+                "type": "button"
+              }
+            ],
+            "displayname": "Bad Bunny",
+            "explicit": true,
+            "image": "https://images.shazam.com/badbunny.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "Apple Music",
+                  "type": "provider"
+                },
+                "caption": "Play on Apple Music",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/applemusic.png",
+                "listcaption": "Apple Music",
+                "overflowimage": "https://images.shazam.com/applemusic-overflow.png",
+                "providername": "Apple Music",
+                "type": "provider"
+              }
+            ],
+            "type": "artist"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "latin-1",
+          "layout": "default",
+          "properties": {},
+          "share": {
+            "avatar": "https://images.shazam.com/avatar.jpg",
+            "href": "https://www.shazam.com/track/tití-me-preguntó",
+            "html": "<a href='https://www.shazam.com/track/tití-me-preguntó'>Tití Me Preguntó</a>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat",
+            "subject": "Tití Me Preguntó",
+            "text": "Listen to Tití Me Preguntó",
+            "twitter": "https://www.shazam.com/twitter"
+          },
+          "subtitle": "Bad Bunny",
+          "title": "Tití Me Preguntó"
+        }
+      ]
+    }
+  },
+  "{\"genre\":\"ROCK\"}": {
+    "error": "",
+    "response": {
+      "next": "https://www.shazam.com/services/charts/get-top-songs-in-world-by-genre?genre=ROCK&page=2",
+      "properties": {},
+      "tracks": [
+        {
+          "artists": [
+            {
+              "_list_length": 1,
+              "adamid": "123456789",
+              "alias": "queen",
+              "id": "987654321"
+            }
+          ],
+          "highlightsurls": {
+            "artisthighlightsurl": "https://www.shazam.com/artist/queen",
+            "trackhighlighturl": "https://www.shazam.com/track/bohemian-rhapsody"
+          },
+          "hub": {
+            "actions": [
+              {
+                "_list_length": 2,
+                "id": "1",
+                "name": "Listen",
+                "type": "button"
+              }
+            ],
+            "displayname": "Queen",
+            "explicit": false,
+            "image": "https://images.shazam.com/queen.jpg",
+            "options": [
+              {
+                "_list_length": 1,
+                "actions": [
+                  {
+                    "_list_length": 2,
+                    "name": "Play",
+                    "type": "button",
+                    "uri": "shazam://play"
+                  }
+                ],
+                "beacondata": {
+                  "providername": "Apple Music",
+                  "type": "provider"
+                },
+                "caption": "Play on Apple Music",
+                "colouroverflowimage": false,
+                "image": "https://images.shazam.com/applemusic.png",
+                "listcaption": "Apple Music",
+                "overflowimage": "https://images.shazam.com/applemusic-overflow.png",
+                "providername": "Apple Music",
+                "type": "provider"
+              }
+            ],
+            "type": "artist"
+          },
+          "images": {
+            "background": "https://images.shazam.com/background.jpg",
+            "coverart": "https://images.shazam.com/coverart.jpg",
+            "coverarthq": "https://images.shazam.com/coverarthq.jpg",
+            "joecolor": "#000000"
+          },
+          "key": "rock-1",
+          "layout": "default",
+          "properties": {},
+          "share": {
+            "avatar": "https://images.shazam.com/avatar.jpg",
+            "href": "https://www.shazam.com/track/bohemian-rhapsody",
+            "html": "<a href='https://www.shazam.com/track/bohemian-rhapsody'>Bohemian Rhapsody</a>",
+            "image": "https://images.shazam.com/share.jpg",
+            "snapchat": "https://www.shazam.com/snapchat",
+            "subject": "Bohemian Rhapsody",
+            "text": "Listen to Bohemian Rhapsody",
+            "twitter": "https://www.shazam.com/twitter"
+          },
+          "subtitle": "Queen",
+          "title": "Bohemian Rhapsody"
+        }
+      ]
+    }
+  }
+}

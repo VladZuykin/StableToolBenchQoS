@@ -1,0 +1,56 @@
+{
+  "{\"catch_all\":0,\"email\":\"jane@gmial.com\"}": {
+    "error": "",
+    "response": {
+      "catch_all": false,
+      "did_you_mean": "jane@gmail.com",
+      "disposable": false,
+      "domain": "gmial.com",
+      "email": "jane@gmial.com",
+      "format_valid": true,
+      "free": false,
+      "mx_found": false,
+      "role": false,
+      "score": 0.1,
+      "smtp_check": false,
+      "success": true,
+      "user": "jane"
+    }
+  },
+  "{\"catch_all\":1,\"email\":\"info@tempmail.org\",\"smtp\":0}": {
+    "error": "",
+    "response": {
+      "catch_all": true,
+      "did_you_mean": "",
+      "disposable": true,
+      "domain": "tempmail.org",
+      "email": "info@tempmail.org",
+      "format_valid": true,
+      "free": false,
+      "mx_found": true,
+      "role": true,
+      "score": 0.2,
+      "smtp_check": false,
+      "success": true,
+      "user": "info"
+    }
+  },
+  "{\"email\":\"john.doe@gmail.com\"}": {
+    "error": "",
+    "response": {
+      "catch_all": false,
+      "did_you_mean": "",
+      "disposable": false,
+      "domain": "gmail.com",
+      "email": "john.doe@gmail.com",
+      "format_valid": true,
+      "free": true,
+      "mx_found": true,
+      "role": false,
+      "score": 0.96,
+      "smtp_check": true,
+      "success": true,
+      "user": "john.doe"
+    }
+  }
+}

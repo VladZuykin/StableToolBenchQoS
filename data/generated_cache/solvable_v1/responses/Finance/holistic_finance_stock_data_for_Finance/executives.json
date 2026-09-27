@@ -1,0 +1,24 @@
+{
+  "{\"symbol\":\"GOOGL\"}": {
+    "error": "",
+    "response": {
+      "currencyPay": "USD",
+      "name": "Sundar Pichai",
+      "pay": "2,000,000",
+      "title": "Chief Executive Officer",
+      "titleSince": null,
+      "yearBorn": "1972"
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "currencyPay": "USD",
+      "name": "Elon Musk",
+      "pay": "0",
+      "title": "Chief Executive Officer",
+      "titleSince": null,
+      "yearBorn": "1971"
+    }
+  }
+}

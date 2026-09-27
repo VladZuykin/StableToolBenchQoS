@@ -1,0 +1,27 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "me",
+      "parameters": [],
+      "response": [
+        {
+          "created_at": "2023-04-18T09:12:45Z",
+          "email": "tuananh92@example.com",
+          "id": "user_10293",
+          "last_login": "2024-06-02T14:37:10Z",
+          "profile": {
+            "avatar_url": "https://cdn.example.com/avatars/user_10293.png",
+            "display_name": "Tuấn Anh",
+            "locale": "vi-VN"
+          },
+          "role": "member",
+          "status": "active",
+          "username": "tuananh_92"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

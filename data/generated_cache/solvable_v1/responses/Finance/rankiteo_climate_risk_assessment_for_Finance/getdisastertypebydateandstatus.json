@@ -1,0 +1,107 @@
+{
+  "{\"disaster_status\":0,\"end_date\":\"31-12-2023\",\"start_date\":\"01-06-2023\"}": {
+    "error": "",
+    "response": {
+      "disasters": [
+        {
+          "affected_population": 800000,
+          "disaster_id": "DS-2023-101",
+          "end_date": "04-09-2023",
+          "location": "Florida, USA",
+          "severity": "High",
+          "start_date": "28-08-2023",
+          "status": "Past",
+          "type": "Hurricane"
+        },
+        {
+          "affected_population": 1500000,
+          "disaster_id": "DS-2023-102",
+          "end_date": "30-11-2023",
+          "location": "Horn of Africa",
+          "severity": "High",
+          "start_date": "15-06-2023",
+          "status": "Past",
+          "type": "Drought"
+        },
+        {
+          "affected_population": 30000,
+          "disaster_id": "DS-2023-103",
+          "end_date": "12-11-2023",
+          "location": "Petropolis, Brazil",
+          "severity": "Medium",
+          "start_date": "10-11-2023",
+          "status": "Past",
+          "type": "Landslide"
+        }
+      ],
+      "page_number": 1,
+      "total_pages": 1,
+      "total_results": 3
+    }
+  },
+  "{\"disaster_status\":1,\"end_date\":\"30-09-2024\",\"page_number\":2,\"start_date\":\"01-07-2024\"}": {
+    "error": "",
+    "response": {
+      "disasters": [
+        {
+          "affected_population": 500000,
+          "disaster_id": "DS-2024-201",
+          "location": "Luzon, Philippines",
+          "severity": "High",
+          "start_date": "18-07-2024",
+          "status": "Ongoing",
+          "type": "Typhoon"
+        },
+        {
+          "affected_population": 180000,
+          "disaster_id": "DS-2024-202",
+          "location": "Sylhet, Bangladesh",
+          "severity": "Medium",
+          "start_date": "02-08-2024",
+          "status": "Ongoing",
+          "type": "Flood"
+        }
+      ],
+      "page_number": 2,
+      "total_pages": 2,
+      "total_results": 5
+    }
+  },
+  "{\"disaster_status\":1,\"end_date\":\"31-03-2024\",\"page_number\":1,\"start_date\":\"01-01-2024\"}": {
+    "error": "",
+    "response": {
+      "disasters": [
+        {
+          "affected_population": 250000,
+          "disaster_id": "DS-2024-001",
+          "location": "Jakarta, Indonesia",
+          "severity": "High",
+          "start_date": "12-01-2024",
+          "status": "Ongoing",
+          "type": "Flood"
+        },
+        {
+          "affected_population": 45000,
+          "disaster_id": "DS-2024-002",
+          "location": "Alberta, Canada",
+          "severity": "Medium",
+          "start_date": "05-02-2024",
+          "status": "Ongoing",
+          "type": "Wildfire"
+        },
+        {
+          "affected_population": 120000,
+          "disaster_id": "DS-2024-003",
+          "location": "Kyushu, Japan",
+          "severity": "High",
+          "start_date": "22-02-2024",
+          "status": "Ongoing",
+          "type": "Earthquake"
+        }
+      ],
+      "page_number": 1,
+      "total_pages": 2,
+      "total_results": 6
+    }
+  }
+}

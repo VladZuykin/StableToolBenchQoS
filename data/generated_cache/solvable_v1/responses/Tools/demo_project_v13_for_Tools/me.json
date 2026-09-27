@@ -1,0 +1,28 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "me",
+      "parameters": [],
+      "response": [
+        {
+          "created_at": "2024-11-03T09:14:27Z",
+          "display_name": "Alex Rivera",
+          "email": "alex.rivera@example.com",
+          "id": "usr_8f3a2b1c",
+          "last_login": "2025-01-12T18:42:05Z",
+          "permissions": [
+            "read",
+            "write"
+          ],
+          "project_id": "demo_project_v13",
+          "role": "member",
+          "status": "active",
+          "username": "alex.rivera"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

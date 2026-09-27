@@ -1,0 +1,14 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": {
+        "active": true,
+        "endpoint": "endpoint1",
+        "service": "chattydata"
+      },
+      "message": "Welcome to the chatty app endpoint",
+      "status": "ok"
+    }
+  }
+}

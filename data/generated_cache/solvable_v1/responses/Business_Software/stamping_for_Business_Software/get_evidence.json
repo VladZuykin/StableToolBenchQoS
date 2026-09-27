@@ -1,0 +1,19 @@
+{
+  "{\"hash\":\"a3f5c9d1e7b2486f0c2d4e6a8b1f3c5d7e9a0b2c4d6f8e1a3b5c7d9e0f2a4b6c\"}": {
+    "error": "",
+    "response": {
+      "block_number": 19876543,
+      "blockchain": "ethereum",
+      "confirmations": 128,
+      "evidence": {
+        "document_type": "digital_register",
+        "owner": "0x9f8e7d6c5b4a39281706f5e4d3c2b1a0",
+        "registered_at": "2024-11-08T14:20:05Z"
+      },
+      "hash": "a3f5c9d1e7b2486f0c2d4e6a8b1f3c5d7e9a0b2c4d6f8e1a3b5c7d9e0f2a4b6c",
+      "status": "confirmed",
+      "timestamp": "2024-11-08T14:32:17Z",
+      "transaction_id": "0x7d4e2a1b9c8f3e6d5a0b7c4e2f1d8a9b6c3e0f5a2d7b4c1e8f9a6d3b0c7e4f1a"
+    }
+  }
+}

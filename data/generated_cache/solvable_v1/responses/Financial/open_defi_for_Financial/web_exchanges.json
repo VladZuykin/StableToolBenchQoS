@@ -1,0 +1,140 @@
+{
+  "{\"chain_slug\":\"arbitrum\",\"direction\":\"desc\",\"filter_zero_volume\":true,\"sort\":\"usd_volume_30d\"}": {
+    "error": "",
+    "response": {
+      "exchanges": [
+        {
+          "address": "0x6eccab422d763ac031210895c81787e73c43f4d4",
+          "chain_id": 42161,
+          "chain_name": "Arbitrum",
+          "chain_slug": "arbitrum",
+          "exchange_id": 88,
+          "exchange_slug": "camelot-v2",
+          "exchange_type": "uniswap_v2",
+          "human_readable_name": "Camelot v2",
+          "notable": true,
+          "pair_count": 612,
+          "usd_volume_30d": 31204567.89
+        },
+        {
+          "address": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+          "chain_id": 42161,
+          "chain_name": "Arbitrum",
+          "chain_slug": "arbitrum",
+          "exchange_id": 89,
+          "exchange_slug": "sushiswap-arbitrum",
+          "exchange_type": "sushiswap",
+          "human_readable_name": "SushiSwap Arbitrum",
+          "notable": true,
+          "pair_count": 233,
+          "usd_volume_30d": 9876543.21
+        },
+        {
+          "address": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+          "chain_id": 42161,
+          "chain_name": "Arbitrum",
+          "chain_slug": "arbitrum",
+          "exchange_id": 90,
+          "exchange_slug": "uniswap-v3-arbitrum",
+          "exchange_type": "uniswap_v3",
+          "human_readable_name": "Uniswap v3 Arbitrum",
+          "notable": true,
+          "pair_count": 745,
+          "usd_volume_30d": 45678901.23
+        }
+      ]
+    }
+  },
+  "{\"chain_slug\":\"ethereum\",\"direction\":\"desc\",\"filter_zero_volume\":true,\"sort\":\"usd_volume_30d\"}": {
+    "error": "",
+    "response": {
+      "exchanges": [
+        {
+          "address": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+          "chain_id": 1,
+          "chain_name": "Ethereum",
+          "chain_slug": "ethereum",
+          "exchange_id": 1,
+          "exchange_slug": "uniswap-v2",
+          "exchange_type": "uniswap_v2",
+          "human_readable_name": "Uniswap v2",
+          "notable": true,
+          "pair_count": 1842,
+          "usd_volume_30d": 482391045.12
+        },
+        {
+          "address": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+          "chain_id": 1,
+          "chain_name": "Ethereum",
+          "chain_slug": "ethereum",
+          "exchange_id": 2,
+          "exchange_slug": "uniswap-v3",
+          "exchange_type": "uniswap_v3",
+          "human_readable_name": "Uniswap v3",
+          "notable": true,
+          "pair_count": 3210,
+          "usd_volume_30d": 1203948576.44
+        },
+        {
+          "address": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+          "chain_id": 1,
+          "chain_name": "Ethereum",
+          "chain_slug": "ethereum",
+          "exchange_id": 3,
+          "exchange_slug": "sushiswap",
+          "exchange_type": "sushiswap",
+          "human_readable_name": "SushiSwap",
+          "notable": true,
+          "pair_count": 954,
+          "usd_volume_30d": 87341220.9
+        }
+      ]
+    }
+  },
+  "{\"chain_slug\":\"polygon\",\"direction\":\"asc\",\"filter_zero_volume\":false,\"sort\":\"pair_count\"}": {
+    "error": "",
+    "response": {
+      "exchanges": [
+        {
+          "address": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+          "chain_id": 137,
+          "chain_name": "Polygon",
+          "chain_slug": "polygon",
+          "exchange_id": 41,
+          "exchange_slug": "quickswap-v2",
+          "exchange_type": "uniswap_v2",
+          "human_readable_name": "QuickSwap v2",
+          "notable": true,
+          "pair_count": 12,
+          "usd_volume_30d": 0.0
+        },
+        {
+          "address": "0xe7fb3e833efe5f9c441105eb65ef8b261266423b",
+          "chain_id": 137,
+          "chain_name": "Polygon",
+          "chain_slug": "polygon",
+          "exchange_id": 42,
+          "exchange_slug": "dfyn",
+          "exchange_type": "uniswap_v2",
+          "human_readable_name": "Dfyn",
+          "notable": false,
+          "pair_count": 87,
+          "usd_volume_30d": 14203.55
+        },
+        {
+          "address": "0x411b0facc3489691f28ad58c47006af5e3ab3a28",
+          "chain_id": 137,
+          "chain_name": "Polygon",
+          "chain_slug": "polygon",
+          "exchange_id": 43,
+          "exchange_slug": "quickswap-v3",
+          "exchange_type": "uniswap_v3",
+          "human_readable_name": "QuickSwap v3",
+          "notable": true,
+          "pair_count": 310,
+          "usd_volume_30d": 5210344.78
+        }
+      ]
+    }
+  }
+}

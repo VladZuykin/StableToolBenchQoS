@@ -1,0 +1,52 @@
+{
+  "{\"languageid\":\"en\"}": {
+    "error": "",
+    "response": {
+      "filters": [
+        {
+          "id": "top_tier_stays",
+          "name": "Top Tier Stays",
+          "options": [
+            {
+              "id": "luxury",
+              "name": "Luxury"
+            },
+            {
+              "id": "unique",
+              "name": "Unique"
+            },
+            {
+              "id": "trending",
+              "name": "Trending"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "{\"languageid\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "filters": [
+        {
+          "id": "top_tier_stays",
+          "name": "Séjours haut de gamme",
+          "options": [
+            {
+              "id": "luxury",
+              "name": "Luxe"
+            },
+            {
+              "id": "unique",
+              "name": "Unique"
+            },
+            {
+              "id": "trending",
+              "name": "Tendance"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

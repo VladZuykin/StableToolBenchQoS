@@ -1,0 +1,11 @@
+{
+  "{\"is_from\":\"Meter\",\"to\":\"Foot\",\"type\":\"length\",\"value\":25}": {
+    "error": "",
+    "response": {
+      "from": "Meter",
+      "input": 25,
+      "result": 82.021,
+      "to": "Foot"
+    }
+  }
+}

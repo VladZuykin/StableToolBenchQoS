@@ -1,0 +1,32 @@
+{
+  "{\"backcolor\":\"EEEEEE\",\"forecolor\":\"FF5733\",\"labelalign\":\"right\",\"labeltext\":\"Email Us\",\"level\":\"L\",\"setlabel\":true,\"size\":1000,\"text\":\"mailto:contact@digicatech.com?subject=Inquiry\",\"type\":\"eps\",\"validate\":true}": {
+    "error": "",
+    "response": {
+      "content_type": "application/postscript",
+      "format": "eps",
+      "height": 1000,
+      "url": "https://api.qrcodeutils.com/qrcodepro?text=mailto%3Acontact%40digicatech.com%3Fsubject%3DInquiry&type=eps&size=1000&forecolor=FF5733&backcolor=EEEEEE&level=L&validate=true&setlabel=true&labeltext=Email%20Us&labelalign=right",
+      "width": 1000
+    }
+  },
+  "{\"backcolor\":\"F0F0F0\",\"forecolor\":\"1A2B3C\",\"labelalign\":\"left\",\"labeltext\":\"Scan Me\",\"level\":\"H\",\"setlabel\":true,\"size\":300,\"text\":\"https://www.example.com/products/12345\",\"type\":\"png\",\"validate\":true}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "format": "png",
+      "height": 300,
+      "url": "https://api.qrcodeutils.com/qrcodepro?text=https%3A%2F%2Fwww.example.com%2Fproducts%2F12345&type=png&size=300&forecolor=1A2B3C&backcolor=F0F0F0&level=H&validate=true&setlabel=true&labeltext=Scan%20Me&labelalign=left",
+      "width": 300
+    }
+  },
+  "{\"backcolor\":\"FFFFFF\",\"forecolor\":\"0000FF\",\"labelalign\":\"center\",\"level\":\"Q\",\"setlabel\":false,\"size\":500,\"text\":\"WIFI:T:WPA;S:MyNetwork;P:secretpass;;\",\"type\":\"svg\",\"validate\":false}": {
+    "error": "",
+    "response": {
+      "content_type": "image/svg+xml",
+      "format": "svg",
+      "height": 500,
+      "url": "https://api.qrcodeutils.com/qrcodepro?text=WIFI%3AT%3AWPA%3BS%3AMyNetwork%3BP%3Asecretpass%3B%3B&type=svg&size=500&forecolor=0000FF&backcolor=FFFFFF&level=Q&validate=false&setlabel=false&labelalign=center",
+      "width": 500
+    }
+  }
+}

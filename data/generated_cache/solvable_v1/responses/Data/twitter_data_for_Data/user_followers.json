@@ -1,0 +1,191 @@
+{
+  "{\"count\":10,\"is_id\":\"1234567890\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 20000000,
+                                  "name": "BBC News",
+                                  "screen_name": "BBCNews"
+                                },
+                                "rest_id": "333333333"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-333333333"
+                      },
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 18000000,
+                                  "name": "CNN",
+                                  "screen_name": "CNN"
+                                },
+                                "rest_id": "444444444"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-444444444"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"count\":20,\"cursor\":\"DAABCgABFzY3ODk\",\"is_id\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 150000000,
+                                  "name": "Elon Musk",
+                                  "screen_name": "elonmusk"
+                                },
+                                "rest_id": "111111111"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-111111111"
+                      },
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 60000000,
+                                  "name": "NASA",
+                                  "screen_name": "NASA"
+                                },
+                                "rest_id": "222222222"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-222222222"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"count\":5,\"is_id\":\"783214\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 10500000,
+                                  "name": "TechCrunch",
+                                  "screen_name": "TechCrunch"
+                                },
+                                "rest_id": "123456789"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-123456789"
+                      },
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineUser",
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "legacy": {
+                                  "followers_count": 4500000,
+                                  "name": "Wired",
+                                  "screen_name": "Wired"
+                                },
+                                "rest_id": "987654321"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "user-987654321"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

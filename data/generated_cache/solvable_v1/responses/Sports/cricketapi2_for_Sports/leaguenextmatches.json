@@ -1,0 +1,113 @@
+{
+  "{\"page\":0,\"seasonid\":44608,\"tournamentid\":19048}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Australia",
+          "homeTeam": "India",
+          "matchDate": "2024-06-15T09:00:00Z",
+          "matchId": 102345,
+          "seasonId": 44608,
+          "status": "Scheduled",
+          "tournamentId": 19048,
+          "venue": "Wankhede Stadium, Mumbai"
+        },
+        {
+          "awayTeam": "South Africa",
+          "homeTeam": "England",
+          "matchDate": "2024-06-16T13:30:00Z",
+          "matchId": 102346,
+          "seasonId": 44608,
+          "status": "Scheduled",
+          "tournamentId": 19048,
+          "venue": "Lord's, London"
+        },
+        {
+          "awayTeam": "Pakistan",
+          "homeTeam": "New Zealand",
+          "matchDate": "2024-06-18T07:00:00Z",
+          "matchId": 102347,
+          "seasonId": 44608,
+          "status": "Scheduled",
+          "tournamentId": 19048,
+          "venue": "Eden Park, Auckland"
+        }
+      ]
+    }
+  },
+  "{\"page\":1,\"seasonid\":44609,\"tournamentid\":19049}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Bangladesh",
+          "homeTeam": "Sri Lanka",
+          "matchDate": "2024-07-02T10:00:00Z",
+          "matchId": 102401,
+          "seasonId": 44609,
+          "status": "Scheduled",
+          "tournamentId": 19049,
+          "venue": "R. Premadasa Stadium, Colombo"
+        },
+        {
+          "awayTeam": "Afghanistan",
+          "homeTeam": "West Indies",
+          "matchDate": "2024-07-03T14:00:00Z",
+          "matchId": 102402,
+          "seasonId": 44609,
+          "status": "Scheduled",
+          "tournamentId": 19049,
+          "venue": "Kensington Oval, Bridgetown"
+        }
+      ]
+    }
+  },
+  "{\"page\":2,\"seasonid\":44610,\"tournamentid\":19050}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Ireland",
+          "homeTeam": "Zimbabwe",
+          "matchDate": "2024-08-10T08:30:00Z",
+          "matchId": 102455,
+          "seasonId": 44610,
+          "status": "Scheduled",
+          "tournamentId": 19050,
+          "venue": "Harare Sports Club, Harare"
+        },
+        {
+          "awayTeam": "Netherlands",
+          "homeTeam": "Scotland",
+          "matchDate": "2024-08-11T11:00:00Z",
+          "matchId": 102456,
+          "seasonId": 44610,
+          "status": "Scheduled",
+          "tournamentId": 19050,
+          "venue": "The Grange, Edinburgh"
+        },
+        {
+          "awayTeam": "Oman",
+          "homeTeam": "Nepal",
+          "matchDate": "2024-08-12T06:00:00Z",
+          "matchId": 102457,
+          "seasonId": 44610,
+          "status": "Scheduled",
+          "tournamentId": 19050,
+          "venue": "TU Cricket Ground, Kirtipur"
+        },
+        {
+          "awayTeam": "Namibia",
+          "homeTeam": "United Arab Emirates",
+          "matchDate": "2024-08-13T09:15:00Z",
+          "matchId": 102458,
+          "seasonId": 44610,
+          "status": "Scheduled",
+          "tournamentId": 19050,
+          "venue": "Dubai International Stadium, Dubai"
+        }
+      ]
+    }
+  }
+}

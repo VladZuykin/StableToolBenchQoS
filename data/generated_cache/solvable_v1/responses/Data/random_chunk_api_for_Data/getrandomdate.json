@@ -1,0 +1,36 @@
+{
+  "{\"end\":\"2020-12-31\",\"start\":\"2020-01-01\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "random date",
+      "parameters": {
+        "end": "2020-12-31",
+        "start": "2020-01-01"
+      },
+      "response": [
+        {
+          "date": "2020-07-14"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"end\":\"2023-06-30\",\"start\":\"2023-01-01\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "random date",
+      "parameters": {
+        "end": "2023-06-30",
+        "start": "2023-01-01"
+      },
+      "response": [
+        {
+          "date": "2023-03-22"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

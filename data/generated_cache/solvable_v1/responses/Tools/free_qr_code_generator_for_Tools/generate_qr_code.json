@@ -1,0 +1,29 @@
+{
+  "{\"data\":\"Hello, World!\"}": {
+    "error": "",
+    "response": {
+      "data": "Hello, World!",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qr/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d.png",
+      "size": 300
+    }
+  },
+  "{\"data\":\"WIFI:T:WPA;S:MyNetwork;P:secret123;;\"}": {
+    "error": "",
+    "response": {
+      "data": "WIFI:T:WPA;S:MyNetwork;P:secret123;;",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qr/9z8y7x6w5v4u3t2s1r0q9p8o7n6m5l4k.png",
+      "size": 300
+    }
+  },
+  "{\"data\":\"https://example.com/hello-world\"}": {
+    "error": "",
+    "response": {
+      "data": "https://example.com/hello-world",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qr/8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c.png",
+      "size": 300
+    }
+  }
+}

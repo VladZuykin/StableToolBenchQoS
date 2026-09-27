@@ -1,0 +1,116 @@
+{
+  "{\"latitude\":\"40.750\",\"longitude\":\"-73.990\",\"state\":\"NY\",\"store_id\":\"1298\",\"tcin\":\"81114592\",\"zip\":\"10001\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "product": {
+          "handling": {
+            "import_designation_description": "Domestic"
+          },
+          "is_limited_time_offer": false,
+          "item": {
+            "enrichment": {
+              "buy_url": "https://www.target.com/p/-/A-81114592",
+              "images": {
+                "alternate_image_urls": [
+                  "https://target.scene7.com/is/image/Target/81114592_1",
+                  "https://target.scene7.com/is/image/Target/81114592_2"
+                ],
+                "primary_image_url": "https://target.scene7.com/is/image/Target/81114592",
+                "swatch_image_url": "https://target.scene7.com/is/image/Target/81114592_sw"
+              },
+              "videos": []
+            }
+          },
+          "primary_brand": {
+            "canonical_url": "/b/threshold/-/N-5xsmz",
+            "linking_id": "B0001",
+            "name": "Threshold"
+          },
+          "relationship_type_code": "STANDALONE",
+          "tcin": "81114592"
+        }
+      }
+    }
+  },
+  "{\"latitude\":\"41.880\",\"longitude\":\"-87.630\",\"store_id\":\"2765\",\"tcin\":\"76543210\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "product": {
+          "handling": {
+            "import_designation_description": "Domestic"
+          },
+          "is_limited_time_offer": false,
+          "item": {
+            "enrichment": {
+              "buy_url": "https://www.target.com/p/-/A-76543210",
+              "images": {
+                "alternate_image_urls": [
+                  "https://target.scene7.com/is/image/Target/76543210_1",
+                  "https://target.scene7.com/is/image/Target/76543210_2"
+                ],
+                "primary_image_url": "https://target.scene7.com/is/image/Target/76543210",
+                "swatch_image_url": "https://target.scene7.com/is/image/Target/76543210_sw"
+              },
+              "videos": []
+            }
+          },
+          "primary_brand": {
+            "canonical_url": "/b/good-gather/-/N-4xcf1",
+            "linking_id": "B0107",
+            "name": "Good & Gather"
+          },
+          "relationship_type_code": "STANDALONE",
+          "tcin": "76543210"
+        }
+      }
+    }
+  },
+  "{\"state\":\"CA\",\"store_id\":\"3330\",\"tcin\":\"16251811\",\"zip\":\"94611\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "product": {
+          "handling": {
+            "import_designation_description": "Domestic"
+          },
+          "is_limited_time_offer": true,
+          "item": {
+            "enrichment": {
+              "buy_url": "https://www.target.com/p/-/A-16251811",
+              "images": {
+                "alternate_image_urls": [
+                  "https://target.scene7.com/is/image/Target/16251811_1",
+                  "https://target.scene7.com/is/image/Target/16251811_2"
+                ],
+                "primary_image_url": "https://target.scene7.com/is/image/Target/16251811",
+                "swatch_image_url": "https://target.scene7.com/is/image/Target/16251811_sw"
+              },
+              "videos": [
+                {
+                  "video_files": [
+                    {
+                      "mime_type": "video/mp4",
+                      "video_height_pixels": "720",
+                      "video_url": "https://target.scene7.com/is/content/Target/16251811_video"
+                    }
+                  ],
+                  "video_length_seconds": "32",
+                  "video_title": "Product overview"
+                }
+              ]
+            }
+          },
+          "primary_brand": {
+            "canonical_url": "/b/cat-jack/-/N-5xtb0",
+            "linking_id": "B0042",
+            "name": "Cat & Jack"
+          },
+          "relationship_type_code": "VARIANT",
+          "tcin": "16251811"
+        }
+      }
+    }
+  }
+}

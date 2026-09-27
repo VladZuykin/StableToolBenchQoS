@@ -1,0 +1,170 @@
+{
+  "{\"symb\":\"AAPL\"}": {
+    "error": "",
+    "response": {
+      "currentPrice": {
+        "fmt": "189.43",
+        "raw": 189.43
+      },
+      "currentRatio": {
+        "fmt": "1.07",
+        "raw": 1.07
+      },
+      "debtToEquity": {
+        "fmt": "145.32",
+        "raw": 145.32
+      },
+      "ebitda": {
+        "fmt": "125.82B",
+        "longFmt": "125,820,000,000",
+        "raw": 125820000000
+      },
+      "maxAge": 86400,
+      "numberOfAnalystOpinions": {
+        "fmt": "38",
+        "longFmt": "38",
+        "raw": 38
+      },
+      "quickRatio": {
+        "fmt": "0.98",
+        "raw": 0.98
+      },
+      "recommendationKey": "buy",
+      "recommendationMean": {
+        "fmt": "1.80",
+        "raw": 1.8
+      },
+      "returnOnAssets": {
+        "fmt": "0.22",
+        "raw": 0.22
+      },
+      "returnOnEquity": {
+        "fmt": "1.47",
+        "raw": 1.47
+      },
+      "revenuePerShare": {
+        "fmt": "24.62",
+        "raw": 24.62
+      },
+      "targetHighPrice": {
+        "fmt": "250.00",
+        "raw": 250
+      },
+      "targetLowPrice": {
+        "fmt": "150.00",
+        "raw": 150.0
+      },
+      "targetMeanPrice": {
+        "fmt": "205.67",
+        "raw": 205.67
+      },
+      "targetMedianPrice": {
+        "fmt": "210.00",
+        "raw": 210
+      },
+      "totalCash": {
+        "fmt": "61.56B",
+        "longFmt": "61,555,000,320",
+        "raw": 61555000320
+      },
+      "totalCashPerShare": {
+        "fmt": "3.95",
+        "raw": 3.95
+      },
+      "totalDebt": {
+        "fmt": "111.09B",
+        "longFmt": "111,088,003,072",
+        "raw": 111088003072
+      },
+      "totalRevenue": {
+        "fmt": "383.29B",
+        "longFmt": "383,285,000,000",
+        "raw": 383285000000
+      }
+    }
+  },
+  "{\"symb\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "currentPrice": {
+        "fmt": "415.28",
+        "raw": 415.28
+      },
+      "currentRatio": {
+        "fmt": "1.27",
+        "raw": 1.27
+      },
+      "debtToEquity": {
+        "fmt": "35.41",
+        "raw": 35.41
+      },
+      "ebitda": {
+        "fmt": "125.50B",
+        "longFmt": "125,500,000,000",
+        "raw": 125500000000
+      },
+      "maxAge": 86400,
+      "numberOfAnalystOpinions": {
+        "fmt": "42",
+        "longFmt": "42",
+        "raw": 42
+      },
+      "quickRatio": {
+        "fmt": "1.21",
+        "raw": 1.21
+      },
+      "recommendationKey": "strong_buy",
+      "recommendationMean": {
+        "fmt": "1.50",
+        "raw": 1.5
+      },
+      "returnOnAssets": {
+        "fmt": "0.18",
+        "raw": 0.18
+      },
+      "returnOnEquity": {
+        "fmt": "0.39",
+        "raw": 0.39
+      },
+      "revenuePerShare": {
+        "fmt": "32.98",
+        "raw": 32.98
+      },
+      "targetHighPrice": {
+        "fmt": "500.00",
+        "raw": 500
+      },
+      "targetLowPrice": {
+        "fmt": "340.00",
+        "raw": 340.0
+      },
+      "targetMeanPrice": {
+        "fmt": "442.15",
+        "raw": 442.15
+      },
+      "targetMedianPrice": {
+        "fmt": "445.00",
+        "raw": 445
+      },
+      "totalCash": {
+        "fmt": "80.02B",
+        "longFmt": "80,019,000,320",
+        "raw": 80019000320
+      },
+      "totalCashPerShare": {
+        "fmt": "10.76",
+        "raw": 10.76
+      },
+      "totalDebt": {
+        "fmt": "97.00B",
+        "longFmt": "97,000,000,512",
+        "raw": 97000000512
+      },
+      "totalRevenue": {
+        "fmt": "245.12B",
+        "longFmt": "245,122,000,000",
+        "raw": 245122000000
+      }
+    }
+  }
+}

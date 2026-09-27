@@ -1,0 +1,37 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "flights": [
+        {
+          "airline": "Global Airways",
+          "arrival_time": "2025-06-15T20:45:00Z",
+          "departure_time": "2025-06-15T08:30:00Z",
+          "destination": "LHR",
+          "flight_number": "FL123",
+          "origin": "JFK",
+          "price": {
+            "amount": 540.0,
+            "currency": "USD"
+          },
+          "seats_available": 12
+        },
+        {
+          "airline": "SkyLink",
+          "arrival_time": "2025-06-17T09:30:00Z",
+          "departure_time": "2025-06-16T14:00:00Z",
+          "destination": "CDG",
+          "flight_number": "FL456",
+          "origin": "LAX",
+          "price": {
+            "amount": 720.5,
+            "currency": "USD"
+          },
+          "seats_available": 5
+        }
+      ],
+      "provider": "FlightsLogic",
+      "status": "success"
+    }
+  }
+}

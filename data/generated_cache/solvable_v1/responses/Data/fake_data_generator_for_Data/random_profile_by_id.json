@@ -1,0 +1,206 @@
+{
+  "{\"is_id\":123}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "avatar": "https://example.com/avatar123.jpg",
+          "blood_group": "B+",
+          "company": "EduTech",
+          "date_of_birth": {
+            "age": 42,
+            "birthdate": "1981-03-20"
+          },
+          "gender": "Male",
+          "id": 123,
+          "job": "Teacher",
+          "location": {
+            "address": "789 Pine Rd",
+            "city": "Austin",
+            "coordinates": {
+              "latitude": "30.2672",
+              "longitude": "-97.7431"
+            },
+            "country": "USA",
+            "postcode": "73301",
+            "state": "TX"
+          },
+          "login": {
+            "md5": "25d55ad283aa400af464c76d713c07ad",
+            "password": "teacher123",
+            "sha1": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+            "sha256": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+            "username": "mikebrown"
+          },
+          "mail": "mikebrown@example.com",
+          "name": {
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "name": "Michael Brown",
+            "prefix": "Mr."
+          },
+          "phones": {
+            "country_code": "+1",
+            "msisd": "5554567890",
+            "phone_number": "555-456-7890"
+          },
+          "picture": {
+            "large": "https://example.com/large123.jpg",
+            "medium": "https://example.com/medium123.jpg",
+            "thumbnail": "https://example.com/thumb123.jpg"
+          },
+          "residence": "789 Pine Rd, Austin, TX 73301",
+          "sex": "M",
+          "ssn": "111-22-3333",
+          "uid": "uid123",
+          "website": [
+            "https://mikebrown.com",
+            "https://blog.mikebrown.com",
+            "https://portfolio.mikebrown.com",
+            "https://linkedin.com/in/mikebrown"
+          ]
+        }
+      ],
+      "info": {
+        "disclaimer": "This is fake data for testing purposes.",
+        "version": "1.0"
+      }
+    }
+  },
+  "{\"is_id\":42}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "avatar": "https://example.com/avatar42.jpg",
+          "blood_group": "O+",
+          "company": "TechCorp",
+          "date_of_birth": {
+            "age": 35,
+            "birthdate": "1988-05-15"
+          },
+          "gender": "Male",
+          "id": 42,
+          "job": "Software Engineer",
+          "location": {
+            "address": "123 Main St",
+            "city": "Springfield",
+            "coordinates": {
+              "latitude": "40.7128",
+              "longitude": "-74.0060"
+            },
+            "country": "USA",
+            "postcode": "12345",
+            "state": "IL"
+          },
+          "login": {
+            "md5": "d41d8cd98f00b204e9800998ecf8427e",
+            "password": "password123",
+            "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "username": "johndoe"
+          },
+          "mail": "johndoe@example.com",
+          "name": {
+            "first_name": "John",
+            "last_name": "Doe",
+            "name": "John Doe",
+            "prefix": "Mr."
+          },
+          "phones": {
+            "country_code": "+1",
+            "msisd": "5551234567",
+            "phone_number": "555-123-4567"
+          },
+          "picture": {
+            "large": "https://example.com/large42.jpg",
+            "medium": "https://example.com/medium42.jpg",
+            "thumbnail": "https://example.com/thumb42.jpg"
+          },
+          "residence": "123 Main St, Springfield, IL 12345",
+          "sex": "M",
+          "ssn": "123-45-6789",
+          "uid": "uid42",
+          "website": [
+            "https://johndoe.com",
+            "https://blog.johndoe.com",
+            "https://portfolio.johndoe.com",
+            "https://linkedin.com/in/johndoe"
+          ]
+        }
+      ],
+      "info": {
+        "disclaimer": "This is fake data for testing purposes.",
+        "version": "1.0"
+      }
+    }
+  },
+  "{\"is_id\":7}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "avatar": "https://example.com/avatar7.jpg",
+          "blood_group": "A-",
+          "company": "HealthInc",
+          "date_of_birth": {
+            "age": 28,
+            "birthdate": "1995-11-02"
+          },
+          "gender": "Female",
+          "id": 7,
+          "job": "Nurse",
+          "location": {
+            "address": "456 Oak Ave",
+            "city": "Portland",
+            "coordinates": {
+              "latitude": "45.5231",
+              "longitude": "-122.6765"
+            },
+            "country": "USA",
+            "postcode": "97201",
+            "state": "OR"
+          },
+          "login": {
+            "md5": "5f4dcc3b5aa765d61d8327deb882cf99",
+            "password": "securepass",
+            "sha1": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+            "sha256": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+            "username": "janesmith"
+          },
+          "mail": "janesmith@example.com",
+          "name": {
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "name": "Jane Smith",
+            "prefix": "Ms."
+          },
+          "phones": {
+            "country_code": "+1",
+            "msisd": "5559876543",
+            "phone_number": "555-987-6543"
+          },
+          "picture": {
+            "large": "https://example.com/large7.jpg",
+            "medium": "https://example.com/medium7.jpg",
+            "thumbnail": "https://example.com/thumb7.jpg"
+          },
+          "residence": "456 Oak Ave, Portland, OR 97201",
+          "sex": "F",
+          "ssn": "987-65-4321",
+          "uid": "uid7",
+          "website": [
+            "https://janesmith.com",
+            "https://blog.janesmith.com",
+            "https://portfolio.janesmith.com",
+            "https://linkedin.com/in/janesmith"
+          ]
+        }
+      ],
+      "info": {
+        "disclaimer": "This is fake data for testing purposes.",
+        "version": "1.0"
+      }
+    }
+  }
+}

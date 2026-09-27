@@ -1,0 +1,212 @@
+{
+  "{\"schematype\":\"1\",\"secuid\":\"MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ\",\"username\":\"therock\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/therock.jpg",
+          "digg": 1200,
+          "fans": 75000000,
+          "following": 420,
+          "heart": 980000000,
+          "id": "123456789",
+          "name": "therock",
+          "nickName": "Dwayne Johnson",
+          "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
+          "signature": "Founder of Teremana",
+          "verified": true,
+          "video": 3200
+        },
+        "commentCount": 34000,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/default.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/dynamic.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/origin.jpg"
+        },
+        "createTime": 1685001600,
+        "diggCount": 450000,
+        "downloaded": false,
+        "effectStickers": [],
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/fitness.jpg",
+            "id": "12345",
+            "name": "fitness",
+            "title": "fitness"
+          }
+        ],
+        "id": "7234567890123456789",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/large.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/medium.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/thumb.jpg",
+          "duration": 245,
+          "musicAlbum": "Rocky IV",
+          "musicAuthor": "Survivor",
+          "musicId": "6712345678901234567",
+          "musicName": "Eye of the Tiger",
+          "musicOriginal": false,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/tos-music/eye-of-the-tiger.mp3"
+        },
+        "playCount": 8900000,
+        "secretID": "secret_abc123",
+        "shareCount": 12000,
+        "text": "Morning workout grind 💪 #fitness #motivation",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/7234567890123456789",
+        "videoMeta": {
+          "duration": 15,
+          "height": 1920,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/7234567890123456789.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/7234567890123456789-nowm.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@therock/video/7234567890123456789"
+      }
+    ]
+  },
+  "{\"schematype\":\"1\",\"secuid\":\"MS4wLjABAAAAqWeRtYuIoPaSdFgHjKlZxCvBnM1234567890qwerty\",\"username\":\"khaby.lame\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/khaby.jpg",
+          "digg": 3000,
+          "fans": 162000000,
+          "following": 300,
+          "heart": 2400000000,
+          "id": "555666777",
+          "name": "khaby.lame",
+          "nickName": "Khabane Lame",
+          "secUid": "MS4wLjABAAAAqWeRtYuIoPaSdFgHjKlZxCvBnM1234567890qwerty",
+          "signature": "if you want to laugh, follow me",
+          "verified": true,
+          "video": 1100
+        },
+        "commentCount": 120000,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/default3.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/dynamic3.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/origin3.jpg"
+        },
+        "createTime": 1695000000,
+        "diggCount": 5600000,
+        "downloaded": false,
+        "effectStickers": [],
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/funny.jpg",
+            "id": "24680",
+            "name": "funny",
+            "title": "funny"
+          }
+        ],
+        "id": "7311223344556677889",
+        "mentions": [],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/large3.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/medium3.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/thumb3.jpg",
+          "duration": 12,
+          "musicAlbum": "",
+          "musicAuthor": "Original Sound",
+          "musicId": "7001122334455667788",
+          "musicName": "Funny Sound",
+          "musicOriginal": false,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/tos-music/funny-sound.mp3"
+        },
+        "playCount": 45000000,
+        "secretID": "secret_ghi789",
+        "shareCount": 78000,
+        "text": "when the food is too good 😂",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/7311223344556677889",
+        "videoMeta": {
+          "duration": 9,
+          "height": 1280,
+          "width": 720
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/7311223344556677889.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/7311223344556677889-nowm.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@khaby.lame/video/7311223344556677889"
+      }
+    ]
+  },
+  "{\"schematype\":\"2\",\"secuid\":\"MS4wLjABAAAAaBcDeFgHiJkLmNoPqRsTuVwXyZ0123456789abcdef\",\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": [
+      {
+        "authorMeta": {
+          "avatar": "https://p16-sign.tiktokcdn.com/avatar/charli.jpg",
+          "digg": 5000,
+          "fans": 155000000,
+          "following": 1200,
+          "heart": 12000000000,
+          "id": "987654321",
+          "name": "charlidamelio",
+          "nickName": "Charli D'Amelio",
+          "secUid": "MS4wLjABAAAAaBcDeFgHiJkLmNoPqRsTuVwXyZ0123456789abcdef",
+          "signature": "dancer",
+          "verified": true,
+          "video": 2100
+        },
+        "commentCount": 89000,
+        "covers": {
+          "default": "https://p16-sign.tiktokcdn.com/cover/default2.jpg",
+          "dynamic": "https://p16-sign.tiktokcdn.com/cover/dynamic2.webp",
+          "origin": "https://p16-sign.tiktokcdn.com/cover/origin2.jpg"
+        },
+        "createTime": 1690003200,
+        "diggCount": 2300000,
+        "downloaded": true,
+        "effectStickers": [
+          {
+            "id": "555",
+            "name": "Sparkle"
+          }
+        ],
+        "hashtags": [
+          {
+            "cover": "https://p16-sign.tiktokcdn.com/hashtag/dance.jpg",
+            "id": "67890",
+            "name": "dance",
+            "title": "dance"
+          }
+        ],
+        "id": "7298765432109876543",
+        "mentions": [
+          {
+            "id": "111222333",
+            "name": "addisonre",
+            "nickName": "Addison Rae",
+            "secUid": "MS4wLjABAAAAzzz111yyy222xxx333"
+          }
+        ],
+        "musicMeta": {
+          "coverLarge": "https://p16-sign.tiktokcdn.com/music/large2.jpg",
+          "coverMedium": "https://p16-sign.tiktokcdn.com/music/medium2.jpg",
+          "coverThumb": "https://p16-sign.tiktokcdn.com/music/thumb2.jpg",
+          "duration": 30,
+          "musicAlbum": "",
+          "musicAuthor": "DJ Nova",
+          "musicId": "6890123456789012345",
+          "musicName": "Trending Beat",
+          "musicOriginal": true,
+          "playUrl": "https://sf16-ies-music.tiktokcdn.com/obj/tos-music/trending-beat.mp3"
+        },
+        "playCount": 34000000,
+        "secretID": "secret_def456",
+        "shareCount": 45000,
+        "text": "new dance trend 🕺✨",
+        "videoApiUrlNoWaterMark": "https://api.tiktok.com/video/7298765432109876543",
+        "videoMeta": {
+          "duration": 22,
+          "height": 1920,
+          "width": 1080
+        },
+        "videoUrl": "https://v16-webapp.tiktok.com/video/7298765432109876543.mp4",
+        "videoUrlNoWaterMark": "https://v16-webapp.tiktok.com/video/7298765432109876543-nowm.mp4",
+        "webVideoUrl": "https://www.tiktok.com/@charlidamelio/video/7298765432109876543"
+      }
+    ]
+  }
+}

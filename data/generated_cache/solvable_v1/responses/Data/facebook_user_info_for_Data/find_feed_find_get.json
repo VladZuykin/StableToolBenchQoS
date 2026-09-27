@@ -1,0 +1,20 @@
+{
+  "{\"by_facebook_id\":\"100012345678901\"}": {
+    "error": "",
+    "response": {
+      "message": "Feed found for Facebook ID 100012345678901"
+    }
+  },
+  "{\"by_facebook_id\":\"61578901234567\",\"by_object_id\":\"987654321098765\"}": {
+    "error": "",
+    "response": {
+      "message": "Feed found for Facebook ID 61578901234567 and object ID 987654321098765"
+    }
+  },
+  "{\"by_object_id\":\"123456789012345\"}": {
+    "error": "",
+    "response": {
+      "message": "Feed found for object ID 123456789012345"
+    }
+  }
+}

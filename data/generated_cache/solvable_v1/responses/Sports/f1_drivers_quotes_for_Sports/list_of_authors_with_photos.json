@@ -1,0 +1,32 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "id": "max_verstappen",
+        "img": "https://example.com/images/max_verstappen.jpg",
+        "name": "Max Verstappen"
+      },
+      {
+        "id": "lewis_hamilton",
+        "img": "https://example.com/images/lewis_hamilton.jpg",
+        "name": "Lewis Hamilton"
+      },
+      {
+        "id": "ayrton_senna",
+        "img": "https://example.com/images/ayrton_senna.jpg",
+        "name": "Ayrton Senna"
+      },
+      {
+        "id": "michael_schumacher",
+        "img": "https://example.com/images/michael_schumacher.jpg",
+        "name": "Michael Schumacher"
+      },
+      {
+        "id": "sebastian_vettel",
+        "img": "https://example.com/images/sebastian_vettel.jpg",
+        "name": "Sebastian Vettel"
+      }
+    ]
+  }
+}

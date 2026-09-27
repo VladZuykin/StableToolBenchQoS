@@ -1,0 +1,14 @@
+{
+  "{\"url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "download_url": "https://cdn.theofficialvkr.example/downloads/dQw4w9WgXcQ_720p.mp4",
+      "duration": "3:33",
+      "file_size": "42.7 MB",
+      "format": "mp4",
+      "quality": "720p",
+      "status": "success",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)"
+    }
+  }
+}

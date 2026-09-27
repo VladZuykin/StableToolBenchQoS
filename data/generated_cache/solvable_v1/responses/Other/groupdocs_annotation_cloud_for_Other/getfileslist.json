@@ -1,0 +1,83 @@
+{
+  "{\"path\":\"/\",\"storagename\":\"myStorage\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "files": [
+        {
+          "isFolder": true,
+          "modifiedDate": "2024-02-28T09:15:00Z",
+          "name": "contracts",
+          "size": 0
+        },
+        {
+          "isFolder": true,
+          "modifiedDate": "2024-02-27T14:30:45Z",
+          "name": "invoices",
+          "size": 0
+        },
+        {
+          "isFolder": false,
+          "modifiedDate": "2024-02-20T11:00:00Z",
+          "name": "readme.txt",
+          "size": 1024
+        }
+      ],
+      "requestId": "f9e8d7c6-b5a4-4321-9876-0a1b2c3d4e5f"
+    }
+  },
+  "{\"path\":\"/annotated/legal\",\"storagename\":\"legalStorage\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "files": [
+        {
+          "isFolder": false,
+          "modifiedDate": "2024-04-01T07:45:20Z",
+          "name": "agreement_v2.docx",
+          "size": 512000
+        },
+        {
+          "isFolder": false,
+          "modifiedDate": "2024-03-29T13:12:08Z",
+          "name": "nda_signed.pdf",
+          "size": 204800
+        },
+        {
+          "isFolder": true,
+          "modifiedDate": "2024-03-25T18:00:00Z",
+          "name": "archive",
+          "size": 0
+        }
+      ],
+      "requestId": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f"
+    }
+  },
+  "{\"path\":\"/documents/reports\"}": {
+    "error": "",
+    "response": {
+      "error": null,
+      "files": [
+        {
+          "isFolder": false,
+          "modifiedDate": "2024-03-15T10:22:31Z",
+          "name": "annual_report.docx",
+          "size": 245760
+        },
+        {
+          "isFolder": true,
+          "modifiedDate": "2024-03-14T08:05:12Z",
+          "name": "quarterly",
+          "size": 0
+        },
+        {
+          "isFolder": false,
+          "modifiedDate": "2024-03-10T16:47:55Z",
+          "name": "summary.pdf",
+          "size": 98304
+        }
+      ],
+      "requestId": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    }
+  }
+}

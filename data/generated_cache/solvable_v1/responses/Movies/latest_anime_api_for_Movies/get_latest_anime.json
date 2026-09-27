@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "anime_id": "anime_2024_spring_001",
+      "img_url": "https://cdn.example.com/anime/latest/spring-2024-001.jpg",
+      "name": "Sakura Chronicles"
+    }
+  }
+}

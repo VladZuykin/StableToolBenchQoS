@@ -1,0 +1,79 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "carriers": [
+        {
+          "code": "usps",
+          "country": "US",
+          "name": "United States Postal Service",
+          "phone": "1-800-275-8777",
+          "website": "https://www.usps.com"
+        },
+        {
+          "code": "ups",
+          "country": "US",
+          "name": "United Parcel Service",
+          "phone": "1-800-742-5877",
+          "website": "https://www.ups.com"
+        },
+        {
+          "code": "fedex",
+          "country": "US",
+          "name": "FedEx",
+          "phone": "1-800-463-3339",
+          "website": "https://www.fedex.com"
+        },
+        {
+          "code": "dhl",
+          "country": "DE",
+          "name": "DHL Express",
+          "phone": "+49 228 4333112",
+          "website": "https://www.dhl.com"
+        },
+        {
+          "code": "china-ems",
+          "country": "CN",
+          "name": "China EMS",
+          "phone": "11183",
+          "website": "http://www.ems.com.cn"
+        },
+        {
+          "code": "sf-express",
+          "country": "CN",
+          "name": "SF Express",
+          "phone": "95338",
+          "website": "https://www.sf-express.com"
+        },
+        {
+          "code": "japan-post",
+          "country": "JP",
+          "name": "Japan Post",
+          "phone": "0570-046111",
+          "website": "https://www.post.japanpost.jp"
+        },
+        {
+          "code": "royal-mail",
+          "country": "GB",
+          "name": "Royal Mail",
+          "phone": "03457 740 740",
+          "website": "https://www.royalmail.com"
+        },
+        {
+          "code": "canada-post",
+          "country": "CA",
+          "name": "Canada Post",
+          "phone": "1-866-607-6301",
+          "website": "https://www.canadapost-postescanada.ca"
+        },
+        {
+          "code": "australia-post",
+          "country": "AU",
+          "name": "Australia Post",
+          "phone": "13 76 78",
+          "website": "https://auspost.com.au"
+        }
+      ]
+    }
+  }
+}

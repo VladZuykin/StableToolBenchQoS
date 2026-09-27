@@ -1,0 +1,42 @@
+{
+  "{\"is_id\":42}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 1,
+          "bban": "DE89370400440532013000",
+          "iban": "DE89370400440532013000",
+          "id": 42,
+          "swift": "COBADEFF",
+          "swift11": "COBADEFFXXX",
+          "uid": "f9e8d7c6-b5a4-3210-fedc-ba9876543210"
+        }
+      ],
+      "info": {
+        "disclaimer": "This data is fake and generated for testing purposes only.",
+        "version": "1.0.0"
+      }
+    }
+  },
+  "{\"is_id\":7}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 1,
+          "bban": "GB33BUKB20201555555555",
+          "iban": "GB33BUKB20201555555555",
+          "id": 7,
+          "swift": "BUKBGB22",
+          "swift11": "BUKBGB22XXX",
+          "uid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+        }
+      ],
+      "info": {
+        "disclaimer": "This data is fake and generated for testing purposes only.",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "{\"with_rt_ratings\":false}": {
+    "error": "",
+    "response": {
+      "@meta": {
+        "api_version": "2.0.0",
+        "server_time": 1620000000,
+        "server_timezone": "UTC"
+      },
+      "data": {
+        "limit": 20,
+        "movie_count": 1,
+        "movies": [
+          {
+            "background_image": "https://yts.mx/assets/images/movies/parasite_2019/background.jpg",
+            "background_image_original": "https://yts.mx/assets/images/movies/parasite_2019/background.jpg",
+            "date_uploaded": "2020-03-10 08:15:00",
+            "date_uploaded_unix": 1583828100,
+            "description_full": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "genres": [
+              "Drama"
+            ],
+            "id": 24680,
+            "imdb_code": "tt6751668",
+            "language": "Korean",
+            "large_cover_image": "https://yts.mx/assets/images/movies/parasite_2019/large-cover.jpg",
+            "medium_cover_image": "https://yts.mx/assets/images/movies/parasite_2019/medium-cover.jpg",
+            "mpa_rating": "R",
+            "rating": 8.5,
+            "runtime": 132,
+            "slug": "parasite-2019",
+            "small_cover_image": "https://yts.mx/assets/images/movies/parasite_2019/small-cover.jpg",
+            "state": "ok",
+            "summary": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "title": "Parasite",
+            "title_english": "Parasite",
+            "title_long": "Parasite (2019)",
+            "torrents": [
+              {
+                "date_uploaded": "2020-03-10 08:15:00",
+                "date_uploaded_unix": 1583828100,
+                "hash": "YZA567BCD890",
+                "peers": 250,
+                "quality": "1080p",
+                "seeds": 1100,
+                "size": "2.0 GB",
+                "size_bytes": 2147483648,
+                "type": "bluray",
+                "url": "https://yts.mx/torrent/download/YZA567"
+              },
+              {
+                "date_uploaded": "2020-03-10 08:15:00",
+                "date_uploaded_unix": 1583828100,
+                "hash": "EFG123HIJ456",
+                "peers": 120,
+                "quality": "720p",
+                "seeds": 700,
+                "size": "1.0 GB",
+                "size_bytes": 1073741824,
+                "type": "web",
+                "url": "https://yts.mx/torrent/download/EFG123"
+              }
+            ],
+            "url": "https://yts.mx/movies/parasite-2019",
+            "year": 2019,
+            "yt_trailer_code": "5xH0HfJHsaY"
+          }
+        ],
+        "page_number": 1
+      },
+      "status": "ok",
+      "status_message": "Query was successful"
+    }
+  },
+  "{\"with_rt_ratings\":true}": {
+    "error": "",
+    "response": {
+      "@meta": {
+        "api_version": "2.0.0",
+        "server_time": 1620000000,
+        "server_timezone": "UTC"
+      },
+      "data": {
+        "limit": 20,
+        "movie_count": 2,
+        "movies": [
+          {
+            "background_image": "https://yts.mx/assets/images/movies/the_dark_knight_2008/background.jpg",
+            "background_image_original": "https://yts.mx/assets/images/movies/the_dark_knight_2008/background.jpg",
+            "date_uploaded": "2020-01-15 10:30:00",
+            "date_uploaded_unix": 1579084200,
+            "description_full": "When the menace known as the Joker wreaks havoc on Gotham City, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "genres": [
+              "Action"
+            ],
+            "id": 12345,
+            "imdb_code": "tt0468569",
+            "language": "English",
+            "large_cover_image": "https://yts.mx/assets/images/movies/the_dark_knight_2008/large-cover.jpg",
+            "medium_cover_image": "https://yts.mx/assets/images/movies/the_dark_knight_2008/medium-cover.jpg",
+            "mpa_rating": "PG-13",
+            "rating": 9.0,
+            "runtime": 152,
+            "slug": "the-dark-knight-2008",
+            "small_cover_image": "https://yts.mx/assets/images/movies/the_dark_knight_2008/small-cover.jpg",
+            "state": "ok",
+            "summary": "When the menace known as the Joker wreaks havoc on Gotham City, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "synopsis": "When the menace known as the Joker wreaks havoc on Gotham City, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "title": "The Dark Knight",
+            "title_english": "The Dark Knight",
+            "title_long": "The Dark Knight (2008)",
+            "torrents": [
+              {
+                "date_uploaded": "2020-01-15 10:30:00",
+                "date_uploaded_unix": 1579084200,
+                "hash": "ABC123DEF456",
+                "peers": 300,
+                "quality": "1080p",
+                "seeds": 1200,
+                "size": "2.1 GB",
+                "size_bytes": 2254857830,
+                "type": "bluray",
+                "url": "https://yts.mx/torrent/download/ABC123"
+              },
+              {
+                "date_uploaded": "2020-01-15 10:30:00",
+                "date_uploaded_unix": 1579084200,
+                "hash": "GHI789JKL012",
+                "peers": 150,
+                "quality": "720p",
+                "seeds": 800,
+                "size": "1.1 GB",
+                "size_bytes": 1181116006,
+                "type": "web",
+                "url": "https://yts.mx/torrent/download/GHI789"
+              }
+            ],
+            "url": "https://yts.mx/movies/the-dark-knight-2008",
+            "year": 2008,
+            "yt_trailer_code": "EXeTwQWrcwY"
+          },
+          {
+            "background_image": "https://yts.mx/assets/images/movies/inception_2010/background.jpg",
+            "background_image_original": "https://yts.mx/assets/images/movies/inception_2010/background.jpg",
+            "date_uploaded": "2020-02-20 14:45:00",
+            "date_uploaded_unix": 1582219500,
+            "description_full": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "genres": [
+              "Sci-Fi"
+            ],
+            "id": 67890,
+            "imdb_code": "tt1375666",
+            "language": "English",
+            "large_cover_image": "https://yts.mx/assets/images/movies/inception_2010/large-cover.jpg",
+            "medium_cover_image": "https://yts.mx/assets/images/movies/inception_2010/medium-cover.jpg",
+            "mpa_rating": "PG-13",
+            "rating": 8.8,
+            "runtime": 148,
+            "slug": "inception-2010",
+            "small_cover_image": "https://yts.mx/assets/images/movies/inception_2010/small-cover.jpg",
+            "state": "ok",
+            "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "title": "Inception",
+            "title_english": "Inception",
+            "title_long": "Inception (2010)",
+            "torrents": [
+              {
+                "date_uploaded": "2020-02-20 14:45:00",
+                "date_uploaded_unix": 1582219500,
+                "hash": "MNO345PQR678",
+                "peers": 400,
+                "quality": "1080p",
+                "seeds": 1500,
+                "size": "2.5 GB",
+                "size_bytes": 2684354560,
+                "type": "bluray",
+                "url": "https://yts.mx/torrent/download/MNO345"
+              },
+              {
+                "date_uploaded": "2020-02-20 14:45:00",
+                "date_uploaded_unix": 1582219500,
+                "hash": "STU901VWX234",
+                "peers": 200,
+                "quality": "720p",
+                "seeds": 900,
+                "size": "1.3 GB",
+                "size_bytes": 1395864371,
+                "type": "web",
+                "url": "https://yts.mx/torrent/download/STU901"
+              }
+            ],
+            "url": "https://yts.mx/movies/inception-2010",
+            "year": 2010,
+            "yt_trailer_code": "YoHD9XEInc0"
+          }
+        ],
+        "page_number": 1
+      },
+      "status": "ok",
+      "status_message": "Query was successful"
+    }
+  }
+}

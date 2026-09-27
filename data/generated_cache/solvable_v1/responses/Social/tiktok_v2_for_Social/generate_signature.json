@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://www.tiktok.com/api/challenge/itemlist/?chId=12345&count=20&cursor=0\"}": {
+    "error": "",
+    "response": {
+      "signature": "_02B4Z6wo00f01Qm7xRkAAICDe",
+      "signed_url": "https://www.tiktok.com/api/challenge/itemlist/?chId=12345&count=20&cursor=0&_signature=_02B4Z6wo00f01Qm7xRkAAICDe"
+    }
+  },
+  "{\"url\":\"https://www.tiktok.com/api/music/item_list/?musicID=6789012345&count=15&cursor=0\"}": {
+    "error": "",
+    "response": {
+      "signature": "_02B4Z6wo00f01Tn5pVoAAIBFf",
+      "signed_url": "https://www.tiktok.com/api/music/item_list/?musicID=6789012345&count=15&cursor=0&_signature=_02B4Z6wo00f01Tn5pVoAAIBFf"
+    }
+  },
+  "{\"url\":\"https://www.tiktok.com/api/post/itemlist/?secUid=MS4wLjABAAAA&count=30&cursor=0\"}": {
+    "error": "",
+    "response": {
+      "signature": "_02B4Z6wo00f01Y9kL3wAAIBDc",
+      "signed_url": "https://www.tiktok.com/api/post/itemlist/?secUid=MS4wLjABAAAA&count=30&cursor=0&_signature=_02B4Z6wo00f01Y9kL3wAAIBDc"
+    }
+  }
+}

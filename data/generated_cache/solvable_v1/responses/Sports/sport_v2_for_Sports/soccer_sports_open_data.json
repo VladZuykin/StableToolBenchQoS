@@ -1,0 +1,35 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "away_team": "Chelsea",
+          "competition": "Premier League",
+          "home_team": "Arsenal",
+          "id": "sod_soc_1001",
+          "minute": 67,
+          "score": {
+            "away": 1,
+            "home": 2
+          },
+          "status": "live"
+        },
+        {
+          "away_team": "Sevilla",
+          "competition": "La Liga",
+          "home_team": "Real Madrid",
+          "id": "sod_soc_1002",
+          "minute": 12,
+          "score": {
+            "away": 0,
+            "home": 0
+          },
+          "status": "live"
+        }
+      ],
+      "sport": "soccer",
+      "status": "live"
+    }
+  }
+}

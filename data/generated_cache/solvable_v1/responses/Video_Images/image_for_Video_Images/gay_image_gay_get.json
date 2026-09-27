@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://example.com/images/rainbow-pride.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/gay/9f3a2b1c8d7e6f5a.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://i.imgur.com/8Xk2mQp.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/gay/4c1d9e8b7a6f5e4d.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://media.discordapp.net/attachments/123456789/987654321/avatar.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/gay/2b8f7a6c5d4e3f2a.png",
+      "message": "Image processed successfully"
+    }
+  }
+}

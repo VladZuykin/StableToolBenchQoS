@@ -1,0 +1,15 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "age_days": 10.4,
+      "distance_km": 384400,
+      "illumination": 78,
+      "moon_phase": "Waxing Gibbous",
+      "moonrise": "2024-06-15T14:32:00Z",
+      "moonset": "2024-06-16T02:18:00Z",
+      "next_full_moon": "2024-06-22T01:08:00Z",
+      "next_new_moon": "2024-07-05T22:57:00Z"
+    }
+  }
+}

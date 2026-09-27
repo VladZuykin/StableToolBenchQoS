@@ -1,0 +1,73 @@
+{
+  "{\"maxdate\":\"2024-07-31\",\"mindate\":\"2024-05-01\",\"productid\":\"1005003456789012\"}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "historicPrices": [
+        {
+          "date": "2024-05-10",
+          "price": 24.5
+        },
+        {
+          "date": "2024-06-10",
+          "price": 22.99
+        },
+        {
+          "date": "2024-07-10",
+          "price": 25.0
+        }
+      ],
+      "productId": "1005003456789012"
+    }
+  },
+  "{\"mindate\":\"2023-11-01\",\"productid\":\"1005009876543210\"}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "historicPrices": [
+        {
+          "date": "2023-11-05",
+          "price": 7.89
+        },
+        {
+          "date": "2023-12-05",
+          "price": 8.15
+        },
+        {
+          "date": "2024-01-05",
+          "price": 6.99
+        },
+        {
+          "date": "2024-02-05",
+          "price": 7.45
+        }
+      ],
+      "productId": "1005009876543210"
+    }
+  },
+  "{\"productid\":\"1005002011652590\"}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "historicPrices": [
+        {
+          "date": "2024-01-15",
+          "price": 12.99
+        },
+        {
+          "date": "2024-02-15",
+          "price": 11.49
+        },
+        {
+          "date": "2024-03-15",
+          "price": 13.75
+        },
+        {
+          "date": "2024-04-15",
+          "price": 10.99
+        }
+      ],
+      "productId": "1005002011652590"
+    }
+  }
+}

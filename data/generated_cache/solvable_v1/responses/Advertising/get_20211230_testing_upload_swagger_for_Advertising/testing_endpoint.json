@@ -1,0 +1,9 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "testing endpoint reached",
+      "status": "ok"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "{\"publisher\":\"Deadline\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Anthony D'Alessandro",
+          "published_date": "2024-08-20",
+          "publisher": "Deadline",
+          "title": "Indie Film Festival Announces This Year's Lineup",
+          "url": "https://deadline.com/2024/08/indie-film-festival-lineup-1234567895/"
+        },
+        {
+          "author": "Nancy Tartaglione",
+          "published_date": "2024-08-18",
+          "publisher": "Deadline",
+          "title": "Box Office Report: New Releases Underperform Expectations",
+          "url": "https://deadline.com/2024/08/box-office-report-new-releases-1234567896/"
+        }
+      ]
+    }
+  },
+  "{\"publisher\":\"The Hollywood Reporter\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Scott Feinberg",
+          "published_date": "2024-09-08",
+          "publisher": "The Hollywood Reporter",
+          "title": "Awards Season Contenders Emerge After Festival Premieres",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/awards-season-contenders-festivals-1234567892/"
+        },
+        {
+          "author": "Pamela McClintock",
+          "published_date": "2024-09-05",
+          "publisher": "The Hollywood Reporter",
+          "title": "Studio Executives Discuss the Future of Theatrical Releases",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/studio-executives-theatrical-future-1234567893/"
+        },
+        {
+          "author": "Lesley Goldberg",
+          "published_date": "2024-09-01",
+          "publisher": "The Hollywood Reporter",
+          "title": "Behind the Scenes of a Hit Television Drama",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/behind-the-scenes-hit-drama-1234567894/"
+        }
+      ]
+    }
+  },
+  "{\"publisher\":\"Variety\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Rebecca Rubin",
+          "published_date": "2024-06-14",
+          "publisher": "Variety",
+          "title": "Inside the Making of a Summer Blockbuster",
+          "url": "https://variety.com/2024/film/features/summer-blockbuster-making-1234567890/"
+        },
+        {
+          "author": "Todd Spangler",
+          "published_date": "2024-06-12",
+          "publisher": "Variety",
+          "title": "Streaming Wars Heat Up as New Platforms Launch",
+          "url": "https://variety.com/2024/digital/news/streaming-wars-new-platforms-1234567891/"
+        }
+      ]
+    }
+  }
+}

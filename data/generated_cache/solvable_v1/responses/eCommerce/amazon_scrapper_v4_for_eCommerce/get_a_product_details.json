@@ -1,0 +1,77 @@
+{
+  "{\"productid\":\"B07WGMFFXB\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "Sony",
+      "category": "Electronics > Headphones",
+      "description": "Industry-leading noise cancellation with Dual Noise Sensor technology and up to 30-hour battery life.",
+      "images": [
+        "https://m.media-amazon.com/images/I/sony-wh1000xm4.jpg"
+      ],
+      "price": {
+        "currency": "INR",
+        "current": 24990,
+        "discountPercent": 17,
+        "mrp": 29990
+      },
+      "productId": "B07WGMFFXB",
+      "rating": {
+        "average": 4.5,
+        "count": 12087
+      },
+      "title": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones - Black",
+      "url": "https://www.amazon.in/dp/B07WGMFFXB"
+    }
+  },
+  "{\"productid\":\"B08L5NP6NG\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "Amazon",
+      "category": "Electronics > E-readers",
+      "description": "6.8-inch display with adjustable warm light, waterproof (IPX8), and up to 10 weeks of battery life.",
+      "images": [
+        "https://m.media-amazon.com/images/I/kindle-paperwhite.jpg"
+      ],
+      "price": {
+        "currency": "INR",
+        "current": 13999,
+        "discountPercent": 7,
+        "mrp": 14999
+      },
+      "productId": "B08L5NP6NG",
+      "rating": {
+        "average": 4.7,
+        "count": 9543
+      },
+      "title": "Kindle Paperwhite (8 GB) - Now with a 6.8\" display and adjustable warm light",
+      "url": "https://www.amazon.in/dp/B08L5NP6NG"
+    }
+  },
+  "{\"productid\":\"B09G9FPHY6\"}": {
+    "error": "",
+    "response": {
+      "availability": "In Stock",
+      "brand": "Apple",
+      "category": "Electronics > Mobiles",
+      "description": "6.1-inch Super Retina XDR display, A15 Bionic chip, dual 12MP camera system.",
+      "images": [
+        "https://m.media-amazon.com/images/I/iphone13-midnight.jpg"
+      ],
+      "price": {
+        "currency": "INR",
+        "current": 69900,
+        "discountPercent": 13,
+        "mrp": 79900
+      },
+      "productId": "B09G9FPHY6",
+      "rating": {
+        "average": 4.6,
+        "count": 38214
+      },
+      "title": "Apple iPhone 13 (128GB) - Midnight",
+      "url": "https://www.amazon.in/dp/B09G9FPHY6"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"host\":\"8.8.8.8\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": {
+      "host": "8.8.8.8",
+      "response_time_ms": 12,
+      "status": "success"
+    }
+  },
+  "{\"host\":\"example.org\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "host": "example.org",
+      "response_time_ms": 87,
+      "status": "success"
+    }
+  },
+  "{\"host\":\"google.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "host": "google.com",
+      "response_time_ms": 24,
+      "status": "success"
+    }
+  }
+}

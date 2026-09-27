@@ -1,0 +1,54 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "category": "Room",
+          "currency": "USD",
+          "description": "Standard consultation room with seating for 4",
+          "duration": 30,
+          "id": 1,
+          "isActive": true,
+          "location": "Main Office - Floor 1",
+          "name": "Consultation Room A",
+          "price": 0
+        },
+        {
+          "category": "Service",
+          "currency": "USD",
+          "description": "Routine dental examination and cleaning",
+          "duration": 45,
+          "id": 2,
+          "isActive": true,
+          "location": "Dental Clinic - Suite 200",
+          "name": "Dental Checkup",
+          "price": 75
+        },
+        {
+          "category": "Class",
+          "currency": "USD",
+          "description": "Group yoga session for all levels",
+          "duration": 60,
+          "id": 3,
+          "isActive": true,
+          "location": "Studio B",
+          "name": "Yoga Class",
+          "price": 15
+        },
+        {
+          "category": "Equipment",
+          "currency": "USD",
+          "description": "Portable HD projector with HDMI cable",
+          "duration": 120,
+          "id": 4,
+          "isActive": false,
+          "location": "Equipment Desk",
+          "name": "Projector Rental",
+          "price": 25
+        }
+      ],
+      "message": "Bookable items retrieved successfully"
+    }
+  }
+}

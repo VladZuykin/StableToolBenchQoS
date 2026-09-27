@@ -1,0 +1,98 @@
+{
+  "{\"country\":\"Canada\"}": {
+    "error": "",
+    "response": {
+      "airports": [
+        {
+          "city": "Toronto",
+          "iata_code": "YYZ",
+          "latitude": 43.6777,
+          "longitude": -79.6248,
+          "name": "Toronto Pearson International Airport",
+          "timezone": "America/Toronto"
+        },
+        {
+          "city": "Vancouver",
+          "iata_code": "YVR",
+          "latitude": 49.1967,
+          "longitude": -123.1815,
+          "name": "Vancouver International Airport",
+          "timezone": "America/Vancouver"
+        },
+        {
+          "city": "Montreal",
+          "iata_code": "YUL",
+          "latitude": 45.4706,
+          "longitude": -73.7408,
+          "name": "Montréal–Trudeau International Airport",
+          "timezone": "America/Toronto"
+        }
+      ],
+      "country": "Canada"
+    }
+  },
+  "{\"country\":\"Germany\"}": {
+    "error": "",
+    "response": {
+      "airports": [
+        {
+          "city": "Frankfurt",
+          "iata_code": "FRA",
+          "latitude": 50.0379,
+          "longitude": 8.5622,
+          "name": "Frankfurt Airport",
+          "timezone": "Europe/Berlin"
+        },
+        {
+          "city": "Munich",
+          "iata_code": "MUC",
+          "latitude": 48.3538,
+          "longitude": 11.7861,
+          "name": "Munich Airport",
+          "timezone": "Europe/Berlin"
+        },
+        {
+          "city": "Berlin",
+          "iata_code": "BER",
+          "latitude": 52.3667,
+          "longitude": 13.5033,
+          "name": "Berlin Brandenburg Airport",
+          "timezone": "Europe/Berlin"
+        }
+      ],
+      "country": "Germany"
+    }
+  },
+  "{\"country\":\"Japan\"}": {
+    "error": "",
+    "response": {
+      "airports": [
+        {
+          "city": "Tokyo",
+          "iata_code": "HND",
+          "latitude": 35.5494,
+          "longitude": 139.7798,
+          "name": "Tokyo Haneda Airport",
+          "timezone": "Asia/Tokyo"
+        },
+        {
+          "city": "Narita",
+          "iata_code": "NRT",
+          "latitude": 35.772,
+          "longitude": 140.3929,
+          "name": "Narita International Airport",
+          "timezone": "Asia/Tokyo"
+        },
+        {
+          "city": "Osaka",
+          "iata_code": "KIX",
+          "latitude": 34.4347,
+          "longitude": 135.244,
+          "name": "Kansai International Airport",
+          "timezone": "Asia/Tokyo"
+        }
+      ],
+      "country": "Japan"
+    }
+  }
+}

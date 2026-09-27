@@ -1,0 +1,69 @@
+{
+  "{\"limit\":2,\"offset\":0,\"sentiment\":\"positive\",\"source\":\"IndieWire\",\"type\":\"Feature\"}": {
+    "error": "",
+    "response": {
+      "body": {
+        "results": [
+          {
+            "id": "iw-45120",
+            "publishedAt": "2024-06-12T07:30:00Z",
+            "sentiment": "positive",
+            "source": "IndieWire",
+            "summary": "A deep dive into the micro-budget production that charmed critics and audiences alike on the festival circuit.",
+            "title": "How 'Paper Lanterns' Became the Year's Most Surprising Festival Darling",
+            "type": "Feature"
+          },
+          {
+            "id": "iw-45121",
+            "publishedAt": "2024-06-11T15:50:00Z",
+            "sentiment": "positive",
+            "source": "IndieWire",
+            "summary": "Filmmakers are rediscovering the craft of in-camera scares, and audiences are loving the results.",
+            "title": "The Quiet Renaissance of Practical Effects in Modern Horror",
+            "type": "Feature"
+          }
+        ],
+        "totalArticles": 2
+      },
+      "success": true
+    }
+  },
+  "{\"limit\":3,\"offset\":5,\"sentiment\":\"negative\",\"source\":\"Variety\",\"type\":\"Review\"}": {
+    "error": "",
+    "response": {
+      "body": {
+        "results": [
+          {
+            "id": "var-88213",
+            "publishedAt": "2024-06-11T09:15:00Z",
+            "sentiment": "negative",
+            "source": "Variety",
+            "summary": "Despite a committed lead performance, the sci-fi drama drowns in convoluted plotting and uneven pacing.",
+            "title": "'Echoes of Tomorrow' Fails to Find Its Footing",
+            "type": "Review"
+          },
+          {
+            "id": "var-88214",
+            "publishedAt": "2024-06-10T18:40:00Z",
+            "sentiment": "negative",
+            "source": "Variety",
+            "summary": "The adaptation loses the novel's quiet charm, trading subtlety for spectacle that never lands.",
+            "title": "'Midnight Cartographers' Maps a Disappointing Journey",
+            "type": "Review"
+          },
+          {
+            "id": "var-88215",
+            "publishedAt": "2024-06-09T12:05:00Z",
+            "sentiment": "negative",
+            "source": "Variety",
+            "summary": "A bloated runtime and recycled set pieces make this follow-up feel like a contractual obligation.",
+            "title": "Summer Sequel Fatigue Sets In With 'Crimson Tide II'",
+            "type": "Review"
+          }
+        ],
+        "totalArticles": 3
+      },
+      "success": true
+    }
+  }
+}

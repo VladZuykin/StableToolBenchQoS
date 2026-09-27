@@ -1,0 +1,112 @@
+{
+  "{\"accept_language\":\"en\",\"addressdetails\":1,\"bounded\":1,\"format\":\"json\",\"limit\":2,\"normalizecity\":1,\"q\":\"Sydney Opera House\",\"statecode\":1,\"viewbox\":\"151.20,-33.85,151.22,-33.86\"}": {
+    "error": "",
+    "response": [
+      {
+        "address": {
+          "city": "Sydney",
+          "country": "Australia",
+          "country_code": "au",
+          "postcode": "2000",
+          "road": "Bennelong Point",
+          "state": "New South Wales",
+          "state_code": "NSW",
+          "tourism": "Sydney Opera House"
+        },
+        "boundingbox": [
+          "-33.858",
+          "-33.856",
+          "151.214",
+          "151.216"
+        ],
+        "class": "tourism",
+        "display_name": "Sydney Opera House, Bennelong Point, Sydney, New South Wales, 2000, Australia",
+        "importance": 0.85,
+        "lat": "-33.8567844",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "lon": "151.2152967",
+        "osm_id": "24681012",
+        "osm_type": "way",
+        "place_id": "246810",
+        "type": "attraction"
+      }
+    ]
+  },
+  "{\"accept_language\":\"en\",\"addressdetails\":1,\"countrycodes\":\"us\",\"format\":\"json\",\"limit\":5,\"normalizecity\":1,\"q\":\"1600 Amphitheatre Parkway, Mountain View, CA\"}": {
+    "error": "",
+    "response": [
+      {
+        "address": {
+          "city": "Mountain View",
+          "country": "United States",
+          "country_code": "us",
+          "county": "Santa Clara County",
+          "house_number": "1600",
+          "office": "Googleplex",
+          "postcode": "94043",
+          "road": "Amphitheatre Parkway",
+          "state": "California"
+        },
+        "boundingbox": [
+          "37.421",
+          "37.423",
+          "-122.086",
+          "-122.083"
+        ],
+        "class": "office",
+        "display_name": "Googleplex, 1600, Amphitheatre Parkway, Mountain View, Santa Clara County, California, 94043, United States",
+        "importance": 0.75,
+        "lat": "37.4224764",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "lon": "-122.0842499",
+        "osm_id": "123456789",
+        "osm_type": "way",
+        "place_id": "123456",
+        "type": "company"
+      }
+    ]
+  },
+  "{\"accept_language\":\"fr\",\"addressdetails\":1,\"extratags\":1,\"format\":\"json\",\"limit\":3,\"namedetails\":1,\"normalizecity\":1,\"q\":\"Eiffel Tower, Paris\"}": {
+    "error": "",
+    "response": [
+      {
+        "address": {
+          "city": "Paris",
+          "country": "France",
+          "country_code": "fr",
+          "house_number": "5",
+          "postcode": "75007",
+          "road": "Avenue Anatole France",
+          "state": "Île-de-France",
+          "suburb": "Quartier du Gros-Caillou",
+          "tourism": "Tour Eiffel"
+        },
+        "boundingbox": [
+          "48.857",
+          "48.859",
+          "2.293",
+          "2.295"
+        ],
+        "class": "tourism",
+        "display_name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris, Île-de-France, France métropolitaine, 75007, France",
+        "extratags": {
+          "opening_hours": "Mo-Su 09:30-23:00",
+          "wikipedia": "fr:Tour Eiffel"
+        },
+        "importance": 0.9,
+        "lat": "48.8582599",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "lon": "2.2945006",
+        "namedetails": {
+          "name": "Tour Eiffel",
+          "name:en": "Eiffel Tower",
+          "name:fr": "Tour Eiffel"
+        },
+        "osm_id": "5013364",
+        "osm_type": "relation",
+        "place_id": "987654",
+        "type": "attraction"
+      }
+    ]
+  }
+}

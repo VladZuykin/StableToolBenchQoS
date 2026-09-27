@@ -1,0 +1,49 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "templates": [
+        {
+          "id": "drake-hotline-bling",
+          "name": "Drake Hotline Bling",
+          "text_boxes": 2
+        },
+        {
+          "id": "distracted-boyfriend",
+          "name": "Distracted Boyfriend",
+          "text_boxes": 3
+        },
+        {
+          "id": "two-buttons",
+          "name": "Two Buttons",
+          "text_boxes": 2
+        },
+        {
+          "id": "change-my-mind",
+          "name": "Change My Mind",
+          "text_boxes": 1
+        },
+        {
+          "id": "this-is-fine",
+          "name": "This Is Fine",
+          "text_boxes": 1
+        },
+        {
+          "id": "expanding-brain",
+          "name": "Expanding Brain",
+          "text_boxes": 4
+        },
+        {
+          "id": "woman-yelling-at-cat",
+          "name": "Woman Yelling At Cat",
+          "text_boxes": 2
+        },
+        {
+          "id": "success-kid",
+          "name": "Success Kid",
+          "text_boxes": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "{\"contact_id\":1024,\"tags\":true}": {
+    "error": "",
+    "response": {
+      "contact_id": 1024,
+      "email": "marcus.delgado@example.com",
+      "first_name": "Marcus",
+      "last_name": "Delgado",
+      "phone": "+1-512-555-0147",
+      "tags": [
+        "volunteer",
+        "youth-ministry",
+        "member"
+      ]
+    }
+  },
+  "{\"contact_id\":2048,\"keydates\":true}": {
+    "error": "",
+    "response": {
+      "contact_id": 2048,
+      "email": "priya.raman@example.com",
+      "first_name": "Priya",
+      "keydates": [
+        {
+          "date": "1989-03-14",
+          "type": "birthday"
+        },
+        {
+          "date": "2012-06-10",
+          "type": "baptism"
+        },
+        {
+          "date": "2015-01-04",
+          "type": "membership"
+        }
+      ],
+      "last_name": "Raman",
+      "phone": "+1-415-555-0192"
+    }
+  },
+  "{\"contact_id\":3072,\"keydates\":true,\"tags\":true}": {
+    "error": "",
+    "response": {
+      "contact_id": 3072,
+      "email": "grace.okafor@example.com",
+      "first_name": "Grace",
+      "keydates": [
+        {
+          "date": "1978-11-22",
+          "type": "birthday"
+        },
+        {
+          "date": "2003-09-06",
+          "type": "anniversary"
+        }
+      ],
+      "last_name": "Okafor",
+      "phone": "+1-312-555-0163",
+      "tags": [
+        "choir",
+        "small-group-leader"
+      ]
+    }
+  }
+}

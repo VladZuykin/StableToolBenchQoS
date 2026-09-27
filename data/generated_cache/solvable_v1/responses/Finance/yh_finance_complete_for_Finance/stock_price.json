@@ -1,0 +1,8 @@
+{
+  "{\"ticker\":\"NVDA\"}": {
+    "error": "",
+    "response": {
+      "message": "NVDA is currently trading at $124.58, up 2.34% on the day."
+    }
+  }
+}

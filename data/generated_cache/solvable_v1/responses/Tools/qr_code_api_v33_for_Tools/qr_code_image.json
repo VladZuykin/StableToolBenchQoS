@@ -1,0 +1,29 @@
+{
+  "{\"url\":\"Hello, World! This is a plain text QR code.\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "height": 300,
+      "image_url": "https://api.example.com/qr/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p.png",
+      "width": 300
+    }
+  },
+  "{\"url\":\"https://github.com/openai/openai-python\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "height": 300,
+      "image_url": "https://api.example.com/qr/7z6y5x4w3v2u1t0s9r8q7p6o5n4m3l2k.png",
+      "width": 300
+    }
+  },
+  "{\"url\":\"https://www.example.com/products/12345\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "height": 300,
+      "image_url": "https://api.example.com/qr/9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c.png",
+      "width": 300
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "{\"bins\":\"411111,424242\",\"locale\":\"en_US\",\"msid\":\"sess_8f3a21\",\"muid\":\"user_10293\",\"orgcode\":\"ACME\"}": {
+    "error": "",
+    "response": {
+      "cardArt": [
+        {
+          "bin": "411111",
+          "url": "https://cdn.acme.com/cardart/visa_classic.png"
+        },
+        {
+          "bin": "424242",
+          "url": "https://cdn.acme.com/cardart/visa_platinum.png"
+        }
+      ],
+      "message": "Card art URLs retrieved successfully"
+    }
+  },
+  "{\"bins\":\"535353\",\"locale\":\"fr_FR\",\"msid\":\"sess_2b9c77\",\"muid\":\"u-55821\",\"orgcode\":\"GLOBEX\"}": {
+    "error": "",
+    "response": {
+      "cardArt": [
+        {
+          "bin": "535353",
+          "url": "https://assets.globex.fr/cards/mastercard_standard.png"
+        }
+      ],
+      "message": "Card art URLs retrieved successfully"
+    }
+  },
+  "{\"bins\":\"601100,601101,601102\",\"locale\":\"es_ES\",\"msid\":\"sess_5d1e04\",\"muid\":\"muid_77410\",\"orgcode\":\"INITECH\"}": {
+    "error": "",
+    "response": {
+      "cardArt": [
+        {
+          "bin": "601100",
+          "url": "https://cdn.initech.es/cardart/discover_blue.png"
+        },
+        {
+          "bin": "601101",
+          "url": "https://cdn.initech.es/cardart/discover_gold.png"
+        },
+        {
+          "bin": "601102",
+          "url": "https://cdn.initech.es/cardart/discover_platinum.png"
+        }
+      ],
+      "message": "Card art URLs retrieved successfully"
+    }
+  }
+}

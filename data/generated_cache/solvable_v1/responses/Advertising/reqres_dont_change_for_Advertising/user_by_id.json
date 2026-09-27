@@ -1,0 +1,18 @@
+{
+  "{\"is_id\":\"7\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "avatar": "https://reqres.in/img/faces/7-image.jpg",
+        "email": "michael.lawson@reqres.in",
+        "first_name": "Michael",
+        "id": 7,
+        "last_name": "Lawson"
+      },
+      "support": {
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!",
+        "url": "https://reqres.in/#support-heading"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "{\"by_name\":\"river\",\"by_tag\":\"dog-friendly\",\"sort\":\"+name\"}": {
+    "error": "",
+    "response": [
+      {
+        "address_1": "789 River Rd",
+        "brewery_type": "micro",
+        "city": "Portland",
+        "country": "United States",
+        "id": "river-1",
+        "latitude": "45.5231",
+        "longitude": "-122.6765",
+        "name": "Riverbend Brewing",
+        "phone": "5035554321",
+        "postal_code": "97201",
+        "state_province": "Oregon",
+        "website_url": "https://riverbendbrewing.example.com"
+      },
+      {
+        "address_1": "321 Stone Ave",
+        "brewery_type": "regional",
+        "city": "Austin",
+        "country": "United States",
+        "id": "river-2",
+        "latitude": "30.2672",
+        "longitude": "-97.7431",
+        "name": "Riverstone Brewery",
+        "phone": "5125556789",
+        "postal_code": "78701",
+        "state_province": "Texas",
+        "website_url": "https://riverstonebrewery.example.com"
+      }
+    ]
+  },
+  "{\"by_state\":\"CA\",\"by_type\":\"brewpub\",\"sort\":\"-name\"}": {
+    "error": "",
+    "response": [
+      {
+        "address_1": "123 Main St",
+        "brewery_type": "brewpub",
+        "city": "Los Angeles",
+        "country": "United States",
+        "id": "brewpub-ca-1",
+        "latitude": "34.0522",
+        "longitude": "-118.2437",
+        "name": "Zymurgy Brew Works",
+        "phone": "2135551234",
+        "postal_code": "90012",
+        "state_province": "California",
+        "website_url": "https://zymurgybrewworks.example.com"
+      },
+      {
+        "address_1": "456 Market St",
+        "brewery_type": "brewpub",
+        "city": "San Francisco",
+        "country": "United States",
+        "id": "brewpub-ca-2",
+        "latitude": "37.7749",
+        "longitude": "-122.4194",
+        "name": "Golden Gate Ales",
+        "phone": "4155559876",
+        "postal_code": "94105",
+        "state_province": "California",
+        "website_url": "https://goldengateales.example.com"
+      }
+    ]
+  }
+}

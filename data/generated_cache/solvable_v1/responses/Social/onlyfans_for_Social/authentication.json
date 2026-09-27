@@ -1,0 +1,20 @@
+{
+  "{\"apptoken\":\"demo_apptoken_1\",\"auth_id\":\"729369\",\"sess\":\"sess_9f8e7d6c5b4a\",\"signend\":\"1728003600\",\"signstart\":\"1728000000\",\"timezone\":\"America/Los_Angeles\",\"useragent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"xbc\":\"bcTokenSha_abc123def456\"}": {
+    "error": "",
+    "response": {
+      "message": "Authentication successful"
+    }
+  },
+  "{\"apptoken\":\"demo_apptoken_2\",\"auth_id\":\"729369\",\"sess\":\"sess_1a2b3c4d5e6f\",\"signend\":\"1728011800\",\"signstart\":\"1728010000\",\"timezone\":\"Europe/London\",\"useragent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15\",\"xbc\":\"bcTokenSha_789xyz012uvw\"}": {
+    "error": "",
+    "response": {
+      "message": "Authentication successful"
+    }
+  },
+  "{\"apptoken\":\"demo_apptoken_3\",\"auth_id\":\"729369\",\"sess\":\"sess_7g8h9i0j1k2l\",\"signend\":\"1728026800\",\"signstart\":\"1728025000\",\"timezone\":\"Asia/Tokyo\",\"useragent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15\",\"xbc\":\"bcTokenSha_qwerty098poiu\"}": {
+    "error": "",
+    "response": {
+      "message": "Authentication successful"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "{\"channel_name\":\"gmhikaru\"}": {
+    "error": "",
+    "response": {
+      "chatroom": {
+        "channel_id": 91011,
+        "chat_mode": "public",
+        "emotes_mode": false,
+        "followers_only": false,
+        "id": 345678,
+        "is_chatroom_enabled": true,
+        "message_interval": 0,
+        "rules": "Keep the chat friendly and on-topic.",
+        "slow_mode": false,
+        "slug": "gmhikaru",
+        "subscribers_only": false
+      }
+    }
+  },
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "chatroom": {
+        "channel_id": 89101,
+        "chat_mode": "public",
+        "emotes_mode": true,
+        "followers_only": true,
+        "id": 234567,
+        "is_chatroom_enabled": true,
+        "message_interval": 5,
+        "rules": "No spam, no hate speech, no self-promotion.",
+        "slow_mode": true,
+        "slug": "trainwreckstv",
+        "subscribers_only": false
+      }
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "chatroom": {
+        "channel_id": 78910,
+        "chat_mode": "public",
+        "emotes_mode": false,
+        "followers_only": false,
+        "id": 123456,
+        "is_chatroom_enabled": true,
+        "message_interval": 0,
+        "rules": "Be respectful and follow the community guidelines.",
+        "slow_mode": false,
+        "slug": "xqc",
+        "subscribers_only": false
+      }
+    }
+  }
+}

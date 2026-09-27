@@ -1,0 +1,201 @@
+{
+  "{\"command\":\"gempa\",\"limit\":5,\"page\":2}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-15T08:32:00+07:00",
+          "snippet": "Badan Meteorologi, Klimatologi, dan Geofisika melaporkan gempa berkekuatan magnitudo 5,2 mengguncang wilayah Maluku Tenggara.",
+          "title": "Gempa Magnitudo 5,2 Guncang Maluku Tenggara",
+          "url": "https://www.kompas.com/tren/read/2024/01/15/gempa-maluku"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-14T19:05:00+07:00",
+          "snippet": "Gempa susulan masih terjadi pasca gempa utama yang dirasakan warga Cianjur dan sekitarnya.",
+          "title": "BMKG Catat 12 Gempa Susulan di Cianjur",
+          "url": "https://www.kompas.com/tren/read/2024/01/14/gempa-cianjur"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-13T11:47:00+07:00",
+          "snippet": "Pemerintah daerah mengimbau warga pesisir meningkatkan kewaspadaan menyusul aktivitas gempa di zona subduksi.",
+          "title": "Warga Pesisir Diminta Waspada Potensi Tsunami",
+          "url": "https://www.kompas.com/tren/read/2024/01/13/tsunami-waspada"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-12T09:20:00+07:00",
+          "snippet": "Peta terbaru menunjukkan sejumlah wilayah dengan tingkat kerawanan gempa yang lebih tinggi.",
+          "title": "Peta Rawan Gempa di Indonesia Diperbarui",
+          "url": "https://www.kompas.com/tren/read/2024/01/12/peta-gempa"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-11T14:10:00+07:00",
+          "snippet": "Simulasi evakuasi gempa mulai digalakkan di sekolah-sekolah di kawasan rawan bencana.",
+          "title": "Mitigasi Gempa di Sekolah Jadi Perhatian",
+          "url": "https://www.kompas.com/tren/read/2024/01/11/mitigasi-sekolah"
+        }
+      ],
+      "limit": 5,
+      "page": 2,
+      "query": "gempa",
+      "status": "success",
+      "total_results": 47
+    }
+  },
+  "{\"command\":\"pemilu\",\"limit\":20,\"page\":1}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-10T10:00:00+07:00",
+          "snippet": "Komisi Pemilihan Umum menetapkan jadwal resmi masa kampanye Pemilu 2024 bagi seluruh peserta.",
+          "title": "KPU Tetapkan Jadwal Kampanye Pemilu 2024",
+          "url": "https://www.kompas.com/nasional/read/2024/01/10/kpu-jadwal-kampanye"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-09T20:15:00+07:00",
+          "snippet": "Tiga pasangan calon presiden siap beradu gagasan dalam debat perdana yang disiarkan langsung.",
+          "title": "Debat Capres Perdana Digelar Malam Ini",
+          "url": "https://www.kompas.com/nasional/read/2024/01/09/debat-capres"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-08T13:40:00+07:00",
+          "snippet": "Bawaslu meningkatkan pengawasan di sejumlah daerah rawan pelanggaran selama tahapan pemilu.",
+          "title": "Pengawasan Pemilu di Daerah Diperketat",
+          "url": "https://www.kompas.com/nasional/read/2024/01/08/pengawasan-pemilu"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-07T16:25:00+07:00",
+          "snippet": "Kalangan muda diharapkan aktif menggunakan hak pilih pada pemilu mendatang.",
+          "title": "Partisipasi Pemilih Pemula Jadi Sorotan",
+          "url": "https://www.kompas.com/nasional/read/2024/01/07/pemilih-pemula"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-06T08:55:00+07:00",
+          "snippet": "Pendistribusian logistik pemilu ke wilayah terpencil dimulai lebih awal untuk mengantisipasi kendala cuaca.",
+          "title": "Logistik Pemilu Mulai Didistribusikan",
+          "url": "https://www.kompas.com/nasional/read/2024/01/06/logistik-pemilu"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-05T12:30:00+07:00",
+          "snippet": "Petugas pemilu menggelar sosialisasi langsung ke desa-desa terpencil agar warga memahami tata cara mencoblos.",
+          "title": "Sosialisasi Pemilu Menyasar Desa Terpencil",
+          "url": "https://www.kompas.com/nasional/read/2024/01/05/sosialisasi-desa"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-04T09:10:00+07:00",
+          "snippet": "KPU menegaskan aturan pelaporan dana kampanye bagi peserta pemilu.",
+          "title": "Aturan Dana Kampanye Diperjelas",
+          "url": "https://www.kompas.com/nasional/read/2024/01/04/dana-kampanye"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-03T15:45:00+07:00",
+          "snippet": "Simulasi pemungutan dan penghitungan suara dilakukan untuk memastikan kelancaran hari pemilihan.",
+          "title": "Simulasi Pemungutan Suara Digelar",
+          "url": "https://www.kompas.com/nasional/read/2024/01/03/simulasi-coblos"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2024-01-02T11:20:00+07:00",
+          "snippet": "Relawan demokrasi dibekali pelatihan untuk membantu edukasi pemilih di tingkat kecamatan.",
+          "title": "Relawan Demokrasi Dilatih di Tiap Kecamatan",
+          "url": "https://www.kompas.com/nasional/read/2024/01/02/relawan-demokrasi"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2024-01-01T07:05:00+07:00",
+          "snippet": "Aparat keamanan memetakan titik rawan untuk mencegah konflik selama tahapan pemilu.",
+          "title": "Potensi Konflik Pemilu Dipetakan",
+          "url": "https://www.kompas.com/nasional/read/2024/01/01/potensi-konflik"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2023-12-31T18:00:00+07:00",
+          "snippet": "Sejumlah partai kembali menggelar kampanye tatap muka setelah pembatasan dilonggarkan.",
+          "title": "Kampanye Tatap Muka Kembali Digelar",
+          "url": "https://www.kompas.com/nasional/read/2023/12/31/kampanye-tatap-muka"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2023-12-30T10:35:00+07:00",
+          "snippet": "TPS ramah disabilitas disiapkan untuk menjamin aksesibilitas seluruh pemilih.",
+          "title": "Pemilih Disabilitas Difasilitasi di TPS",
+          "url": "https://www.kompas.com/nasional/read/2023/12/30/pemilih-disabilitas"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2023-12-29T14:50:00+07:00",
+          "snippet": "Mekanisme rekapitulasi suara berjenjang disiapkan untuk menjaga akuntabilitas hasil pemilu.",
+          "title": "Rekapitulasi Suara Berjenjang Disiapkan",
+          "url": "https://www.kompas.com/nasional/read/2023/12/29/rekapitulasi"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2023-12-28T09:25:00+07:00",
+          "snippet": "Pengamat menilai akurasi daftar pemilih menjadi kunci kredibilitas pemilu.",
+          "title": "Pengamat Soroti Kualitas Daftar Pemilih",
+          "url": "https://www.kompas.com/nasional/read/2023/12/28/daftar-pemilih"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2023-12-27T20:40:00+07:00",
+          "snippet": "Para peserta pemilu memanfaatkan media sosial secara masif untuk menjangkau pemilih muda.",
+          "title": "Kampanye Digital Makin Masif",
+          "url": "https://www.kompas.com/nasional/read/2023/12/27/kampanye-digital"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2023-12-26T08:15:00+07:00",
+          "snippet": "Pemerintah menegaskan pentingnya netralitas aparatur sipil negara selama proses pemilu.",
+          "title": "Netralitas ASN Ditekankan",
+          "url": "https://www.kompas.com/nasional/read/2023/12/26/netralitas-asn"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2023-12-25T13:05:00+07:00",
+          "snippet": "Pengadaan surat suara untuk seluruh daerah pemilihan dinyatakan telah rampung.",
+          "title": "Pengadaan Surat Suara Rampung",
+          "url": "https://www.kompas.com/nasional/read/2023/12/25/surat-suara"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2023-12-24T17:30:00+07:00",
+          "snippet": "Forum warga membentuk kelompok pemantau independen untuk mengawasi jalannya tahapan pemilu.",
+          "title": "Forum Warga Awasi Tahapan Pemilu",
+          "url": "https://www.kompas.com/nasional/read/2023/12/24/forum-warga"
+        },
+        {
+          "author": "Redaksi Kompas",
+          "published_at": "2023-12-23T11:55:00+07:00",
+          "snippet": "Program pendidikan politik digencarkan agar pemilih muda memahami isu dan visi kandidat.",
+          "title": "Pendidikan Politik bagi Pemilih Muda",
+          "url": "https://www.kompas.com/nasional/read/2023/12/23/pendidikan-politik"
+        },
+        {
+          "author": "Tim Kompas",
+          "published_at": "2023-12-22T15:20:00+07:00",
+          "snippet": "Kesiapan tempat pemungutan suara di wilayah terdepan, terluar, dan tertinggal terus dievaluasi.",
+          "title": "Kesiapan TPS di Wilayah 3T Dievaluasi",
+          "url": "https://www.kompas.com/nasional/read/2023/12/22/tps-3t"
+        }
+      ],
+      "limit": 20,
+      "page": 1,
+      "query": "pemilu",
+      "status": "success",
+      "total_results": 312
+    }
+  }
+}

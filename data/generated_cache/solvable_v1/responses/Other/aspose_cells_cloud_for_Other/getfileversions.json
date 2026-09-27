@@ -1,0 +1,61 @@
+{
+  "{\"path\":\"/archive/budget_2023.xls\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": false,
+          "IsLatest": true,
+          "ModifiedDate": "2023-11-28T13:17:55Z",
+          "Name": "budget_2023.xls",
+          "Path": "/archive/budget_2023.xls",
+          "Size": 15234,
+          "VersionId": "1.1"
+        },
+        {
+          "IsFolder": false,
+          "IsLatest": false,
+          "ModifiedDate": "2023-11-20T10:02:31Z",
+          "Name": "budget_2023.xls",
+          "Path": "/archive/budget_2023.xls",
+          "Size": 14987,
+          "VersionId": "1.0"
+        }
+      ]
+    }
+  },
+  "{\"path\":\"/spreadsheets/quarterly_sales.xlsx\",\"storagename\":\"mycloudstorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": false,
+          "IsLatest": true,
+          "ModifiedDate": "2024-03-15T09:42:11Z",
+          "Name": "quarterly_sales.xlsx",
+          "Path": "/spreadsheets/quarterly_sales.xlsx",
+          "Size": 48213,
+          "VersionId": "3.0"
+        },
+        {
+          "IsFolder": false,
+          "IsLatest": false,
+          "ModifiedDate": "2024-03-12T16:05:47Z",
+          "Name": "quarterly_sales.xlsx",
+          "Path": "/spreadsheets/quarterly_sales.xlsx",
+          "Size": 47980,
+          "VersionId": "2.0"
+        },
+        {
+          "IsFolder": false,
+          "IsLatest": false,
+          "ModifiedDate": "2024-03-01T08:20:03Z",
+          "Name": "quarterly_sales.xlsx",
+          "Path": "/spreadsheets/quarterly_sales.xlsx",
+          "Size": 45120,
+          "VersionId": "1.0"
+        }
+      ]
+    }
+  }
+}

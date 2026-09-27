@@ -1,0 +1,82 @@
+{
+  "{\"disaster_id\":\"EQ2023041\",\"page_number\":2}": {
+    "error": "",
+    "response": {
+      "cities": [
+        {
+          "city_name": "Istanbul",
+          "country": "Turkey",
+          "exposure_score": 94.2,
+          "latitude": 41.0082,
+          "longitude": 28.9784,
+          "population": 15462452,
+          "risk_level": "Very High"
+        },
+        {
+          "city_name": "Bursa",
+          "country": "Turkey",
+          "exposure_score": 68.9,
+          "latitude": 40.1885,
+          "longitude": 29.061,
+          "population": 3052400,
+          "risk_level": "Moderate"
+        }
+      ],
+      "disaster_id": "EQ2023041",
+      "page_number": 2
+    }
+  },
+  "{\"disaster_id\":\"FL1101125\"}": {
+    "error": "",
+    "response": {
+      "cities": [
+        {
+          "city_name": "Miami",
+          "country": "United States",
+          "exposure_score": 87.4,
+          "latitude": 25.7617,
+          "longitude": -80.1918,
+          "population": 442241,
+          "risk_level": "High"
+        },
+        {
+          "city_name": "Hialeah",
+          "country": "United States",
+          "exposure_score": 72.1,
+          "latitude": 25.8576,
+          "longitude": -80.2781,
+          "population": 223109,
+          "risk_level": "Moderate"
+        }
+      ],
+      "disaster_id": "FL1101125"
+    }
+  },
+  "{\"disaster_id\":\"WF2207788\",\"page_number\":1}": {
+    "error": "",
+    "response": {
+      "cities": [
+        {
+          "city_name": "Sydney",
+          "country": "Australia",
+          "exposure_score": 81.5,
+          "latitude": -33.8688,
+          "longitude": 151.2093,
+          "population": 5312163,
+          "risk_level": "High"
+        },
+        {
+          "city_name": "Newcastle",
+          "country": "Australia",
+          "exposure_score": 59.3,
+          "latitude": -32.9283,
+          "longitude": 151.7817,
+          "population": 322278,
+          "risk_level": "Moderate"
+        }
+      ],
+      "disaster_id": "WF2207788",
+      "page_number": 1
+    }
+  }
+}

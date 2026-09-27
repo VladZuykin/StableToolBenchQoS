@@ -1,0 +1,35 @@
+{
+  "{\"folder\":\"photos/vacation\",\"format\":\"png\",\"method\":\"Rotate90FlipX\",\"name\":\"landscape.jpg\",\"storage\":\"mycloudstorage\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/storage/file/mycloudstorage/photos/vacation/landscape.png",
+      "fileName": "landscape.png",
+      "format": "png",
+      "message": "Image rotated and flipped successfully",
+      "method": "Rotate90FlipX",
+      "status": "OK"
+    }
+  },
+  "{\"format\":\"jpg\",\"method\":\"RotateNoneFlipY\",\"name\":\"scan.tiff\",\"storage\":\"productionstorage\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/storage/file/productionstorage/scan.jpg",
+      "fileName": "scan.jpg",
+      "format": "jpg",
+      "message": "Image rotated and flipped successfully",
+      "method": "RotateNoneFlipY",
+      "status": "OK"
+    }
+  },
+  "{\"method\":\"Rotate180FlipNone\",\"name\":\"portrait.png\"}": {
+    "error": "",
+    "response": {
+      "downloadUrl": "https://api.aspose.cloud/v3.0/imaging/storage/file/portrait.png",
+      "fileName": "portrait.png",
+      "format": "png",
+      "message": "Image rotated and flipped successfully",
+      "method": "Rotate180FlipNone",
+      "status": "OK"
+    }
+  }
+}

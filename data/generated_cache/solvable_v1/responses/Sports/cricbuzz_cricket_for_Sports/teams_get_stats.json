@@ -1,0 +1,755 @@
+{
+  "{\"matchtype\":1,\"opponent\":6,\"statstype\":\"mostRuns\",\"teamid\":2,\"year\":2021}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "India vs Australia Stats 2021 - Most Runs",
+        "webURL": "https://www.cricbuzz.com/cricket-series/teams/2/stats/mostRuns"
+      },
+      "filter": {
+        "matchtype": [
+          {
+            "matchTypeDesc": "Test",
+            "matchTypeId": "1"
+          },
+          {
+            "matchTypeDesc": "ODI",
+            "matchTypeId": "2"
+          },
+          {
+            "matchTypeDesc": "T20I",
+            "matchTypeId": "3"
+          }
+        ],
+        "selectedMatchType": "1",
+        "selectedTeam": "2",
+        "team": [
+          {
+            "id": "2",
+            "teamShortName": "IND"
+          },
+          {
+            "id": "6",
+            "teamShortName": "AUS"
+          },
+          {
+            "id": "4",
+            "teamShortName": "ENG"
+          }
+        ]
+      },
+      "headers": [
+        "Player",
+        "Matches",
+        "Innings",
+        "Runs",
+        "Average",
+        "Strike Rate"
+      ],
+      "values": [
+        {
+          "values": [
+            "Rohit Sharma",
+            "5",
+            "10",
+            "512",
+            "56.89",
+            "58.12"
+          ]
+        },
+        {
+          "values": [
+            "Virat Kohli",
+            "5",
+            "10",
+            "489",
+            "54.33",
+            "52.75"
+          ]
+        },
+        {
+          "values": [
+            "Cheteshwar Pujara",
+            "5",
+            "10",
+            "421",
+            "46.78",
+            "44.03"
+          ]
+        },
+        {
+          "values": [
+            "Ajinkya Rahane",
+            "5",
+            "10",
+            "398",
+            "44.22",
+            "47.61"
+          ]
+        },
+        {
+          "values": [
+            "Rishabh Pant",
+            "5",
+            "10",
+            "374",
+            "41.56",
+            "71.24"
+          ]
+        },
+        {
+          "values": [
+            "KL Rahul",
+            "4",
+            "8",
+            "356",
+            "44.50",
+            "49.86"
+          ]
+        },
+        {
+          "values": [
+            "Mayank Agarwal",
+            "4",
+            "8",
+            "312",
+            "39.00",
+            "51.23"
+          ]
+        },
+        {
+          "values": [
+            "Ravindra Jadeja",
+            "5",
+            "10",
+            "298",
+            "33.11",
+            "55.40"
+          ]
+        },
+        {
+          "values": [
+            "Hanuma Vihari",
+            "3",
+            "6",
+            "245",
+            "40.83",
+            "42.17"
+          ]
+        },
+        {
+          "values": [
+            "Shubman Gill",
+            "3",
+            "6",
+            "221",
+            "36.83",
+            "48.90"
+          ]
+        },
+        {
+          "values": [
+            "Ravichandran Ashwin",
+            "5",
+            "10",
+            "198",
+            "22.00",
+            "45.62"
+          ]
+        },
+        {
+          "values": [
+            "Mohammed Shami",
+            "5",
+            "10",
+            "156",
+            "17.33",
+            "52.88"
+          ]
+        },
+        {
+          "values": [
+            "Jasprit Bumrah",
+            "5",
+            "10",
+            "134",
+            "14.89",
+            "41.75"
+          ]
+        },
+        {
+          "values": [
+            "Umesh Yadav",
+            "4",
+            "8",
+            "112",
+            "14.00",
+            "49.34"
+          ]
+        },
+        {
+          "values": [
+            "Ishant Sharma",
+            "4",
+            "8",
+            "98",
+            "12.25",
+            "38.90"
+          ]
+        },
+        {
+          "values": [
+            "Mohammed Siraj",
+            "3",
+            "6",
+            "76",
+            "12.67",
+            "43.21"
+          ]
+        },
+        {
+          "values": [
+            "Washington Sundar",
+            "2",
+            "4",
+            "65",
+            "16.25",
+            "50.11"
+          ]
+        },
+        {
+          "values": [
+            "Axar Patel",
+            "2",
+            "4",
+            "54",
+            "13.50",
+            "46.78"
+          ]
+        },
+        {
+          "values": [
+            "Shardul Thakur",
+            "2",
+            "4",
+            "43",
+            "10.75",
+            "55.90"
+          ]
+        },
+        {
+          "values": [
+            "Navdeep Saini",
+            "1",
+            "2",
+            "21",
+            "10.50",
+            "40.00"
+          ]
+        }
+      ]
+    }
+  },
+  "{\"matchtype\":2,\"statstype\":\"mostWickets\",\"teamid\":4,\"year\":2019}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "England ODI Stats 2019 - Most Wickets",
+        "webURL": "https://www.cricbuzz.com/cricket-series/teams/4/stats/mostWickets"
+      },
+      "filter": {
+        "matchtype": [
+          {
+            "matchTypeDesc": "Test",
+            "matchTypeId": "1"
+          },
+          {
+            "matchTypeDesc": "ODI",
+            "matchTypeId": "2"
+          },
+          {
+            "matchTypeDesc": "T20I",
+            "matchTypeId": "3"
+          }
+        ],
+        "selectedMatchType": "2",
+        "selectedTeam": "4",
+        "team": [
+          {
+            "id": "4",
+            "teamShortName": "ENG"
+          },
+          {
+            "id": "2",
+            "teamShortName": "IND"
+          },
+          {
+            "id": "6",
+            "teamShortName": "AUS"
+          }
+        ]
+      },
+      "headers": [
+        "Player",
+        "Matches",
+        "Innings",
+        "Wickets",
+        "Average",
+        "Economy"
+      ],
+      "values": [
+        {
+          "values": [
+            "Jofra Archer",
+            "11",
+            "11",
+            "20",
+            "23.45",
+            "4.87"
+          ]
+        },
+        {
+          "values": [
+            "Mark Wood",
+            "10",
+            "10",
+            "18",
+            "26.11",
+            "5.02"
+          ]
+        },
+        {
+          "values": [
+            "Chris Woakes",
+            "9",
+            "9",
+            "16",
+            "28.34",
+            "5.21"
+          ]
+        },
+        {
+          "values": [
+            "Adil Rashid",
+            "11",
+            "11",
+            "14",
+            "32.78",
+            "5.45"
+          ]
+        },
+        {
+          "values": [
+            "Moeen Ali",
+            "8",
+            "8",
+            "12",
+            "35.90",
+            "5.12"
+          ]
+        },
+        {
+          "values": [
+            "Ben Stokes",
+            "11",
+            "11",
+            "11",
+            "38.22",
+            "5.67"
+          ]
+        },
+        {
+          "values": [
+            "Liam Plunkett",
+            "7",
+            "7",
+            "10",
+            "40.15",
+            "5.89"
+          ]
+        },
+        {
+          "values": [
+            "Tom Curran",
+            "6",
+            "6",
+            "9",
+            "42.33",
+            "6.01"
+          ]
+        },
+        {
+          "values": [
+            "Sam Curran",
+            "5",
+            "5",
+            "8",
+            "44.78",
+            "6.23"
+          ]
+        },
+        {
+          "values": [
+            "David Willey",
+            "4",
+            "4",
+            "7",
+            "46.90",
+            "5.78"
+          ]
+        },
+        {
+          "values": [
+            "Joe Root",
+            "11",
+            "11",
+            "6",
+            "52.11",
+            "5.34"
+          ]
+        },
+        {
+          "values": [
+            "Jonny Bairstow",
+            "11",
+            "11",
+            "5",
+            "58.45",
+            "5.90"
+          ]
+        },
+        {
+          "values": [
+            "Eoin Morgan",
+            "11",
+            "11",
+            "4",
+            "62.78",
+            "6.12"
+          ]
+        },
+        {
+          "values": [
+            "Jos Buttler",
+            "11",
+            "11",
+            "3",
+            "68.90",
+            "6.45"
+          ]
+        },
+        {
+          "values": [
+            "Jason Roy",
+            "10",
+            "10",
+            "2",
+            "74.22",
+            "6.78"
+          ]
+        },
+        {
+          "values": [
+            "James Vince",
+            "6",
+            "6",
+            "2",
+            "76.45",
+            "6.90"
+          ]
+        },
+        {
+          "values": [
+            "Dawid Malan",
+            "5",
+            "5",
+            "1",
+            "82.11",
+            "7.02"
+          ]
+        },
+        {
+          "values": [
+            "Liam Dawson",
+            "3",
+            "3",
+            "1",
+            "85.67",
+            "7.23"
+          ]
+        },
+        {
+          "values": [
+            "Craig Overton",
+            "2",
+            "2",
+            "1",
+            "88.90",
+            "7.45"
+          ]
+        },
+        {
+          "values": [
+            "Saqib Mahmood",
+            "1",
+            "1",
+            "0",
+            "0.00",
+            "8.12"
+          ]
+        }
+      ]
+    }
+  },
+  "{\"matchtype\":3,\"opponent\":2,\"statstype\":\"highestScore\",\"teamid\":6}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "Australia T20I Stats - Highest Scores",
+        "webURL": "https://www.cricbuzz.com/cricket-series/teams/6/stats/highestScore"
+      },
+      "filter": {
+        "matchtype": [
+          {
+            "matchTypeDesc": "Test",
+            "matchTypeId": "1"
+          },
+          {
+            "matchTypeDesc": "ODI",
+            "matchTypeId": "2"
+          },
+          {
+            "matchTypeDesc": "T20I",
+            "matchTypeId": "3"
+          }
+        ],
+        "selectedMatchType": "3",
+        "selectedTeam": "6",
+        "team": [
+          {
+            "id": "6",
+            "teamShortName": "AUS"
+          },
+          {
+            "id": "2",
+            "teamShortName": "IND"
+          },
+          {
+            "id": "4",
+            "teamShortName": "ENG"
+          }
+        ]
+      },
+      "headers": [
+        "Player",
+        "Matches",
+        "Innings",
+        "Highest Score",
+        "Strike Rate",
+        "Balls Faced"
+      ],
+      "values": [
+        {
+          "values": [
+            "Aaron Finch",
+            "18",
+            "18",
+            "172",
+            "156.36",
+            "110"
+          ]
+        },
+        {
+          "values": [
+            "David Warner",
+            "17",
+            "17",
+            "156",
+            "148.57",
+            "105"
+          ]
+        },
+        {
+          "values": [
+            "Glenn Maxwell",
+            "18",
+            "17",
+            "145",
+            "178.90",
+            "81"
+          ]
+        },
+        {
+          "values": [
+            "Steve Smith",
+            "15",
+            "15",
+            "134",
+            "142.55",
+            "94"
+          ]
+        },
+        {
+          "values": [
+            "Matthew Wade",
+            "16",
+            "15",
+            "128",
+            "151.23",
+            "85"
+          ]
+        },
+        {
+          "values": [
+            "Marcus Stoinis",
+            "14",
+            "13",
+            "119",
+            "162.78",
+            "73"
+          ]
+        },
+        {
+          "values": [
+            "Mitchell Marsh",
+            "13",
+            "12",
+            "112",
+            "155.44",
+            "72"
+          ]
+        },
+        {
+          "values": [
+            "Tim David",
+            "10",
+            "9",
+            "104",
+            "188.12",
+            "55"
+          ]
+        },
+        {
+          "values": [
+            "Josh Inglis",
+            "8",
+            "7",
+            "98",
+            "160.34",
+            "61"
+          ]
+        },
+        {
+          "values": [
+            "Cameron Green",
+            "7",
+            "6",
+            "92",
+            "147.89",
+            "62"
+          ]
+        },
+        {
+          "values": [
+            "Ashton Agar",
+            "12",
+            "10",
+            "88",
+            "138.45",
+            "64"
+          ]
+        },
+        {
+          "values": [
+            "Pat Cummins",
+            "15",
+            "12",
+            "84",
+            "145.67",
+            "58"
+          ]
+        },
+        {
+          "values": [
+            "Mitchell Starc",
+            "16",
+            "13",
+            "78",
+            "152.90",
+            "51"
+          ]
+        },
+        {
+          "values": [
+            "Adam Zampa",
+            "17",
+            "14",
+            "72",
+            "140.12",
+            "51"
+          ]
+        },
+        {
+          "values": [
+            "Josh Hazlewood",
+            "15",
+            "12",
+            "66",
+            "135.78",
+            "49"
+          ]
+        },
+        {
+          "values": [
+            "Kane Richardson",
+            "11",
+            "9",
+            "58",
+            "148.23",
+            "39"
+          ]
+        },
+        {
+          "values": [
+            "Nathan Ellis",
+            "6",
+            "5",
+            "52",
+            "155.90",
+            "33"
+          ]
+        },
+        {
+          "values": [
+            "Sean Abbott",
+            "5",
+            "4",
+            "46",
+            "162.45",
+            "28"
+          ]
+        },
+        {
+          "values": [
+            "Daniel Sams",
+            "4",
+            "3",
+            "38",
+            "170.11",
+            "22"
+          ]
+        },
+        {
+          "values": [
+            "Riley Meredith",
+            "3",
+            "2",
+            "24",
+            "145.67",
+            "16"
+          ]
+        }
+      ]
+    }
+  }
+}

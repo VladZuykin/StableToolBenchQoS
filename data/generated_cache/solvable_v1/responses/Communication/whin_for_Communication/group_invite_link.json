@@ -1,0 +1,20 @@
+{
+  "{\"gid\":\"120363021234567890\"}": {
+    "error": "",
+    "response": {
+      "message": "https://chat.whatsapp.com/AbCdEfGhIjKlMnOpQrStUv"
+    }
+  },
+  "{\"gid\":\"447700900123-987654321\"}": {
+    "error": "",
+    "response": {
+      "message": "https://chat.whatsapp.com/QwErTyUiOpAsDfGhJkLzXc"
+    }
+  },
+  "{\"gid\":\"98327493279327\"}": {
+    "error": "",
+    "response": {
+      "message": "https://chat.whatsapp.com/ZyXwVuTsRqPoNmLkJiHgFe"
+    }
+  }
+}

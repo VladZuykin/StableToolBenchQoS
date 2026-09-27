@@ -1,0 +1,41 @@
+{
+  "{\"channel_name\":\"amouranth\"}": {
+    "error": "",
+    "response": {
+      "category": "IRL",
+      "channel_name": "amouranth",
+      "is_live": true,
+      "language": "en",
+      "started_at": "2024-06-12T02:15:10Z",
+      "thumbnail_url": "https://kick.com/thumbnails/amouranth/live.jpg",
+      "title": "Late night stream",
+      "viewer_count": 12764
+    }
+  },
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "category": null,
+      "channel_name": "trainwreckstv",
+      "is_live": false,
+      "language": "en",
+      "started_at": null,
+      "thumbnail_url": null,
+      "title": null,
+      "viewer_count": 0
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "category": "Just Chatting",
+      "channel_name": "xqc",
+      "is_live": true,
+      "language": "en",
+      "started_at": "2024-06-11T18:02:45Z",
+      "thumbnail_url": "https://kick.com/thumbnails/xqc/live.jpg",
+      "title": "Ranked grind with the boys",
+      "viewer_count": 48213
+    }
+  }
+}

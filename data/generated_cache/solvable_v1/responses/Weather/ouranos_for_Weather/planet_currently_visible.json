@@ -1,0 +1,20 @@
+{
+  "{\"lat\":\"-33.8688\",\"long\":\"151.2093\"}": {
+    "error": "",
+    "response": {
+      "message": "Venus is currently visible in the eastern sky just before dawn, appearing as the brilliant morning star."
+    }
+  },
+  "{\"lat\":\"40.7128\",\"long\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "message": "Jupiter is currently visible in the southeastern sky, shining brightly at magnitude -2.3."
+    }
+  },
+  "{\"lat\":\"48.8566\",\"long\":\"2.3522\"}": {
+    "error": "",
+    "response": {
+      "message": "Saturn is currently visible low in the western sky, with its rings tilted at 15 degrees."
+    }
+  }
+}

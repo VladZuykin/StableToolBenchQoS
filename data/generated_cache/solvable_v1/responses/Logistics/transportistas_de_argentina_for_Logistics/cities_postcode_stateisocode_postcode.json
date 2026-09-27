@@ -1,0 +1,53 @@
+{
+  "{\"postcode\":\"1900\",\"stateisocode\":\"B\"}": {
+    "error": "",
+    "response": [
+      {
+        "city_name": "La Plata",
+        "city_name_normalize": "LA PLATA",
+        "iso_state": "B",
+        "other_postcode": [
+          1901,
+          1902,
+          1903
+        ],
+        "postcode": 1900
+      },
+      {
+        "city_name": "Berisso",
+        "city_name_normalize": "BERISSO",
+        "iso_state": "B",
+        "other_postcode": [
+          1924
+        ],
+        "postcode": 1923
+      }
+    ]
+  },
+  "{\"postcode\":\"5000\",\"stateisocode\":\"X\"}": {
+    "error": "",
+    "response": [
+      {
+        "city_name": "Córdoba",
+        "city_name_normalize": "CORDOBA",
+        "iso_state": "X",
+        "other_postcode": [
+          5001,
+          5002,
+          5003,
+          5004
+        ],
+        "postcode": 5000
+      },
+      {
+        "city_name": "Villa Allende",
+        "city_name_normalize": "VILLA ALLENDE",
+        "iso_state": "X",
+        "other_postcode": [
+          5106
+        ],
+        "postcode": 5105
+      }
+    ]
+  }
+}

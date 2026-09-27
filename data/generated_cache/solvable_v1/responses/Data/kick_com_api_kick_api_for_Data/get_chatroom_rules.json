@@ -1,0 +1,38 @@
+{
+  "{\"channel_name\":\"kaicenat\"}": {
+    "error": "",
+    "response": {
+      "channel": "kaicenat",
+      "rules": [
+        "Respect everyone in chat.",
+        "No excessive caps or spam.",
+        "No advertising other channels.",
+        "Have fun and enjoy the stream."
+      ]
+    }
+  },
+  "{\"channel_name\":\"trainwreckstv\"}": {
+    "error": "",
+    "response": {
+      "channel": "trainwreckstv",
+      "rules": [
+        "No racism, sexism, or discrimination.",
+        "Keep chat English only.",
+        "No links without permission.",
+        "No backseat gaming."
+      ]
+    }
+  },
+  "{\"channel_name\":\"xqc\"}": {
+    "error": "",
+    "response": {
+      "channel": "xqc",
+      "rules": [
+        "Be respectful to others.",
+        "No spamming or self-promotion.",
+        "No hate speech or harassment.",
+        "Follow the moderators' instructions."
+      ]
+    }
+  }
+}

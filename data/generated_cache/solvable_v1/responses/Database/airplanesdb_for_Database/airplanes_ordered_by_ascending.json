@@ -1,0 +1,132 @@
+{
+  "{\"ordering\":\"brand\"}": {
+    "error": "",
+    "response": [
+      {
+        "brand": "Airbus",
+        "cruise_speed_kmph": 828,
+        "engine": "CFM56",
+        "id": 1,
+        "imgThumb": "https://example.com/a320.jpg",
+        "img_attribution": "Wikimedia",
+        "img_creative_commons": true,
+        "passenger_capacity": 180,
+        "plane": "Airbus A320",
+        "priceUSD": 98000000,
+        "range_km": 6100
+      },
+      {
+        "brand": "Boeing",
+        "cruise_speed_kmph": 842,
+        "engine": "CFM56-7B",
+        "id": 2,
+        "imgThumb": "https://example.com/b737.jpg",
+        "img_attribution": "Wikimedia",
+        "img_creative_commons": true,
+        "passenger_capacity": 189,
+        "plane": "Boeing 737",
+        "priceUSD": 96000000,
+        "range_km": 5600
+      }
+    ]
+  },
+  "{\"ordering\":\"id\"}": {
+    "error": "",
+    "response": [
+      {
+        "brand": "Airbus",
+        "cruise_speed_kmph": 828,
+        "engine": "CFM56",
+        "id": 1,
+        "imgThumb": "https://example.com/a320.jpg",
+        "img_attribution": "Wikimedia",
+        "img_creative_commons": true,
+        "passenger_capacity": 180,
+        "plane": "Airbus A320",
+        "priceUSD": 98000000,
+        "range_km": 6100
+      },
+      {
+        "brand": "Boeing",
+        "cruise_speed_kmph": 842,
+        "engine": "CFM56-7B",
+        "id": 2,
+        "imgThumb": "https://example.com/b737.jpg",
+        "img_attribution": "Wikimedia",
+        "img_creative_commons": true,
+        "passenger_capacity": 189,
+        "plane": "Boeing 737",
+        "priceUSD": 96000000,
+        "range_km": 5600
+      }
+    ]
+  },
+  "{\"ordering\":\"plane\"}": {
+    "error": "",
+    "response": [
+      {
+        "brand": "Airbus",
+        "ceiling_ft": 39000,
+        "cruise_speed_kmph": 828,
+        "empty_weight_kg": 42600,
+        "engine": "CFM56",
+        "fuel_capacity_litres": 24210,
+        "height_ft": 38.7,
+        "id": 1,
+        "imgThumb": "https://example.com/images/a320.jpg",
+        "img_attribution": "Wikimedia Commons",
+        "img_creative_commons": true,
+        "length_ft": 123.3,
+        "max_landing_weight_kg": 66000,
+        "max_takeoff_weight_kg": 78000,
+        "passenger_capacity": 180,
+        "plane": "Airbus A320",
+        "priceUSD": 98000000,
+        "range_km": 6100,
+        "wingspan_ft": 111.9
+      },
+      {
+        "brand": "Boeing",
+        "ceiling_ft": 41000,
+        "cruise_speed_kmph": 842,
+        "empty_weight_kg": 41413,
+        "engine": "CFM56-7B",
+        "fuel_capacity_litres": 26020,
+        "height_ft": 41.2,
+        "id": 2,
+        "imgThumb": "https://example.com/images/b737.jpg",
+        "img_attribution": "Wikimedia Commons",
+        "img_creative_commons": true,
+        "length_ft": 129.6,
+        "max_landing_weight_kg": 66360,
+        "max_takeoff_weight_kg": 79015,
+        "passenger_capacity": 189,
+        "plane": "Boeing 737-800",
+        "priceUSD": 96000000,
+        "range_km": 5765,
+        "wingspan_ft": 117.5
+      },
+      {
+        "brand": "Boeing",
+        "ceiling_ft": 43100,
+        "cruise_speed_kmph": 905,
+        "empty_weight_kg": 167829,
+        "engine": "GE90-115B",
+        "fuel_capacity_litres": 181283,
+        "height_ft": 60.8,
+        "id": 3,
+        "imgThumb": "https://example.com/images/b777.jpg",
+        "img_attribution": "Wikimedia Commons",
+        "img_creative_commons": true,
+        "length_ft": 242.1,
+        "max_landing_weight_kg": 251290,
+        "max_takeoff_weight_kg": 351534,
+        "passenger_capacity": 396,
+        "plane": "Boeing 777-300ER",
+        "priceUSD": 320200000,
+        "range_km": 13650,
+        "wingspan_ft": 212.7
+      }
+    ]
+  }
+}

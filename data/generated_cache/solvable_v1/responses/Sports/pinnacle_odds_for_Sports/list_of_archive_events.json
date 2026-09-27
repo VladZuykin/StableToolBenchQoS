@@ -1,0 +1,47 @@
+{
+  "{\"league_ids\":1980,\"page_num\":3,\"sport_id\":4}": {
+    "error": "",
+    "response": {
+      "detail": [
+        {
+          "loc": [
+            "league_ids",
+            "1980"
+          ],
+          "msg": "Archive events for league 1980 on page 3",
+          "type": "info"
+        }
+      ]
+    }
+  },
+  "{\"league_ids\":2627,\"page_num\":2,\"sport_id\":33}": {
+    "error": "",
+    "response": {
+      "detail": [
+        {
+          "loc": [
+            "sport_id",
+            "33"
+          ],
+          "msg": "Archive events for sport 33, league 2627, page 2",
+          "type": "info"
+        }
+      ]
+    }
+  },
+  "{\"page_num\":1,\"sport_id\":29}": {
+    "error": "",
+    "response": {
+      "detail": [
+        {
+          "loc": [
+            "sport_id",
+            "29"
+          ],
+          "msg": "Archive events retrieved successfully",
+          "type": "info"
+        }
+      ]
+    }
+  }
+}

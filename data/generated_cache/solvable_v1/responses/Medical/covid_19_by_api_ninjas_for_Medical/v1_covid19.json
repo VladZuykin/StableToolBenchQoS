@@ -1,0 +1,19 @@
+{
+  "{\"country\":\"Japan\",\"date\":\"2021-08-15\",\"type\":\"deaths\"}": {
+    "error": "",
+    "response": {
+      "country": "Japan",
+      "date": "2021-08-15",
+      "deaths": 15432
+    }
+  },
+  "{\"country\":\"United States\",\"county\":\"Harris\",\"region\":\"Texas\",\"type\":\"cases\"}": {
+    "error": "",
+    "response": {
+      "cases": 512340,
+      "country": "United States",
+      "county": "Harris",
+      "region": "Texas"
+    }
+  }
+}

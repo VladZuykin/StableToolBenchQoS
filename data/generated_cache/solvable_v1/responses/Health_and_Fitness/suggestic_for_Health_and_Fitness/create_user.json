@@ -1,0 +1,14 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "status": "success",
+      "user": {
+        "created_at": "2024-06-15T10:23:45Z",
+        "email": "newuser@example.com",
+        "id": "usr_8f3a2b1c9d",
+        "partner_id": "partner_001"
+      }
+    }
+  }
+}

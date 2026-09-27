@@ -1,0 +1,178 @@
+{
+  "{\"country\":\"JP\"}": {
+    "error": "",
+    "response": {
+      "artists": {
+        "items": [
+          {
+            "browseId": "UC8Z0X0X0X0X0X0X0X0X0",
+            "rank": "1",
+            "subscribers": "12.4M",
+            "thumbnails": [
+              {
+                "height": 226,
+                "url": "https://lh3.googleusercontent.com/artist1.jpg",
+                "width": 226
+              },
+              {
+                "height": 544,
+                "url": "https://lh3.googleusercontent.com/artist1_large.jpg",
+                "width": 544
+              }
+            ],
+            "title": "YOASOBI",
+            "trend": "up"
+          },
+          {
+            "browseId": "UC9Y1Y1Y1Y1Y1Y1Y1Y1Y1",
+            "rank": "2",
+            "subscribers": "9.8M",
+            "thumbnails": [
+              {
+                "height": 226,
+                "url": "https://lh3.googleusercontent.com/artist2.jpg",
+                "width": 226
+              },
+              {
+                "height": 544,
+                "url": "https://lh3.googleusercontent.com/artist2_large.jpg",
+                "width": 544
+              }
+            ],
+            "title": "Ado",
+            "trend": "same"
+          }
+        ],
+        "playlist": null
+      },
+      "countries": {
+        "options": [
+          "JP",
+          "US",
+          "ZZ",
+          "KR",
+          "GB"
+        ],
+        "selected": {
+          "text": "Japan"
+        }
+      },
+      "trending": {
+        "items": [
+          {
+            "artists": [
+              {
+                "id": "UC8Z0X0X0X0X0X0X0X0X0",
+                "name": "YOASOBI"
+              },
+              {
+                "id": "UC9Y1Y1Y1Y1Y1Y1Y1Y1Y1",
+                "name": "Ado"
+              }
+            ],
+            "playlistId": "PLtrending1",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://i.ytimg.com/vi/trend1/hqdefault.jpg",
+                "width": 360
+              }
+            ],
+            "title": "Idol",
+            "videoId": "trend1",
+            "views": null
+          },
+          {
+            "artists": [
+              {
+                "id": "UC7W9W9W9W9W9W9W9W9W9",
+                "name": "Fujii Kaze"
+              }
+            ],
+            "playlistId": "PLtrending2",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://i.ytimg.com/vi/trend2/hqdefault.jpg",
+                "width": 360
+              }
+            ],
+            "title": "Shinunoga E-Wa",
+            "videoId": "trend2",
+            "views": null
+          }
+        ],
+        "playlist": "PLtrendingJP"
+      },
+      "videos": {
+        "items": [
+          {
+            "artists": [
+              {
+                "id": "UC8Z0X0X0X0X0X0X0X0X0",
+                "name": "YOASOBI"
+              },
+              {
+                "id": "UC9Y1Y1Y1Y1Y1Y1Y1Y1Y1",
+                "name": "Ado"
+              },
+              {
+                "id": "UC7W9W9W9W9W9W9W9W9W9",
+                "name": "Fujii Kaze"
+              }
+            ],
+            "playlistId": "PLvideos1",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://i.ytimg.com/vi/vid1/hqdefault.jpg",
+                "width": 360
+              },
+              {
+                "height": 404,
+                "url": "https://i.ytimg.com/vi/vid1/maxresdefault.jpg",
+                "width": 720
+              }
+            ],
+            "title": "Idol",
+            "videoId": "vid1",
+            "views": "245M"
+          },
+          {
+            "artists": [
+              {
+                "id": "UC9Y1Y1Y1Y1Y1Y1Y1Y1Y1",
+                "name": "Ado"
+              },
+              {
+                "id": "UC8Z0X0X0X0X0X0X0X0X0",
+                "name": "YOASOBI"
+              },
+              {
+                "id": "UC7W9W9W9W9W9W9W9W9W9",
+                "name": "Fujii Kaze"
+              }
+            ],
+            "playlistId": "PLvideos2",
+            "thumbnails": [
+              {
+                "height": 202,
+                "url": "https://i.ytimg.com/vi/vid2/hqdefault.jpg",
+                "width": 360
+              },
+              {
+                "height": 404,
+                "url": "https://i.ytimg.com/vi/vid2/maxresdefault.jpg",
+                "width": 720
+              }
+            ],
+            "title": "New Genesis",
+            "videoId": "vid2",
+            "views": "98M"
+          }
+        ],
+        "playlist": "PLvideosJP"
+      }
+    }
+  }
+}

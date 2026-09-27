@@ -1,0 +1,216 @@
+{
+  "{\"department\":\"engineering\",\"domain\":\"openai.com\",\"page\":2}": {
+    "error": "",
+    "response": {
+      "data": {
+        "emails": [
+          {
+            "accept_all": false,
+            "country": "United States",
+            "department": "engineering",
+            "email": "mira.murati@openai.com",
+            "first_name": "Mira",
+            "full_name": "Mira Murati",
+            "gender": "female",
+            "last_name": "Murati",
+            "last_updated": "2024-05-12",
+            "linkedin": "https://www.linkedin.com/in/miramurati",
+            "pattern": "{first}.{last}",
+            "phone_number": null,
+            "position": "Chief Technology Officer",
+            "score": 96,
+            "seniority": "executive",
+            "sources": [
+              {
+                "extracted_on": "2024-03-02",
+                "last_seen_on": "2024-05-10",
+                "still_on_page": true,
+                "uri": "https://openai.com/about",
+                "website_url": "https://openai.com"
+              }
+            ],
+            "twitter": null,
+            "type": "personal",
+            "verification": {
+              "date": "2024-05-10",
+              "status": "valid"
+            }
+          },
+          {
+            "accept_all": false,
+            "country": "United States",
+            "department": "engineering",
+            "email": "greg.brockman@openai.com",
+            "first_name": "Greg",
+            "full_name": "Greg Brockman",
+            "gender": "male",
+            "last_name": "Brockman",
+            "last_updated": "2024-05-01",
+            "linkedin": "https://www.linkedin.com/in/gregbrockman",
+            "pattern": "{first}.{last}",
+            "phone_number": null,
+            "position": "President",
+            "score": 94,
+            "seniority": "executive",
+            "sources": [
+              {
+                "extracted_on": "2024-02-15",
+                "last_seen_on": "2024-04-28",
+                "still_on_page": true,
+                "uri": "https://openai.com/team",
+                "website_url": "https://openai.com"
+              }
+            ],
+            "twitter": null,
+            "type": "personal",
+            "verification": {
+              "date": "2024-04-28",
+              "status": "valid"
+            }
+          }
+        ],
+        "organization": {
+          "accept_all": false,
+          "company_size": "201-500",
+          "description": "AI research and deployment company",
+          "disposable": false,
+          "domain_score": 92,
+          "employee_count": 375,
+          "founded": "2015",
+          "industries": "Artificial Intelligence, Software",
+          "last_updated": "2024-05-14",
+          "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "state": "California",
+            "street_address": "3180 18th St"
+          },
+          "organization": "OpenAI",
+          "pattern": "{first}.{last}",
+          "phone_number": "+1 415 555 0132",
+          "postal_code": "94110",
+          "revenue": "$100M-$500M",
+          "social_links": {
+            "facebook_url": "https://www.facebook.com/openai",
+            "linkedin_url": "https://www.linkedin.com/company/openai",
+            "twitter_url": "https://twitter.com/openai"
+          },
+          "webmail": false,
+          "website_url": "https://openai.com",
+          "whois": {
+            "created_date": "2015-12-11",
+            "referral_url": "https://www.markmonitor.com",
+            "registrar_name": "MarkMonitor Inc."
+          }
+        }
+      }
+    }
+  },
+  "{\"domain\":\"shopify.com\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "emails": [
+          {
+            "accept_all": true,
+            "country": "Canada",
+            "department": "executive",
+            "email": "tobi@shopify.com",
+            "first_name": "Tobi",
+            "full_name": "Tobi Lütke",
+            "gender": "male",
+            "last_name": "Lütke",
+            "last_updated": "2024-05-25",
+            "linkedin": "https://www.linkedin.com/in/tobilutke",
+            "pattern": "{first}",
+            "phone_number": null,
+            "position": "Chief Executive Officer",
+            "score": 90,
+            "seniority": "executive",
+            "sources": [
+              {
+                "extracted_on": "2024-01-10",
+                "last_seen_on": "2024-05-20",
+                "still_on_page": true,
+                "uri": "https://www.shopify.com/about",
+                "website_url": "https://www.shopify.com"
+              }
+            ],
+            "twitter": null,
+            "type": "personal",
+            "verification": {
+              "date": "2024-05-20",
+              "status": "valid"
+            }
+          },
+          {
+            "accept_all": true,
+            "country": "Canada",
+            "department": "executive",
+            "email": "harley@shopify.com",
+            "first_name": "Harley",
+            "full_name": "Harley Finkelstein",
+            "gender": "male",
+            "last_name": "Finkelstein",
+            "last_updated": "2024-05-22",
+            "linkedin": "https://www.linkedin.com/in/harleyfinkelstein",
+            "pattern": "{first}",
+            "phone_number": null,
+            "position": "President",
+            "score": 87,
+            "seniority": "executive",
+            "sources": [
+              {
+                "extracted_on": "2024-02-01",
+                "last_seen_on": "2024-05-18",
+                "still_on_page": true,
+                "uri": "https://www.shopify.com/team",
+                "website_url": "https://www.shopify.com"
+              }
+            ],
+            "twitter": null,
+            "type": "personal",
+            "verification": {
+              "date": "2024-05-18",
+              "status": "valid"
+            }
+          }
+        ],
+        "organization": {
+          "accept_all": true,
+          "company_size": "10001+",
+          "description": "Commerce platform for businesses of all sizes",
+          "disposable": false,
+          "domain_score": 88,
+          "employee_count": 10000,
+          "founded": "2006",
+          "industries": "E-commerce, Software",
+          "last_updated": "2024-06-01",
+          "location": {
+            "city": "Ottawa",
+            "country": "Canada",
+            "state": "Ontario",
+            "street_address": "150 Elgin St"
+          },
+          "organization": "Shopify",
+          "pattern": "{first}",
+          "phone_number": "+1 613 555 0198",
+          "postal_code": "K2P 1L4",
+          "revenue": "$1B+",
+          "social_links": {
+            "facebook_url": "https://www.facebook.com/shopify",
+            "linkedin_url": "https://www.linkedin.com/company/shopify",
+            "twitter_url": "https://twitter.com/shopify"
+          },
+          "webmail": false,
+          "website_url": "https://www.shopify.com",
+          "whois": {
+            "created_date": "2005-08-22",
+            "referral_url": "https://www.markmonitor.com",
+            "registrar_name": "MarkMonitor Inc."
+          }
+        }
+      }
+    }
+  }
+}

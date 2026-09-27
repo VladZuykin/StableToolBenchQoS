@@ -1,0 +1,20 @@
+{
+  "{\"imdb_id\":\"tt0111161\",\"output_language\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "message": "The Shawshank Redemption is available on Netflix (US, CA, GB), Amazon Prime Video (US, DE), and HBO Max (US)."
+    }
+  },
+  "{\"imdb_id\":\"tt1375666\",\"output_language\":\"de\"}": {
+    "error": "",
+    "response": {
+      "message": "Inception is available on Netflix (US, CA, AU), Amazon Prime Video (US, GB), and Disney+ (DE, FR)."
+    }
+  },
+  "{\"output_language\":\"es\",\"tmdb_id\":\"603\"}": {
+    "error": "",
+    "response": {
+      "message": "The Matrix is available on Netflix (US, GB, JP), Amazon Prime Video (US, DE, FR), and Hulu (US)."
+    }
+  }
+}

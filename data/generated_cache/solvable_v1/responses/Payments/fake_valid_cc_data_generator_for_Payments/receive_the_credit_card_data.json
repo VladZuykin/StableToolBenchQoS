@@ -1,0 +1,24 @@
+{
+  "{\"visa_type\":\"amex\"}": {
+    "error": "",
+    "response": {
+      "cc": "378282246310005",
+      "cvc": "3721",
+      "firstname": "Priya",
+      "lastname": "Raman",
+      "type": "amex",
+      "valid_date": "03/29"
+    }
+  },
+  "{\"visa_type\":\"mastercard\"}": {
+    "error": "",
+    "response": {
+      "cc": "5425233430109903",
+      "cvc": "418",
+      "firstname": "Daniel",
+      "lastname": "Whitfield",
+      "type": "mastercard",
+      "valid_date": "09/27"
+    }
+  }
+}

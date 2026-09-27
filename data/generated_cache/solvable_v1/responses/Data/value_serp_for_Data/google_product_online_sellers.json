@@ -1,0 +1,140 @@
+{
+  "{\"gl\":\"au\",\"google_domain\":\"google.com.au\",\"hl\":\"en\",\"location\":\"Sydney, New South Wales, Australia\",\"page\":\"1\",\"product_condition_used\":true,\"product_id\":\"55555555555555555555\",\"product_type\":\"sellers_online\",\"sort_by\":\"base_price\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "Sydney, New South Wales, Australia",
+      "product_id": "55555555555555555555",
+      "product_type": "sellers_online",
+      "sellers": [
+        {
+          "base_price": 149.95,
+          "condition": "Used",
+          "currency": "AUD",
+          "link": "https://www.ebay.com.au/itm/example-product/1234567890",
+          "position": 1,
+          "promotion": null,
+          "seller": "eBay",
+          "seller_rating": 4.1,
+          "shipping": "$10.00 shipping",
+          "total_price": 159.95
+        },
+        {
+          "base_price": 160.0,
+          "condition": "Used",
+          "currency": "AUD",
+          "link": "https://www.gumtree.com.au/s-ad/example-product/1234567890",
+          "position": 2,
+          "promotion": null,
+          "seller": "Gumtree",
+          "seller_rating": 3.9,
+          "shipping": "Pickup only",
+          "total_price": 160.0
+        },
+        {
+          "base_price": 175.5,
+          "condition": "Used",
+          "currency": "AUD",
+          "link": "https://www.amazon.com.au/dp/B0EXAMPLEAU",
+          "position": 3,
+          "promotion": "Prime eligible",
+          "seller": "Amazon.com.au",
+          "seller_rating": 4.3,
+          "shipping": "Free shipping",
+          "total_price": 175.5
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"uk\",\"google_domain\":\"google.co.uk\",\"hl\":\"en\",\"location\":\"London, England, United Kingdom\",\"page\":\"2\",\"product_condition_new\":true,\"product_free_shipping\":true,\"product_id\":\"98765432109876543210\",\"product_type\":\"sellers_online\",\"sort_by\":\"seller_rating\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "London, England, United Kingdom",
+      "product_id": "98765432109876543210",
+      "product_type": "sellers_online",
+      "sellers": [
+        {
+          "base_price": 199.0,
+          "condition": "New",
+          "currency": "GBP",
+          "link": "https://www.johnlewis.com/example-product/p123456",
+          "position": 1,
+          "promotion": null,
+          "seller": "John Lewis",
+          "seller_rating": 4.8,
+          "shipping": "Free shipping",
+          "total_price": 199.0
+        },
+        {
+          "base_price": 189.99,
+          "condition": "New",
+          "currency": "GBP",
+          "link": "https://www.currys.co.uk/products/example-product-123456.html",
+          "position": 2,
+          "promotion": "Save £10",
+          "seller": "Currys",
+          "seller_rating": 4.6,
+          "shipping": "Free shipping",
+          "total_price": 189.99
+        },
+        {
+          "base_price": 194.99,
+          "condition": "New",
+          "currency": "GBP",
+          "link": "https://www.argos.co.uk/product/1234567",
+          "position": 3,
+          "promotion": null,
+          "seller": "Argos",
+          "seller_rating": 4.4,
+          "shipping": "Free shipping",
+          "total_price": 194.99
+        }
+      ]
+    }
+  },
+  "{\"gl\":\"us\",\"hl\":\"en\",\"location\":\"New York, New York, United States\",\"page\":\"1\",\"product_id\":\"12345678901234567890\",\"product_type\":\"sellers_online\",\"sort_by\":\"total_price\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "location": "New York, New York, United States",
+      "product_id": "12345678901234567890",
+      "product_type": "sellers_online",
+      "sellers": [
+        {
+          "base_price": 299.99,
+          "condition": "New",
+          "currency": "USD",
+          "link": "https://www.bestbuy.com/site/example-product/1234567.p",
+          "position": 1,
+          "promotion": null,
+          "seller": "Best Buy",
+          "seller_rating": 4.5,
+          "shipping": "Free shipping",
+          "total_price": 299.99
+        },
+        {
+          "base_price": 289.5,
+          "condition": "New",
+          "currency": "USD",
+          "link": "https://www.walmart.com/ip/example-product/987654321",
+          "position": 2,
+          "promotion": null,
+          "seller": "Walmart",
+          "seller_rating": 4.2,
+          "shipping": "$12.00 shipping",
+          "total_price": 301.5
+        },
+        {
+          "base_price": 295.0,
+          "condition": "New",
+          "currency": "USD",
+          "link": "https://www.amazon.com/dp/B0EXAMPLE",
+          "position": 3,
+          "promotion": "5% off",
+          "seller": "Amazon.com",
+          "seller_rating": 4.7,
+          "shipping": "Free shipping",
+          "total_price": 295.0
+        }
+      ]
+    }
+  }
+}

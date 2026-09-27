@@ -1,0 +1,30 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "createdAt": "2024-06-04T14:32:00.000Z",
+          "description": "Bitcoin climbed above $70,000 on Tuesday, driven by renewed institutional interest and spot ETF inflows.",
+          "thumbnail": "https://www.coindesk.com/resizer/btc70k-thumb.jpg",
+          "title": "Bitcoin Surges Past $70K as Institutional Demand Grows",
+          "url": "https://www.coindesk.com/markets/2024/06/04/bitcoin-surges-past-70k/"
+        },
+        {
+          "createdAt": "2024-06-03T09:15:00.000Z",
+          "description": "The Dencun upgrade has slashed transaction costs on Ethereum layer-2 networks by up to 90%.",
+          "thumbnail": "https://www.coindesk.com/resizer/eth-dencun-thumb.jpg",
+          "title": "Ethereum's Dencun Upgrade Cuts Layer-2 Fees Dramatically",
+          "url": "https://www.coindesk.com/tech/2024/06/03/ethereum-dencun-upgrade/"
+        },
+        {
+          "createdAt": "2024-06-02T18:45:00.000Z",
+          "description": "The U.S. Securities and Exchange Commission approved updated custody rules allowing banks to hold digital assets.",
+          "thumbnail": "https://www.coindesk.com/resizer/sec-custody-thumb.jpg",
+          "title": "SEC Approves New Crypto Custody Rules for Banks",
+          "url": "https://www.coindesk.com/policy/2024/06/02/sec-crypto-custody-rules/"
+        }
+      ]
+    }
+  }
+}

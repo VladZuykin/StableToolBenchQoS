@@ -1,0 +1,104 @@
+{
+  "{\"page\":0,\"tournamentid\":19906}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "tournament/19906/next-main-events",
+      "parameters": {
+        "page": 0,
+        "tournamentId": 19906
+      },
+      "response": [
+        {
+          "city": "Sydney",
+          "country": "Australia",
+          "eventId": 48231,
+          "eventName": "UFC 312: Du Plessis vs. Strickland 2",
+          "mainEvent": "Dricus du Plessis vs. Sean Strickland",
+          "startDate": "2025-02-09T03:00:00+00:00",
+          "status": "scheduled",
+          "tournamentId": 19906,
+          "tournamentName": "UFC",
+          "venue": "Qudos Bank Arena"
+        },
+        {
+          "city": "Las Vegas",
+          "country": "United States",
+          "eventId": 48255,
+          "eventName": "UFC Fight Night: Cannonier vs. Rodrigues",
+          "mainEvent": "Jared Cannonier vs. Gregory Rodrigues",
+          "startDate": "2025-02-16T00:00:00+00:00",
+          "status": "scheduled",
+          "tournamentId": 19906,
+          "tournamentName": "UFC",
+          "venue": "UFC Apex"
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"page\":0,\"tournamentid\":19907}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "tournament/19907/next-main-events",
+      "parameters": {
+        "page": 0,
+        "tournamentId": 19907
+      },
+      "response": [
+        {
+          "city": "Belfast",
+          "country": "United Kingdom",
+          "eventId": 51044,
+          "eventName": "Bellator Champions Series: Belfast",
+          "mainEvent": "Corey Anderson vs. Karl Moore",
+          "startDate": "2025-03-22T18:00:00+00:00",
+          "status": "scheduled",
+          "tournamentId": 19907,
+          "tournamentName": "Bellator",
+          "venue": "SSE Arena"
+        },
+        {
+          "city": "Paris",
+          "country": "France",
+          "eventId": 51089,
+          "eventName": "Bellator Champions Series: Paris",
+          "mainEvent": "Salahdine Parnasse vs. Paul Hughes",
+          "startDate": "2025-05-17T17:00:00+00:00",
+          "status": "scheduled",
+          "tournamentId": 19907,
+          "tournamentName": "Bellator",
+          "venue": "Accor Arena"
+        }
+      ],
+      "results": 2
+    }
+  },
+  "{\"page\":1,\"tournamentid\":19906}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "tournament/19906/next-main-events",
+      "parameters": {
+        "page": 1,
+        "tournamentId": 19906
+      },
+      "response": [
+        {
+          "city": "Las Vegas",
+          "country": "United States",
+          "eventId": 48302,
+          "eventName": "UFC 313: Pereira vs. Ankalaev",
+          "mainEvent": "Alex Pereira vs. Magomed Ankalaev",
+          "startDate": "2025-03-09T03:00:00+00:00",
+          "status": "scheduled",
+          "tournamentId": 19906,
+          "tournamentName": "UFC",
+          "venue": "T-Mobile Arena"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"country_code\":\"DE\",\"type\":\"fixed_line\"}": {
+    "error": "",
+    "response": {
+      "country_code": "DE",
+      "country_prefix": "49",
+      "e164": "+4930901820",
+      "international_number": "+49 30 901820",
+      "local_number": "030 901820",
+      "phone_type": "fixed_line",
+      "status": "valid"
+    }
+  },
+  "{\"country_code\":\"US\",\"type\":\"toll_free\"}": {
+    "error": "",
+    "response": {
+      "country_code": "US",
+      "country_prefix": "1",
+      "e164": "+18005550199",
+      "international_number": "+1 800 555 0199",
+      "local_number": "(800) 555-0199",
+      "phone_type": "toll_free",
+      "status": "valid"
+    }
+  }
+}

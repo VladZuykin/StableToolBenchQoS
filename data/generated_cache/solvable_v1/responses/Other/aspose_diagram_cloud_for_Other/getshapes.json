@@ -1,0 +1,209 @@
+{
+  "{\"folder\":\"diagrams/2024\",\"name\":\"Flowchart.vsdx\",\"pagename\":\"Page-1\"}": {
+    "error": "",
+    "response": [
+      {
+        "Angle": 0,
+        "Height": 0.75,
+        "ID": 1,
+        "Name": "Start",
+        "PinX": 2.5,
+        "PinY": 7.25,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#FFFFFF",
+          "FillPattern": 1,
+          "LineColor": "#000000",
+          "LinePattern": 1,
+          "LineWeight": 0.01,
+          "Rounding": 0
+        },
+        "Text": "Begin Process",
+        "TextStyleData": {
+          "Color": "#000000",
+          "FontName": "Arial",
+          "FontSize": 10,
+          "Style": "Undefined"
+        },
+        "Width": 1.5
+      },
+      {
+        "Angle": 45,
+        "Height": 1.0,
+        "ID": 2,
+        "Name": "Decision",
+        "PinX": 5.0,
+        "PinY": 5.5,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#FFFFCC",
+          "FillPattern": 2,
+          "LineColor": "#333333",
+          "LinePattern": 2,
+          "LineWeight": 0.02,
+          "Rounding": 0.1
+        },
+        "Text": "Approved?",
+        "TextStyleData": {
+          "Color": "#003366",
+          "FontName": "Calibri",
+          "FontSize": 12,
+          "Style": "Bold"
+        },
+        "Width": 2.0
+      },
+      {
+        "Angle": -15,
+        "Height": 0.75,
+        "ID": 3,
+        "Name": "End",
+        "PinX": 8.0,
+        "PinY": 3.0,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#E6E6E6",
+          "FillPattern": 1,
+          "LineColor": "#666666",
+          "LinePattern": 1,
+          "LineWeight": 0.015,
+          "Rounding": 0.05
+        },
+        "Text": "Complete",
+        "TextStyleData": {
+          "Color": "#990000",
+          "FontName": "Times New Roman",
+          "FontSize": 11,
+          "Style": "Italic"
+        },
+        "Width": 1.5
+      }
+    ]
+  },
+  "{\"folder\":\"shared/network\",\"name\":\"NetworkDiagram.vsdx\",\"pagename\":\"Topology\"}": {
+    "error": "",
+    "response": [
+      {
+        "Angle": 0,
+        "Height": 1.25,
+        "ID": 10,
+        "Name": "Router",
+        "PinX": 4.0,
+        "PinY": 6.0,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#CCE5FF",
+          "FillPattern": 3,
+          "LineColor": "#004080",
+          "LinePattern": 1,
+          "LineWeight": 0.025,
+          "Rounding": 0.2
+        },
+        "Text": "Core Router",
+        "TextStyleData": {
+          "Color": "#000080",
+          "FontName": "Verdana",
+          "FontSize": 9,
+          "Style": "Underline"
+        },
+        "Width": 2.5
+      },
+      {
+        "Angle": 90,
+        "Height": 1.0,
+        "ID": 11,
+        "Name": "Switch",
+        "PinX": 7.5,
+        "PinY": 4.5,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#D9FFD9",
+          "FillPattern": 1,
+          "LineColor": "#006600",
+          "LinePattern": 3,
+          "LineWeight": 0.01,
+          "Rounding": 0
+        },
+        "Text": "Access Switch",
+        "TextStyleData": {
+          "Color": "#006600",
+          "FontName": "Tahoma",
+          "FontSize": 10,
+          "Style": "SmallCaps"
+        },
+        "Width": 2.0
+      }
+    ]
+  },
+  "{\"name\":\"OrgChart.vsdx\",\"pagename\":\"Departments\"}": {
+    "error": "",
+    "response": [
+      {
+        "Angle": 0,
+        "Height": 1.5,
+        "ID": 100,
+        "Name": "CEO",
+        "PinX": 6.0,
+        "PinY": 9.0,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#FFE4B5",
+          "FillPattern": 1,
+          "LineColor": "#8B4513",
+          "LinePattern": 1,
+          "LineWeight": 0.03,
+          "Rounding": 0.15
+        },
+        "Text": "Chief Executive Officer",
+        "TextStyleData": {
+          "Color": "#8B4513",
+          "FontName": "Georgia",
+          "FontSize": 14,
+          "Style": "Bold"
+        },
+        "Width": 3.0
+      },
+      {
+        "Angle": -5,
+        "Height": 1.25,
+        "ID": 101,
+        "Name": "CTO",
+        "PinX": 3.0,
+        "PinY": 6.5,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#E0FFFF",
+          "FillPattern": 2,
+          "LineColor": "#008B8B",
+          "LinePattern": 2,
+          "LineWeight": 0.02,
+          "Rounding": 0.1
+        },
+        "Text": "Chief Technology Officer",
+        "TextStyleData": {
+          "Color": "#008B8B",
+          "FontName": "Arial",
+          "FontSize": 12,
+          "Style": "Undefined"
+        },
+        "Width": 2.5
+      },
+      {
+        "Angle": 5,
+        "Height": 1.25,
+        "ID": 102,
+        "Name": "CFO",
+        "PinX": 9.0,
+        "PinY": 6.5,
+        "ShapeStyleData": {
+          "FillBackGroundColor": "#F0E68C",
+          "FillPattern": 2,
+          "LineColor": "#B8860B",
+          "LinePattern": 2,
+          "LineWeight": 0.02,
+          "Rounding": 0.1
+        },
+        "Text": "Chief Financial Officer",
+        "TextStyleData": {
+          "Color": "#B8860B",
+          "FontName": "Arial",
+          "FontSize": 12,
+          "Style": "Undefined"
+        },
+        "Width": 2.5
+      }
+    ]
+  }
+}

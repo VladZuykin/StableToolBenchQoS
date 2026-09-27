@@ -1,0 +1,16 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "appUrl": "https://store.epicgames.com/en-US/p/fall-guys",
+      "currencyCode": "USD",
+      "description": "Fall Guys is a free, cross-platform, massively multiplayer, party royale game where you and your fellow contestants compete through escalating rounds of absurd obstacle course chaos until one lucky victor remains!",
+      "discountPrice": 0,
+      "name": "Fall Guys",
+      "offerImageTall": "https://cdn1.epicgames.com/offer/fallguys/EGS_FallGuys_Mediatonic_S1_1200x1600-1200x1600-9b6b1b1b1b1b1b1b1b1b1b1b1b1b1b1b",
+      "offerImageWide": "https://cdn1.epicgames.com/offer/fallguys/EGS_FallGuys_Mediatonic_S1_2560x1440-2560x1440-1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b",
+      "originalPrice": 0,
+      "publisher": "Mediatonic"
+    }
+  }
+}

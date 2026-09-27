@@ -1,0 +1,66 @@
+{
+  "{\"common_name\":\"peace lily\"}": {
+    "error": "",
+    "response": {
+      "category": "Flowering",
+      "climate": "Tropical",
+      "common": [
+        "Peace Lily"
+      ],
+      "diseases": "Leaf spot",
+      "family": "Araceae",
+      "id": 87,
+      "ideallight": "Medium indirect light",
+      "insects": "Spider mites",
+      "latin": "Spathiphyllum wallisii",
+      "origin": "Central America",
+      "tempmax": {
+        "celsius": 27,
+        "fahrenheit": 81
+      },
+      "tempmin": {
+        "celsius": 16,
+        "fahrenheit": 60.8
+      },
+      "toleratedlight": "Low light",
+      "use": [
+        "Air purification",
+        "Bathroom plant",
+        "Gift plant"
+      ],
+      "watering": "Weekly"
+    }
+  },
+  "{\"common_name\":\"snake plant\"}": {
+    "error": "",
+    "response": {
+      "category": "Succulent",
+      "climate": "Tropical",
+      "common": [
+        "Snake Plant"
+      ],
+      "diseases": "Root rot if overwatered",
+      "family": "Asparagaceae",
+      "id": 42,
+      "ideallight": "Bright indirect light",
+      "insects": "Mealybugs",
+      "latin": "Dracaena trifasciata",
+      "origin": "West Africa",
+      "tempmax": {
+        "celsius": 29,
+        "fahrenheit": 84
+      },
+      "tempmin": {
+        "celsius": 15,
+        "fahrenheit": 59.0
+      },
+      "toleratedlight": "Low light",
+      "use": [
+        "Air purification",
+        "Bedroom plant",
+        "Low maintenance"
+      ],
+      "watering": "Every 2-3 weeks"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "{\"optifineversion\":\"1.12.2\"}": {
+    "error": "",
+    "response": {
+      "filename": "Optifine_1.12.2_HD_U_G5.jar",
+      "url": "https://optifine.net/downloads/Optifine_1.12.2_HD_U_G5.jar",
+      "version": "1.12.2"
+    }
+  },
+  "{\"optifineversion\":\"1.16.5\"}": {
+    "error": "",
+    "response": {
+      "filename": "Optifine_1.16.5_HD_U_G8.jar",
+      "url": "https://optifine.net/downloads/Optifine_1.16.5_HD_U_G8.jar",
+      "version": "1.16.5"
+    }
+  }
+}

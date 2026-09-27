@@ -1,0 +1,14 @@
+{
+  "{\"api_roe\":true,\"is_from\":\"2017-01-01\",\"shareuid\":5,\"to\":\"2019-12-31\"}": {
+    "error": "",
+    "response": {
+      "message": "ROE ratio for shareuid 5 from 2017-01-01 to 2019-12-31: 14.2%"
+    }
+  },
+  "{\"api_roe\":true,\"is_from\":\"2020-01-01\",\"shareuid\":9,\"to\":\"2022-12-31\"}": {
+    "error": "",
+    "response": {
+      "message": "ROE ratio for shareuid 9 from 2020-01-01 to 2022-12-31: 8.7%"
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "{\"offset\":50}": {
+    "error": "",
+    "response": {
+      "amenities": [
+        {
+          "id": 1,
+          "name": "TV"
+        },
+        {
+          "id": 2,
+          "name": "Wifi"
+        },
+        {
+          "id": 3,
+          "name": "Kitchen"
+        },
+        {
+          "id": 4,
+          "name": "Free parking on premises"
+        },
+        {
+          "id": 5,
+          "name": "Indoor fireplace"
+        },
+        {
+          "id": 6,
+          "name": "Heating"
+        },
+        {
+          "id": 7,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 8,
+          "name": "Washer"
+        },
+        {
+          "id": 9,
+          "name": "Dryer"
+        },
+        {
+          "id": 10,
+          "name": "Essentials"
+        },
+        {
+          "id": 11,
+          "name": "Shampoo"
+        },
+        {
+          "id": 12,
+          "name": "Hangers"
+        },
+        {
+          "id": 13,
+          "name": "Hair dryer"
+        },
+        {
+          "id": 14,
+          "name": "Iron"
+        },
+        {
+          "id": 15,
+          "name": "Laptop friendly workspace"
+        },
+        {
+          "id": 16,
+          "name": "Self check-in"
+        },
+        {
+          "id": 17,
+          "name": "Lockbox"
+        },
+        {
+          "id": 18,
+          "name": "Private entrance"
+        },
+        {
+          "id": 19,
+          "name": "Private living room"
+        },
+        {
+          "id": 20,
+          "name": "Bathtub"
+        },
+        {
+          "id": 21,
+          "name": "Crib"
+        },
+        {
+          "id": 22,
+          "name": "High chair"
+        },
+        {
+          "id": 23,
+          "name": "Pack 'n play/travel crib"
+        },
+        {
+          "id": 24,
+          "name": "Children's books and toys"
+        },
+        {
+          "id": 25,
+          "name": "Children's dinnerware"
+        },
+        {
+          "id": 26,
+          "name": "Babysitter recommendations"
+        },
+        {
+          "id": 27,
+          "name": "Outlet covers"
+        },
+        {
+          "id": 28,
+          "name": "Fireplace guards"
+        },
+        {
+          "id": 29,
+          "name": "Window guards"
+        },
+        {
+          "id": 30,
+          "name": "Stair gates"
+        },
+        {
+          "id": 31,
+          "name": "Table corner guards"
+        },
+        {
+          "id": 32,
+          "name": "Cleaning before checkout"
+        },
+        {
+          "id": 33,
+          "name": "Smoke detector"
+        },
+        {
+          "id": 34,
+          "name": "Carbon monoxide detector"
+        },
+        {
+          "id": 35,
+          "name": "Fire extinguisher"
+        },
+        {
+          "id": 36,
+          "name": "First aid kit"
+        },
+        {
+          "id": 37,
+          "name": "Safety card"
+        },
+        {
+          "id": 38,
+          "name": "Lock on bedroom door"
+        },
+        {
+          "id": 39,
+          "name": "Wide hallway clearance"
+        },
+        {
+          "id": 40,
+          "name": "Disabled parking spot"
+        },
+        {
+          "id": 41,
+          "name": "Step-free access"
+        },
+        {
+          "id": 42,
+          "name": "Well-lit path to entrance"
+        },
+        {
+          "id": 43,
+          "name": "Flat path to front door"
+        },
+        {
+          "id": 44,
+          "name": "Wide doorway"
+        },
+        {
+          "id": 45,
+          "name": "Wide clearance to bed"
+        },
+        {
+          "id": 46,
+          "name": "Accessible-height bed"
+        },
+        {
+          "id": 47,
+          "name": "Accessible-height toilet"
+        },
+        {
+          "id": 48,
+          "name": "Shower grab bar"
+        },
+        {
+          "id": 49,
+          "name": "Bathroom grab bars"
+        },
+        {
+          "id": 50,
+          "name": "Ground floor access"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "{\"tzname\":\"America/New_York\"}": {
+    "error": "",
+    "response": {
+      "now": "2024-06-14T09:32:47-04:00",
+      "timezone": "America/New_York"
+    }
+  },
+  "{\"tzname\":\"Asia/Tokyo\"}": {
+    "error": "",
+    "response": {
+      "now": "2024-06-14T22:32:47+09:00",
+      "timezone": "Asia/Tokyo"
+    }
+  }
+}

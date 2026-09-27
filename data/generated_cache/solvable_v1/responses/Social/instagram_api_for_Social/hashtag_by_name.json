@@ -1,0 +1,14 @@
+{
+  "{\"name\":\"fitness\"}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag information for fitness"
+    }
+  },
+  "{\"name\":\"travelgram\"}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag information for travelgram"
+    }
+  }
+}

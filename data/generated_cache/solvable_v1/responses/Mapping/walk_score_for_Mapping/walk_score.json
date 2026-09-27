@@ -1,0 +1,26 @@
+{
+  "{\"address\":\"350 5th Ave, New York, NY 10118\",\"bike\":\"1\",\"lat\":\"40.7128\",\"lon\":\"-74.0060\",\"transit\":\"1\",\"wsapikey\":\"demo_wsapikey_1\"}": {
+    "error": "",
+    "response": {
+      "bike": {
+        "description": "Very Bikeable",
+        "score": 86
+      },
+      "description": "Walker's Paradise",
+      "status": 1,
+      "transit": {
+        "description": "Rider's Paradise",
+        "score": 100
+      },
+      "walkscore": 100
+    }
+  },
+  "{\"address\":\"633 W 5th St, Los Angeles, CA 90071\",\"format\":\"json\",\"lat\":\"34.0522\",\"lon\":\"-118.2437\",\"wsapikey\":\"demo_wsapikey_2\"}": {
+    "error": "",
+    "response": {
+      "description": "Walker's Paradise",
+      "status": 1,
+      "walkscore": 95
+    }
+  }
+}

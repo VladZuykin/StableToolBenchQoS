@@ -1,0 +1,33 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "__v": 0,
+      "_id": "5cd95395de30eff6ebccde5c",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "director": [
+        "Christopher Nolan"
+      ],
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "id": "tt1375666",
+      "image": [
+        "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+      ],
+      "imdbid": "tt1375666",
+      "rank": 14,
+      "rating": "8.8",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "title": "Inception",
+      "writers": [
+        "Christopher Nolan"
+      ],
+      "year": 2010
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "{\"newspaperid\":\"techcrunch\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "publishedAt": "2024-06-12T09:15:00Z",
+          "summary": "The new model focuses on multi-step planning and tool use for business automation.",
+          "title": "OpenAI Unveils New Reasoning Model for Enterprise Workflows",
+          "url": "https://techcrunch.com/2024/06/12/openai-reasoning-model"
+        },
+        {
+          "publishedAt": "2024-06-10T14:40:00Z",
+          "summary": "The company plans to expand interpretability and alignment teams.",
+          "title": "Anthropic Raises Additional Funding to Scale AI Safety Research",
+          "url": "https://techcrunch.com/2024/06/10/anthropic-funding"
+        }
+      ],
+      "source": "techcrunch"
+    }
+  },
+  "{\"newspaperid\":\"theverge\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "publishedAt": "2024-06-13T11:00:00Z",
+          "summary": "On-device features aim to handle summarization, search, and accessibility tasks.",
+          "title": "Google Integrates Gemini Deeper Into Android",
+          "url": "https://www.theverge.com/2024/6/13/google-gemini-android"
+        },
+        {
+          "publishedAt": "2024-06-09T18:30:00Z",
+          "summary": "Regulators push for watermarking and consent requirements in synthetic audio.",
+          "title": "AI Voice Cloning Tools Face New Transparency Rules",
+          "url": "https://www.theverge.com/2024/6/09/ai-voice-cloning-rules"
+        }
+      ],
+      "source": "theverge"
+    }
+  },
+  "{\"newspaperid\":\"wired\"}": {
+    "error": "",
+    "response": {
+      "articles": [
+        {
+          "publishedAt": "2024-06-11T07:05:00Z",
+          "summary": "Startups and major chipmakers are rethinking architectures to cut inference costs.",
+          "title": "Inside the Race to Build Energy-Efficient AI Chips",
+          "url": "https://www.wired.com/story/energy-efficient-ai-chips"
+        },
+        {
+          "publishedAt": "2024-06-08T16:20:00Z",
+          "summary": "Editors describe new workflows, fact-checking challenges, and reader trust concerns.",
+          "title": "How Generative AI Is Reshaping Newsrooms",
+          "url": "https://www.wired.com/story/generative-ai-newsrooms"
+        }
+      ],
+      "source": "wired"
+    }
+  }
+}

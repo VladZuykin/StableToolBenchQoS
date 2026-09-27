@@ -1,0 +1,33 @@
+{
+  "{\"client_id\":\"dc_live_1c6e93f5b7d4\",\"identity_provider\":\"linkedin\",\"state\":\"xyz-2024-connect\"}": {
+    "error": "",
+    "response": {
+      "authorization_url": "https://www.dailycred.com/connect/linkedin?client_id=dc_live_1c6e93f5b7d4&state=xyz-2024-connect",
+      "client_id": "dc_live_1c6e93f5b7d4",
+      "identity_provider": "linkedin",
+      "redirect_uri": "https://www.dailycred.com/callback",
+      "state": "xyz-2024-connect",
+      "status": "redirect"
+    }
+  },
+  "{\"client_id\":\"dc_live_9f3a72b1c4e8\",\"identity_provider\":\"facebook\",\"redirect_uri\":\"https://app.example.com/auth/callback\",\"state\":\"csrf-7f2a91\"}": {
+    "error": "",
+    "response": {
+      "authorization_url": "https://www.dailycred.com/connect/facebook?client_id=dc_live_9f3a72b1c4e8&redirect_uri=https%3A%2F%2Fapp.example.com%2Fauth%2Fcallback&state=csrf-7f2a91",
+      "client_id": "dc_live_9f3a72b1c4e8",
+      "identity_provider": "facebook",
+      "state": "csrf-7f2a91",
+      "status": "redirect"
+    }
+  },
+  "{\"client_id\":\"dc_test_4b81d0e6a2f9\",\"identity_provider\":\"gateway\"}": {
+    "error": "",
+    "response": {
+      "authorization_url": "https://www.dailycred.com/connect/gateway?client_id=dc_test_4b81d0e6a2f9",
+      "client_id": "dc_test_4b81d0e6a2f9",
+      "identity_provider": "gateway",
+      "redirect_uri": "https://www.dailycred.com/callback",
+      "status": "redirect"
+    }
+  }
+}

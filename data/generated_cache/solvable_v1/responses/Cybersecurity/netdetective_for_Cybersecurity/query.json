@@ -1,0 +1,98 @@
+{
+  "{\"ipaddress\":\"198.51.100.77\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "ipAddress": "198.51.100.77",
+        "isBadConf": false,
+        "isBogon": false,
+        "isBruteForce": true,
+        "isCompromised": true,
+        "isDDos": false,
+        "isDataCenter": true,
+        "isDynamic": false,
+        "isIrcDrone": false,
+        "isNoMail": true,
+        "isNoServer": false,
+        "isNotSpam": false,
+        "isOpenDns": false,
+        "isPotentialZombie": true,
+        "isProxyHttp": false,
+        "isProxyOther": false,
+        "isProxySocks": false,
+        "isProxyWeb": false,
+        "isSmtpRelay": false,
+        "isSpam": true,
+        "isVpn": false,
+        "isWebVuln": false,
+        "isWorm": false,
+        "isZombie": true
+      },
+      "success": true
+    }
+  },
+  "{\"ipaddress\":\"203.0.113.45\"}": {
+    "error": "",
+    "response": {
+      "result": {
+        "ipAddress": "203.0.113.45",
+        "isBadConf": false,
+        "isBogon": false,
+        "isBruteForce": false,
+        "isCompromised": false,
+        "isDDos": false,
+        "isDataCenter": false,
+        "isDynamic": true,
+        "isIrcDrone": false,
+        "isNoMail": false,
+        "isNoServer": false,
+        "isNotSpam": true,
+        "isOpenDns": false,
+        "isPotentialZombie": false,
+        "isProxyHttp": false,
+        "isProxyOther": false,
+        "isProxySocks": false,
+        "isProxyWeb": false,
+        "isSmtpRelay": false,
+        "isSpam": false,
+        "isVpn": false,
+        "isWebVuln": false,
+        "isWorm": false,
+        "isZombie": false
+      },
+      "success": true
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "result": {
+        "ipAddress": "192.0.2.10",
+        "isBadConf": false,
+        "isBogon": false,
+        "isBruteForce": false,
+        "isCompromised": false,
+        "isDDos": false,
+        "isDataCenter": false,
+        "isDynamic": false,
+        "isIrcDrone": false,
+        "isNoMail": false,
+        "isNoServer": false,
+        "isNotSpam": true,
+        "isOpenDns": false,
+        "isPotentialZombie": false,
+        "isProxyHttp": false,
+        "isProxyOther": false,
+        "isProxySocks": false,
+        "isProxyWeb": false,
+        "isSmtpRelay": false,
+        "isSpam": false,
+        "isVpn": true,
+        "isWebVuln": false,
+        "isWorm": false,
+        "isZombie": false
+      },
+      "success": true
+    }
+  }
+}

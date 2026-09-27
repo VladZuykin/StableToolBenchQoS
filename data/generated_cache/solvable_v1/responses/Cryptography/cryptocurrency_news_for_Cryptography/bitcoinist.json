@@ -1,0 +1,73 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T14:32:00Z",
+          "description": "Bitcoin surges past $70K as institutional inflows hit record highs amid renewed ETF optimism.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/btc-surge.jpg",
+          "title": "Bitcoin Breaks $70K Again as ETF Inflows Soar",
+          "url": "https://bitcoinist.com/bitcoin-breaks-70k-etf-inflows/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T12:05:00Z",
+          "description": "Ethereum's upcoming Pectra upgrade promises major scalability improvements for layer-2 networks.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/eth-pectra.jpg",
+          "title": "Ethereum Pectra Upgrade: What It Means for L2s",
+          "url": "https://bitcoinist.com/ethereum-pectra-upgrade-l2/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T10:47:00Z",
+          "description": "Solana outpaces rivals in daily active addresses as meme coin trading volume explodes.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/solana-daa.jpg",
+          "title": "Solana Leads Daily Active Addresses Amid Meme Coin Frenzy",
+          "url": "https://bitcoinist.com/solana-daily-active-addresses-meme-coins/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T09:18:00Z",
+          "description": "SEC delays decision on spot Ethereum ETF options, pushing final ruling to later this year.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/sec-eth-etf.jpg",
+          "title": "SEC Postpones Spot Ethereum ETF Options Decision",
+          "url": "https://bitcoinist.com/sec-postpones-eth-etf-options/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T07:55:00Z",
+          "description": "Analysts warn of rising phishing attacks targeting hardware wallet users across major exchanges.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/phishing-wallets.jpg",
+          "title": "Phishing Attacks Target Hardware Wallet Users",
+          "url": "https://bitcoinist.com/phishing-attacks-hardware-wallets/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T06:30:00Z",
+          "description": "Ripple expands its cross-border payment partnerships into Southeast Asia with three new banks.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/ripple-asia.jpg",
+          "title": "Ripple Expands Payments Network in Southeast Asia",
+          "url": "https://bitcoinist.com/ripple-expands-southeast-asia/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T04:12:00Z",
+          "description": "Bitcoin mining difficulty hits all-time high as hash rate climbs to new records post-halving.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/mining-difficulty.jpg",
+          "title": "Bitcoin Mining Difficulty Reaches New All-Time High",
+          "url": "https://bitcoinist.com/bitcoin-mining-difficulty-ath/"
+        },
+        {
+          "_list_length": 8,
+          "createdAt": "2024-06-11T02:40:00Z",
+          "description": "DeFi total value locked rebounds above $100B driven by restaking protocols and yield farms.",
+          "thumbnail": "https://bitcoinist.com/wp-content/uploads/2024/06/defi-tvl.jpg",
+          "title": "DeFi TVL Rebounds Above $100B on Restaking Boom",
+          "url": "https://bitcoinist.com/defi-tvl-rebounds-100b/"
+        }
+      ]
+    }
+  }
+}

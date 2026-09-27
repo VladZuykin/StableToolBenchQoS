@@ -1,0 +1,36 @@
+{
+  "{\"task_id\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "errors": {},
+      "status": 200,
+      "title": "Task cancelled successfully",
+      "traceId": "7f3a9c2e-1b4d-4e8a-9f6c-2d5b8a1e3c7f",
+      "type": "success"
+    }
+  },
+  "{\"task_id\":\"task_9876543210\"}": {
+    "error": "",
+    "response": {
+      "errors": {},
+      "status": 200,
+      "title": "Task cancelled successfully",
+      "traceId": "c4e8b1a7-3d2f-4a9b-8e5c-6f1d9b2a4e8c",
+      "type": "success"
+    }
+  },
+  "{\"task_id\":\"yandex-serp-task-2024-00123\"}": {
+    "error": "",
+    "response": {
+      "errors": {
+        "task_id": [
+          "Task with the specified ID does not exist or has already been completed"
+        ]
+      },
+      "status": 404,
+      "title": "Task not found",
+      "traceId": "2b6d4f8a-9c1e-4b7d-a3f5-8e2c6d1b9a4f",
+      "type": "error"
+    }
+  }
+}

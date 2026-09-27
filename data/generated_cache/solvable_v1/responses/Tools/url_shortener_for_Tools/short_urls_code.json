@@ -1,0 +1,38 @@
+{
+  "{\"code\":\"Q7mNp\"}": {
+    "error": "",
+    "response": {
+      "clicks": 7,
+      "code": "Q7mNp",
+      "created_at": "2025-03-21T18:44:02Z",
+      "original_url": "https://shop.example.net/products/wireless-headphones",
+      "qr_code": "https://spoo.me/qr/Q7mNp",
+      "short_url": "https://spoo.me/Q7mNp",
+      "status": "active"
+    }
+  },
+  "{\"code\":\"U1hAI\"}": {
+    "error": "",
+    "response": {
+      "clicks": 128,
+      "code": "U1hAI",
+      "created_at": "2024-11-02T14:23:11Z",
+      "original_url": "https://example.com/articles/getting-started-with-apis",
+      "qr_code": "https://spoo.me/qr/U1hAI",
+      "short_url": "https://spoo.me/U1hAI",
+      "status": "active"
+    }
+  },
+  "{\"code\":\"aB3xZ\"}": {
+    "error": "",
+    "response": {
+      "clicks": 42,
+      "code": "aB3xZ",
+      "created_at": "2025-01-15T09:05:47Z",
+      "original_url": "https://docs.example.org/guides/url-shortening-best-practices",
+      "qr_code": "https://spoo.me/qr/aB3xZ",
+      "short_url": "https://spoo.me/aB3xZ",
+      "status": "active"
+    }
+  }
+}

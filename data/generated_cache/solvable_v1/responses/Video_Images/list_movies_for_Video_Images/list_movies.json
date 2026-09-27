@@ -1,0 +1,20 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "Movies listed successfully",
+      "movies": [
+        {
+          "rating": 8.8,
+          "title": "Inception",
+          "year": 2010
+        },
+        {
+          "rating": 8.7,
+          "title": "The Matrix",
+          "year": 1999
+        }
+      ]
+    }
+  }
+}

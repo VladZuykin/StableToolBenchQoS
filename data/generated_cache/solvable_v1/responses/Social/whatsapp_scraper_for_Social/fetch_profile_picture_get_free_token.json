@@ -1,0 +1,8 @@
+{
+  "{\"phone\":4915112345678,\"quality\":\"high\",\"token\":\"demo_token_1\"}": {
+    "error": "",
+    "response": {
+      "message": "https://cdn.whatsappscraper.example.com/profile_pictures/4915112345678_high.png"
+    }
+  }
+}

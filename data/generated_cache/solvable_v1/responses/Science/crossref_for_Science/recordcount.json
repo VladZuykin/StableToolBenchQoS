@@ -1,0 +1,20 @@
+{
+  "{\"rows\":250}": {
+    "error": "",
+    "response": {
+      "message": {
+        "facets": {},
+        "items": "empty list",
+        "items-per-page": 250,
+        "query": {
+          "search-terms": null,
+          "start-index": 0
+        },
+        "total-results": 152384729
+      },
+      "message-type": "record-count",
+      "message-version": "1.0.0",
+      "status": "ok"
+    }
+  }
+}

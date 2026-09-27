@@ -1,0 +1,10 @@
+{
+  "{\"maximumnumberofwords\":20,\"minimumnumberofwords\":8,\"numberofsentences\":3}": {
+    "error": "",
+    "response": "The curious fox wandered through the silent forest. Bright stars twinkled above the quiet lake. A gentle breeze carried the scent of pine."
+  },
+  "{\"maximumwordlength\":9,\"minimumwordlength\":4,\"numberofwords\":25}": {
+    "error": "",
+    "response": "Ancient rivers carve slowly through stone valleys while patient herons watch. Morning light spills across rooftops and sleepy towns awaken gently."
+  }
+}

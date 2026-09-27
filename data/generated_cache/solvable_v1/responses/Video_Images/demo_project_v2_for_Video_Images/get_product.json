@@ -1,0 +1,40 @@
+{
+  "{\"is_id\":5678}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "product",
+      "parameters": [],
+      "response": [
+        {
+          "category": "Đồ gia dụng",
+          "id": 5678,
+          "name": "Sản phẩm A",
+          "price": 250000,
+          "rating": 4.5,
+          "stock": 42
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"is_id\":91011}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "product",
+      "parameters": [],
+      "response": [
+        {
+          "category": "Điện tử",
+          "id": 91011,
+          "name": "Sản phẩm B",
+          "price": 129000,
+          "rating": 3.9,
+          "stock": 8
+        }
+      ],
+      "results": 1
+    }
+  }
+}

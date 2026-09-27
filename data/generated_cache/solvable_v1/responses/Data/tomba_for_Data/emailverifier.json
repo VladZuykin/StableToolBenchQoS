@@ -1,0 +1,81 @@
+{
+  "{\"email\":\"contact@tempmail.xyz\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "email": {
+          "accept_all": false,
+          "block": false,
+          "disposable": true,
+          "email": "contact@tempmail.xyz",
+          "gibberish": false,
+          "mx_records": true,
+          "regex": true,
+          "result": "undeliverable",
+          "score": 12,
+          "smtp_check": false,
+          "smtp_server": true,
+          "status": "invalid",
+          "webmail": false,
+          "whois": {
+            "created_date": "2021-06-18",
+            "referral_url": "https://www.namecheap.com",
+            "registrar_name": "Namecheap, Inc."
+          }
+        },
+        "sources": [
+          {
+            "extracted_on": "2023-09-22T11:05:00Z",
+            "last_seen_on": "2023-10-15T16:20:00Z",
+            "still_on_page": false,
+            "uri": "https://forum.example.net/post/12345",
+            "website_url": "https://forum.example.net"
+          }
+        ]
+      }
+    }
+  },
+  "{\"email\":\"sarah.jones@gmail.com\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "email": {
+          "accept_all": false,
+          "block": false,
+          "disposable": false,
+          "email": "sarah.jones@gmail.com",
+          "gibberish": false,
+          "mx_records": true,
+          "regex": true,
+          "result": "deliverable",
+          "score": 95,
+          "smtp_check": true,
+          "smtp_server": true,
+          "status": "valid",
+          "webmail": true,
+          "whois": {
+            "created_date": "1995-08-13",
+            "referral_url": "https://www.markmonitor.com",
+            "registrar_name": "MarkMonitor Inc."
+          }
+        },
+        "sources": [
+          {
+            "extracted_on": "2023-04-12T09:15:00Z",
+            "last_seen_on": "2024-01-20T14:32:00Z",
+            "still_on_page": true,
+            "uri": "https://example.com/team",
+            "website_url": "https://example.com"
+          },
+          {
+            "extracted_on": "2022-11-05T18:45:00Z",
+            "last_seen_on": "2023-12-01T08:10:00Z",
+            "still_on_page": false,
+            "uri": "https://blog.example.org/contact",
+            "website_url": "https://blog.example.org"
+          }
+        ]
+      }
+    }
+  }
+}

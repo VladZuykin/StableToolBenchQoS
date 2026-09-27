@@ -1,0 +1,33 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "games": [
+        {
+          "away_team": "Chelsea",
+          "home_team": "Arsenal",
+          "id": "epl-2024-001",
+          "odds": {
+            "away": 4.2,
+            "draw": 3.6,
+            "home": 1.85
+          },
+          "start_time": "2024-05-12T15:00:00Z"
+        },
+        {
+          "away_team": "Liverpool",
+          "home_team": "Manchester United",
+          "id": "epl-2024-002",
+          "odds": {
+            "away": 2.15,
+            "draw": 3.4,
+            "home": 3.1
+          },
+          "start_time": "2024-05-12T17:30:00Z"
+        }
+      ],
+      "league": "English Premier League",
+      "sport": "Soccer"
+    }
+  }
+}

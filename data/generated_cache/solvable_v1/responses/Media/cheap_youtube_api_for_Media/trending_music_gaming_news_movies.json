@@ -1,0 +1,158 @@
+{
+  "{\"region\":\"GB\",\"type\":\"music\"}": {
+    "error": "",
+    "response": {
+      "author": "BBC Music",
+      "authorId": "UCZtduvuyqcWqMw0F5Yl0l0A",
+      "authorUrl": "https://www.youtube.com/channel/UCZtduvuyqcWqMw0F5Yl0l0A",
+      "authorVerified": true,
+      "description": "The best new tracks of the week, curated by BBC Music.",
+      "descriptionHtml": "The best new tracks of the week, curated by BBC Music.",
+      "isUpcoming": false,
+      "lengthSeconds": 214,
+      "liveNow": false,
+      "premium": false,
+      "published": 1717000000,
+      "publishedText": "2 days ago",
+      "title": "Top 10 New Songs You Need To Hear This Week",
+      "type": "music",
+      "videoId": "dQw4w9WgXcQ",
+      "videoThumbnails": [
+        {
+          "height": 90,
+          "quality": "start",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/default.jpg",
+          "width": 120
+        },
+        {
+          "height": 90,
+          "quality": "middle",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+          "width": 320
+        },
+        {
+          "height": 90,
+          "quality": "end",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "high",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "maxres",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "sddefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "hqdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "mqdefault",
+          "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+          "width": 320
+        }
+      ],
+      "viewCount": 482193,
+      "viewCountText": "482,193 views"
+    }
+  },
+  "{\"region\":\"IN\",\"type\":\"news\"}": {
+    "error": "",
+    "response": {
+      "author": "NDTV",
+      "authorId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "authorUrl": "https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA",
+      "authorVerified": true,
+      "description": "Breaking news and top headlines from India and around the world.",
+      "descriptionHtml": "Breaking news and top headlines from India and around the world.",
+      "isUpcoming": false,
+      "lengthSeconds": 612,
+      "liveNow": true,
+      "premium": false,
+      "published": 1717100000,
+      "publishedText": "Streamed 5 hours ago",
+      "title": "LIVE: Top Headlines Of The Day | India Today News",
+      "type": "news",
+      "videoId": "9bZkp7q19f0",
+      "videoThumbnails": [
+        {
+          "height": 90,
+          "quality": "start",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/default.jpg",
+          "width": 120
+        },
+        {
+          "height": 90,
+          "quality": "middle",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/mqdefault.jpg",
+          "width": 320
+        },
+        {
+          "height": 90,
+          "quality": "end",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "high",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "maxres",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "maxresdefault",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+          "width": 1280
+        },
+        {
+          "height": 90,
+          "quality": "sddefault",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/sddefault.jpg",
+          "width": 640
+        },
+        {
+          "height": 90,
+          "quality": "hqdefault",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+          "width": 480
+        },
+        {
+          "height": 90,
+          "quality": "mqdefault",
+          "url": "https://i.ytimg.com/vi/9bZkp7q19f0/mqdefault.jpg",
+          "width": 320
+        }
+      ],
+      "viewCount": 1203945,
+      "viewCountText": "1,203,945 watching"
+    }
+  }
+}

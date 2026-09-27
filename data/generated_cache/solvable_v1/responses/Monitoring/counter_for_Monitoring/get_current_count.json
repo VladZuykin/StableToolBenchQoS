@@ -1,0 +1,22 @@
+{
+  "{\"clabel\":\"green\",\"color\":\"yellow\",\"idv\":\"dashboard\"}": {
+    "error": "",
+    "response": {
+      "color": "yellow",
+      "label": "green",
+      "labelColor": "green",
+      "message": "Current count retrieved successfully",
+      "schemaVersion": 1
+    }
+  },
+  "{\"clabel\":\"purple\",\"color\":\"orange\",\"idv\":\"landing-page\"}": {
+    "error": "",
+    "response": {
+      "color": "orange",
+      "label": "purple",
+      "labelColor": "purple",
+      "message": "Current count retrieved successfully",
+      "schemaVersion": 1
+    }
+  }
+}

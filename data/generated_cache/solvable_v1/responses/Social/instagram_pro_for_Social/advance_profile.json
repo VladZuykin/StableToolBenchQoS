@@ -1,0 +1,155 @@
+{
+  "{\"corsenabled\":\"true\",\"ig\":\"natgeo\",\"response_type\":\"info\"}": {
+    "error": "",
+    "response": {
+      "account_badges": [],
+      "account_type": 2,
+      "active_standalone_fundraisers": {
+        "fundraisers": [],
+        "total_count": 0
+      },
+      "biography": "Experience the world through the eyes of National Geographic photographers.",
+      "biography_with_entities": {
+        "entities": [],
+        "raw_text": "Experience the world through the eyes of National Geographic photographers."
+      },
+      "category": "Media/News Company",
+      "fan_club_info": {
+        "fan_club_id": null,
+        "fan_club_name": null
+      },
+      "follower_count": 280000000,
+      "following_count": 150,
+      "full_name": "National Geographic",
+      "has_anonymous_profile_picture": false,
+      "has_guides": true,
+      "has_highlight_reels": true,
+      "hd_profile_pic_url_info": {
+        "height": 320,
+        "url": "https://scontent.cdninstagram.com/v/t51/natgeo_hd.jpg",
+        "width": 320
+      },
+      "is_bestie": false,
+      "is_business": true,
+      "is_favorite": false,
+      "is_memorialized": false,
+      "is_potential_business": false,
+      "is_private": false,
+      "is_verified": true,
+      "media_count": 29000,
+      "mutual_followers_count": 0,
+      "profile_pic_url": "https://scontent.cdninstagram.com/v/t51/natgeo.jpg",
+      "pronouns": [],
+      "public_email": "natgeo@example.com",
+      "public_phone_country_code": "1",
+      "public_phone_number": "2025550147",
+      "show_account_transparency_details": true,
+      "total_clips_count": 1800,
+      "total_igtv_videos": 95,
+      "upcoming_events": [],
+      "username": "natgeo"
+    }
+  },
+  "{\"ig\":\"cristiano\",\"response_type\":\"info\"}": {
+    "error": "",
+    "response": {
+      "account_badges": [],
+      "account_type": 3,
+      "active_standalone_fundraisers": {
+        "fundraisers": [],
+        "total_count": 0
+      },
+      "biography": "",
+      "biography_with_entities": {
+        "entities": [],
+        "raw_text": ""
+      },
+      "category": "Athlete",
+      "fan_club_info": {
+        "fan_club_id": null,
+        "fan_club_name": null
+      },
+      "follower_count": 612000000,
+      "following_count": 580,
+      "full_name": "Cristiano Ronaldo",
+      "has_anonymous_profile_picture": false,
+      "has_guides": false,
+      "has_highlight_reels": true,
+      "hd_profile_pic_url_info": {
+        "height": 320,
+        "url": "https://scontent.cdninstagram.com/v/t51/cristiano_hd.jpg",
+        "width": 320
+      },
+      "is_bestie": false,
+      "is_business": true,
+      "is_favorite": false,
+      "is_memorialized": false,
+      "is_potential_business": false,
+      "is_private": false,
+      "is_verified": true,
+      "media_count": 3700,
+      "mutual_followers_count": 0,
+      "profile_pic_url": "https://scontent.cdninstagram.com/v/t51/cristiano.jpg",
+      "pronouns": [],
+      "public_email": "contact@cristiano.com",
+      "public_phone_country_code": "351",
+      "public_phone_number": "912345678",
+      "show_account_transparency_details": true,
+      "total_clips_count": 420,
+      "total_igtv_videos": 12,
+      "upcoming_events": [],
+      "username": "cristiano"
+    }
+  },
+  "{\"ig\":\"zendaya\",\"response_type\":\"info\"}": {
+    "error": "",
+    "response": {
+      "account_badges": [],
+      "account_type": 1,
+      "active_standalone_fundraisers": {
+        "fundraisers": [],
+        "total_count": 0
+      },
+      "biography": "",
+      "biography_with_entities": {
+        "entities": [],
+        "raw_text": ""
+      },
+      "category": null,
+      "fan_club_info": {
+        "fan_club_id": null,
+        "fan_club_name": null
+      },
+      "follower_count": 184000000,
+      "following_count": 0,
+      "full_name": "Zendaya",
+      "has_anonymous_profile_picture": false,
+      "has_guides": false,
+      "has_highlight_reels": true,
+      "hd_profile_pic_url_info": {
+        "height": 320,
+        "url": "https://scontent.cdninstagram.com/v/t51/zendaya_hd.jpg",
+        "width": 320
+      },
+      "is_bestie": false,
+      "is_business": false,
+      "is_favorite": false,
+      "is_memorialized": false,
+      "is_potential_business": true,
+      "is_private": false,
+      "is_verified": true,
+      "media_count": 1200,
+      "mutual_followers_count": 0,
+      "profile_pic_url": "https://scontent.cdninstagram.com/v/t51/zendaya.jpg",
+      "pronouns": [],
+      "public_email": null,
+      "public_phone_country_code": null,
+      "public_phone_number": null,
+      "show_account_transparency_details": true,
+      "total_clips_count": 210,
+      "total_igtv_videos": 4,
+      "upcoming_events": [],
+      "username": "zendaya"
+    }
+  }
+}

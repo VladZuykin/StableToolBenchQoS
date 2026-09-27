@@ -1,0 +1,20 @@
+{
+  "{\"city\":\"Bengaluru\"}": {
+    "error": "",
+    "response": {
+      "message": "Fuel rates in Bengaluru: Petrol ₹102.86 per litre, Diesel ₹88.94 per litre, CNG ₹84.50 per kg, LPG ₹1,105.00 per cylinder"
+    }
+  },
+  "{\"city\":\"Kolkata\"}": {
+    "error": "",
+    "response": {
+      "message": "Fuel rates in Kolkata: Petrol ₹103.94 per litre, Diesel ₹90.76 per litre, CNG ₹79.00 per kg, LPG ₹1,096.00 per cylinder"
+    }
+  },
+  "{\"city\":\"Mumbai\"}": {
+    "error": "",
+    "response": {
+      "message": "Fuel rates in Mumbai: Petrol ₹106.31 per litre, Diesel ₹94.27 per litre, CNG ₹76.00 per kg, LPG ₹1,102.50 per cylinder"
+    }
+  }
+}

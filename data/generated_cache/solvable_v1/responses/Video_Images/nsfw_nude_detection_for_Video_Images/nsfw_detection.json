@@ -1,0 +1,20 @@
+{
+  "{\"url\":\"https://cdn.example.org/uploads/portrait-2024.png\"}": {
+    "error": "",
+    "response": {
+      "is_nsfw": true,
+      "nsfw_score": 0.87,
+      "status": "success",
+      "url": "https://cdn.example.org/uploads/portrait-2024.png"
+    }
+  },
+  "{\"url\":\"https://example.com/photos/beach-sunset.jpg\"}": {
+    "error": "",
+    "response": {
+      "is_nsfw": false,
+      "nsfw_score": 0.02,
+      "status": "success",
+      "url": "https://example.com/photos/beach-sunset.jpg"
+    }
+  }
+}

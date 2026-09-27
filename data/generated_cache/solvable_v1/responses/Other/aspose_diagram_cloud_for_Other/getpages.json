@@ -1,0 +1,283 @@
+{
+  "{\"folder\":\"diagrams\",\"name\":\"flowchart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Model": [
+        {
+          "ID": 0,
+          "PageSetting": {
+            "Name": "Page-1",
+            "NameU": "Page-1",
+            "PageHeight": 11.69291338582677,
+            "PageWidth": 8.26771653543307
+          },
+          "Shapes": [
+            {
+              "Angle": 0,
+              "Height": 0.5,
+              "ID": 1,
+              "Name": "Start",
+              "PinX": 2.5,
+              "PinY": 9.5,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#FFFFFF",
+                "FillPattern": 1,
+                "LineColor": "#000000",
+                "LinePattern": 1,
+                "LineWeight": 0.01,
+                "Rounding": 0
+              },
+              "Text": "Start",
+              "TextStyleData": {
+                "Color": "#000000",
+                "FontName": "Arial",
+                "FontSize": 10,
+                "Style": "Undefined"
+              },
+              "Width": 1.5
+            },
+            {
+              "Angle": 0,
+              "Height": 0.75,
+              "ID": 2,
+              "Name": "Process",
+              "PinX": 2.5,
+              "PinY": 7.5,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#DDEBF7",
+                "FillPattern": 1,
+                "LineColor": "#1F4E79",
+                "LinePattern": 1,
+                "LineWeight": 0.01,
+                "Rounding": 0.1
+              },
+              "Text": "Process Step",
+              "TextStyleData": {
+                "Color": "#1F4E79",
+                "FontName": "Calibri",
+                "FontSize": 11,
+                "Style": "Bold"
+              },
+              "Width": 2
+            }
+          ]
+        },
+        {
+          "ID": 1,
+          "PageSetting": {
+            "Name": "Page-2",
+            "NameU": "Page-2",
+            "PageHeight": 8.26771653543307,
+            "PageWidth": 11.69291338582677
+          },
+          "Shapes": [
+            {
+              "Angle": 45,
+              "Height": 1.75,
+              "ID": 3,
+              "Name": "Decision",
+              "PinX": 5.5,
+              "PinY": 5.5,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#FFF2CC",
+                "FillPattern": 1,
+                "LineColor": "#BF8F00",
+                "LinePattern": 1,
+                "LineWeight": 0.02,
+                "Rounding": 0
+              },
+              "Text": "Approve?",
+              "TextStyleData": {
+                "Color": "#7F6000",
+                "FontName": "Times New Roman",
+                "FontSize": 12,
+                "Style": "Italic"
+              },
+              "Width": 1.75
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "{\"folder\":\"hr/diagrams\",\"name\":\"org_chart.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Model": [
+        {
+          "ID": 0,
+          "PageSetting": {
+            "Name": "OrgChart",
+            "NameU": "OrgChart",
+            "PageHeight": 14,
+            "PageWidth": 10
+          },
+          "Shapes": [
+            {
+              "Angle": 0,
+              "Height": 0.6,
+              "ID": 100,
+              "Name": "CEO",
+              "PinX": 5,
+              "PinY": 12.5,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#C6E0B4",
+                "FillPattern": 1,
+                "LineColor": "#548235",
+                "LinePattern": 1,
+                "LineWeight": 0.01,
+                "Rounding": 0.05
+              },
+              "Text": "CEO",
+              "TextStyleData": {
+                "Color": "#000000",
+                "FontName": "Arial",
+                "FontSize": 12,
+                "Style": "Bold"
+              },
+              "Width": 2
+            },
+            {
+              "Angle": 0,
+              "Height": 0.6,
+              "ID": 101,
+              "Name": "VP Engineering",
+              "PinX": 3,
+              "PinY": 10,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#FFFFFF",
+                "FillPattern": 1,
+                "LineColor": "#548235",
+                "LinePattern": 1,
+                "LineWeight": 0.01,
+                "Rounding": 0.05
+              },
+              "Text": "VP Engineering",
+              "TextStyleData": {
+                "Color": "#000000",
+                "FontName": "Arial",
+                "FontSize": 10,
+                "Style": "Undefined"
+              },
+              "Width": 2
+            },
+            {
+              "Angle": 0,
+              "Height": 0.6,
+              "ID": 102,
+              "Name": "VP Sales",
+              "PinX": 7,
+              "PinY": 10,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#FFFFFF",
+                "FillPattern": 1,
+                "LineColor": "#548235",
+                "LinePattern": 1,
+                "LineWeight": 0.01,
+                "Rounding": 0.05
+              },
+              "Text": "VP Sales",
+              "TextStyleData": {
+                "Color": "#000000",
+                "FontName": "Arial",
+                "FontSize": 10,
+                "Style": "Undefined"
+              },
+              "Width": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "{\"name\":\"network_topology.vsdx\"}": {
+    "error": "",
+    "response": {
+      "Model": [
+        {
+          "ID": 0,
+          "PageSetting": {
+            "Name": "Network",
+            "NameU": "Network",
+            "PageHeight": 11,
+            "PageWidth": 8.5
+          },
+          "Shapes": [
+            {
+              "Angle": 0,
+              "Height": 0.8,
+              "ID": 10,
+              "Name": "Router",
+              "PinX": 4.25,
+              "PinY": 8,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#E2EFDA",
+                "FillPattern": 1,
+                "LineColor": "#375623",
+                "LinePattern": 1,
+                "LineWeight": 0.015,
+                "Rounding": 0
+              },
+              "Text": "Router",
+              "TextStyleData": {
+                "Color": "#375623",
+                "FontName": "Verdana",
+                "FontSize": 9,
+                "Style": "Undefined"
+              },
+              "Width": 1.2
+            },
+            {
+              "Angle": 0,
+              "Height": 0.8,
+              "ID": 11,
+              "Name": "Switch",
+              "PinX": 4.25,
+              "PinY": 5.5,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#FCE4D6",
+                "FillPattern": 1,
+                "LineColor": "#833C00",
+                "LinePattern": 1,
+                "LineWeight": 0.015,
+                "Rounding": 0
+              },
+              "Text": "Switch",
+              "TextStyleData": {
+                "Color": "#833C00",
+                "FontName": "Verdana",
+                "FontSize": 9,
+                "Style": "Undefined"
+              },
+              "Width": 1.2
+            },
+            {
+              "Angle": 0,
+              "Height": 0.8,
+              "ID": 12,
+              "Name": "Server",
+              "PinX": 4.25,
+              "PinY": 3,
+              "ShapeStyleData": {
+                "FillBackGroundColor": "#D9E1F2",
+                "FillPattern": 1,
+                "LineColor": "#203864",
+                "LinePattern": 1,
+                "LineWeight": 0.015,
+                "Rounding": 0
+              },
+              "Text": "Server",
+              "TextStyleData": {
+                "Color": "#203864",
+                "FontName": "Verdana",
+                "FontSize": 9,
+                "Style": "Undefined"
+              },
+              "Width": 1.2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

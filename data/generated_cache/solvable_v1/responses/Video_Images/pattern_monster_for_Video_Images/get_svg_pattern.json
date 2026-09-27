@@ -1,0 +1,127 @@
+{
+  "{\"angle\":180,\"colors\":\"rgba(234,179,8,0.7)|aqua\",\"moveleft\":0,\"movetop\":50,\"name\":\"circles-2\",\"scale\":1.5,\"spacing\":\"5|5\",\"stroke\":2,\"strokejoin\":\"round\"}": {
+    "error": "",
+    "response": {
+      "input": {
+        "angle": "180",
+        "colors": [
+          "rgba(234,179,8,0.7)",
+          "aqua"
+        ],
+        "moveLeft": "0",
+        "moveTop": "50",
+        "name": "circles-2",
+        "scale": "1.5",
+        "spacing": [
+          "5",
+          "5"
+        ],
+        "stroke": "2",
+        "strokeJoin": "round"
+      },
+      "output": {
+        "angle": "180",
+        "colors": [
+          "rgba(234,179,8,0.7)",
+          "aqua"
+        ],
+        "moveLeft": "0",
+        "moveTop": "50",
+        "name": "circles-2",
+        "scale": "1.5",
+        "spacing": [
+          "5",
+          "5"
+        ],
+        "stroke": "2",
+        "strokeJoin": "round"
+      },
+      "status": 200,
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\"><defs><pattern id=\"circles-2\" width=\"40\" height=\"40\" patternUnits=\"userSpaceOnUse\" patternTransform=\"translate(0,50) rotate(180) scale(1.5)\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"none\" stroke=\"rgba(234,179,8,0.7)\" stroke-width=\"2\" stroke-linejoin=\"round\"/></pattern></defs><rect width=\"100%\" height=\"100%\" fill=\"url(#circles-2)\"/></svg>"
+    }
+  },
+  "{\"angle\":270,\"colors\":\"E11D48|rgb(59,130,246)|hsla(147,50%,47%,0.5)\",\"moveleft\":75,\"movetop\":10,\"name\":\"waves-3\",\"scale\":2.5,\"spacing\":\"15|30\",\"stroke\":4,\"strokejoin\":\"square\"}": {
+    "error": "",
+    "response": {
+      "input": {
+        "angle": "270",
+        "colors": [
+          "E11D48",
+          "rgb(59,130,246)",
+          "hsla(147,50%,47%,0.5)"
+        ],
+        "moveLeft": "75",
+        "moveTop": "10",
+        "name": "waves-3",
+        "scale": "2.5",
+        "spacing": [
+          "15",
+          "30"
+        ],
+        "stroke": "4",
+        "strokeJoin": "square"
+      },
+      "output": {
+        "angle": "270",
+        "colors": [
+          "E11D48",
+          "rgb(59,130,246)",
+          "hsla(147,50%,47%,0.5)"
+        ],
+        "moveLeft": "75",
+        "moveTop": "10",
+        "name": "waves-3",
+        "scale": "2.5",
+        "spacing": [
+          "15",
+          "30"
+        ],
+        "stroke": "4",
+        "strokeJoin": "square"
+      },
+      "status": 200,
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\"><defs><pattern id=\"waves-3\" width=\"80\" height=\"80\" patternUnits=\"userSpaceOnUse\" patternTransform=\"translate(75,10) rotate(270) scale(2.5)\"><path d=\"M0 40 Q20 20 40 40 T80 40\" fill=\"none\" stroke=\"E11D48\" stroke-width=\"4\" stroke-linejoin=\"square\"/></pattern></defs><rect width=\"100%\" height=\"100%\" fill=\"url(#waves-3)\"/></svg>"
+    }
+  },
+  "{\"angle\":45,\"colors\":\"2563eb|hsl(300, 76%, 72%)\",\"moveleft\":15,\"movetop\":25,\"name\":\"hexagons-1\",\"scale\":3.5,\"spacing\":\"10|20\",\"stroke\":5,\"strokejoin\":\"square\"}": {
+    "error": "",
+    "response": {
+      "input": {
+        "angle": "45",
+        "colors": [
+          "2563eb",
+          "hsl(300, 76%, 72%)"
+        ],
+        "moveLeft": "15",
+        "moveTop": "25",
+        "name": "hexagons-1",
+        "scale": "3.5",
+        "spacing": [
+          "10",
+          "20"
+        ],
+        "stroke": "5",
+        "strokeJoin": "square"
+      },
+      "output": {
+        "angle": "45",
+        "colors": [
+          "2563eb",
+          "hsl(300, 76%, 72%)"
+        ],
+        "moveLeft": "15",
+        "moveTop": "25",
+        "name": "hexagons-1",
+        "scale": "3.5",
+        "spacing": [
+          "10",
+          "20"
+        ],
+        "stroke": "5",
+        "strokeJoin": "square"
+      },
+      "status": 200,
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\"><defs><pattern id=\"hexagons-1\" width=\"60\" height=\"60\" patternUnits=\"userSpaceOnUse\" patternTransform=\"translate(15,25) rotate(45) scale(3.5)\"><path d=\"M30 0 L60 15 L60 45 L30 60 L0 45 L0 15 Z\" fill=\"none\" stroke=\"2563eb\" stroke-width=\"5\" stroke-linejoin=\"square\"/></pattern></defs><rect width=\"100%\" height=\"100%\" fill=\"url(#hexagons-1)\"/></svg>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"backcolor\":\"#f0f8ff\",\"forecolor\":\"#003366\",\"pixel\":8,\"text\":\"https://example.com/checkout?order=12345\"}": {
+    "error": "",
+    "response": {
+      "result": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...\" alt=\"QR Code\"/>",
+      "status": "success"
+    }
+  },
+  "{\"backcolor\":\"#ffffcc\",\"forecolor\":\"#660000\",\"text\":\"Hello, scan me!\"}": {
+    "error": "",
+    "response": {
+      "result": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...\" alt=\"QR Code\"/>",
+      "status": "success"
+    }
+  },
+  "{\"pixel\":12,\"text\":\"WIFI:T:WPA;S:GuestNetwork;P:guestpass123;;\"}": {
+    "error": "",
+    "response": {
+      "result": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...\" alt=\"QR Code\"/>",
+      "status": "success"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"agegrp\":3,\"api_key\":\"demo_api_key_1\",\"drgnm\":\"Amoxicillin\",\"reaction\":\"Rash\",\"sex\":0}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events: drug=Amoxicillin, reaction=Rash, sex=Unknown, ageGrp=Child. Total reports: 521. Serious cases: 47. Top concomitant drugs: Ibuprofen, Acetaminophen, Cetirizine."
+    }
+  },
+  "{\"agegrp\":5,\"api_key\":\"demo_api_key_2\",\"drgnm\":\"Humira\",\"reaction\":\"Injection site reaction\",\"sex\":1}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events: drug=Humira, reaction=Injection site reaction, sex=Male, ageGrp=Adult. Total reports: 967. Serious cases: 88. Top concomitant drugs: Methotrexate, Prednisone, Folic acid."
+    }
+  },
+  "{\"agegrp\":6,\"api_key\":\"demo_api_key_3\",\"drgnm\":\"Lipitor\",\"reaction\":\"Myalgia\",\"sex\":2}": {
+    "error": "",
+    "response": {
+      "message": "Summary dataset for adverse events: drug=Lipitor, reaction=Myalgia, sex=Female, ageGrp=Elderly. Total reports: 1842. Serious cases: 312. Top concomitant drugs: Aspirin, Metoprolol, Lisinopril."
+    }
+  }
+}

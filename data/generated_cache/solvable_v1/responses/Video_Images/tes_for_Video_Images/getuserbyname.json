@@ -1,0 +1,28 @@
+{
+  "{\"username\":\"jane_smith\"}": {
+    "error": "",
+    "response": {
+      "email": "jane.smith@example.com",
+      "firstName": "Jane",
+      "id": 42,
+      "lastName": "Smith",
+      "password": "securePass!",
+      "phone": "555-9876",
+      "userStatus": 0,
+      "username": "jane_smith"
+    }
+  },
+  "{\"username\":\"user1\"}": {
+    "error": "",
+    "response": {
+      "email": "john.doe@example.com",
+      "firstName": "John",
+      "id": 1,
+      "lastName": "Doe",
+      "password": "password123",
+      "phone": "555-1234",
+      "userStatus": 1,
+      "username": "user1"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "{\"captcha\":\"abc123def456\",\"captchasid\":\"1234567890\",\"phone\":\"+442071838750\"}": {
+    "error": "",
+    "response": {
+      "coordinates": "51.5074,-0.1278",
+      "country": "United Kingdom",
+      "email": "",
+      "extra": "Verified via captcha",
+      "locations": "London, UK",
+      "money_spent": "£0",
+      "name": "Unknown",
+      "obyavleniya": "0",
+      "operator": "Vodafone",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "vkLinks": ""
+    }
+  },
+  "{\"phone\":\"+14155552671\"}": {
+    "error": "",
+    "response": {
+      "coordinates": "37.7749,-122.4194",
+      "country": "United States",
+      "email": "j.doe@example.com",
+      "extra": "No additional data",
+      "locations": "San Francisco, CA",
+      "money_spent": "$0",
+      "name": "John Doe",
+      "obyavleniya": "0",
+      "operator": "AT&T",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)",
+      "vkLinks": ""
+    }
+  },
+  "{\"phone\":\"+4915112345678\",\"vkhash\":\"vk_hash_987654321\"}": {
+    "error": "",
+    "response": {
+      "coordinates": "52.5200,13.4050",
+      "country": "Germany",
+      "email": "max.mustermann@example.de",
+      "extra": "VK linked",
+      "locations": "Berlin, Germany",
+      "money_spent": "€0",
+      "name": "Max Mustermann",
+      "obyavleniya": "0",
+      "operator": "Deutsche Telekom",
+      "user_agent": "Mozilla/5.0 (Linux; Android 13)",
+      "vkLinks": "https://vk.com/id123456789"
+    }
+  }
+}

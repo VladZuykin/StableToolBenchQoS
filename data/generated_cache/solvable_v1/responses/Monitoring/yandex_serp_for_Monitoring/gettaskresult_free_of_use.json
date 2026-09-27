@@ -1,0 +1,77 @@
+{
+  "{\"task_id\":\"0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f\"}": {
+    "error": "",
+    "response": {
+      "is_finished": false,
+      "is_in_progress": false,
+      "is_succeeded": false,
+      "result": null,
+      "task_callback_status": null,
+      "task_callback_url": null,
+      "task_callback_utc_sent_at": null,
+      "task_status": "pending",
+      "task_utc_created_at": "2024-06-11 10:02:47 +00:00",
+      "task_utc_finished_at": null
+    }
+  },
+  "{\"task_id\":\"a1b2c3d4-e5f6-7890-abcd-ef1234567890\"}": {
+    "error": "",
+    "response": {
+      "is_finished": true,
+      "is_in_progress": false,
+      "is_succeeded": true,
+      "result": {
+        "data": {
+          "information": {
+            "region": null,
+            "results_found": "1,240,000"
+          },
+          "results": [
+            {
+              "displayed_link": "https://example.com › seo-tools",
+              "domain": "example.com",
+              "link": "https://example.com/seo-tools",
+              "position": 1,
+              "review_rating": null,
+              "snippet": "Discover the best SEO tools to boost your website ranking in 2024.",
+              "title": "Top 10 SEO Tools for 2024"
+            },
+            {
+              "displayed_link": "https://searchenginejournal.com › guide",
+              "domain": "searchenginejournal.com",
+              "link": "https://searchenginejournal.com/seo-guide",
+              "position": 2,
+              "review_rating": null,
+              "snippet": "A complete guide to search engine optimization for beginners and experts.",
+              "title": "The Complete SEO Guide"
+            }
+          ],
+          "videos": []
+        },
+        "description": "Yandex SERP results for query 'seo tools'",
+        "status": 200
+      },
+      "task_callback_status": null,
+      "task_callback_url": null,
+      "task_callback_utc_sent_at": null,
+      "task_status": "succeeded",
+      "task_utc_created_at": "2024-06-11 08:12:33 +00:00",
+      "task_utc_finished_at": "2024-06-11 08:12:58 +00:00"
+    }
+  },
+  "{\"task_id\":\"f9e8d7c6-b5a4-3210-fedc-ba9876543210\"}": {
+    "error": "",
+    "response": {
+      "is_finished": false,
+      "is_in_progress": true,
+      "is_succeeded": false,
+      "result": null,
+      "task_callback_status": null,
+      "task_callback_url": null,
+      "task_callback_utc_sent_at": null,
+      "task_status": "inprogress",
+      "task_utc_created_at": "2024-06-11 09:45:10 +00:00",
+      "task_utc_finished_at": null
+    }
+  }
+}

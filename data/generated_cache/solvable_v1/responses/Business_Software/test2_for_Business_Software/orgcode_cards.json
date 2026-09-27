@@ -1,0 +1,46 @@
+{
+  "{\"locale\":\"de-DE\",\"msid\":\"sess_1a2b3c\",\"muid\":\"user_90012\",\"orgcode\":\"initech\",\"x_mjx_server\":\"node-3\",\"x_passthru_values\":\"channel=mobile;appVersion=4.2.0\",\"x_xsrf_token\":\"demo_x_xsrf_token_1\"}": {
+    "error": "",
+    "response": {
+      "cards": []
+    }
+  },
+  "{\"locale\":\"en-US\",\"msid\":\"sess_8842ab\",\"muid\":\"user_10293\",\"orgcode\":\"acme-bank\",\"x_xsrf_token\":\"demo_x_xsrf_token_2\"}": {
+    "error": "",
+    "response": {
+      "cards": [
+        {
+          "cardId": "card_001",
+          "cardType": "DEBIT",
+          "expiryDate": "2026-08-31",
+          "holderName": "JOHN DOE",
+          "lastFour": "1234",
+          "status": "ACTIVE"
+        },
+        {
+          "cardId": "card_002",
+          "cardType": "CREDIT",
+          "expiryDate": "2027-01-31",
+          "holderName": "JOHN DOE",
+          "lastFour": "5678",
+          "status": "ACTIVE"
+        }
+      ]
+    }
+  },
+  "{\"locale\":\"fr-FR\",\"msid\":\"msid_9f3c7d\",\"muid\":\"muid_55671\",\"orgcode\":\"globex\",\"uuid\":\"req-3f9a-42b1\",\"x_deviceinstall\":\"dev-9c2e1f\",\"x_xsrf_token\":\"demo_x_xsrf_token_3\"}": {
+    "error": "",
+    "response": {
+      "cards": [
+        {
+          "cardId": "card_7781",
+          "cardType": "CREDIT",
+          "expiryDate": "2025-12-31",
+          "holderName": "MARIE DUPONT",
+          "lastFour": "4321",
+          "status": "FROZEN"
+        }
+      ]
+    }
+  }
+}

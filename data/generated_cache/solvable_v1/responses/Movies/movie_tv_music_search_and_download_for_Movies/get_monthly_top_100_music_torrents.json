@@ -1,0 +1,80 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "code": "200",
+      "result": [
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "1.2 GB",
+          "title": "Daft Punk - Random Access Memories (2013) [FLAC]",
+          "torrent": "magnet:?xt=urn:btih:3f2a9c1b7e4d5a6f8b0c2d3e4f5a6b7c8d9e0f1a"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "850 MB",
+          "title": "Taylor Swift - Midnights (2022) [MP3 320]",
+          "torrent": "magnet:?xt=urn:btih:9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "2.4 GB",
+          "title": "Pink Floyd - The Dark Side of the Moon (1973) [24bit FLAC]",
+          "torrent": "magnet:?xt=urn:btih:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "1.8 GB",
+          "title": "The Weeknd - After Hours (2020) [FLAC]",
+          "torrent": "magnet:?xt=urn:btih:abcdef1234567890abcdef1234567890abcdef12"
+        },
+        {
+          "_list_length": 100,
+          "rate": 7,
+          "size": "620 MB",
+          "title": "Billie Eilish - Happier Than Ever (2021) [MP3 320]",
+          "torrent": "magnet:?xt=urn:btih:fedcba0987654321fedcba0987654321fedcba09"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "1.5 GB",
+          "title": "Radiohead - In Rainbows (2007) [FLAC]",
+          "torrent": "magnet:?xt=urn:btih:11223344556677889900aabbccddeeff00112233"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "980 MB",
+          "title": "Kendrick Lamar - DAMN. (2017) [MP3 320]",
+          "torrent": "magnet:?xt=urn:btih:99887766554433221100ffeeddccbbaa99887766"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "3.1 GB",
+          "title": "Led Zeppelin - IV (1971) [24bit FLAC]",
+          "torrent": "magnet:?xt=urn:btih:5566778899aabbccddeeff001122334455667788"
+        },
+        {
+          "_list_length": 100,
+          "rate": 6,
+          "size": "540 MB",
+          "title": "Adele - 30 (2021) [MP3 320]",
+          "torrent": "magnet:?xt=urn:btih:aabbccddeeff00112233445566778899aabbccdd"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "1.1 GB",
+          "title": "Nirvana - Nevermind (1991) [FLAC]",
+          "torrent": "magnet:?xt=urn:btih:1234567890abcdef1234567890abcdef12345678"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"path\":\"/archive/scan.tiff\",\"storagename\":\"mystorage\",\"versionid\":\"v2\"}": {
+    "error": "",
+    "response": {
+      "contentType": "image/tiff",
+      "fileContent": "binary image data",
+      "size": 5242880
+    }
+  },
+  "{\"path\":\"/folder/logo.png\",\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "contentType": "image/png",
+      "fileContent": "binary image data",
+      "size": 102400
+    }
+  },
+  "{\"path\":\"/images/photo.jpg\"}": {
+    "error": "",
+    "response": {
+      "contentType": "image/jpeg",
+      "fileContent": "binary image data",
+      "size": 245678
+    }
+  }
+}

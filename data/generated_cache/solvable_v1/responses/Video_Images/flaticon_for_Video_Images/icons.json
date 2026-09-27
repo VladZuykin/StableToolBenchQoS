@@ -1,0 +1,191 @@
+{
+  "{\"categoryname\":\"Space\",\"designername\":\"Laura Reen\",\"limit\":25,\"orderby\":\"priority\",\"q\":\"rocket\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1699999999,
+          "category": "Space",
+          "category_id": "21",
+          "color": 2,
+          "colors": "#4A90E2,#50E3C2",
+          "description": "Rocket launch icon by Laura Reen",
+          "detail": 1,
+          "downloads": "23110",
+          "equivalents": 3,
+          "family_id": 410,
+          "family_name": "Space",
+          "family_slug": "space",
+          "group_id": 15,
+          "group_slug": "science",
+          "id": 2468135,
+          "images": {
+            "png": {
+              "128": "https://cdn.flaticon.com/png/128/2468135.png",
+              "512": "https://cdn.flaticon.com/png/512/2468135.png"
+            },
+            "svg": "https://cdn.flaticon.com/svg/2468135.svg"
+          },
+          "item_equivalent": "rocket-landing",
+          "license": "premium",
+          "pack_background": "#0B0C10",
+          "pack_id": 445566,
+          "pack_items": 60,
+          "pack_name": "Space Linear Pack",
+          "pack_priority": "0.88",
+          "pack_slug": "space-linear-pack",
+          "premium": 1,
+          "priority": "0.95",
+          "priority_style": "0.93",
+          "selection": 0,
+          "slug": "rocket-launch",
+          "state": 1,
+          "stroke": 2,
+          "style": "2",
+          "style_class": "linear",
+          "style_id": 2,
+          "style_name": "Linear",
+          "style_slug": "linear",
+          "tags": "rocket,launch,space",
+          "tags_id": "101,102,103",
+          "team_id": 77,
+          "team_name": "Laura Reen",
+          "team_website": "https://laurareen.example.com",
+          "type": "standard",
+          "views": "120345"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 1,
+        "total": 1
+      }
+    }
+  },
+  "{\"color\":1,\"icontype\":\"standard\",\"limit\":50,\"orderby\":\"added\",\"page\":2,\"q\":\"cat\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1701234567,
+          "category": "Animals",
+          "category_id": "5",
+          "color": 1,
+          "colors": "#000000",
+          "description": "Cat monocolor icon",
+          "detail": 1,
+          "downloads": "8421",
+          "equivalents": 2,
+          "family_id": 305,
+          "family_name": "Animals",
+          "family_slug": "animals",
+          "group_id": 12,
+          "group_slug": "nature",
+          "id": 7654321,
+          "images": {
+            "png": {
+              "128": "https://cdn.flaticon.com/png/128/7654321.png",
+              "512": "https://cdn.flaticon.com/png/512/7654321.png"
+            },
+            "svg": "https://cdn.flaticon.com/svg/7654321.svg"
+          },
+          "item_equivalent": "dog-monocolor",
+          "license": "free",
+          "pack_background": "#F5F5F5",
+          "pack_id": 998877,
+          "pack_items": 30,
+          "pack_name": "Pets Monocolor Pack",
+          "pack_priority": "0.55",
+          "pack_slug": "pets-monocolor-pack",
+          "premium": 0,
+          "priority": "0.62",
+          "priority_style": "0.58",
+          "selection": 0,
+          "slug": "cat-monocolor",
+          "state": 1,
+          "stroke": 1,
+          "style": "1",
+          "style_class": "monocolor",
+          "style_id": 1,
+          "style_name": "Monocolor",
+          "style_slug": "monocolor",
+          "tags": "cat,pet,animal",
+          "tags_id": "11,22,33",
+          "team_id": 42,
+          "team_name": "CreatureStudio",
+          "team_website": "https://creaturestudio.example.com",
+          "type": "standard",
+          "views": "45120"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 2,
+        "total": 1
+      }
+    }
+  },
+  "{\"limit\":15,\"orderby\":\"priority\",\"packid\":1554346,\"q\":\"arrow\",\"stroke\":2,\"stylename\":\"gradient\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "added": 1698765432,
+          "category": "Arrows",
+          "category_id": "12",
+          "color": 2,
+          "colors": "#FF5733,#33C1FF",
+          "description": "Arrow right gradient icon",
+          "detail": 1,
+          "downloads": "15234",
+          "equivalents": 4,
+          "family_id": 210,
+          "family_name": "Arrows",
+          "family_slug": "arrows",
+          "group_id": 7,
+          "group_slug": "navigation",
+          "id": 1234567,
+          "images": {
+            "png": {
+              "128": "https://cdn.flaticon.com/png/128/1234567.png",
+              "512": "https://cdn.flaticon.com/png/512/1234567.png"
+            },
+            "svg": "https://cdn.flaticon.com/svg/1234567.svg"
+          },
+          "item_equivalent": "arrow-left-gradient",
+          "license": "free",
+          "pack_background": "#FFFFFF",
+          "pack_id": 1554346,
+          "pack_items": 48,
+          "pack_name": "Arrow Gradient Pack",
+          "pack_priority": "0.75",
+          "pack_slug": "arrow-gradient-pack",
+          "premium": 0,
+          "priority": "0.87",
+          "priority_style": "0.91",
+          "selection": 0,
+          "slug": "arrow-right-gradient",
+          "state": 1,
+          "stroke": 2,
+          "style": "3",
+          "style_class": "gradient",
+          "style_id": 3,
+          "style_name": "Gradient",
+          "style_slug": "gradient",
+          "tags": "arrow,right,direction",
+          "tags_id": "45,78,91",
+          "team_id": 88,
+          "team_name": "PixelForge",
+          "team_website": "https://pixelforge.example.com",
+          "type": "standard",
+          "views": "98211"
+        }
+      ],
+      "metadata": {
+        "count": 1,
+        "page": 1,
+        "total": 1
+      }
+    }
+  }
+}

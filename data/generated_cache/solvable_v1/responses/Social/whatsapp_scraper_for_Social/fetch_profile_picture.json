@@ -1,0 +1,14 @@
+{
+  "{\"phone\":447700900123,\"pictype\":\"url\",\"quality\":\"high\"}": {
+    "error": "",
+    "response": {
+      "message": "https://cdn.whatsappscraper.example.com/profile/447700900123_high.png"
+    }
+  },
+  "{\"phone\":919876543210,\"pictype\":\"base64\",\"quality\":\"low\"}": {
+    "error": "",
+    "response": {
+      "message": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="
+    }
+  }
+}

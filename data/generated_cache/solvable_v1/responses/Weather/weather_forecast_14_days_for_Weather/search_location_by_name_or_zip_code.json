@@ -1,0 +1,62 @@
+{
+  "{\"city\":\"London\",\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "description": "Weather forecast for London",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/",
+      "location": [
+        {
+          "city": "London",
+          "country": "United Kingdom",
+          "country_name": "United Kingdom",
+          "wmo": "03772"
+        },
+        {
+          "city": "London",
+          "country": "Canada",
+          "country_name": "Canada",
+          "wmo": "71623"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Search results for London"
+    }
+  },
+  "{\"city\":\"Tokyo\",\"lang\":\"cn\"}": {
+    "error": "",
+    "response": {
+      "description": "Weather forecast for Tokyo",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/",
+      "location": [
+        {
+          "city": "Tokyo",
+          "country": "Japan",
+          "country_name": "Japan",
+          "wmo": "47662"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Search results for Tokyo"
+    }
+  },
+  "{\"lang\":\"fr\",\"zipcode\":\"10001\"}": {
+    "error": "",
+    "response": {
+      "description": "Weather forecast for ZIP code 10001",
+      "generator": "WeatherAPI",
+      "link": "https://www.weatherapi.com/",
+      "location": [
+        {
+          "city": "New York",
+          "country": "United States",
+          "country_name": "United States",
+          "wmo": "74486"
+        }
+      ],
+      "modified": "2024-06-01T12:00:00Z",
+      "title": "Search results for 10001"
+    }
+  }
+}

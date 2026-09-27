@@ -1,0 +1,587 @@
+{
+  "{\"is_id\":\"123456789012345678\",\"month\":\"6\",\"year\":2024}": {
+    "error": "",
+    "response": {
+      "currency": "EUR",
+      "listing_id": "123456789012345678",
+      "month": 6,
+      "prices": [
+        {
+          "available": true,
+          "date": "2024-06-01",
+          "minimum_nights": 1,
+          "price": 95
+        },
+        {
+          "available": true,
+          "date": "2024-06-02",
+          "minimum_nights": 1,
+          "price": 95
+        },
+        {
+          "available": true,
+          "date": "2024-06-03",
+          "minimum_nights": 2,
+          "price": 105
+        },
+        {
+          "available": true,
+          "date": "2024-06-04",
+          "minimum_nights": 2,
+          "price": 105
+        },
+        {
+          "available": true,
+          "date": "2024-06-05",
+          "minimum_nights": 2,
+          "price": 105
+        },
+        {
+          "available": true,
+          "date": "2024-06-06",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-06-07",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-06-08",
+          "minimum_nights": 2,
+          "price": 130
+        },
+        {
+          "available": false,
+          "date": "2024-06-09",
+          "minimum_nights": 2,
+          "price": 130
+        },
+        {
+          "available": true,
+          "date": "2024-06-10",
+          "minimum_nights": 1,
+          "price": 100
+        },
+        {
+          "available": true,
+          "date": "2024-06-11",
+          "minimum_nights": 1,
+          "price": 100
+        },
+        {
+          "available": true,
+          "date": "2024-06-12",
+          "minimum_nights": 2,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-06-13",
+          "minimum_nights": 2,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-06-14",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-06-15",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-06-16",
+          "minimum_nights": 3,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-06-17",
+          "minimum_nights": 3,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-06-18",
+          "minimum_nights": 1,
+          "price": 105
+        },
+        {
+          "available": true,
+          "date": "2024-06-19",
+          "minimum_nights": 1,
+          "price": 105
+        },
+        {
+          "available": true,
+          "date": "2024-06-20",
+          "minimum_nights": 2,
+          "price": 115
+        },
+        {
+          "available": true,
+          "date": "2024-06-21",
+          "minimum_nights": 2,
+          "price": 115
+        },
+        {
+          "available": true,
+          "date": "2024-06-22",
+          "minimum_nights": 2,
+          "price": 140
+        },
+        {
+          "available": true,
+          "date": "2024-06-23",
+          "minimum_nights": 2,
+          "price": 140
+        },
+        {
+          "available": true,
+          "date": "2024-06-24",
+          "minimum_nights": 1,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-06-25",
+          "minimum_nights": 1,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-06-26",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-06-27",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-06-28",
+          "minimum_nights": 2,
+          "price": 145
+        },
+        {
+          "available": true,
+          "date": "2024-06-29",
+          "minimum_nights": 2,
+          "price": 145
+        },
+        {
+          "available": true,
+          "date": "2024-06-30",
+          "minimum_nights": 1,
+          "price": 115
+        }
+      ],
+      "year": 2024
+    }
+  },
+  "{\"is_id\":\"619966061834034729\",\"month\":\"1\",\"year\":2024}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "listing_id": "619966061834034729",
+      "month": 1,
+      "prices": [
+        {
+          "available": true,
+          "date": "2024-01-01",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-01-02",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": false,
+          "date": "2024-01-03",
+          "minimum_nights": 2,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-01-04",
+          "minimum_nights": 2,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-01-05",
+          "minimum_nights": 3,
+          "price": 150
+        },
+        {
+          "available": true,
+          "date": "2024-01-06",
+          "minimum_nights": 3,
+          "price": 150
+        },
+        {
+          "available": true,
+          "date": "2024-01-07",
+          "minimum_nights": 2,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-01-08",
+          "minimum_nights": 2,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-01-09",
+          "minimum_nights": 2,
+          "price": 110
+        },
+        {
+          "available": true,
+          "date": "2024-01-10",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-01-11",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-01-12",
+          "minimum_nights": 2,
+          "price": 140
+        },
+        {
+          "available": false,
+          "date": "2024-01-13",
+          "minimum_nights": 2,
+          "price": 140
+        },
+        {
+          "available": true,
+          "date": "2024-01-14",
+          "minimum_nights": 2,
+          "price": 115
+        },
+        {
+          "available": true,
+          "date": "2024-01-15",
+          "minimum_nights": 2,
+          "price": 115
+        },
+        {
+          "available": true,
+          "date": "2024-01-16",
+          "minimum_nights": 2,
+          "price": 115
+        },
+        {
+          "available": true,
+          "date": "2024-01-17",
+          "minimum_nights": 2,
+          "price": 130
+        },
+        {
+          "available": true,
+          "date": "2024-01-18",
+          "minimum_nights": 2,
+          "price": 130
+        },
+        {
+          "available": true,
+          "date": "2024-01-19",
+          "minimum_nights": 3,
+          "price": 145
+        },
+        {
+          "available": true,
+          "date": "2024-01-20",
+          "minimum_nights": 3,
+          "price": 145
+        },
+        {
+          "available": true,
+          "date": "2024-01-21",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-01-22",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-01-23",
+          "minimum_nights": 2,
+          "price": 120
+        },
+        {
+          "available": true,
+          "date": "2024-01-24",
+          "minimum_nights": 2,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-01-25",
+          "minimum_nights": 2,
+          "price": 135
+        },
+        {
+          "available": true,
+          "date": "2024-01-26",
+          "minimum_nights": 3,
+          "price": 160
+        },
+        {
+          "available": true,
+          "date": "2024-01-27",
+          "minimum_nights": 3,
+          "price": 160
+        },
+        {
+          "available": true,
+          "date": "2024-01-28",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-01-29",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-01-30",
+          "minimum_nights": 2,
+          "price": 125
+        },
+        {
+          "available": true,
+          "date": "2024-01-31",
+          "minimum_nights": 2,
+          "price": 140
+        }
+      ],
+      "year": 2024
+    }
+  },
+  "{\"is_id\":\"987654321098765432\",\"month\":\"12\",\"year\":2023}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "listing_id": "987654321098765432",
+      "month": 12,
+      "prices": [
+        {
+          "available": true,
+          "date": "2023-12-01",
+          "minimum_nights": 2,
+          "price": 180
+        },
+        {
+          "available": true,
+          "date": "2023-12-02",
+          "minimum_nights": 2,
+          "price": 180
+        },
+        {
+          "available": true,
+          "date": "2023-12-03",
+          "minimum_nights": 3,
+          "price": 200
+        },
+        {
+          "available": true,
+          "date": "2023-12-04",
+          "minimum_nights": 3,
+          "price": 200
+        },
+        {
+          "available": true,
+          "date": "2023-12-05",
+          "minimum_nights": 3,
+          "price": 200
+        },
+        {
+          "available": true,
+          "date": "2023-12-06",
+          "minimum_nights": 2,
+          "price": 190
+        },
+        {
+          "available": true,
+          "date": "2023-12-07",
+          "minimum_nights": 2,
+          "price": 190
+        },
+        {
+          "available": true,
+          "date": "2023-12-08",
+          "minimum_nights": 2,
+          "price": 210
+        },
+        {
+          "available": true,
+          "date": "2023-12-09",
+          "minimum_nights": 2,
+          "price": 210
+        },
+        {
+          "available": true,
+          "date": "2023-12-10",
+          "minimum_nights": 2,
+          "price": 195
+        },
+        {
+          "available": true,
+          "date": "2023-12-11",
+          "minimum_nights": 2,
+          "price": 195
+        },
+        {
+          "available": true,
+          "date": "2023-12-12",
+          "minimum_nights": 3,
+          "price": 220
+        },
+        {
+          "available": true,
+          "date": "2023-12-13",
+          "minimum_nights": 3,
+          "price": 220
+        },
+        {
+          "available": true,
+          "date": "2023-12-14",
+          "minimum_nights": 3,
+          "price": 230
+        },
+        {
+          "available": true,
+          "date": "2023-12-15",
+          "minimum_nights": 3,
+          "price": 230
+        },
+        {
+          "available": true,
+          "date": "2023-12-16",
+          "minimum_nights": 4,
+          "price": 250
+        },
+        {
+          "available": true,
+          "date": "2023-12-17",
+          "minimum_nights": 4,
+          "price": 250
+        },
+        {
+          "available": true,
+          "date": "2023-12-18",
+          "minimum_nights": 3,
+          "price": 240
+        },
+        {
+          "available": true,
+          "date": "2023-12-19",
+          "minimum_nights": 3,
+          "price": 240
+        },
+        {
+          "available": true,
+          "date": "2023-12-20",
+          "minimum_nights": 4,
+          "price": 260
+        },
+        {
+          "available": true,
+          "date": "2023-12-21",
+          "minimum_nights": 4,
+          "price": 260
+        },
+        {
+          "available": true,
+          "date": "2023-12-22",
+          "minimum_nights": 4,
+          "price": 280
+        },
+        {
+          "available": true,
+          "date": "2023-12-23",
+          "minimum_nights": 4,
+          "price": 280
+        },
+        {
+          "available": true,
+          "date": "2023-12-24",
+          "minimum_nights": 5,
+          "price": 300
+        },
+        {
+          "available": true,
+          "date": "2023-12-25",
+          "minimum_nights": 5,
+          "price": 300
+        },
+        {
+          "available": true,
+          "date": "2023-12-26",
+          "minimum_nights": 4,
+          "price": 290
+        },
+        {
+          "available": true,
+          "date": "2023-12-27",
+          "minimum_nights": 4,
+          "price": 290
+        },
+        {
+          "available": true,
+          "date": "2023-12-28",
+          "minimum_nights": 4,
+          "price": 310
+        },
+        {
+          "available": true,
+          "date": "2023-12-29",
+          "minimum_nights": 4,
+          "price": 310
+        },
+        {
+          "available": true,
+          "date": "2023-12-30",
+          "minimum_nights": 5,
+          "price": 330
+        },
+        {
+          "available": true,
+          "date": "2023-12-31",
+          "minimum_nights": 5,
+          "price": 330
+        }
+      ],
+      "year": 2023
+    }
+  }
+}

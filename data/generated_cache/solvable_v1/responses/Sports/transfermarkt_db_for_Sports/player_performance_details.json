@@ -1,0 +1,70 @@
+{
+  "{\"competition_id\":\"IT1\",\"locale\":\"IT\",\"player_id\":418560,\"season_id\":2023}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "match": {
+            "awayTeam": {
+              "flag": null,
+              "fullName": "Juventus Football Club",
+              "id": "506",
+              "image": "https://tmssl.akamaized.net/images/wappen/head/506.png",
+              "mainCompetition": "Serie A",
+              "marketValue": "€498.20m",
+              "name": "Juventus FC",
+              "nationalTeam": null
+            },
+            "competition": {
+              "id": "IT1",
+              "image": "https://tmssl.akamaized.net/images/logo/header/it1.png",
+              "isTournament": false,
+              "leagueLevel": "1",
+              "name": "Serie A",
+              "shortName": "Serie A"
+            },
+            "homeTeam": {
+              "flag": null,
+              "fullName": "Associazione Calcio Milan",
+              "id": "5",
+              "image": "https://tmssl.akamaized.net/images/wappen/head/5.png",
+              "mainCompetition": "Serie A",
+              "marketValue": "€533.45m",
+              "name": "AC Milan",
+              "nationalTeam": null
+            },
+            "id": "4193841",
+            "matchday": "8",
+            "result": {
+              "destinationDescription": null,
+              "destinationValue": null,
+              "goalsAway": "1",
+              "goalsHome": "2",
+              "minute": 90,
+              "result": "2:1",
+              "state": "finished"
+            },
+            "round": "Matchday 8",
+            "timestamp": 1697126400
+          },
+          "performance": {
+            "assists": "0",
+            "goals": "1",
+            "marketValue": "€40.00m",
+            "minutesPlayed": 90,
+            "ownGoals": "0",
+            "position": "Centre-Forward",
+            "positionGroup": "Striker",
+            "rating": "7.8",
+            "redCardMinute": null,
+            "shirtNumber": "9",
+            "substitutedOff": null,
+            "substitutedOn": null,
+            "yellowCardMinute": "34'",
+            "yellowRedCardMinute": null
+          }
+        }
+      ]
+    }
+  }
+}

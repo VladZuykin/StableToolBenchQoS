@@ -1,0 +1,31 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "Templates retrieved successfully",
+      "templates": [
+        {
+          "created_at": "2024-01-15T10:30:00Z",
+          "id": "tpl_001",
+          "name": "Welcome Banner",
+          "thumbnail_url": "https://cdn.nexweave.com/templates/tpl_001/thumb.png",
+          "type": "image"
+        },
+        {
+          "created_at": "2024-02-02T14:45:00Z",
+          "id": "tpl_002",
+          "name": "Product Promo Video",
+          "thumbnail_url": "https://cdn.nexweave.com/templates/tpl_002/thumb.png",
+          "type": "video"
+        },
+        {
+          "created_at": "2024-03-10T09:00:00Z",
+          "id": "tpl_003",
+          "name": "Holiday Greeting GIF",
+          "thumbnail_url": "https://cdn.nexweave.com/templates/tpl_003/thumb.png",
+          "type": "gif"
+        }
+      ]
+    }
+  }
+}

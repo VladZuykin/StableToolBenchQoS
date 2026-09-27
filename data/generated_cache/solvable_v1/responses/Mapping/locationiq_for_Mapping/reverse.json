@@ -1,0 +1,84 @@
+{
+  "{\"accept_language\":\"en\",\"addressdetails\":1,\"extratags\":0,\"format\":\"json\",\"lat\":35.689487,\"lon\":139.691711,\"namedetails\":0,\"normalizecity\":1,\"postaladdress\":0,\"showdistance\":1,\"statecode\":0}": {
+    "error": "",
+    "response": {
+      "address": {
+        "building": "Tokyo Metropolitan Government Building",
+        "city": "Tokyo",
+        "country": "Japan",
+        "country_code": "jp",
+        "house_number": "2-8-1",
+        "road": "Nishi-Shinjuku",
+        "state": "Tokyo",
+        "suburb": "Shinjuku"
+      },
+      "boundingbox": [
+        "35.688, 35.691",
+        "139.690, 139.693"
+      ],
+      "display_name": "Tokyo Metropolitan Government Building, 2-8-1 Nishi-Shinjuku, Shinjuku, Tokyo, Japan",
+      "distance": 0,
+      "lat": "35.689487",
+      "licence": "LocationIQ",
+      "lon": "139.691711",
+      "osm_id": "876543210",
+      "osm_type": "way",
+      "place_id": "234567890"
+    }
+  },
+  "{\"accept_language\":\"en\",\"addressdetails\":1,\"extratags\":1,\"format\":\"json\",\"lat\":-33.856159,\"lon\":151.215256,\"namedetails\":0,\"normalizecity\":1,\"postaladdress\":0,\"showdistance\":0,\"statecode\":1}": {
+    "error": "",
+    "response": {
+      "address": {
+        "city": "Sydney",
+        "country": "Australia",
+        "country_code": "au",
+        "road": "Bennelong Point",
+        "state": "New South Wales",
+        "state_code": "NSW",
+        "tourism": "Sydney Opera House"
+      },
+      "boundingbox": [
+        "-33.858, -33.854",
+        "151.213, 151.218"
+      ],
+      "display_name": "Sydney Opera House, Bennelong Point, Sydney, New South Wales, Australia",
+      "extratags": {
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "wikipedia": "en:Sydney Opera House"
+      },
+      "lat": "-33.856159",
+      "licence": "LocationIQ",
+      "lon": "151.215256",
+      "osm_id": "765432109",
+      "osm_type": "node",
+      "place_id": "345678901"
+    }
+  },
+  "{\"accept_language\":\"fr\",\"addressdetails\":1,\"extratags\":0,\"format\":\"json\",\"lat\":48.858844,\"lon\":2.294351,\"namedetails\":0,\"normalizecity\":1,\"postaladdress\":0,\"showdistance\":0,\"statecode\":0}": {
+    "error": "",
+    "response": {
+      "address": {
+        "city": "Paris",
+        "country": "France",
+        "country_code": "fr",
+        "house_number": "5",
+        "postcode": "75007",
+        "road": "Avenue Anatole France",
+        "state": "Île-de-France",
+        "tourism": "Eiffel Tower"
+      },
+      "boundingbox": [
+        "48.857, 48.860",
+        "2.293, 2.296"
+      ],
+      "display_name": "Eiffel Tower, 5 Avenue Anatole France, 75007 Paris, France",
+      "lat": "48.858844",
+      "licence": "LocationIQ",
+      "lon": "2.294351",
+      "osm_id": "987654321",
+      "osm_type": "node",
+      "place_id": "123456789"
+    }
+  }
+}

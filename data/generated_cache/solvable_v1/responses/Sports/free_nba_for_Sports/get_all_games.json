@@ -1,0 +1,90 @@
+{
+  "{\"date\":\"2023-11-15\",\"page\":\"1\",\"per_page\":\"10\",\"seasons\":\"2023\",\"team_ids\":\"2,17\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 10,
+          "date": "2023-11-15",
+          "home_team": {
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "id": 2,
+            "name": "Celtics"
+          },
+          "home_team_score": 117,
+          "id": 18446701,
+          "period": 4,
+          "postseason": false,
+          "season": 2023,
+          "status": "Final",
+          "time": "7:30 PM ET",
+          "visitor_team": {
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "id": 17,
+            "name": "Nets"
+          },
+          "visitor_team_score": 109
+        }
+      ],
+      "meta": {
+        "current_page": 1,
+        "next_page": 2,
+        "per_page": 10,
+        "total_count": 1230,
+        "total_pages": 123
+      }
+    }
+  },
+  "{\"date\":\"2024-01-20\",\"page\":\"0\",\"per_page\":\"25\",\"seasons\":\"2024\",\"team_ids\":\"14\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 25,
+          "date": "2024-01-20",
+          "home_team": {
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "id": 14,
+            "name": "Lakers"
+          },
+          "home_team_score": 124,
+          "id": 18451234,
+          "period": 4,
+          "postseason": false,
+          "season": 2024,
+          "status": "Final",
+          "time": "10:00 PM ET",
+          "visitor_team": {
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "id": 9,
+            "name": "Warriors"
+          },
+          "visitor_team_score": 118
+        }
+      ],
+      "meta": {
+        "current_page": 0,
+        "next_page": 1,
+        "per_page": 25,
+        "total_count": 1230,
+        "total_pages": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "{\"is_id\":\"1qAzWsXeDcRvTgByHnUjMk\"}": {
+    "error": "",
+    "response": {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/1qAzWsXeDcRvTgByHnUjMk",
+      "description": "Join us as we explore the mysteries of the deep ocean and the creatures that live in its darkest depths.",
+      "duration_ms": 4152000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1qAzWsXeDcRvTgByHnUjMk"
+      },
+      "html_description": "<p>Join us as we explore the mysteries of the deep ocean and the creatures that live in its darkest depths.</p>",
+      "id": "1qAzWsXeDcRvTgByHnUjMk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a1qAzWsXeDcRvTgByHnUjMk",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f1qAzWsXeDcRvTgByHnUjMk",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d1qAzWsXeDcRvTgByHnUjMk",
+          "width": 64
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "name": "Secrets of the Deep Sea",
+      "release_date": "2024-01-20",
+      "release_date_precision": "day",
+      "show": {
+        "description": "A podcast about the natural world and the wonders it holds.",
+        "id": "2PlMnBvCxZaSdFgHjKlQwE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2PlMnBvCxZaSdFgHjKlQwE",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f2PlMnBvCxZaSdFgHjKlQwE",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d2PlMnBvCxZaSdFgHjKlQwE",
+            "width": 64
+          }
+        ],
+        "name": "Nature's Wonders",
+        "uri": "spotify:show:2PlMnBvCxZaSdFgHjKlQwE"
+      },
+      "uri": "spotify:episode:1qAzWsXeDcRvTgByHnUjMk"
+    }
+  },
+  "{\"is_id\":\"3zXjQ2k8LmNpQrStUvWxYz\"}": {
+    "error": "",
+    "response": {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/3zXjQ2k8LmNpQrStUvWxYz",
+      "description": "In this episode, we sit down with leading researchers to discuss the latest breakthroughs in artificial intelligence and what they mean for the future of work.",
+      "duration_ms": 3421000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3zXjQ2k8LmNpQrStUvWxYz"
+      },
+      "html_description": "<p>In this episode, we sit down with leading researchers to discuss the latest breakthroughs in artificial intelligence and what they mean for the future of work.</p>",
+      "id": "3zXjQ2k8LmNpQrStUvWxYz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a3zXjQ2k8LmNpQrStUvWxYz",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f3zXjQ2k8LmNpQrStUvWxYz",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d3zXjQ2k8LmNpQrStUvWxYz",
+          "width": 64
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "name": "The Future of AI in the Workplace",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "show": {
+        "description": "Weekly conversations with industry experts about technology, innovation, and the people shaping our digital future.",
+        "id": "5CfCWKI5pZ28U0uOzXkDHe",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5CfCWKI5pZ28U0uOzXkDHe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f5CfCWKI5pZ28U0uOzXkDHe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d5CfCWKI5pZ28U0uOzXkDHe",
+            "width": 64
+          }
+        ],
+        "name": "Tech Forward",
+        "uri": "spotify:show:5CfCWKI5pZ28U0uOzXkDHe"
+      },
+      "uri": "spotify:episode:3zXjQ2k8LmNpQrStUvWxYz"
+    }
+  },
+  "{\"is_id\":\"7aBcDeFgHiJkLmNoPqRsTu\"}": {
+    "error": "",
+    "response": {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/7aBcDeFgHiJkLmNoPqRsTu",
+      "description": "A deep dive into the history of jazz music, from its roots in New Orleans to its global influence today.",
+      "duration_ms": 2785000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7aBcDeFgHiJkLmNoPqRsTu"
+      },
+      "html_description": "<p>A deep dive into the history of jazz music, from its roots in New Orleans to its global influence today.</p>",
+      "id": "7aBcDeFgHiJkLmNoPqRsTu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a7aBcDeFgHiJkLmNoPqRsTu",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f7aBcDeFgHiJkLmNoPqRsTu",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d7aBcDeFgHiJkLmNoPqRsTu",
+          "width": 64
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "name": "The Evolution of Jazz",
+      "release_date": "2023-11-02",
+      "release_date_precision": "day",
+      "show": {
+        "description": "Exploring the stories behind the music that shaped generations.",
+        "id": "9XyZaBcDeFgHiJkLmNoPqR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9XyZaBcDeFgHiJkLmNoPqR",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f9XyZaBcDeFgHiJkLmNoPqR",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d9XyZaBcDeFgHiJkLmNoPqR",
+            "width": 64
+          }
+        ],
+        "name": "Sound Stories",
+        "uri": "spotify:show:9XyZaBcDeFgHiJkLmNoPqR"
+      },
+      "uri": "spotify:episode:7aBcDeFgHiJkLmNoPqRsTu"
+    }
+  }
+}

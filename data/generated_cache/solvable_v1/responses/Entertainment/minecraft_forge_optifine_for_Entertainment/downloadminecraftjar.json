@@ -1,0 +1,32 @@
+{
+  "{\"minecraftversion\":\"1.18.2\"}": {
+    "error": "",
+    "response": {
+      "filename": "minecraft-1.18.2.jar",
+      "sha1": "c3d4e5f678901234567890abcdef1234567890ab",
+      "size_bytes": 23500000,
+      "url": "https://example.com/download/minecraft/1.18.2/minecraft-1.18.2.jar",
+      "version": "1.18.2"
+    }
+  },
+  "{\"minecraftversion\":\"1.19.4\"}": {
+    "error": "",
+    "response": {
+      "filename": "minecraft-1.19.4.jar",
+      "sha1": "b2c3d4e5f678901234567890abcdef1234567890",
+      "size_bytes": 24100000,
+      "url": "https://example.com/download/minecraft/1.19.4/minecraft-1.19.4.jar",
+      "version": "1.19.4"
+    }
+  },
+  "{\"minecraftversion\":\"1.20.1\"}": {
+    "error": "",
+    "response": {
+      "filename": "minecraft-1.20.1.jar",
+      "sha1": "a1b2c3d4e5f678901234567890abcdef12345678",
+      "size_bytes": 24800000,
+      "url": "https://example.com/download/minecraft/1.20.1/minecraft-1.20.1.jar",
+      "version": "1.20.1"
+    }
+  }
+}

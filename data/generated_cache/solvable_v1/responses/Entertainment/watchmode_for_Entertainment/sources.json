@@ -1,0 +1,97 @@
+{
+  "{\"regions\":\"CA\",\"types\":\"tve\"}": {
+    "error": "",
+    "response": [
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=com.ctv.ctvgo",
+        "android_scheme": "ctvgo://",
+        "id": 412,
+        "ios_appstore_url": "https://apps.apple.com/ca/app/ctv/id484660218",
+        "ios_scheme": "ctvgo://",
+        "logo_100px": "https://cdn.watchmode.com/logos/412_100px.png",
+        "name": "CTV",
+        "regions": [
+          "CA"
+        ],
+        "type": "tve"
+      },
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=ca.cbc.mobile.android.cbcnews",
+        "android_scheme": "cbcgem://",
+        "id": 389,
+        "ios_appstore_url": "https://apps.apple.com/ca/app/cbc-gem/id1022380830",
+        "ios_scheme": "cbcgem://",
+        "logo_100px": "https://cdn.watchmode.com/logos/389_100px.png",
+        "name": "CBC Gem",
+        "regions": [
+          "CA"
+        ],
+        "type": "tve"
+      }
+    ]
+  },
+  "{\"regions\":\"GB,AU\",\"types\":\"free,purchase\"}": {
+    "error": "",
+    "response": [
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=com.tubitv",
+        "android_scheme": "tubitv://",
+        "id": 81,
+        "ios_appstore_url": "https://apps.apple.com/gb/app/tubi-tv/id886007022",
+        "ios_scheme": "tubitv://",
+        "logo_100px": "https://cdn.watchmode.com/logos/81_100px.png",
+        "name": "Tubi TV",
+        "regions": [
+          "GB",
+          "AU"
+        ],
+        "type": "free"
+      },
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+        "android_scheme": "amzn://",
+        "id": 26,
+        "ios_appstore_url": "https://apps.apple.com/gb/app/amazon-prime-video/id545519333",
+        "ios_scheme": "aiv://",
+        "logo_100px": "https://cdn.watchmode.com/logos/26_100px.png",
+        "name": "Amazon Prime Video",
+        "regions": [
+          "GB",
+          "AU"
+        ],
+        "type": "purchase"
+      }
+    ]
+  },
+  "{\"regions\":\"US\",\"types\":\"sub\"}": {
+    "error": "",
+    "response": [
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+        "android_scheme": "nflx://",
+        "id": 203,
+        "ios_appstore_url": "https://apps.apple.com/us/app/netflix/id363590051",
+        "ios_scheme": "nflx://",
+        "logo_100px": "https://cdn.watchmode.com/logos/203_100px.png",
+        "name": "Netflix",
+        "regions": [
+          "US"
+        ],
+        "type": "sub"
+      },
+      {
+        "android_playstore_url": "https://play.google.com/store/apps/details?id=com.hulu.plus",
+        "android_scheme": "hulu://",
+        "id": 15,
+        "ios_appstore_url": "https://apps.apple.com/us/app/hulu/id376510438",
+        "ios_scheme": "hulu://",
+        "logo_100px": "https://cdn.watchmode.com/logos/15_100px.png",
+        "name": "Hulu",
+        "regions": [
+          "US"
+        ],
+        "type": "sub"
+      }
+    ]
+  }
+}

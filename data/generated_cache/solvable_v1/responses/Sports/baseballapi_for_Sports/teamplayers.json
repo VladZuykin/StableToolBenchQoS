@@ -1,0 +1,173 @@
+{
+  "{\"is_id\":3633}": {
+    "error": "",
+    "response": {
+      "foreignPlayers": [
+        {
+          "player": {
+            "country": {
+              "alpha2": "US",
+              "name": "United States"
+            },
+            "dateOfBirthTimestamp": 946684800,
+            "firstName": "Mike",
+            "gender": "M",
+            "height": 188,
+            "id": 4821,
+            "jerseyNumber": "7",
+            "lastName": "Trout",
+            "name": "Mike Trout",
+            "position": "CF",
+            "shirtNumber": 7,
+            "shortName": "M. Trout",
+            "slug": "mike-trout",
+            "team": {
+              "country": {
+                "alpha2": "US",
+                "name": "United States"
+              },
+              "gender": "M",
+              "id": 3633,
+              "name": "Los Angeles Angels",
+              "nameCode": "LAA",
+              "national": true,
+              "primaryUniqueTournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "USA",
+                  "slug": "usa",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "country": {},
+                "displayInverseHomeAwayTeams": false,
+                "id": 100,
+                "name": "MLB",
+                "primaryColorHex": "#002D72",
+                "secondaryColorHex": "#BA0021",
+                "slug": "mlb",
+                "userCount": 125000
+              },
+              "shortName": "LA Angels",
+              "slug": "los-angeles-angels",
+              "sport": {
+                "id": 1,
+                "name": "Baseball",
+                "slug": "baseball"
+              },
+              "teamColors": {
+                "primary": "#BA0021",
+                "secondary": "#003263",
+                "text": "#FFFFFF"
+              },
+              "tournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "USA",
+                  "slug": "usa",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "id": 100,
+                "name": "MLB",
+                "slug": "mlb"
+              }
+            }
+          }
+        },
+        {
+          "player": {
+            "country": {
+              "alpha2": "JP",
+              "name": "Japan"
+            },
+            "dateOfBirthTimestamp": 1072915200,
+            "firstName": "Shohei",
+            "gender": "M",
+            "height": 193,
+            "id": 4822,
+            "jerseyNumber": "17",
+            "lastName": "Ohtani",
+            "name": "Shohei Ohtani",
+            "position": "DH",
+            "shirtNumber": 17,
+            "shortName": "S. Ohtani",
+            "slug": "shohei-ohtani",
+            "team": {
+              "country": {
+                "alpha2": "US",
+                "name": "United States"
+              },
+              "gender": "M",
+              "id": 3633,
+              "name": "Los Angeles Angels",
+              "nameCode": "LAA",
+              "national": true,
+              "primaryUniqueTournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "USA",
+                  "slug": "usa",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "country": {},
+                "displayInverseHomeAwayTeams": false,
+                "id": 100,
+                "name": "MLB",
+                "primaryColorHex": "#002D72",
+                "secondaryColorHex": "#BA0021",
+                "slug": "mlb",
+                "userCount": 125000
+              },
+              "shortName": "LA Angels",
+              "slug": "los-angeles-angels",
+              "sport": {
+                "id": 1,
+                "name": "Baseball",
+                "slug": "baseball"
+              },
+              "teamColors": {
+                "primary": "#BA0021",
+                "secondary": "#003263",
+                "text": "#FFFFFF"
+              },
+              "tournament": {
+                "category": {
+                  "alpha2": "US",
+                  "flag": "us",
+                  "id": 1,
+                  "name": "USA",
+                  "slug": "usa",
+                  "sport": {
+                    "id": 1,
+                    "name": "Baseball",
+                    "slug": "baseball"
+                  }
+                },
+                "id": 100,
+                "name": "MLB",
+                "slug": "mlb"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

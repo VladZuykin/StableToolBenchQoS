@@ -1,0 +1,129 @@
+{
+  "{\"competition_id\":\"IT1\",\"locale\":\"IT\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 20,
+          "id": "5",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/5.png",
+          "name": "Inter Mailand"
+        },
+        {
+          "_list_length": 20,
+          "id": "506",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/506.png",
+          "name": "Juventus Turin"
+        },
+        {
+          "_list_length": 20,
+          "id": "252",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/252.png",
+          "name": "AS Rom"
+        },
+        {
+          "_list_length": 20,
+          "id": "12",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/12.png",
+          "name": "SSC Neapel"
+        },
+        {
+          "_list_length": 20,
+          "id": "398",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/398.png",
+          "name": "Lazio Rom"
+        },
+        {
+          "_list_length": 20,
+          "id": "430",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/430.png",
+          "name": "AC Florenz"
+        },
+        {
+          "_list_length": 20,
+          "id": "1025",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/1025.png",
+          "name": "Atalanta Bergamo"
+        },
+        {
+          "_list_length": 20,
+          "id": "19",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/19.png",
+          "name": "AC Mailand"
+        },
+        {
+          "_list_length": 20,
+          "id": "416",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/416.png",
+          "name": "FC Turin"
+        },
+        {
+          "_list_length": 20,
+          "id": "1047",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/1047.png",
+          "name": "US Sassuolo"
+        },
+        {
+          "_list_length": 20,
+          "id": "6574",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/6574.png",
+          "name": "US Lecce"
+        },
+        {
+          "_list_length": 20,
+          "id": "1390",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/1390.png",
+          "name": "Cagliari Calcio"
+        },
+        {
+          "_list_length": 20,
+          "id": "749",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/749.png",
+          "name": "Udinese Calcio"
+        },
+        {
+          "_list_length": 20,
+          "id": "276",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/276.png",
+          "name": "Hellas Verona"
+        },
+        {
+          "_list_length": 20,
+          "id": "2919",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/2919.png",
+          "name": "AC Monza"
+        },
+        {
+          "_list_length": 20,
+          "id": "4172",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/4172.png",
+          "name": "Frosinone Calcio"
+        },
+        {
+          "_list_length": 20,
+          "id": "410",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/410.png",
+          "name": "FC Genua"
+        },
+        {
+          "_list_length": 20,
+          "id": "454",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/454.png",
+          "name": "FC Empoli"
+        },
+        {
+          "_list_length": 20,
+          "id": "1385",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/1385.png",
+          "name": "US Salernitana"
+        },
+        {
+          "_list_length": 20,
+          "id": "862",
+          "image": "https://tmssl.akamaized.net/images/wappen/head/862.png",
+          "name": "Bologna FC"
+        }
+      ]
+    }
+  }
+}

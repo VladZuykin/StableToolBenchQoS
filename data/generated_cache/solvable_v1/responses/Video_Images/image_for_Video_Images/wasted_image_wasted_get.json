@@ -1,0 +1,23 @@
+{
+  "{\"url\":\"https://example.com/photos/portrait.jpg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/wasted/8f3a1c2b9d.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://images.example.org/avatar/user123.png\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/wasted/5e7d4a0f21.png",
+      "message": "Image processed successfully"
+    }
+  },
+  "{\"url\":\"https://media.example.net/uploads/selfie_2024.jpeg\"}": {
+    "error": "",
+    "response": {
+      "link": "https://cdn.dagpi.xyz/wasted/c91b6e83aa.png",
+      "message": "Image processed successfully"
+    }
+  }
+}

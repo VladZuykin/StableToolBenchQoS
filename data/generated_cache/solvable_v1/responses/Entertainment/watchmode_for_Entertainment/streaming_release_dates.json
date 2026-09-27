@@ -1,0 +1,122 @@
+{
+  "{\"end_date\":20220430,\"limit\":100,\"start_date\":20220401}": {
+    "error": "",
+    "response": {
+      "releases": [
+        {
+          "is_original": true,
+          "release_date": "20220401",
+          "service": "Netflix",
+          "title": "The Bubble"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220401",
+          "service": "Disney+",
+          "title": "Moon Knight"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220401",
+          "service": "AppleTV+",
+          "title": "Slow Horses"
+        },
+        {
+          "is_original": false,
+          "release_date": "20220405",
+          "service": "Peacock",
+          "title": "The Outfit"
+        },
+        {
+          "is_original": false,
+          "release_date": "20220408",
+          "service": "Amazon Prime Video",
+          "title": "Ambulance"
+        },
+        {
+          "is_original": false,
+          "release_date": "20220422",
+          "service": "HBO Max",
+          "title": "The Northman"
+        }
+      ],
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  },
+  "{\"end_date\":20220615,\"limit\":50,\"start_date\":20220601}": {
+    "error": "",
+    "response": {
+      "releases": [
+        {
+          "is_original": true,
+          "release_date": "20220603",
+          "service": "Amazon Prime Video",
+          "title": "The Boys"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220608",
+          "service": "Disney+",
+          "title": "Ms. Marvel"
+        },
+        {
+          "is_original": false,
+          "release_date": "20220610",
+          "service": "Netflix",
+          "title": "Peaky Blinders"
+        },
+        {
+          "is_original": false,
+          "release_date": "20220615",
+          "service": "Disney+",
+          "title": "Lightyear"
+        }
+      ],
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  },
+  "{\"end_date\":20220930,\"limit\":250,\"start_date\":20220901}": {
+    "error": "",
+    "response": {
+      "releases": [
+        {
+          "is_original": true,
+          "release_date": "20220902",
+          "service": "Amazon Prime Video",
+          "title": "The Lord of the Rings: The Rings of Power"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220909",
+          "service": "Netflix",
+          "title": "Cobra Kai"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220921",
+          "service": "Disney+",
+          "title": "Andor"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220930",
+          "service": "Disney+",
+          "title": "Hocus Pocus 2"
+        },
+        {
+          "is_original": true,
+          "release_date": "20220928",
+          "service": "Netflix",
+          "title": "Blonde"
+        }
+      ],
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true
+    }
+  }
+}

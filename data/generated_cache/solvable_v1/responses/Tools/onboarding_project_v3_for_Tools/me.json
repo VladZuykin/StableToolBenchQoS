@@ -1,0 +1,14 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "created_at": "2024-06-12T09:24:31Z",
+      "email": "alex.morgan@example.com",
+      "id": "usr_8f3a1c2e",
+      "name": "Alex Morgan",
+      "onboarding_completed": true,
+      "project_id": "proj_onboarding_v3",
+      "role": "member"
+    }
+  }
+}

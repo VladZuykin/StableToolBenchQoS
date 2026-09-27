@@ -1,0 +1,20 @@
+{
+  "{\"area\":\"Manchester M1\",\"identifier\":\"greater-manchester/manchester/m1\"}": {
+    "error": "",
+    "response": {
+      "area": "Manchester M1",
+      "market_activity": {
+        "average_price": 245000,
+        "average_rent_pcm": 1150,
+        "demand_level": "high",
+        "listing_count": 310,
+        "median_price": 230000,
+        "price_change_1y": 3.2,
+        "price_change_5y": 18.7,
+        "rental_yield": 4.1,
+        "sales_volume_12m": 1420,
+        "time_to_sell_days": 42
+      }
+    }
+  }
+}

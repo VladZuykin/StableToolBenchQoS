@@ -1,0 +1,32 @@
+{
+  "{\"pair_id\":1337,\"period\":\"hourly\"}": {
+    "error": "",
+    "response": {
+      "buys": 1204,
+      "liquidity_events": 23,
+      "liquidity_high": 9876543.21,
+      "liquidity_low": 9512345.67,
+      "price_close": 1.2845,
+      "price_high": 1.312,
+      "price_low": 1.2601,
+      "price_open": 1.2703,
+      "sells": 1098,
+      "volume": 4875612.33
+    }
+  },
+  "{\"pair_id\":42,\"period\":\"hourly\"}": {
+    "error": "",
+    "response": {
+      "buys": 318,
+      "liquidity_events": 7,
+      "liquidity_high": 1845233.77,
+      "liquidity_low": 1798402.15,
+      "price_close": 0.04127,
+      "price_high": 0.04318,
+      "price_low": 0.03984,
+      "price_open": 0.04012,
+      "sells": 276,
+      "volume": 912344.58
+    }
+  }
+}

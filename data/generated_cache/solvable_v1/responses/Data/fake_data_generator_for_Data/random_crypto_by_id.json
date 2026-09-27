@@ -1,0 +1,38 @@
+{
+  "{\"is_id\":42}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": 42,
+          "name": "Bitcoin",
+          "price": "$45,231.89",
+          "symbol": "BTC",
+          "uid": "crypto-42"
+        }
+      ],
+      "info": {
+        "disclaimer": "This is fake data generated for testing purposes only.",
+        "version": "1.0.0"
+      }
+    }
+  },
+  "{\"is_id\":777}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": 777,
+          "name": "Ethereum",
+          "price": "$3,120.45",
+          "symbol": "ETH",
+          "uid": "crypto-777"
+        }
+      ],
+      "info": {
+        "disclaimer": "This is fake data generated for testing purposes only.",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

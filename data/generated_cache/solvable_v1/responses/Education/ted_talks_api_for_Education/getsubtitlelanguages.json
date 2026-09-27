@@ -1,0 +1,95 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "subtitle_languages",
+      "parameters": [],
+      "result": {
+        "num_results": 115,
+        "results": [
+          {
+            "_list_length": 115,
+            "slug": "en"
+          },
+          {
+            "_list_length": 115,
+            "slug": "es"
+          },
+          {
+            "_list_length": 115,
+            "slug": "fr"
+          },
+          {
+            "_list_length": 115,
+            "slug": "de"
+          },
+          {
+            "_list_length": 115,
+            "slug": "pt"
+          },
+          {
+            "_list_length": 115,
+            "slug": "zh-cn"
+          },
+          {
+            "_list_length": 115,
+            "slug": "zh-tw"
+          },
+          {
+            "_list_length": 115,
+            "slug": "ja"
+          },
+          {
+            "_list_length": 115,
+            "slug": "ko"
+          },
+          {
+            "_list_length": 115,
+            "slug": "it"
+          },
+          {
+            "_list_length": 115,
+            "slug": "ru"
+          },
+          {
+            "_list_length": 115,
+            "slug": "ar"
+          },
+          {
+            "_list_length": 115,
+            "slug": "he"
+          },
+          {
+            "_list_length": 115,
+            "slug": "nl"
+          },
+          {
+            "_list_length": 115,
+            "slug": "pl"
+          },
+          {
+            "_list_length": 115,
+            "slug": "tr"
+          },
+          {
+            "_list_length": 115,
+            "slug": "vi"
+          },
+          {
+            "_list_length": 115,
+            "slug": "th"
+          },
+          {
+            "_list_length": 115,
+            "slug": "id"
+          },
+          {
+            "_list_length": 115,
+            "slug": "hi"
+          }
+        ]
+      }
+    }
+  }
+}

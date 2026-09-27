@@ -1,0 +1,26 @@
+{
+  "{\"data\":\"Be happy! \"}": {
+    "error": "",
+    "response": {
+      "data": "Be happy! ",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qrcode?data=Be%20happy%21%20"
+    }
+  },
+  "{\"data\":\"Hello World\"}": {
+    "error": "",
+    "response": {
+      "data": "Hello World",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qrcode?data=Hello%20World"
+    }
+  },
+  "{\"data\":\"https://example.com\"}": {
+    "error": "",
+    "response": {
+      "data": "https://example.com",
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qrcode?data=https%3A%2F%2Fexample.com"
+    }
+  }
+}

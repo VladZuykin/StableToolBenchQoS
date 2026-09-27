@@ -1,0 +1,12 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "condition": "partly cloudy",
+      "humidity": 45,
+      "temperature": 22,
+      "weather": "havo",
+      "wind_speed": 12
+    }
+  }
+}

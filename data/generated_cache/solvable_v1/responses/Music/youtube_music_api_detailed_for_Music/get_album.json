@@ -1,0 +1,236 @@
+{
+  "{\"browse_id\":\"MPREb_4pL8gzRtw1U\"}": {
+    "error": "",
+    "response": {
+      "artists": [
+        {
+          "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+          "name": "Taylor Swift"
+        }
+      ],
+      "audioPlaylistId": "OLAK5uy_m4N7bV2cX1zQ9wE8rT3yU6iO0pA5sD",
+      "duration": "53:29",
+      "duration_seconds": 3209,
+      "thumbnails": [
+        {
+          "height": 60,
+          "url": "https://lh3.googleusercontent.com/album2=w60-h60-l90-rj",
+          "width": 60
+        },
+        {
+          "height": 120,
+          "url": "https://lh3.googleusercontent.com/album2=w120-h120-l90-rj",
+          "width": 120
+        },
+        {
+          "height": 226,
+          "url": "https://lh3.googleusercontent.com/album2=w226-h226-l90-rj",
+          "width": 226
+        },
+        {
+          "height": 544,
+          "url": "https://lh3.googleusercontent.com/album2=w544-h544-l90-rj",
+          "width": 544
+        }
+      ],
+      "title": "Midnights",
+      "trackCount": 13,
+      "tracks": [
+        {
+          "album": "Midnights",
+          "artists": [
+            {
+              "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+              "name": "Taylor Swift"
+            }
+          ],
+          "duration": "3:20",
+          "duration_seconds": 200,
+          "isAvailable": true,
+          "isExplicit": true,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Lavender Haze",
+          "videoId": "h8DLofLM7No",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        },
+        {
+          "album": "Midnights",
+          "artists": [
+            {
+              "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+              "name": "Taylor Swift"
+            }
+          ],
+          "duration": "3:37",
+          "duration_seconds": 217,
+          "isAvailable": true,
+          "isExplicit": true,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Maroon",
+          "videoId": "K0ibBPhiaG0",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        }
+      ],
+      "type": "Album",
+      "year": "2022"
+    }
+  },
+  "{\"browse_id\":\"MPREb_8nL9kQ2wX5v\"}": {
+    "error": "",
+    "response": {
+      "artists": [
+        {
+          "id": "UC4NALVCmcmL5ntpV0thoH6w",
+          "name": "The Weeknd"
+        }
+      ],
+      "audioPlaylistId": "OLAK5uy_n8B6vC3xZ2yR1wQ9eT4uI7oP0aS5dF",
+      "duration": "56:12",
+      "duration_seconds": 3372,
+      "thumbnails": [
+        {
+          "height": 60,
+          "url": "https://lh3.googleusercontent.com/album3=w60-h60-l90-rj",
+          "width": 60
+        },
+        {
+          "height": 120,
+          "url": "https://lh3.googleusercontent.com/album3=w120-h120-l90-rj",
+          "width": 120
+        },
+        {
+          "height": 226,
+          "url": "https://lh3.googleusercontent.com/album3=w226-h226-l90-rj",
+          "width": 226
+        },
+        {
+          "height": 544,
+          "url": "https://lh3.googleusercontent.com/album3=w544-h544-l90-rj",
+          "width": 544
+        }
+      ],
+      "title": "After Hours",
+      "trackCount": 14,
+      "tracks": [
+        {
+          "album": "After Hours",
+          "artists": [
+            {
+              "id": "UC4NALVCmcmL5ntpV0thoH6w",
+              "name": "The Weeknd"
+            }
+          ],
+          "duration": "3:21",
+          "duration_seconds": 201,
+          "isAvailable": true,
+          "isExplicit": true,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Alone Again",
+          "videoId": "4vQ1nYt9j7E",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        },
+        {
+          "album": "After Hours",
+          "artists": [
+            {
+              "id": "UC4NALVCmcmL5ntpV0thoH6w",
+              "name": "The Weeknd"
+            }
+          ],
+          "duration": "3:43",
+          "duration_seconds": 223,
+          "isAvailable": true,
+          "isExplicit": true,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Too Late",
+          "videoId": "K0ibBPhiaG0",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        }
+      ],
+      "type": "Album",
+      "year": "2020"
+    }
+  },
+  "{\"browse_id\":\"MPREb_9nqEki4ZDpp\"}": {
+    "error": "",
+    "response": {
+      "artists": [
+        {
+          "id": "UC0C-w0YjGpqDXGB8IHb662A",
+          "name": "Ed Sheeran"
+        }
+      ],
+      "audioPlaylistId": "OLAK5uy_k9Jz5eZ7XqL3vN8mR2sT1uW4yA6bC0dE",
+      "duration": "46:23",
+      "duration_seconds": 2783,
+      "thumbnails": [
+        {
+          "height": 60,
+          "url": "https://lh3.googleusercontent.com/album1=w60-h60-l90-rj",
+          "width": 60
+        },
+        {
+          "height": 120,
+          "url": "https://lh3.googleusercontent.com/album1=w120-h120-l90-rj",
+          "width": 120
+        },
+        {
+          "height": 226,
+          "url": "https://lh3.googleusercontent.com/album1=w226-h226-l90-rj",
+          "width": 226
+        },
+        {
+          "height": 544,
+          "url": "https://lh3.googleusercontent.com/album1=w544-h544-l90-rj",
+          "width": 544
+        }
+      ],
+      "title": "÷ (Divide)",
+      "trackCount": 12,
+      "tracks": [
+        {
+          "album": "÷ (Divide)",
+          "artists": [
+            {
+              "id": "UC0C-w0YjGpqDXGB8IHb662A",
+              "name": "Ed Sheeran"
+            }
+          ],
+          "duration": "4:23",
+          "duration_seconds": 263,
+          "isAvailable": true,
+          "isExplicit": false,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Shape of You",
+          "videoId": "JGwWNGJdvx8",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        },
+        {
+          "album": "÷ (Divide)",
+          "artists": [
+            {
+              "id": "UC0C-w0YjGpqDXGB8IHb662A",
+              "name": "Ed Sheeran"
+            }
+          ],
+          "duration": "3:53",
+          "duration_seconds": 233,
+          "isAvailable": true,
+          "isExplicit": false,
+          "likeStatus": "LIKE",
+          "thumbnails": null,
+          "title": "Castle on the Hill",
+          "videoId": "K0ibBPhiaG0",
+          "videoType": "MUSIC_VIDEO_TYPE_ATV"
+        }
+      ],
+      "type": "Album",
+      "year": "2017"
+    }
+  }
+}

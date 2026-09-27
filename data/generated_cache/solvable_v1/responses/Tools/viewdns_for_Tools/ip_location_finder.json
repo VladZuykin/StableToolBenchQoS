@@ -1,0 +1,36 @@
+{
+  "{\"ip\":\"1.1.1.1\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": "<ip_location><ip>1.1.1.1</ip><city>San Francisco</city><region>California</region><country>United States</country><country_code>US</country_code><latitude>37.7749</latitude><longitude>-122.4194</longitude><postal_code>94107</postal_code><timezone>America/Los_Angeles</timezone><isp>Cloudflare, Inc.</isp></ip_location>"
+  },
+  "{\"ip\":\"203.0.113.42\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "city": "Sydney",
+      "country": "Australia",
+      "country_code": "AU",
+      "ip": "203.0.113.42",
+      "isp": "Example Telecom Pty Ltd",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "postal_code": "2000",
+      "region": "New South Wales",
+      "timezone": "Australia/Sydney"
+    }
+  },
+  "{\"ip\":\"8.8.8.8\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "city": "Mountain View",
+      "country": "United States",
+      "country_code": "US",
+      "ip": "8.8.8.8",
+      "isp": "Google LLC",
+      "latitude": 37.4056,
+      "longitude": -122.0775,
+      "postal_code": "94043",
+      "region": "California",
+      "timezone": "America/Los_Angeles"
+    }
+  }
+}

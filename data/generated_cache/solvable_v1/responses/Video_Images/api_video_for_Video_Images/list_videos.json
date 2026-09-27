@@ -1,0 +1,26 @@
+{
+  "{\"currentpage\":1,\"livestreamid\":\"ls_12345\",\"pagesize\":50,\"sortby\":\"title\",\"sortorder\":\"asc\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Live Stream Videos",
+      "type": "video"
+    }
+  },
+  "{\"currentpage\":2,\"pagesize\":10,\"sortby\":\"publishedAt\",\"sortorder\":\"desc\",\"tags\":\"education,tech\",\"title\":\"tutorial\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Video List",
+      "type": "video"
+    }
+  },
+  "{\"currentpage\":3,\"description\":\"product demo\",\"metadata\":[{\"category\":\"marketing\"}],\"pagesize\":25}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Product Demo Videos",
+      "type": "video"
+    }
+  }
+}

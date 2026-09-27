@@ -1,0 +1,20 @@
+{
+  "{\"accept_language\":\"en\",\"countrycodes\":\"us\",\"limit\":5,\"normalizecity\":1,\"q\":\"Central Park\"}": {
+    "error": "",
+    "response": {
+      "error": null
+    }
+  },
+  "{\"accept_language\":\"fr\",\"bounded\":1,\"normalizecity\":0,\"q\":\"Eiffel Tower\",\"tag\":\"tourism:attraction\",\"viewbox\":\"2.2241,48.9021,2.4699,48.8156\"}": {
+    "error": "",
+    "response": {
+      "error": null
+    }
+  },
+  "{\"accept_language\":\"native\",\"countrycodes\":\"jp\",\"limit\":3,\"normalizecity\":1,\"q\":\"Shibuya Crossing\",\"tag\":\"place\"}": {
+    "error": "",
+    "response": {
+      "error": null
+    }
+  }
+}

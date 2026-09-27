@@ -1,0 +1,66 @@
+{
+  "{\"latin_name\":\"monstera\"}": {
+    "error": "",
+    "response": {
+      "category": "Climbers",
+      "climate": "Tropical",
+      "common": [
+        "Swiss Cheese Plant",
+        "Monstera"
+      ],
+      "diseases": "Root rot if overwatered",
+      "family": "Araceae",
+      "id": 12,
+      "ideallight": "Bright indirect light",
+      "insects": "Spider mites",
+      "latin": "Monstera deliciosa",
+      "origin": "Southern Mexico",
+      "tempmax": {
+        "celsius": 30,
+        "fahrenheit": 86.0
+      },
+      "tempmin": {
+        "celsius": 18,
+        "fahrenheit": 64.4
+      },
+      "toleratedlight": "Partial shade",
+      "use": [
+        "Ornamental",
+        "Indoor"
+      ],
+      "watering": "Weekly"
+    }
+  },
+  "{\"latin_name\":\"sansevieria\"}": {
+    "error": "",
+    "response": {
+      "category": "Succulents",
+      "climate": "Arid",
+      "common": [
+        "Snake Plant",
+        "Mother-in-law's Tongue"
+      ],
+      "diseases": "Fungal leaf spot",
+      "family": "Asparagaceae",
+      "id": 27,
+      "ideallight": "Low to bright indirect light",
+      "insects": "Mealybugs",
+      "latin": "Sansevieria trifasciata",
+      "origin": "West Africa",
+      "tempmax": {
+        "celsius": 32,
+        "fahrenheit": 89.6
+      },
+      "tempmin": {
+        "celsius": 15,
+        "fahrenheit": 59.0
+      },
+      "toleratedlight": "Full shade",
+      "use": [
+        "Air purifying",
+        "Indoor"
+      ],
+      "watering": "Biweekly"
+    }
+  }
+}

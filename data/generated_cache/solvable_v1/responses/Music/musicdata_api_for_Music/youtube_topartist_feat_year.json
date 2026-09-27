@@ -1,0 +1,26 @@
+{
+  "{\"year\":\"2019\"}": {
+    "error": "",
+    "response": {
+      "artist": "Lil Nas X",
+      "ranking": "3",
+      "views": "3.8B"
+    }
+  },
+  "{\"year\":\"2020\"}": {
+    "error": "",
+    "response": {
+      "artist": "Billie Eilish",
+      "ranking": "2",
+      "views": "4.1B"
+    }
+  },
+  "{\"year\":\"2021\"}": {
+    "error": "",
+    "response": {
+      "artist": "Ed Sheeran",
+      "ranking": "1",
+      "views": "5.2B"
+    }
+  }
+}

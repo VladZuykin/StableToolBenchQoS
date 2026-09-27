@@ -1,0 +1,88 @@
+{
+  "{\"limit\":10,\"page\":1,\"sortby\":\"name:asc\"}": {
+    "error": "",
+    "response": {
+      "limit": 10,
+      "page": 1,
+      "results": [
+        {
+          "_list_length": 200,
+          "alpha-2": "AF",
+          "alpha-3": "AFG",
+          "country-code": "004",
+          "id": "AF",
+          "intermediate-region": "Southern Asia",
+          "intermediate-region-code": "034",
+          "isActive": true,
+          "iso_3166-2": "AF",
+          "name": "Afghanistan",
+          "region": "Asia",
+          "region-code": "142",
+          "sub-region": "Southern Asia",
+          "sub-region-code": "034"
+        },
+        {
+          "_list_length": 200,
+          "alpha-2": "AL",
+          "alpha-3": "ALB",
+          "country-code": "008",
+          "id": "AL",
+          "intermediate-region": "South-eastern Europe",
+          "intermediate-region-code": "039",
+          "isActive": true,
+          "iso_3166-2": "AL",
+          "name": "Albania",
+          "region": "Europe",
+          "region-code": "150",
+          "sub-region": "Southern Europe",
+          "sub-region-code": "039"
+        }
+      ],
+      "totalPages": 20,
+      "totalResults": 200
+    }
+  },
+  "{\"limit\":50,\"page\":2,\"sortby\":\"name:desc\"}": {
+    "error": "",
+    "response": {
+      "limit": 50,
+      "page": 2,
+      "results": [
+        {
+          "_list_length": 200,
+          "alpha-2": "ZW",
+          "alpha-3": "ZWE",
+          "country-code": "716",
+          "id": "ZW",
+          "intermediate-region": "Eastern Africa",
+          "intermediate-region-code": "014",
+          "isActive": true,
+          "iso_3166-2": "ZW",
+          "name": "Zimbabwe",
+          "region": "Africa",
+          "region-code": "002",
+          "sub-region": "Sub-Saharan Africa",
+          "sub-region-code": "202"
+        },
+        {
+          "_list_length": 200,
+          "alpha-2": "ZM",
+          "alpha-3": "ZMB",
+          "country-code": "894",
+          "id": "ZM",
+          "intermediate-region": "Eastern Africa",
+          "intermediate-region-code": "014",
+          "isActive": true,
+          "iso_3166-2": "ZM",
+          "name": "Zambia",
+          "region": "Africa",
+          "region-code": "002",
+          "sub-region": "Sub-Saharan Africa",
+          "sub-region-code": "202"
+        }
+      ],
+      "totalPages": 4,
+      "totalResults": 200
+    }
+  }
+}

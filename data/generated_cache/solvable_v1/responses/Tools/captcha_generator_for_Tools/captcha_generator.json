@@ -1,0 +1,23 @@
+{
+  "{\"fontname\":\"noto-sans\",\"noise_number\":5}": {
+    "error": "",
+    "response": {
+      "image_url": "https://api.example.com/captcha/random_noto-sans_5.png",
+      "solution": "K3M8P"
+    }
+  },
+  "{\"fontname\":\"ubuntu\",\"noise_number\":25,\"text\":\"7GHT9\"}": {
+    "error": "",
+    "response": {
+      "image_url": "https://api.example.com/captcha/7GHT9_ubuntu_25.png",
+      "solution": "7GHT9"
+    }
+  },
+  "{\"text\":\"HELLO\"}": {
+    "error": "",
+    "response": {
+      "image_url": "https://api.example.com/captcha/HELLO_sora_10.png",
+      "solution": "HELLO"
+    }
+  }
+}

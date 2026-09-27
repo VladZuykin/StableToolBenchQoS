@@ -1,0 +1,14 @@
+{
+  "{\"is_id\":4987654321}": {
+    "error": "",
+    "response": {
+      "message": "PUBG Mobile username for ID 4987654321 is 'GhostReaper99'"
+    }
+  },
+  "{\"is_id\":5123456789}": {
+    "error": "",
+    "response": {
+      "message": "PUBG Mobile username for ID 5123456789 is 'ShadowStrikeX'"
+    }
+  }
+}

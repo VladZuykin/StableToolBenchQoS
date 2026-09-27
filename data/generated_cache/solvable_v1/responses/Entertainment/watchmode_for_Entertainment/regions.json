@@ -1,0 +1,77 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "country": "US",
+        "data_tier": 1,
+        "flag": "https://cdn.watchmode.com/flags/us.png",
+        "name": "United States",
+        "plan_enabled": true
+      },
+      {
+        "country": "CA",
+        "data_tier": 1,
+        "flag": "https://cdn.watchmode.com/flags/ca.png",
+        "name": "Canada",
+        "plan_enabled": true
+      },
+      {
+        "country": "GB",
+        "data_tier": 1,
+        "flag": "https://cdn.watchmode.com/flags/gb.png",
+        "name": "United Kingdom",
+        "plan_enabled": true
+      },
+      {
+        "country": "AU",
+        "data_tier": 2,
+        "flag": "https://cdn.watchmode.com/flags/au.png",
+        "name": "Australia",
+        "plan_enabled": true
+      },
+      {
+        "country": "DE",
+        "data_tier": 2,
+        "flag": "https://cdn.watchmode.com/flags/de.png",
+        "name": "Germany",
+        "plan_enabled": true
+      },
+      {
+        "country": "FR",
+        "data_tier": 2,
+        "flag": "https://cdn.watchmode.com/flags/fr.png",
+        "name": "France",
+        "plan_enabled": true
+      },
+      {
+        "country": "JP",
+        "data_tier": 3,
+        "flag": "https://cdn.watchmode.com/flags/jp.png",
+        "name": "Japan",
+        "plan_enabled": false
+      },
+      {
+        "country": "BR",
+        "data_tier": 3,
+        "flag": "https://cdn.watchmode.com/flags/br.png",
+        "name": "Brazil",
+        "plan_enabled": true
+      },
+      {
+        "country": "IN",
+        "data_tier": 3,
+        "flag": "https://cdn.watchmode.com/flags/in.png",
+        "name": "India",
+        "plan_enabled": true
+      },
+      {
+        "country": "MX",
+        "data_tier": 3,
+        "flag": "https://cdn.watchmode.com/flags/mx.png",
+        "name": "Mexico",
+        "plan_enabled": false
+      }
+    ]
+  }
+}

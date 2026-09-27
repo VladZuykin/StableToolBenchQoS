@@ -1,0 +1,34 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "date": "2025-06-11",
+      "predictions": [
+        {
+          "away_team": "Chelsea",
+          "confidence": "92%",
+          "home_team": "Arsenal",
+          "kickoff": "20:00",
+          "league": "Premier League",
+          "prediction": "BTTS"
+        },
+        {
+          "away_team": "Sevilla",
+          "confidence": "88%",
+          "home_team": "Real Madrid",
+          "kickoff": "21:00",
+          "league": "La Liga",
+          "prediction": "Goal Goal"
+        },
+        {
+          "away_team": "Napoli",
+          "confidence": "85%",
+          "home_team": "Inter",
+          "kickoff": "19:45",
+          "league": "Serie A",
+          "prediction": "BTTS"
+        }
+      ]
+    }
+  }
+}

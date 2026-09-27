@@ -1,0 +1,20 @@
+{
+  "{\"amount\":\"1200\",\"country_code\":\"FR\",\"vat_category\":\"electronics\"}": {
+    "error": "",
+    "response": {
+      "message": "The VAT compliant price for 1200 in FR for electronics is 1440.00 (VAT amount: 240.00 at 20%)."
+    }
+  },
+  "{\"amount\":\"250\",\"country_code\":\"GB\",\"vat_category\":\"food\"}": {
+    "error": "",
+    "response": {
+      "message": "The VAT compliant price for 250 in GB for food is 250.00 (VAT amount: 0.00 at 0% reduced rate)."
+    }
+  },
+  "{\"amount\":\"75.50\",\"country_code\":\"NL\"}": {
+    "error": "",
+    "response": {
+      "message": "The VAT compliant price for 75.50 in NL is 91.36 (VAT amount: 15.86 at 21%)."
+    }
+  }
+}

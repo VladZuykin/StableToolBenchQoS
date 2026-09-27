@@ -1,0 +1,100 @@
+{
+  "{\"accommodates_max\":8,\"accommodates_min\":4,\"bedrooms_max\":4,\"bedrooms_min\":2,\"currency\":\"USD\",\"location\":\"Austin\",\"number_of_months\":3,\"room_types\":\"entire_home,private_room\",\"show_regions\":true,\"start_month\":6,\"start_year\":2024}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "listings": [
+        {
+          "accommodates": 6,
+          "bathrooms": 2,
+          "bedrooms": 3,
+          "id": "airbnb-4829103",
+          "latitude": 30.2672,
+          "longitude": -97.7431,
+          "minimum_nights": 2,
+          "nightly_rate": 245.0,
+          "platform": "airbnb",
+          "region": "Downtown",
+          "review_count": 214,
+          "review_score": 4.87,
+          "room_type": "entire_home",
+          "title": "Modern Downtown Austin Condo with Balcony"
+        },
+        {
+          "accommodates": 8,
+          "bathrooms": 3,
+          "bedrooms": 4,
+          "id": "vrbo-771245",
+          "latitude": 30.2669,
+          "longitude": -97.7729,
+          "minimum_nights": 3,
+          "nightly_rate": 389.0,
+          "platform": "vrbo",
+          "region": "Zilker",
+          "review_count": 98,
+          "review_score": 4.72,
+          "room_type": "entire_home",
+          "title": "Spacious Family Home near Zilker Park"
+        },
+        {
+          "accommodates": 4,
+          "bathrooms": 1,
+          "bedrooms": 2,
+          "id": "airbnb-5590231",
+          "latitude": 30.25,
+          "longitude": -97.75,
+          "minimum_nights": 1,
+          "nightly_rate": 112.0,
+          "platform": "airbnb",
+          "region": "South Congress",
+          "review_count": 341,
+          "review_score": 4.65,
+          "room_type": "private_room",
+          "title": "Cozy Private Room in South Congress Bungalow"
+        }
+      ],
+      "location": "Austin"
+    }
+  },
+  "{\"accommodates_min\":2,\"bedrooms_min\":1,\"currency\":\"native\",\"location\":\"Miami Beach\",\"number_of_months\":1,\"room_types\":\"entire_home\",\"start_month\":12,\"start_year\":2023}": {
+    "error": "",
+    "response": {
+      "currency": "USD",
+      "listings": [
+        {
+          "accommodates": 2,
+          "bathrooms": 1,
+          "bedrooms": 1,
+          "id": "vrbo-330918",
+          "latitude": 25.7826,
+          "longitude": -80.1341,
+          "minimum_nights": 2,
+          "nightly_rate": 198.0,
+          "platform": "vrbo",
+          "region": "South Beach",
+          "review_count": 176,
+          "review_score": 4.81,
+          "room_type": "entire_home",
+          "title": "Oceanfront Studio Steps from the Beach"
+        },
+        {
+          "accommodates": 4,
+          "bathrooms": 2,
+          "bedrooms": 2,
+          "id": "airbnb-6612047",
+          "latitude": 25.8103,
+          "longitude": -80.122,
+          "minimum_nights": 3,
+          "nightly_rate": 276.0,
+          "platform": "airbnb",
+          "region": "Mid-Beach",
+          "review_count": 129,
+          "review_score": 4.69,
+          "room_type": "entire_home",
+          "title": "Art Deco Apartment with Bay View"
+        }
+      ],
+      "location": "Miami Beach"
+    }
+  }
+}

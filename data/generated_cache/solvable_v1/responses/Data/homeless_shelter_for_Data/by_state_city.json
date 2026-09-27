@@ -1,0 +1,45 @@
+{
+  "{\"city\":\"Los Angeles\",\"state\":\"California\"}": {
+    "error": "",
+    "response": {
+      "city": "Los Angeles",
+      "shelters": [
+        {
+          "address": "545 S San Pedro St, Los Angeles, CA 90013",
+          "capacity": 250,
+          "name": "Union Rescue Mission",
+          "phone": "(213) 347-6300",
+          "services": [
+            "Emergency Shelter",
+            "Meals",
+            "Case Management"
+          ]
+        },
+        {
+          "address": "601 S San Pedro St, Los Angeles, CA 90014",
+          "capacity": 150,
+          "name": "Midnight Mission",
+          "phone": "(213) 624-9258",
+          "services": [
+            "Emergency Shelter",
+            "Meals",
+            "Job Training"
+          ]
+        },
+        {
+          "address": "303 E 5th St, Los Angeles, CA 90013",
+          "capacity": 200,
+          "name": "Los Angeles Mission",
+          "phone": "(213) 629-1227",
+          "services": [
+            "Emergency Shelter",
+            "Meals",
+            "Rehabilitation"
+          ]
+        }
+      ],
+      "state": "California",
+      "total_results": 3
+    }
+  }
+}

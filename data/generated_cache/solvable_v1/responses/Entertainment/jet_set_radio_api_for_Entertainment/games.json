@@ -1,0 +1,97 @@
+{
+  "{\"limit\":\"2\",\"orderby\":\"desc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "5",
+        "name": "Jet Set Radio HD",
+        "stats": {
+          "players": 760,
+          "rating": 4.6
+        }
+      },
+      {
+        "id": "2",
+        "name": "Jet Set Radio Future",
+        "stats": {
+          "players": 980,
+          "rating": 4.7
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"asc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "4",
+        "name": "Jet Set Radio Advance",
+        "stats": {
+          "players": 210,
+          "rating": 3.9
+        }
+      },
+      {
+        "id": "3",
+        "name": "Jet Grind Radio",
+        "stats": {
+          "players": 450,
+          "rating": 4.5
+        }
+      },
+      {
+        "id": "5",
+        "name": "Jet Set Radio HD",
+        "stats": {
+          "players": 760,
+          "rating": 4.6
+        }
+      }
+    ]
+  },
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "id": "1",
+        "name": "Jet Set Radio",
+        "stats": {
+          "players": 1200,
+          "rating": 4.8
+        }
+      },
+      {
+        "id": "2",
+        "name": "Jet Set Radio Future",
+        "stats": {
+          "players": 980,
+          "rating": 4.7
+        }
+      },
+      {
+        "id": "3",
+        "name": "Jet Grind Radio",
+        "stats": {
+          "players": 450,
+          "rating": 4.5
+        }
+      },
+      {
+        "id": "4",
+        "name": "Jet Set Radio Advance",
+        "stats": {
+          "players": 210,
+          "rating": 3.9
+        }
+      },
+      {
+        "id": "5",
+        "name": "Jet Set Radio HD",
+        "stats": {
+          "players": 760,
+          "rating": 4.6
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "{\"lat\":\"34.052235\",\"lng\":\"-118.243683\",\"radius\":\"5\"}": {
+    "error": "",
+    "response": {
+      "shelters": [
+        {
+          "address": "545 S San Pedro St, Los Angeles, CA 90013",
+          "availability": "open",
+          "capacity": 300,
+          "distance_miles": 0.5,
+          "id": "LA-101",
+          "latitude": 34.0451,
+          "longitude": -118.2437,
+          "name": "Union Rescue Mission",
+          "phone": "(213) 347-6300"
+        },
+        {
+          "address": "601 S San Pedro St, Los Angeles, CA 90014",
+          "availability": "limited",
+          "capacity": 200,
+          "distance_miles": 0.6,
+          "id": "LA-102",
+          "latitude": 34.0442,
+          "longitude": -118.2441,
+          "name": "Midnight Mission",
+          "phone": "(213) 624-9258"
+        },
+        {
+          "address": "442 S San Pedro St, Los Angeles, CA 90013",
+          "availability": "open",
+          "capacity": 100,
+          "distance_miles": 0.4,
+          "id": "LA-103",
+          "latitude": 34.0463,
+          "longitude": -118.2435,
+          "name": "Downtown Women's Center",
+          "phone": "(213) 680-0600"
+        },
+        {
+          "address": "8165 San Fernando Rd, Sun Valley, CA 91352",
+          "availability": "open",
+          "capacity": 120,
+          "distance_miles": 4.8,
+          "id": "LA-104",
+          "latitude": 34.2215,
+          "longitude": -118.3712,
+          "name": "Hope of the Valley Rescue Mission",
+          "phone": "(818) 392-0020"
+        }
+      ]
+    }
+  },
+  "{\"lat\":\"40.712776\",\"lng\":\"-74.005974\",\"radius\":\"2.5\"}": {
+    "error": "",
+    "response": {
+      "shelters": [
+        {
+          "address": "227 Bowery, New York, NY 10002",
+          "availability": "limited",
+          "capacity": 150,
+          "distance_miles": 1.2,
+          "id": "NYC-001",
+          "latitude": 40.7223,
+          "longitude": -73.9921,
+          "name": "Bowery Mission",
+          "phone": "(212) 674-0566"
+        },
+        {
+          "address": "120 E 32nd St, New York, NY 10016",
+          "availability": "open",
+          "capacity": 75,
+          "distance_miles": 2.3,
+          "id": "NYC-002",
+          "latitude": 40.7456,
+          "longitude": -73.9812,
+          "name": "Mainchance Drop-In Center",
+          "phone": "(212) 883-0680"
+        }
+      ]
+    }
+  }
+}

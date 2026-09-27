@@ -1,0 +1,65 @@
+{
+  "{\"lat\":\"-33.8688\",\"long\":\"151.2093\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "seeing": 1.5,
+          "time": "2025-06-01T00:00:00Z",
+          "transparency": 5
+        },
+        {
+          "seeing": 1.7,
+          "time": "2025-06-01T03:00:00Z",
+          "transparency": 4
+        }
+      ],
+      "location": {
+        "lat": -33.8688,
+        "long": 151.2093
+      }
+    }
+  },
+  "{\"lat\":\"34.0522\",\"long\":\"-118.2437\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "seeing": 1.8,
+          "time": "2025-06-01T00:00:00Z",
+          "transparency": 4
+        },
+        {
+          "seeing": 2.1,
+          "time": "2025-06-01T03:00:00Z",
+          "transparency": 3
+        }
+      ],
+      "location": {
+        "lat": 34.0522,
+        "long": -118.2437
+      }
+    }
+  },
+  "{\"lat\":\"51.5074\",\"long\":\"-0.1278\"}": {
+    "error": "",
+    "response": {
+      "forecast": [
+        {
+          "seeing": 2.4,
+          "time": "2025-06-01T00:00:00Z",
+          "transparency": 2
+        },
+        {
+          "seeing": 2.0,
+          "time": "2025-06-01T03:00:00Z",
+          "transparency": 3
+        }
+      ],
+      "location": {
+        "lat": 51.5074,
+        "long": -0.1278
+      }
+    }
+  }
+}

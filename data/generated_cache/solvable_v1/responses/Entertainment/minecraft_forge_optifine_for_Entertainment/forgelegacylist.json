@@ -1,0 +1,53 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "minecraftforge": {
+        "legacy": [
+          {
+            "branch": "1.12.2",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar",
+            "mcversion": "1.12.2",
+            "type": "recommended",
+            "version": "1.12.2"
+          },
+          {
+            "branch": "1.11.2",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2393/forge-1.11.2-13.20.1.2393-installer.jar",
+            "mcversion": "1.11.2",
+            "type": "latest",
+            "version": "1.11.2"
+          },
+          {
+            "branch": "1.10.2",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.3.2511/forge-1.10.2-12.18.3.2511-installer.jar",
+            "mcversion": "1.10.2",
+            "type": "recommended",
+            "version": "1.10.2"
+          },
+          {
+            "branch": "1.9.4",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.9.4-12.17.0.2051/forge-1.9.4-12.17.0.2051-installer.jar",
+            "mcversion": "1.9.4",
+            "type": "latest",
+            "version": "1.9.4"
+          },
+          {
+            "branch": "1.8.9",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318/forge-1.8.9-11.15.1.2318-installer.jar",
+            "mcversion": "1.8.9",
+            "type": "recommended",
+            "version": "1.8.9"
+          },
+          {
+            "branch": "1.7.10",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614/forge-1.7.10-10.13.4.1614-installer.jar",
+            "mcversion": "1.7.10",
+            "type": "recommended",
+            "version": "1.7.10"
+          }
+        ]
+      }
+    }
+  }
+}

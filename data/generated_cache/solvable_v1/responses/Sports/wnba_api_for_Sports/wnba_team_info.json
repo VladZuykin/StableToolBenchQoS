@@ -1,0 +1,712 @@
+{
+  "{\"teamid\":\"3\"}": {
+    "error": "",
+    "response": {
+      "team": {
+        "abbreviation": "NY",
+        "alternateColor": "000000",
+        "athletes": [
+          {
+            "age": 30,
+            "alternateIds": {
+              "sdr": "2529188"
+            },
+            "dateOfBirth": "1994-08-27",
+            "displayHeight": "6' 4\"",
+            "displayName": "Breanna Stewart",
+            "displayWeight": "170 lbs",
+            "firstName": "Breanna",
+            "fullName": "Breanna Stewart",
+            "guid": "f6e5d4c3b2a1",
+            "height": 76,
+            "id": "2529188",
+            "lastName": "Stewart",
+            "links": [
+              {
+                "href": "https://www.espn.com/wnba/player/_/id/2529188/breanna-stewart",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Player Card",
+                "text": "Player Card"
+              },
+              {
+                "href": "https://www.espn.com/wnba/player/stats/_/id/2529188/breanna-stewart",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Stats",
+                "text": "Stats"
+              },
+              {
+                "href": "https://www.espn.com/wnba/player/splits/_/id/2529188/breanna-stewart",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Splits",
+                "text": "Splits"
+              }
+            ],
+            "shortName": "B. Stewart",
+            "type": "basketball",
+            "uid": "s:40~l:3~a:2529188",
+            "weight": 170
+          }
+        ],
+        "color": "6ec4e8",
+        "displayName": "New York Liberty",
+        "id": "3",
+        "isActive": true,
+        "location": "New York",
+        "logos": [
+          {
+            "alt": "New York Liberty",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+            "lastUpdated": "2024-10-01T12:00:00Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "New York Liberty",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+            "lastUpdated": "2024-10-01T12:00:00Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          }
+        ],
+        "name": "Liberty",
+        "record": {
+          "items": [
+            {
+              "description": "Overall Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 32
+                },
+                {
+                  "name": "losses",
+                  "value": 8
+                },
+                {
+                  "name": "winPercent",
+                  "value": 1
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 40
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 3440
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 3120
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 86
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 78
+                },
+                {
+                  "name": "streak",
+                  "value": 5
+                },
+                {
+                  "name": "homeWins",
+                  "value": 18
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 2
+                },
+                {
+                  "name": "awayWins",
+                  "value": 14
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 6
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 10
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 2
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 22
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 6
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 8
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 2
+                }
+              ],
+              "summary": "32-8",
+              "type": "total"
+            },
+            {
+              "description": "Home Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 18
+                },
+                {
+                  "name": "losses",
+                  "value": 2
+                },
+                {
+                  "name": "winPercent",
+                  "value": 1
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 20
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 1760
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 1520
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 88
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 76
+                },
+                {
+                  "name": "streak",
+                  "value": 3
+                },
+                {
+                  "name": "homeWins",
+                  "value": 18
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 2
+                },
+                {
+                  "name": "awayWins",
+                  "value": 0
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 0
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 6
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 0
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 12
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 2
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 9
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 1
+                }
+              ],
+              "summary": "18-2",
+              "type": "home"
+            },
+            {
+              "description": "Away Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 14
+                },
+                {
+                  "name": "losses",
+                  "value": 6
+                },
+                {
+                  "name": "winPercent",
+                  "value": 1
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 20
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 1680
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 1600
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 84
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 80
+                },
+                {
+                  "name": "streak",
+                  "value": 2
+                },
+                {
+                  "name": "homeWins",
+                  "value": 0
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 0
+                },
+                {
+                  "name": "awayWins",
+                  "value": 14
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 6
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 4
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 2
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 10
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 4
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 7
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 3
+                }
+              ],
+              "summary": "14-6",
+              "type": "away"
+            }
+          ]
+        },
+        "shortDisplayName": "Liberty",
+        "slug": "new-york-liberty",
+        "uid": "s:40~l:3~t:3"
+      }
+    }
+  },
+  "{\"teamid\":\"5\"}": {
+    "error": "",
+    "response": {
+      "team": {
+        "abbreviation": "CHI",
+        "alternateColor": "ffcd00",
+        "athletes": [
+          {
+            "age": 30,
+            "alternateIds": {
+              "sdr": "3149391"
+            },
+            "dateOfBirth": "1994-08-28",
+            "displayHeight": "6' 1\"",
+            "displayName": "Kahleah Copper",
+            "displayWeight": "165 lbs",
+            "firstName": "Kahleah",
+            "fullName": "Kahleah Copper",
+            "guid": "a1b2c3d4e5f6",
+            "height": 73,
+            "id": "3149391",
+            "lastName": "Copper",
+            "links": [
+              {
+                "href": "https://www.espn.com/wnba/player/_/id/3149391/kahleah-copper",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "playercard",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Player Card",
+                "text": "Player Card"
+              },
+              {
+                "href": "https://www.espn.com/wnba/player/stats/_/id/3149391/kahleah-copper",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "stats",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Stats",
+                "text": "Stats"
+              },
+              {
+                "href": "https://www.espn.com/wnba/player/splits/_/id/3149391/kahleah-copper",
+                "isExternal": false,
+                "language": "en-US",
+                "rel": [
+                  "splits",
+                  "desktop",
+                  "athlete"
+                ],
+                "shortText": "Splits",
+                "text": "Splits"
+              }
+            ],
+            "shortName": "K. Copper",
+            "type": "basketball",
+            "uid": "s:40~l:3~a:3149391",
+            "weight": 165
+          }
+        ],
+        "color": "5091cd",
+        "displayName": "Chicago Sky",
+        "id": "5",
+        "isActive": true,
+        "location": "Chicago",
+        "logos": [
+          {
+            "alt": "Chicago Sky",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png",
+            "lastUpdated": "2024-10-01T12:00:00Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "Chicago Sky",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png",
+            "lastUpdated": "2024-10-01T12:00:00Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          }
+        ],
+        "name": "Sky",
+        "record": {
+          "items": [
+            {
+              "description": "Overall Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 13
+                },
+                {
+                  "name": "losses",
+                  "value": 27
+                },
+                {
+                  "name": "winPercent",
+                  "value": 0
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 40
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 3120
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 3280
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 78
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 82
+                },
+                {
+                  "name": "streak",
+                  "value": 0
+                },
+                {
+                  "name": "homeWins",
+                  "value": 8
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 12
+                },
+                {
+                  "name": "awayWins",
+                  "value": 5
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 15
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 4
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 8
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 9
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 19
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 3
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 7
+                }
+              ],
+              "summary": "13-27",
+              "type": "total"
+            },
+            {
+              "description": "Home Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 8
+                },
+                {
+                  "name": "losses",
+                  "value": 12
+                },
+                {
+                  "name": "winPercent",
+                  "value": 0
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 20
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 1600
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 1640
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 80
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 82
+                },
+                {
+                  "name": "streak",
+                  "value": 0
+                },
+                {
+                  "name": "homeWins",
+                  "value": 8
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 12
+                },
+                {
+                  "name": "awayWins",
+                  "value": 0
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 0
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 2
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 4
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 5
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 9
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 2
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 8
+                }
+              ],
+              "summary": "8-12",
+              "type": "home"
+            },
+            {
+              "description": "Away Record",
+              "stats": [
+                {
+                  "name": "wins",
+                  "value": 5
+                },
+                {
+                  "name": "losses",
+                  "value": 15
+                },
+                {
+                  "name": "winPercent",
+                  "value": 0
+                },
+                {
+                  "name": "gamesPlayed",
+                  "value": 20
+                },
+                {
+                  "name": "pointsFor",
+                  "value": 1520
+                },
+                {
+                  "name": "pointsAgainst",
+                  "value": 1640
+                },
+                {
+                  "name": "avgPointsFor",
+                  "value": 76
+                },
+                {
+                  "name": "avgPointsAgainst",
+                  "value": 82
+                },
+                {
+                  "name": "streak",
+                  "value": 0
+                },
+                {
+                  "name": "homeWins",
+                  "value": 0
+                },
+                {
+                  "name": "homeLosses",
+                  "value": 0
+                },
+                {
+                  "name": "awayWins",
+                  "value": 5
+                },
+                {
+                  "name": "awayLosses",
+                  "value": 15
+                },
+                {
+                  "name": "divisionWins",
+                  "value": 2
+                },
+                {
+                  "name": "divisionLosses",
+                  "value": 4
+                },
+                {
+                  "name": "conferenceWins",
+                  "value": 4
+                },
+                {
+                  "name": "conferenceLosses",
+                  "value": 10
+                },
+                {
+                  "name": "lastTenWins",
+                  "value": 1
+                },
+                {
+                  "name": "lastTenLosses",
+                  "value": 9
+                }
+              ],
+              "summary": "5-15",
+              "type": "away"
+            }
+          ]
+        },
+        "shortDisplayName": "Sky",
+        "slug": "chicago-sky",
+        "uid": "s:40~l:3~t:5"
+      }
+    }
+  }
+}

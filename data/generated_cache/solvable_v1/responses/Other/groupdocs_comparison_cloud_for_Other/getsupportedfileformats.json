@@ -1,0 +1,49 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "Formats": [
+        {
+          "Extension": "docx",
+          "FileFormat": "Microsoft Word Open XML Document"
+        },
+        {
+          "Extension": "pdf",
+          "FileFormat": "Portable Document Format"
+        },
+        {
+          "Extension": "pptx",
+          "FileFormat": "Microsoft PowerPoint Open XML Presentation"
+        },
+        {
+          "Extension": "xlsx",
+          "FileFormat": "Microsoft Excel Open XML Spreadsheet"
+        },
+        {
+          "Extension": "txt",
+          "FileFormat": "Plain Text File"
+        },
+        {
+          "Extension": "html",
+          "FileFormat": "Hypertext Markup Language File"
+        },
+        {
+          "Extension": "odt",
+          "FileFormat": "OpenDocument Text Document"
+        },
+        {
+          "Extension": "rtf",
+          "FileFormat": "Rich Text Format File"
+        },
+        {
+          "Extension": "csv",
+          "FileFormat": "Comma Separated Values File"
+        },
+        {
+          "Extension": "png",
+          "FileFormat": "Portable Network Graphics"
+        }
+      ]
+    }
+  }
+}

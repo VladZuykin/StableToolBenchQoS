@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "alt": "A golden retriever puppy sitting on green grass",
+      "file": "https://images.example.com/pets/golden-retriever-puppy.jpg",
+      "id": "pet_img_001"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "{\"is_from\":\"2023-03-15\",\"lat\":52.52,\"lon\":13.405,\"to\":\"2023-04-15\"}": {
+    "error": "",
+    "response": {
+      "aggregations": {
+        "precipitation": 38.6,
+        "precipitationdays": 9
+      },
+      "input": {
+        "geo": {
+          "lat": "52.52",
+          "lon": "13.405"
+        },
+        "timeframe": {
+          "from": "2023-03-15",
+          "to": "2023-04-15"
+        }
+      },
+      "result": [
+        {
+          "date": "2023-03-15",
+          "precipitation": 0.0,
+          "timestamp": 1678838400
+        },
+        {
+          "date": "2023-03-16",
+          "precipitation": 2.4,
+          "timestamp": 1678924800
+        },
+        {
+          "date": "2023-03-17",
+          "precipitation": 5.1,
+          "timestamp": 1679011200
+        },
+        {
+          "date": "2023-03-18",
+          "precipitation": 0.0,
+          "timestamp": 1679097600
+        },
+        {
+          "date": "2023-03-19",
+          "precipitation": 0.0,
+          "timestamp": 1679184000
+        },
+        {
+          "date": "2023-03-20",
+          "precipitation": 1.8,
+          "timestamp": 1679270400
+        },
+        {
+          "date": "2023-03-21",
+          "precipitation": 0.0,
+          "timestamp": 1679356800
+        },
+        {
+          "date": "2023-03-22",
+          "precipitation": 0.0,
+          "timestamp": 1679443200
+        },
+        {
+          "date": "2023-03-23",
+          "precipitation": 3.7,
+          "timestamp": 1679529600
+        },
+        {
+          "date": "2023-03-24",
+          "precipitation": 6.2,
+          "timestamp": 1679616000
+        },
+        {
+          "date": "2023-03-25",
+          "precipitation": 0.0,
+          "timestamp": 1679702400
+        },
+        {
+          "date": "2023-03-26",
+          "precipitation": 0.0,
+          "timestamp": 1679788800
+        },
+        {
+          "date": "2023-03-27",
+          "precipitation": 4.9,
+          "timestamp": 1679875200
+        },
+        {
+          "date": "2023-03-28",
+          "precipitation": 0.0,
+          "timestamp": 1679961600
+        },
+        {
+          "date": "2023-03-29",
+          "precipitation": 0.0,
+          "timestamp": 1680048000
+        },
+        {
+          "date": "2023-03-30",
+          "precipitation": 2.1,
+          "timestamp": 1680134400
+        },
+        {
+          "date": "2023-03-31",
+          "precipitation": 0.0,
+          "timestamp": 1680220800
+        },
+        {
+          "date": "2023-04-01",
+          "precipitation": 0.0,
+          "timestamp": 1680307200
+        },
+        {
+          "date": "2023-04-02",
+          "precipitation": 5.6,
+          "timestamp": 1680393600
+        },
+        {
+          "date": "2023-04-03",
+          "precipitation": 0.0,
+          "timestamp": 1680480000
+        },
+        {
+          "date": "2023-04-04",
+          "precipitation": 0.0,
+          "timestamp": 1680566400
+        },
+        {
+          "date": "2023-04-05",
+          "precipitation": 1.3,
+          "timestamp": 1680652800
+        },
+        {
+          "date": "2023-04-06",
+          "precipitation": 0.0,
+          "timestamp": 1680739200
+        },
+        {
+          "date": "2023-04-07",
+          "precipitation": 0.0,
+          "timestamp": 1680825600
+        },
+        {
+          "date": "2023-04-08",
+          "precipitation": 0.0,
+          "timestamp": 1680912000
+        },
+        {
+          "date": "2023-04-09",
+          "precipitation": 0.0,
+          "timestamp": 1680998400
+        },
+        {
+          "date": "2023-04-10",
+          "precipitation": 0.0,
+          "timestamp": 1681084800
+        },
+        {
+          "date": "2023-04-11",
+          "precipitation": 0.0,
+          "timestamp": 1681171200
+        },
+        {
+          "date": "2023-04-12",
+          "precipitation": 0.0,
+          "timestamp": 1681257600
+        },
+        {
+          "date": "2023-04-13",
+          "precipitation": 0.0,
+          "timestamp": 1681344000
+        },
+        {
+          "date": "2023-04-14",
+          "precipitation": 0.0,
+          "timestamp": 1681430400
+        },
+        {
+          "date": "2023-04-15",
+          "precipitation": 5.5,
+          "timestamp": 1681516800
+        }
+      ]
+    }
+  }
+}

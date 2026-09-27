@@ -1,0 +1,76 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "forge": {
+        "latest": {
+          "recommended": "1.21.4-54.0.16",
+          "release": "1.21.4-54.0.16"
+        },
+        "versions": [
+          {
+            "download": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.4-54.0.16/forge-1.21.4-54.0.16-installer.jar",
+            "mcversion": "1.21.4",
+            "type": "release",
+            "version": "1.21.4-54.0.16"
+          },
+          {
+            "download": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar",
+            "mcversion": "1.20.1",
+            "type": "recommended",
+            "version": "1.20.1-47.3.0"
+          }
+        ]
+      },
+      "minecraft": {
+        "latest": {
+          "release": "1.21.4",
+          "snapshot": "25w03a"
+        },
+        "versions": [
+          {
+            "id": "1.21.4",
+            "releaseTime": "2024-12-03T10:12:00+00:00",
+            "time": "2024-12-03T10:12:00+00:00",
+            "type": "release",
+            "url": "https://piston-meta.mojang.com/v1/packages/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b/1.21.4.json"
+          },
+          {
+            "id": "1.21.3",
+            "releaseTime": "2024-10-23T09:45:00+00:00",
+            "time": "2024-10-23T09:45:00+00:00",
+            "type": "release",
+            "url": "https://piston-meta.mojang.com/v1/packages/2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c/1.21.3.json"
+          },
+          {
+            "id": "25w03a",
+            "releaseTime": "2025-01-15T14:30:00+00:00",
+            "time": "2025-01-15T14:30:00+00:00",
+            "type": "snapshot",
+            "url": "https://piston-meta.mojang.com/v1/packages/3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d/25w03a.json"
+          }
+        ]
+      },
+      "optifine": {
+        "latest": {
+          "preview": "1.21.4_HD_U_J1_pre1",
+          "release": "1.21.4_HD_U_J1"
+        },
+        "versions": [
+          {
+            "download": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J1.jar&x=abc123def456",
+            "mcversion": "1.21.4",
+            "type": "release",
+            "version": "1.21.4_HD_U_J1"
+          },
+          {
+            "download": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J1_pre1.jar&x=789ghi012jkl",
+            "mcversion": "1.21.4",
+            "type": "preview",
+            "version": "1.21.4_HD_U_J1_pre1"
+          }
+        ]
+      }
+    }
+  }
+}

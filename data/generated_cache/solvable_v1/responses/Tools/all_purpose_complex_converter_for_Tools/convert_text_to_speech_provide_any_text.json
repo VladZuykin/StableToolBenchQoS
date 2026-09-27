@@ -1,0 +1,24 @@
+{
+  "{\"lang\":\"en\",\"text\":\"Good morning everyone, the meeting starts at 9 AM sharp.\"}": {
+    "error": "",
+    "response": {
+      "audio_url": "https://api.allpurposeconverter.com/audio/tts_8f3a1c92.mp3",
+      "duration_seconds": 4.2,
+      "format": "mp3",
+      "language": "en",
+      "status": "success",
+      "text": "Good morning everyone, the meeting starts at 9 AM sharp."
+    }
+  },
+  "{\"lang\":\"es\",\"text\":\"1029383833384474\"}": {
+    "error": "",
+    "response": {
+      "audio_url": "https://api.allpurposeconverter.com/audio/tts_5b7d0e41.mp3",
+      "duration_seconds": 6.8,
+      "format": "mp3",
+      "language": "es",
+      "status": "success",
+      "text": "1029383833384474"
+    }
+  }
+}

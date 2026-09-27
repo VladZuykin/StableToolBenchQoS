@@ -1,0 +1,22 @@
+{
+  "{\"callback\":\"handleHeader\",\"is_id\":1234567}": {
+    "error": "",
+    "response": "handleHeader({\"errno\":0,\"error\":\"\",\"header\":\"<meta><fits><NAXIS>2</NAXIS><NAXIS1>2048</NAXIS1><NAXIS2>2048</NAXIS2><DATE-OBS>2022-11-03T08:15:00.000Z</DATE-OBS><TELESCOP>SOHO</TELESCOP><INSTRUME>EIT</INSTRUME><WAVELNTH>195</WAVELNTH></fits><helioviewer><JP2ID>1234567</JP2ID><JP2Version>1.0</JP2Version><ObservationDate>2022-11-03T08:15:00.000Z</ObservationDate><ImageScale>1.2</ImageScale><SunCenterX>1024</SunCenterX><SunCenterY>1024</SunCenterY><SunRadius>812</SunRadius></helioviewer></meta>\"})"
+  },
+  "{\"is_id\":7654321}": {
+    "error": "",
+    "response": {
+      "errno": 0,
+      "error": "",
+      "header": "<meta><fits><NAXIS>2</NAXIS><NAXIS1>4096</NAXIS1><NAXIS2>4096</NAXIS2><DATE-OBS>2023-05-14T12:34:56.789Z</DATE-OBS><TELESCOP>SDO</TELESCOP><INSTRUME>AIA</INSTRUME><WAVELNTH>171</WAVELNTH></fits><helioviewer><JP2ID>7654321</JP2ID><JP2Version>1.0</JP2Version><ObservationDate>2023-05-14T12:34:56.789Z</ObservationDate><ImageScale>0.6</ImageScale><SunCenterX>2048</SunCenterX><SunCenterY>2048</SunCenterY><SunRadius>1624</SunRadius></helioviewer></meta>"
+    }
+  },
+  "{\"is_id\":9876543}": {
+    "error": "",
+    "response": {
+      "errno": 0,
+      "error": "",
+      "header": "<meta><fits><NAXIS>2</NAXIS><NAXIS1>1024</NAXIS1><NAXIS2>1024</NAXIS2><DATE-OBS>2024-01-20T23:59:59.000Z</DATE-OBS><TELESCOP>STEREO_A</TELESCOP><INSTRUME>SECCHI</INSTRUME><WAVELNTH>304</WAVELNTH></fits><helioviewer><JP2ID>9876543</JP2ID><JP2Version>1.0</JP2Version><ObservationDate>2024-01-20T23:59:59.000Z</ObservationDate><ImageScale>2.5</ImageScale><SunCenterX>512</SunCenterX><SunCenterY>512</SunCenterY><SunRadius>406</SunRadius></helioviewer></meta>"
+    }
+  }
+}

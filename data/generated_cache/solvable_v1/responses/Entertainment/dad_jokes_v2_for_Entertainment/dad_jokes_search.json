@@ -1,0 +1,62 @@
+{
+  "{\"text\":\" dad\"}": {
+    "error": "",
+    "response": {
+      "jokes": [
+        {
+          "id": "wW1Z8gY3Qzh",
+          "joke": "I only know 25 letters of the alphabet. I don't know y."
+        },
+        {
+          "id": "9hF3kLm2Pqs",
+          "joke": "Why don't scientists trust atoms? Because they make up everything."
+        },
+        {
+          "id": "T4vN7cR1Xyb",
+          "joke": "I'm reading a book about anti-gravity. It's impossible to put down."
+        }
+      ],
+      "total": 3
+    }
+  },
+  "{\"text\":\"coffee\"}": {
+    "error": "",
+    "response": {
+      "jokes": [
+        {
+          "id": "R7UfaahVfFd",
+          "joke": "I was going to make myself a coffee, but then I realized I was already in hot water."
+        },
+        {
+          "id": "0gaPu2j4Bnc",
+          "joke": "My wife told me I'm addicted to coffee. I said, 'That's ridiculous.' Then I realized she was talking to me during my morning cup."
+        },
+        {
+          "id": "xQ6Bq2mZ1Ld",
+          "joke": "Coffee doesn't ask silly questions. Coffee understands."
+        }
+      ],
+      "total": 3
+    }
+  },
+  "{\"text\":\"programmer\"}": {
+    "error": "",
+    "response": {
+      "jokes": [
+        {
+          "id": "K2mP9dL4Qwe",
+          "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
+        },
+        {
+          "id": "B8nR3tY6Zxc",
+          "joke": "A programmer's wife tells him: 'Go to the store and buy a loaf of bread. If they have eggs, buy a dozen.' He came back with 12 loaves of bread."
+        },
+        {
+          "id": "H5jW1sV8Nmk",
+          "joke": "There are only 10 types of people in the world: those who understand binary and those who don't."
+        }
+      ],
+      "total": 3
+    }
+  }
+}

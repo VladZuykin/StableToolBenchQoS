@@ -1,0 +1,64 @@
+{
+  "{\"northeastlat\":\"-8.6000\",\"northeastlng\":\"115.3000\",\"southwestlat\":\"-8.8000\",\"southwestlng\":\"115.1000\"}": {
+    "error": "",
+    "response": {
+      "divesites": [
+        {
+          "depth": 20,
+          "id": 201,
+          "latitude": -8.7167,
+          "longitude": 115.25,
+          "name": "Crystal Bay",
+          "type": "reef"
+        },
+        {
+          "depth": 25,
+          "id": 202,
+          "latitude": -8.75,
+          "longitude": 115.2,
+          "name": "Manta Point",
+          "type": "reef"
+        },
+        {
+          "depth": 30,
+          "id": 203,
+          "latitude": -8.68,
+          "longitude": 115.15,
+          "name": "Blue Corner",
+          "type": "wall"
+        }
+      ]
+    }
+  },
+  "{\"northeastlat\":\"25.8550\",\"northeastlng\":\"-80.1100\",\"southwestlat\":\"25.7617\",\"southwestlng\":\"-80.1918\"}": {
+    "error": "",
+    "response": {
+      "divesites": [
+        {
+          "depth": 12,
+          "id": 101,
+          "latitude": 25.79,
+          "longitude": -80.13,
+          "name": "Miami Beach Reef",
+          "type": "reef"
+        },
+        {
+          "depth": 18,
+          "id": 102,
+          "latitude": 25.81,
+          "longitude": -80.15,
+          "name": "Venetian Causeway Wreck",
+          "type": "wreck"
+        },
+        {
+          "depth": 15,
+          "id": 103,
+          "latitude": 25.77,
+          "longitude": -80.12,
+          "name": "South Beach Artificial Reef",
+          "type": "artificial"
+        }
+      ]
+    }
+  }
+}

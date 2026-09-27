@@ -1,0 +1,108 @@
+{
+  "{\"buyer_team_reference\":34567,\"created_by\":1234,\"created_time_from\":\"2008-09-09 00:00:05\",\"created_time_to\":\"2009-01-20 11:59:55\",\"format\":\"json\",\"order_by\":\"created_time\",\"page\":\"20;10\",\"status\":\"closed\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "budget": 500.0,
+          "buyer_team__reference": 34567,
+          "category": "Design",
+          "created_by": 1234,
+          "created_time": "2008-11-02 09:15:44",
+          "currency": "USD",
+          "job_type": "fixed",
+          "reference": "9876543210",
+          "status": "closed",
+          "subcategory": "Logo Design",
+          "title": "Logo Design for Startup",
+          "url": "https://www.odesk.com/jobs/9876543210"
+        },
+        {
+          "budget": 18.0,
+          "buyer_team__reference": 34567,
+          "category": "Web Development",
+          "created_by": 1234,
+          "created_time": "2008-12-18 16:40:02",
+          "currency": "USD",
+          "job_type": "hourly",
+          "reference": "1122334455",
+          "status": "closed",
+          "subcategory": "CMS Development",
+          "title": "WordPress Plugin Customization",
+          "url": "https://www.odesk.com/jobs/1122334455"
+        }
+      ],
+      "paging": {
+        "count": 10,
+        "offset": 20,
+        "total": 2
+      }
+    }
+  },
+  "{\"buyer_team_reference\":34567,\"format\":\"json\",\"include_sub_teams\":1,\"order_by\":\"title\",\"page\":\"0;5\",\"status\":\"open\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "budget": 30.0,
+          "buyer_team__reference": 34567,
+          "category": "Mobile Development",
+          "created_by": 1234,
+          "created_time": "2009-01-05 11:03:27",
+          "currency": "USD",
+          "job_type": "hourly",
+          "reference": "5566778899",
+          "status": "open",
+          "subcategory": "Android",
+          "title": "Android App Developer for Fitness Tracker",
+          "url": "https://www.odesk.com/jobs/5566778899"
+        },
+        {
+          "budget": 150.0,
+          "buyer_team__reference": 34567,
+          "category": "Writing",
+          "created_by": 1234,
+          "created_time": "2009-01-12 08:47:19",
+          "currency": "USD",
+          "job_type": "fixed",
+          "reference": "6677889900",
+          "status": "open",
+          "subcategory": "Blog Writing",
+          "title": "Content Writer for Tech Blog",
+          "url": "https://www.odesk.com/jobs/6677889900"
+        }
+      ],
+      "paging": {
+        "count": 5,
+        "offset": 0,
+        "total": 2
+      }
+    }
+  },
+  "{\"buyer_team_reference\":34567,\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "jobs": [
+        {
+          "budget": 25.0,
+          "buyer_team__reference": 34567,
+          "category": "Web Development",
+          "created_by": 1234,
+          "created_time": "2008-09-10 14:22:31",
+          "currency": "USD",
+          "job_type": "hourly",
+          "reference": "1234567890",
+          "status": "open",
+          "subcategory": "Backend Development",
+          "title": "Senior Python Developer Needed",
+          "url": "https://www.odesk.com/jobs/1234567890"
+        }
+      ],
+      "paging": {
+        "count": 10,
+        "offset": 0,
+        "total": 1
+      }
+    }
+  }
+}

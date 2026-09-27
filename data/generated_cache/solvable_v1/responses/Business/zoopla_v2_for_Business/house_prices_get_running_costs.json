@@ -1,0 +1,17 @@
+{
+  "{\"property_id\":27175510}": {
+    "error": "",
+    "response": {
+      "property_id": 27175510,
+      "running_costs": {
+        "annual_broadband_cost": 360,
+        "annual_council_tax": 1892,
+        "annual_energy_cost": 1450,
+        "annual_water_cost": 420,
+        "council_tax_band": "D",
+        "currency": "GBP",
+        "total_annual_running_costs": 4122
+      }
+    }
+  }
+}

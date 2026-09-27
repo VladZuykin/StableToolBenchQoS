@@ -1,0 +1,32 @@
+{
+  "{\"folder\":\"documents\",\"frameid\":2,\"name\":\"multipage.tiff\",\"newheight\":768,\"newwidth\":1024,\"rotateflipmethod\":\"Rotate180FlipNone\",\"saveotherframes\":false,\"storage\":\"DefaultStorage\"}": {
+    "error": "",
+    "response": {
+      "format": "tiff",
+      "frameId": 2,
+      "height": 768,
+      "imageData": "SUkqAAgAAAAAAA...",
+      "width": 1024
+    }
+  },
+  "{\"folder\":\"images\",\"frameid\":0,\"name\":\"animated.gif\",\"newheight\":600,\"newwidth\":800,\"rotateflipmethod\":\"Rotate90FlipX\",\"saveotherframes\":true,\"storage\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "format": "gif",
+      "frameId": 0,
+      "height": 600,
+      "imageData": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "width": 800
+    }
+  },
+  "{\"frameid\":1,\"name\":\"photo.jpg\",\"rectheight\":150,\"rectwidth\":200,\"x\":50,\"y\":30}": {
+    "error": "",
+    "response": {
+      "format": "jpg",
+      "frameId": 1,
+      "height": 150,
+      "imageData": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAABAAEBAREA/8QAFAABAAAAAAAAAAAAAAAAAAAACf/EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AKp//2Q==",
+      "width": 200
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "{\"gamepk\":\"633282\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "allPlays": [
+          {
+            "about": {
+              "atBatIndex": 0,
+              "captivatingIndex": 1,
+              "endTime": "2023-04-01T18:11:30Z",
+              "halfInning": "top",
+              "hasOut": false,
+              "hasReview": false,
+              "inning": 1,
+              "isComplete": true,
+              "isScoringPlay": false,
+              "isTopInning": true,
+              "startTime": "2023-04-01T18:10:00Z"
+            },
+            "actionIndex": {
+              "1": 0,
+              "2": 1
+            },
+            "count": {
+              "balls": 1,
+              "outs": 0,
+              "strikes": 2
+            },
+            "matchup": {
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "batter": {
+                "fullName": "Aaron Judge",
+                "id": 592450
+              },
+              "batterHotColdZones": [],
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "fullName": "Gerrit Cole",
+                "id": 605483
+              },
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs RHP",
+                "menOnBase": "Empty",
+                "pitcher": "vs RHB"
+              }
+            },
+            "pitchIndex": {
+              "1": 0
+            },
+            "result": {
+              "awayScore": 0,
+              "description": "Batter singles on a line drive to left field.",
+              "event": "Single",
+              "eventType": "single",
+              "homeScore": 0,
+              "isOut": false,
+              "rbi": 0,
+              "type": "atBat"
+            },
+            "runnerIndex": [],
+            "runners": []
+          }
+        ]
+      }
+    }
+  },
+  "{\"gamepk\":\"745804\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "allPlays": [
+          {
+            "about": {
+              "atBatIndex": 5,
+              "captivatingIndex": 8,
+              "endTime": "2024-06-15T19:07:45Z",
+              "halfInning": "top",
+              "hasOut": false,
+              "hasReview": false,
+              "inning": 3,
+              "isComplete": true,
+              "isScoringPlay": true,
+              "isTopInning": true,
+              "startTime": "2024-06-15T19:05:00Z"
+            },
+            "actionIndex": {
+              "1": 0,
+              "2": 1
+            },
+            "count": {
+              "balls": 0,
+              "outs": 1,
+              "strikes": 1
+            },
+            "matchup": {
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "batter": {
+                "fullName": "Shohei Ohtani",
+                "id": 660271
+              },
+              "batterHotColdZones": [],
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "fullName": "Paul Skenes",
+                "id": 694973
+              },
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs RHP",
+                "menOnBase": "Runner on First",
+                "pitcher": "vs LHB"
+              }
+            },
+            "pitchIndex": {
+              "1": 0
+            },
+            "result": {
+              "awayScore": 2,
+              "description": "Batter homers to deep center field.",
+              "event": "Home Run",
+              "eventType": "home_run",
+              "homeScore": 0,
+              "isOut": false,
+              "rbi": 2,
+              "type": "atBat"
+            },
+            "runnerIndex": [],
+            "runners": []
+          }
+        ]
+      }
+    }
+  },
+  "{\"gamepk\":\"812345\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "allPlays": [
+          {
+            "about": {
+              "atBatIndex": 12,
+              "captivatingIndex": 3,
+              "endTime": "2025-09-20T20:17:10Z",
+              "halfInning": "bottom",
+              "hasOut": true,
+              "hasReview": false,
+              "inning": 5,
+              "isComplete": true,
+              "isScoringPlay": false,
+              "isTopInning": false,
+              "startTime": "2025-09-20T20:15:00Z"
+            },
+            "actionIndex": {
+              "1": 0,
+              "2": 1
+            },
+            "count": {
+              "balls": 2,
+              "outs": 2,
+              "strikes": 3
+            },
+            "matchup": {
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "batter": {
+                "fullName": "Juan Soto",
+                "id": 665742
+              },
+              "batterHotColdZones": [],
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "fullName": "Corbin Burnes",
+                "id": 592789
+              },
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs RHP",
+                "menOnBase": "Runner on Second",
+                "pitcher": "vs LHB"
+              }
+            },
+            "pitchIndex": {
+              "1": 0
+            },
+            "result": {
+              "awayScore": 0,
+              "description": "Batter strikes out swinging.",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "homeScore": 0,
+              "isOut": true,
+              "rbi": 0,
+              "type": "atBat"
+            },
+            "runnerIndex": [],
+            "runners": []
+          }
+        ]
+      }
+    }
+  }
+}

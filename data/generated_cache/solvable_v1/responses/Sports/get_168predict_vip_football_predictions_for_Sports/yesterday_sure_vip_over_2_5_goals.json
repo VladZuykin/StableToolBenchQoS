@@ -1,0 +1,34 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "kickoff": "2024-05-19 15:00",
+        "league": "Premier League",
+        "match": "Arsenal vs Chelsea",
+        "odds": 1.85,
+        "prediction": "Over 2.5 Goals",
+        "result": "2-1",
+        "status": "Won"
+      },
+      {
+        "kickoff": "2024-05-19 20:00",
+        "league": "La Liga",
+        "match": "Barcelona vs Real Madrid",
+        "odds": 1.72,
+        "prediction": "Over 2.5 Goals",
+        "result": "3-2",
+        "status": "Won"
+      },
+      {
+        "kickoff": "2024-05-19 17:30",
+        "league": "Bundesliga",
+        "match": "Bayern Munich vs Borussia Dortmund",
+        "odds": 1.65,
+        "prediction": "Over 2.5 Goals",
+        "result": "1-1",
+        "status": "Lost"
+      }
+    ]
+  }
+}

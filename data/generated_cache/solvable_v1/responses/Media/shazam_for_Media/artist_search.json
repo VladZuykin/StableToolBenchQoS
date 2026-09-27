@@ -1,0 +1,55 @@
+{
+  "{\"artist\":\"Adele\",\"limit\":3}": {
+    "error": "",
+    "response": {
+      "artists": {
+        "hits": [
+          {
+            "actions": [
+              {
+                "id": "1",
+                "name": "Follow",
+                "type": "follow"
+              }
+            ],
+            "alias": "Adele",
+            "avatar": {
+              "blurred": "https://images.shazam.com/adele_blurred.jpg",
+              "default": "https://images.shazam.com/adele.jpg",
+              "play": "https://images.shazam.com/adele_play.jpg"
+            },
+            "follow": {
+              "followkey": "adele_follow"
+            },
+            "id": "1",
+            "name": "Adele",
+            "url": "https://www.shazam.com/artist/adele/1",
+            "verified": true
+          },
+          {
+            "actions": [
+              {
+                "id": "2",
+                "name": "Follow",
+                "type": "follow"
+              }
+            ],
+            "alias": "Adele Tribute",
+            "avatar": {
+              "blurred": "https://images.shazam.com/adele_tribute_blurred.jpg",
+              "default": "https://images.shazam.com/adele_tribute.jpg",
+              "play": "https://images.shazam.com/adele_tribute_play.jpg"
+            },
+            "follow": {
+              "followkey": "adele_tribute_follow"
+            },
+            "id": "2",
+            "name": "Adele Tribute",
+            "url": "https://www.shazam.com/artist/adele-tribute/2",
+            "verified": false
+          }
+        ]
+      }
+    }
+  }
+}

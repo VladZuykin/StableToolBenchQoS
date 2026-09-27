@@ -1,0 +1,191 @@
+{
+  "{\"champion\":\"Ahri\",\"lang\":\"fr_FR\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "champion/Ahri",
+      "parameters": [
+        "Ahri",
+        "fr_FR"
+      ],
+      "response": [
+        {
+          "blurb": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape raw magical energy into deadly spheres of spirit energy.",
+          "id": "Ahri",
+          "image": {
+            "full": "Ahri.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+          },
+          "info": {
+            "attack": 3,
+            "defense": 4,
+            "difficulty": 5,
+            "magic": 8
+          },
+          "key": "103",
+          "name": "Ahri",
+          "partype": "Mana",
+          "stats": {
+            "armor": 21,
+            "armorperlevel": 3.5,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3,
+            "attackrange": 550,
+            "attackspeed": 0.668,
+            "attackspeedperlevel": 2,
+            "crit": 0,
+            "critperlevel": 0,
+            "hp": 526,
+            "hpperlevel": 92,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.6,
+            "movespeed": 330,
+            "mp": 418,
+            "mpperlevel": 25,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5
+          },
+          "tags": [
+            "Mage",
+            "Assassin"
+          ],
+          "title": "la Renarde à neuf queues"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"champion\":\"Lux\",\"lang\":\"es_ES\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "champion/Lux",
+      "parameters": [
+        "Lux",
+        "es_ES"
+      ],
+      "response": [
+        {
+          "blurb": "Luxanna Crownguard proviene de Demacia, un reino de gente orgullosa que teme a la magia.",
+          "id": "Lux",
+          "image": {
+            "full": "Lux.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+          },
+          "info": {
+            "attack": 2,
+            "defense": 4,
+            "difficulty": 5,
+            "magic": 9
+          },
+          "key": "99",
+          "name": "Lux",
+          "partype": "Mana",
+          "stats": {
+            "armor": 18.72,
+            "armorperlevel": 4,
+            "attackdamage": 53.54,
+            "attackdamageperlevel": 3.3,
+            "attackrange": 550,
+            "attackspeed": 0.669,
+            "attackspeedperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "hp": 490,
+            "hpperlevel": 85,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "movespeed": 330,
+            "mp": 480,
+            "mpperlevel": 23.5,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5
+          },
+          "tags": [
+            "Mage",
+            "Support"
+          ],
+          "title": "la Dama Luminosa"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"champion\":\"Yasuo\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "champion/Yasuo",
+      "parameters": [
+        "Yasuo",
+        ""
+      ],
+      "response": [
+        {
+          "blurb": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies.",
+          "id": "Yasuo",
+          "image": {
+            "full": "Yasuo.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 48,
+            "y": 0
+          },
+          "info": {
+            "attack": 8,
+            "defense": 4,
+            "difficulty": 10,
+            "magic": 4
+          },
+          "key": "157",
+          "name": "Yasuo",
+          "partype": "Flow",
+          "stats": {
+            "armor": 30,
+            "armorperlevel": 3.4,
+            "attackdamage": 60,
+            "attackdamageperlevel": 2.2,
+            "attackrange": 175,
+            "attackspeed": 0.697,
+            "attackspeedperlevel": 2.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "hp": 490,
+            "hpperlevel": 87,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.9,
+            "movespeed": 345,
+            "mp": 100,
+            "mpperlevel": 0,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5
+          },
+          "tags": [
+            "Fighter",
+            "Assassin"
+          ],
+          "title": "the Unforgiven"
+        }
+      ],
+      "results": 1
+    }
+  }
+}

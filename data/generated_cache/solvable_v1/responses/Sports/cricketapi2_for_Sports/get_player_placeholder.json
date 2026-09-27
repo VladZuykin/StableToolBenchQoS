@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "player_placeholder",
+      "parameters": [],
+      "response": [
+        {
+          "format": "png",
+          "height": 200,
+          "image_url": "https://cricketapi.example.com/placeholder/player.png",
+          "width": 200
+        }
+      ],
+      "results": 1
+    }
+  }
+}

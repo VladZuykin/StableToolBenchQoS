@@ -1,0 +1,197 @@
+{
+  "{\"limit\":2,\"numberoftopresults\":3,\"offset\":0,\"q\":\"lo-fi beats\",\"type\":\"playlists\"}": {
+    "error": "",
+    "response": {
+      "albums": {
+        "items": [],
+        "totalCount": 0
+      },
+      "artists": {
+        "items": [],
+        "totalCount": 0
+      },
+      "episodes": {
+        "items": [],
+        "totalCount": 0
+      },
+      "genres": {
+        "items": [],
+        "totalCount": 0
+      },
+      "playlists": {
+        "items": [
+          {
+            "collaborative": false,
+            "description": "chill beats to relax/study to",
+            "id": "37i9dQZF1DWWQRwui0ExPn",
+            "name": "lofi beats",
+            "owner": {
+              "display_name": "Spotify",
+              "id": "spotify"
+            },
+            "public": true,
+            "tracks": {
+              "total": 450
+            }
+          },
+          {
+            "collaborative": false,
+            "description": "The perfect mix of chill beats",
+            "id": "37i9dQZF1DXcBWIGoYBM5M",
+            "name": "Lo-Fi Beats",
+            "owner": {
+              "display_name": "Spotify",
+              "id": "spotify"
+            },
+            "public": true,
+            "tracks": {
+              "total": 300
+            }
+          }
+        ],
+        "totalCount": 2
+      },
+      "podcasts": {
+        "items": [],
+        "totalCount": 0
+      },
+      "topResults": {
+        "featured": [],
+        "items": [
+          {
+            "id": "37i9dQZF1DWWQRwui0ExPn",
+            "name": "lofi beats",
+            "type": "playlist"
+          },
+          {
+            "id": "37i9dQZF1DXcBWIGoYBM5M",
+            "name": "Lo-Fi Beats",
+            "type": "playlist"
+          },
+          {
+            "id": "0vvXsWCC9xrXsKd4FyS8kM",
+            "name": "Lofi Girl",
+            "type": "artist"
+          }
+        ]
+      },
+      "tracks": {
+        "items": [],
+        "totalCount": 0
+      },
+      "users": {
+        "items": [],
+        "totalCount": 0
+      }
+    }
+  },
+  "{\"limit\":3,\"offset\":0,\"q\":\"bohemian rhapsody\",\"type\":\"tracks\"}": {
+    "error": "",
+    "response": {
+      "albums": {
+        "items": [],
+        "totalCount": 0
+      },
+      "artists": {
+        "items": [],
+        "totalCount": 0
+      },
+      "episodes": {
+        "items": [],
+        "totalCount": 0
+      },
+      "genres": {
+        "items": [],
+        "totalCount": 0
+      },
+      "playlists": {
+        "items": [],
+        "totalCount": 0
+      },
+      "podcasts": {
+        "items": [],
+        "totalCount": 0
+      },
+      "topResults": {
+        "featured": [],
+        "items": [
+          {
+            "id": "3z8h0TU7HJ18SltIJOHEr8",
+            "name": "Bohemian Rhapsody",
+            "type": "track"
+          },
+          {
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist"
+          },
+          {
+            "id": "6i6folBtxKV28WX3msQ4FE",
+            "name": "A Night at the Opera",
+            "type": "album"
+          }
+        ]
+      },
+      "tracks": {
+        "items": [
+          {
+            "album": {
+              "id": "6i6folBtxKV28WX3msQ4FE",
+              "name": "A Night at the Opera"
+            },
+            "artists": [
+              {
+                "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                "name": "Queen"
+              }
+            ],
+            "duration_ms": 354320,
+            "explicit": false,
+            "id": "3z8h0TU7HJ18SltIJOHEr8",
+            "name": "Bohemian Rhapsody",
+            "popularity": 92
+          },
+          {
+            "album": {
+              "id": "6i6folBtxKV28WX3msQ4FE",
+              "name": "A Night at the Opera"
+            },
+            "artists": [
+              {
+                "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                "name": "Queen"
+              }
+            ],
+            "duration_ms": 355000,
+            "explicit": false,
+            "id": "4u7EnebtmKWzUH433Rbtpz",
+            "name": "Bohemian Rhapsody",
+            "popularity": 88
+          },
+          {
+            "album": {
+              "id": "6i6folBtxKV28WX3msQ4FE",
+              "name": "A Night at the Opera"
+            },
+            "artists": [
+              {
+                "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                "name": "Queen"
+              }
+            ],
+            "duration_ms": 354320,
+            "explicit": false,
+            "id": "7tFiyTwD0nx5a1eklYtX2J",
+            "name": "Bohemian Rhapsody (Remastered 2011)",
+            "popularity": 85
+          }
+        ],
+        "totalCount": 3
+      },
+      "users": {
+        "items": [],
+        "totalCount": 0
+      }
+    }
+  }
+}

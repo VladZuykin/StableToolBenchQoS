@@ -1,0 +1,72 @@
+{
+  "{\"teamids\":\"119\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "roster": [
+          {
+            "jerseyNumber": "30",
+            "job": "Manager",
+            "jobId": "MGR",
+            "person": {
+              "fullName": "Dave Roberts",
+              "id": 119123
+            },
+            "title": "Manager"
+          },
+          {
+            "jerseyNumber": "54",
+            "job": "Hitting Coach",
+            "jobId": "HC",
+            "person": {
+              "fullName": "Robert Van Scoyoc",
+              "id": 654321
+            },
+            "title": "Hitting Coach"
+          }
+        ],
+        "rosterType": "coaches",
+        "teamId": 119
+      }
+    }
+  },
+  "{\"teamids\":\"147\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "roster": [
+          {
+            "jerseyNumber": "28",
+            "job": "Manager",
+            "jobId": "MGR",
+            "person": {
+              "fullName": "Aaron Boone",
+              "id": 110230
+            },
+            "title": "Manager"
+          },
+          {
+            "jerseyNumber": "60",
+            "job": "Pitching Coach",
+            "jobId": "PC",
+            "person": {
+              "fullName": "Matt Blake",
+              "id": 456789
+            },
+            "title": "Pitching Coach"
+          }
+        ],
+        "rosterType": "coaches",
+        "teamId": 147
+      }
+    }
+  }
+}

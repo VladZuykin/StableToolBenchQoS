@@ -1,0 +1,22 @@
+{
+  "{\"height\":600,\"url\":\"https://news.ycombinator.com\",\"width\":800}": {
+    "error": "",
+    "response": {
+      "file_size_bytes": 215744,
+      "message": "PDF generated successfully",
+      "page_count": 2,
+      "pdf_url": "https://api.example.com/files/hackernews_800x600.pdf",
+      "status": "success"
+    }
+  },
+  "{\"height\":900,\"url\":\"https://www.wikipedia.org\",\"width\":1280}": {
+    "error": "",
+    "response": {
+      "file_size_bytes": 482913,
+      "message": "PDF generated successfully",
+      "page_count": 3,
+      "pdf_url": "https://api.example.com/files/wikipedia_1280x900.pdf",
+      "status": "success"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "{\"fmt\":\"html\",\"limit\":\"5\",\"offset\":\"10\",\"rating\":\"pg-13\",\"s\":\"cat\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "26BRuo6sLetdllPAQ",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "url": "https://media.giphy.com/media/26BRuo6sLetdllPAQ/200.gif",
+              "width": "200"
+            }
+          },
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/cat-26BRuo6sLetdllPAQ"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "5a1f3b2c9d4e8f7a6b0c1d2e",
+        "status": 200
+      }
+    }
+  },
+  "{\"fmt\":\"json\",\"limit\":\"10\",\"offset\":\"0\",\"rating\":\"g\",\"s\":\"happy dance\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "3o7aCSPqXE5C6T8tBC",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "url": "https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/200.gif",
+              "width": "200"
+            }
+          },
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/happy-dance-3o7aCSPqXE5C6T8tBC"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "57eea03c706adbfddbeeab12",
+        "status": 200
+      }
+    }
+  },
+  "{\"limit\":\"25\",\"rating\":\"pg\",\"s\":\"thumbs up\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "l0HlvtIPzPdt2usKs",
+          "images": {
+            "fixed_height": {
+              "height": "200",
+              "url": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/200.gif",
+              "width": "200"
+            }
+          },
+          "type": "sticker",
+          "url": "https://giphy.com/stickers/thumbs-up-l0HlvtIPzPdt2usKs"
+        }
+      ],
+      "meta": {
+        "msg": "OK",
+        "response_id": "58ff402087535116123ed0f2",
+        "status": 200
+      }
+    }
+  }
+}

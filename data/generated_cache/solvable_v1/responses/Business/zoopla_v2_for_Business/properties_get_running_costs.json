@@ -1,0 +1,18 @@
+{
+  "{\"category\":\"commercial\",\"listing_id\":98765432,\"section\":\"for-sale\"}": {
+    "error": "",
+    "response": {
+      "category": "commercial",
+      "listing_id": 98765432,
+      "running_costs": {
+        "annual_council_tax_gbp": 2450,
+        "council_tax_band": "D",
+        "ground_rent_gbp": 250,
+        "service_charge_gbp": 1800,
+        "total_annual_running_costs_gbp": 7700,
+        "utilities_estimate_gbp": 3200
+      },
+      "section": "for-sale"
+    }
+  }
+}

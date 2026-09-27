@@ -1,0 +1,142 @@
+{
+  "{\"competition_id\":\"ES1\",\"locale\":\"ES\",\"season_id\":2022,\"standing_type\":\"home\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "legend": [
+          {
+            "_list_length": 5,
+            "class": "champions",
+            "color": "#1b8f3a",
+            "description": "Champions League",
+            "id": "champions"
+          },
+          {
+            "_list_length": 5,
+            "class": "europa",
+            "color": "#1b6fbf",
+            "description": "Europa League",
+            "id": "europa"
+          }
+        ],
+        "share": {
+          "description": "Home standings for LaLiga season 2022/23",
+          "title": "LaLiga 2022/23 Home Table",
+          "url": "https://www.transfermarkt.com/laliga/heimtabelle/wettbewerb/ES1?saison_id=2022"
+        },
+        "table": [
+          {
+            "clubImage": "https://tmssl.akamaized.net/images/wappen/head/131.png",
+            "clubName": "FC Barcelona",
+            "draw": 3,
+            "goalDifference": 30,
+            "goals": 38,
+            "goalsConceded": 8,
+            "group": null,
+            "id": "131",
+            "losses": 1,
+            "markClass": "champions",
+            "markColor": "#1b8f3a",
+            "markDescription": "Champions League",
+            "markID": "champions",
+            "matches": 19,
+            "oldRank": 1,
+            "points": 48,
+            "rank": 1,
+            "wins": 15
+          },
+          {
+            "clubImage": "https://tmssl.akamaized.net/images/wappen/head/418.png",
+            "clubName": "Real Madrid",
+            "draw": 4,
+            "goalDifference": 23,
+            "goals": 40,
+            "goalsConceded": 17,
+            "group": null,
+            "id": "418",
+            "losses": 2,
+            "markClass": "champions",
+            "markColor": "#1b8f3a",
+            "markDescription": "Champions League",
+            "markID": "champions",
+            "matches": 19,
+            "oldRank": 2,
+            "points": 43,
+            "rank": 2,
+            "wins": 13
+          }
+        ]
+      }
+    }
+  },
+  "{\"competition_id\":\"IT1\",\"locale\":\"IT\",\"season_id\":2022,\"standing_type\":\"away\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "legend": [
+          {
+            "_list_length": 5,
+            "class": "champions",
+            "color": "#1b8f3a",
+            "description": "Champions League",
+            "id": "champions"
+          },
+          {
+            "_list_length": 5,
+            "class": "relegation",
+            "color": "#d81920",
+            "description": "Relegation",
+            "id": "relegation"
+          }
+        ],
+        "share": {
+          "description": "Away standings for Serie A season 2022/23",
+          "title": "Serie A 2022/23 Away Table",
+          "url": "https://www.transfermarkt.com/serie-a/auswaertstabelle/wettbewerb/IT1?saison_id=2022"
+        },
+        "table": [
+          {
+            "clubImage": "https://tmssl.akamaized.net/images/wappen/head/506.png",
+            "clubName": "SSC Napoli",
+            "draw": 4,
+            "goalDifference": 16,
+            "goals": 34,
+            "goalsConceded": 18,
+            "group": null,
+            "id": "506",
+            "losses": 3,
+            "markClass": "champions",
+            "markColor": "#1b8f3a",
+            "markDescription": "Champions League",
+            "markID": "champions",
+            "matches": 19,
+            "oldRank": 1,
+            "points": 40,
+            "rank": 1,
+            "wins": 12
+          },
+          {
+            "clubImage": "https://tmssl.akamaized.net/images/wappen/head/46.png",
+            "clubName": "Inter Milan",
+            "draw": 3,
+            "goalDifference": 7,
+            "goals": 31,
+            "goalsConceded": 24,
+            "group": null,
+            "id": "46",
+            "losses": 6,
+            "markClass": "champions",
+            "markColor": "#1b8f3a",
+            "markDescription": "Champions League",
+            "markID": "champions",
+            "matches": 19,
+            "oldRank": 3,
+            "points": 33,
+            "rank": 2,
+            "wins": 10
+          }
+        ]
+      }
+    }
+  }
+}

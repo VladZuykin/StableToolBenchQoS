@@ -1,0 +1,128 @@
+{
+  "{\"locale\":\"EN\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "share": {
+          "description": "UEFA country ranking over the last 5 years",
+          "title": "UEFA 5-Year Ranking",
+          "url": "https://www.transfermarkt.com/statistik/5jahreswertung"
+        },
+        "teams": [
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/1.png",
+            "countryName": "England",
+            "id": "1",
+            "points2018": "20.000",
+            "points2019": "18.571",
+            "points2020": "24.357",
+            "points2021": "21.000",
+            "points2022": "22.500",
+            "teamsCl": 4,
+            "teamsEl": 3,
+            "totalPoints": 106.428,
+            "totalTeams": 7
+          },
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/2.png",
+            "countryName": "Spain",
+            "id": "2",
+            "points2018": "19.000",
+            "points2019": "20.142",
+            "points2020": "19.500",
+            "points2021": "18.428",
+            "points2022": "20.000",
+            "teamsCl": 4,
+            "teamsEl": 2,
+            "totalPoints": 97.07,
+            "totalTeams": 6
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"ES\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "share": {
+          "description": "Ranking de países de la UEFA en los últimos 5 años",
+          "title": "Ranking UEFA 5 años",
+          "url": "https://www.transfermarkt.es/statistik/5jahreswertung"
+        },
+        "teams": [
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/3.png",
+            "countryName": "Alemania",
+            "id": "3",
+            "points2018": "18.000",
+            "points2019": "17.857",
+            "points2020": "16.214",
+            "points2021": "19.000",
+            "points2022": "18.500",
+            "teamsCl": 4,
+            "teamsEl": 2,
+            "totalPoints": 89.571,
+            "totalTeams": 6
+          },
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/4.png",
+            "countryName": "Italia",
+            "id": "4",
+            "points2018": "17.500",
+            "points2019": "16.285",
+            "points2020": "18.000",
+            "points2021": "17.000",
+            "points2022": "19.500",
+            "teamsCl": 4,
+            "teamsEl": 3,
+            "totalPoints": 88.285,
+            "totalTeams": 7
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"FR\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "share": {
+          "description": "Classement des pays de l'UEFA sur les 5 dernières années",
+          "title": "Classement UEFA 5 ans",
+          "url": "https://www.transfermarkt.fr/statistik/5jahreswertung"
+        },
+        "teams": [
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "France",
+            "id": "5",
+            "points2018": "16.000",
+            "points2019": "15.500",
+            "points2020": "17.000",
+            "points2021": "16.500",
+            "points2022": "18.000",
+            "teamsCl": 3,
+            "teamsEl": 3,
+            "totalPoints": 83.0,
+            "totalTeams": 6
+          },
+          {
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/6.png",
+            "countryName": "Portugal",
+            "id": "6",
+            "points2018": "15.000",
+            "points2019": "14.500",
+            "points2020": "16.000",
+            "points2021": "15.500",
+            "points2022": "17.000",
+            "teamsCl": 3,
+            "teamsEl": 2,
+            "totalPoints": 78.0,
+            "totalTeams": 5
+          }
+        ]
+      }
+    }
+  }
+}

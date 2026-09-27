@@ -1,0 +1,10 @@
+{
+  "{\"num\":1001}": {
+    "error": "",
+    "response": "mil uno"
+  },
+  "{\"num\":123}": {
+    "error": "",
+    "response": "ciento veintitrés"
+  }
+}

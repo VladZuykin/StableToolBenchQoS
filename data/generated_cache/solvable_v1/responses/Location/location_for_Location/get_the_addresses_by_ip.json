@@ -1,0 +1,52 @@
+{
+  "{\"ip\":\"203.0.113.42\"}": {
+    "error": "",
+    "response": {
+      "city": {
+        "name": "Sydney"
+      },
+      "coordinates": {
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "country": {
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "id": "AU",
+        "name": "Australia"
+      },
+      "ip": "203.0.113.42",
+      "neighborhood": "CBD",
+      "postalCode": "2000",
+      "state": {
+        "name": "New South Wales"
+      },
+      "street": ""
+    }
+  },
+  "{\"ip\":\"8.8.8.8\"}": {
+    "error": "",
+    "response": {
+      "city": {
+        "name": "Mountain View"
+      },
+      "coordinates": {
+        "latitude": 37.4056,
+        "longitude": -122.0775
+      },
+      "country": {
+        "alpha2": "US",
+        "alpha3": "USA",
+        "id": "US",
+        "name": "United States"
+      },
+      "ip": "8.8.8.8",
+      "neighborhood": "",
+      "postalCode": "94043",
+      "state": {
+        "name": "California"
+      },
+      "street": ""
+    }
+  }
+}

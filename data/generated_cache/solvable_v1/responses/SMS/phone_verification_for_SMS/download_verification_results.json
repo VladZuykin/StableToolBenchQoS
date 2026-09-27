@@ -1,0 +1,29 @@
+{
+  "{\"filename\":\"batch_2024_01_output.xlsx\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadUrl": "/SMS/phone_verification/download_verification_results/batch_2024_01_output.xlsx",
+      "fileName": "batch_2024_01_output.xlsx",
+      "sizeBytes": 18432
+    }
+  },
+  "{\"filename\":\"customer_list_output.xlsx\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadUrl": "/SMS/phone_verification/download_verification_results/customer_list_output.xlsx",
+      "fileName": "customer_list_output.xlsx",
+      "sizeBytes": 9216
+    }
+  },
+  "{\"filename\":\"leads_q3_output.xlsx\"}": {
+    "error": "",
+    "response": {
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "downloadUrl": "/SMS/phone_verification/download_verification_results/leads_q3_output.xlsx",
+      "fileName": "leads_q3_output.xlsx",
+      "sizeBytes": 40960
+    }
+  }
+}

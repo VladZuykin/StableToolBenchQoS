@@ -1,0 +1,38 @@
+{
+  "{\"joburl\":\"https://www.google.com/search?ibp=htl%3Bjobs&q=Data+Scientist+San+Francisco&hl=en-US&kgs=7b2c1f9a4e8d3c6b&shndl=-1&source=sh%2Fx%2Fim%2Ftextlists%2Fdetail%2F1&entrypoint=sh%2Fx%2Fim%2Ftextlists%2Fdetail&mysharpfpstate=tldetail&htivrt=jobs&htiq=Data+Scientist+San+Francisco&htidocid=9xQ2pLmN8R4AAAAAAAAAAA%3D%3D\"}": {
+    "error": "",
+    "response": {
+      "apply_url": "https://www.acmeanalytics.com/careers/data-scientist",
+      "company": "Acme Analytics",
+      "description": "We are seeking a Data Scientist to build machine learning models and derive insights from large datasets.",
+      "employment_type": "Full-time",
+      "location": "San Francisco, CA",
+      "posted_date": "2024-05-12",
+      "requirements": [
+        "3+ years experience in data science",
+        "Proficiency in Python and SQL",
+        "Experience with ML frameworks such as TensorFlow or PyTorch"
+      ],
+      "salary": "$150,000 - $180,000 a year",
+      "title": "Data Scientist"
+    }
+  },
+  "{\"joburl\":\"https://www.google.com/search?ibp=htl%3Bjobs&q=Marketing+Manager+London&hl=en-GB&kgs=3f8a1c5d9e2b7a4f&shndl=-1&source=sh%2Fx%2Fim%2Ftextlists%2Fdetail%2F1&entrypoint=sh%2Fx%2Fim%2Ftextlists%2Fdetail&mysharpfpstate=tldetail&htivrt=jobs&htiq=Marketing+Manager+London&htidocid=4tY7wQpZ2K9AAAAAAAAAAA%3D%3D\"}": {
+    "error": "",
+    "response": {
+      "apply_url": "https://www.brightwavemedia.co.uk/careers/marketing-manager",
+      "company": "BrightWave Media",
+      "description": "Lead marketing campaigns and manage a team to drive brand awareness and customer acquisition.",
+      "employment_type": "Full-time",
+      "location": "London, UK",
+      "posted_date": "2024-06-01",
+      "requirements": [
+        "5+ years in marketing",
+        "Experience managing teams",
+        "Strong analytical and communication skills"
+      ],
+      "salary": "£55,000 - £65,000 a year",
+      "title": "Marketing Manager"
+    }
+  }
+}

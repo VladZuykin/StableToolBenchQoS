@@ -1,0 +1,97 @@
+{
+  "{\"appid\":\"b1e2d3c4a5f60718293a4b5c6d7e8f90\",\"lang\":\"ja\",\"q\":\"Tokyo\",\"units\":\"metric\"}": {
+    "error": "",
+    "response": {
+      "base": "stations",
+      "clouds": {
+        "all": 0
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 35.6895,
+        "lon": 139.6917
+      },
+      "dt": 1718000000,
+      "id": 1850147,
+      "main": {
+        "feels_like": 22.1,
+        "humidity": 58,
+        "pressure": 1015,
+        "temp": 22.5,
+        "temp_max": 24.3,
+        "temp_min": 20.8
+      },
+      "name": "Tokyo",
+      "sys": {
+        "country": "JP",
+        "id": 8074,
+        "sunrise": 1717970000,
+        "sunset": 1718020000,
+        "type": 1
+      },
+      "timezone": 32400,
+      "visibility": 10000,
+      "weather": [
+        {
+          "description": "快晴",
+          "icon": "01d",
+          "id": 800,
+          "main": "Clear"
+        }
+      ],
+      "wind": {
+        "deg": 180,
+        "speed": 3.6
+      }
+    }
+  },
+  "{\"appid\":\"c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5f4\",\"q\":\"New York\",\"units\":\"imperial\"}": {
+    "error": "",
+    "response": {
+      "base": "stations",
+      "clouds": {
+        "all": 75
+      },
+      "cod": 200,
+      "coord": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "dt": 1718003600,
+      "id": 5128581,
+      "main": {
+        "feels_like": 67.9,
+        "humidity": 74,
+        "pressure": 1012,
+        "temp": 68.4,
+        "temp_max": 71.1,
+        "temp_min": 65.2
+      },
+      "name": "New York",
+      "rain": {
+        "1h": 0.5
+      },
+      "sys": {
+        "country": "US",
+        "id": 2004684,
+        "sunrise": 1717975000,
+        "sunset": 1718028000,
+        "type": 2
+      },
+      "timezone": -14400,
+      "visibility": 9000,
+      "weather": [
+        {
+          "description": "light rain",
+          "icon": "10d",
+          "id": 500,
+          "main": "Rain"
+        }
+      ],
+      "wind": {
+        "deg": 220,
+        "speed": 8.1
+      }
+    }
+  }
+}

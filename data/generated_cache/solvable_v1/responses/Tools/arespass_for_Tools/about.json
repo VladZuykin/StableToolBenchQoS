@@ -1,0 +1,21 @@
+{
+  "{\"outputformat\":\"json\"}": {
+    "error": "",
+    "response": {
+      "apiReleaseDateIso8601": "2023-06-15T00:00:00Z",
+      "apiVersion": {
+        "majorNumber": 1,
+        "minorNumber": 4
+      },
+      "availableLanguagesIso639_1": "de,en,es,fr,it,pt"
+    }
+  },
+  "{\"outputformat\":\"xml\"}": {
+    "error": "",
+    "response": "<about><apiVersion><majorNumber>1</majorNumber><minorNumber>4</minorNumber></apiVersion><apiReleaseDateIso8601>2023-06-15T00:00:00Z</apiReleaseDateIso8601><availableLanguagesIso639_1>de,en,es,fr,it,pt</availableLanguagesIso639_1></about>"
+  },
+  "{\"outputformat\":\"yaml\"}": {
+    "error": "",
+    "response": "apiVersion:\n  majorNumber: 1\n  minorNumber: 4\napiReleaseDateIso8601: '2023-06-15T00:00:00Z'\navailableLanguagesIso639_1: 'de,en,es,fr,it,pt'\n"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "competition": "Ligue 1",
+      "games": [
+        {
+          "awayTeam": "Olympique de Marseille",
+          "gameId": "FDJ-2024-001",
+          "homeTeam": "Paris Saint-Germain",
+          "odds": {
+            "awayWin": 6.5,
+            "draw": 4.2,
+            "homeWin": 1.45
+          },
+          "startTime": "2024-05-12T19:00:00Z"
+        },
+        {
+          "awayTeam": "AS Monaco",
+          "gameId": "FDJ-2024-002",
+          "homeTeam": "Olympique Lyonnais",
+          "odds": {
+            "awayWin": 2.5,
+            "draw": 3.4,
+            "homeWin": 2.8
+          },
+          "startTime": "2024-05-12T21:00:00Z"
+        }
+      ],
+      "sport": "Football"
+    }
+  }
+}

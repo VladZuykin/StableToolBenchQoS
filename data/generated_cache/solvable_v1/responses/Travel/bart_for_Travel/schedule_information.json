@@ -1,0 +1,96 @@
+{
+  "{\"cmd\":\"arrive\",\"dest\":\"MLBR\",\"orig\":\"FRMT\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "schedule": {
+          "date": "2024-06-10",
+          "destination": "MLBR",
+          "origin": "FRMT",
+          "request": {
+            "cmd": "arrive",
+            "dest": "MLBR",
+            "orig": "FRMT"
+          },
+          "time": "08:15:00 AM",
+          "trip": [
+            {
+              "leg": [
+                {
+                  "destination": "MLBR",
+                  "origin": "FRMT",
+                  "trainHeadStation": "MLBR",
+                  "trip": [
+                    {
+                      "arrival": {
+                        "bikeflag": "1",
+                        "color": "ORANGE",
+                        "direction": "South",
+                        "platform": "1",
+                        "time": "09:05:00 AM"
+                      },
+                      "departure": {
+                        "bikeflag": "1",
+                        "color": "ORANGE",
+                        "direction": "South",
+                        "platform": "2",
+                        "time": "08:22:00 AM"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"cmd\":\"depart\",\"dest\":\"EMBR\",\"orig\":\"DUBL\"}": {
+    "error": "",
+    "response": {
+      "root": {
+        "schedule": {
+          "date": "2024-06-10",
+          "destination": "EMBR",
+          "origin": "DUBL",
+          "request": {
+            "cmd": "depart",
+            "dest": "EMBR",
+            "orig": "DUBL"
+          },
+          "time": "05:40:00 PM",
+          "trip": [
+            {
+              "leg": [
+                {
+                  "destination": "EMBR",
+                  "origin": "DUBL",
+                  "trainHeadStation": "DUBL",
+                  "trip": [
+                    {
+                      "arrival": {
+                        "bikeflag": "1",
+                        "color": "BLUE",
+                        "direction": "North",
+                        "platform": "2",
+                        "time": "06:32:00 PM"
+                      },
+                      "departure": {
+                        "bikeflag": "1",
+                        "color": "BLUE",
+                        "direction": "North",
+                        "platform": "1",
+                        "time": "05:48:00 PM"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

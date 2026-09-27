@@ -1,0 +1,22 @@
+{
+  "{\"app_id\":1091500}": {
+    "error": "",
+    "response": {
+      "discount": "-50%",
+      "original_price": "$59.99",
+      "price": "$29.99",
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/"
+    }
+  },
+  "{\"app_id\":1593500}": {
+    "error": "",
+    "response": {
+      "discount": "-40%",
+      "original_price": "$49.99",
+      "price": "$29.99",
+      "title": "God of War",
+      "url": "https://store.steampowered.com/app/1593500/"
+    }
+  }
+}

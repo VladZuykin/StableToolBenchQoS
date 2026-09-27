@@ -1,0 +1,65 @@
+{
+  "{\"variable_id\":\"5f8a1b2c3d4e5f6a7b8c9d0e\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "message": "Values retrieved successfully",
+      "values": [
+        {
+          "timestamp": 1698765432000,
+          "value": 23.5
+        },
+        {
+          "timestamp": 1698765492000,
+          "value": 23.7
+        },
+        {
+          "timestamp": 1698765552000,
+          "value": 24.1
+        }
+      ]
+    }
+  },
+  "{\"variable_id\":\"60a1b2c3d4e5f6a7b8c9d0e1f\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "message": "Values retrieved successfully",
+      "values": [
+        {
+          "timestamp": 1701234567000,
+          "value": 1013.25
+        },
+        {
+          "timestamp": 1701234627000,
+          "value": 1013.18
+        },
+        {
+          "timestamp": 1701234687000,
+          "value": 1012.94
+        }
+      ]
+    }
+  },
+  "{\"variable_id\":\"7c9d0e1f2a3b4c5d6e7f8a9b\"}": {
+    "error": "",
+    "response": {
+      "code": 200,
+      "message": "Values retrieved successfully",
+      "values": [
+        {
+          "timestamp": 1705678901000,
+          "value": true
+        },
+        {
+          "timestamp": 1705678961000,
+          "value": false
+        },
+        {
+          "timestamp": 1705679021000,
+          "value": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "{\"cr\":\"countryUS\",\"hl\":\"en\",\"q\":\"climate change effects on agriculture\",\"start\":10,\"tbs\":\"qdr:m\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "link": "https://www.usda.gov/oce/climate_change/effects.htm",
+          "metaHtml": "",
+          "snippet": "Climate change is expected to affect agriculture through changes in temperature, precipitation, and pest pressures...",
+          "title": "Climate Change Impacts on Agriculture - USDA"
+        },
+        {
+          "link": "https://www.nrdc.org/stories/how-climate-change-affects-agriculture",
+          "metaHtml": "",
+          "snippet": "Climate change is already affecting agriculture, with extreme weather events causing crop failures...",
+          "title": "How Climate Change Affects Agriculture - NRDC"
+        },
+        {
+          "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-agriculture",
+          "metaHtml": "",
+          "snippet": "The agricultural sector is affected by climate change through changes in temperature, precipitation, and extreme weather...",
+          "title": "Climate Change and Agriculture - EPA"
+        },
+        {
+          "link": "https://www.fao.org/climate-change/effects-agriculture/en/",
+          "metaHtml": "",
+          "snippet": "Climate change poses significant challenges to global food security and agricultural productivity...",
+          "title": "Effects of Climate Change on Agriculture - FAO"
+        },
+        {
+          "link": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/",
+          "metaHtml": "",
+          "snippet": "Climate change is affecting food security and agriculture through warming, changing precipitation patterns...",
+          "title": "Climate Change Impacts on Agriculture - IPCC"
+        },
+        {
+          "link": "https://www.worldbank.org/en/topic/climate-smart-agriculture",
+          "metaHtml": "",
+          "snippet": "Climate-smart agriculture is an approach to transform and reorient agricultural systems...",
+          "title": "Agriculture and Climate Change - World Bank"
+        },
+        {
+          "link": "https://www.nationalgeographic.com/environment/article/climate-change-agriculture",
+          "metaHtml": "",
+          "snippet": "Climate change is affecting agriculture in many ways, from shifting growing seasons to increasing pests...",
+          "title": "Climate Change Effects on Agriculture - National Geographic"
+        },
+        {
+          "link": "https://www.sciencedirect.com/science/article/pii/example",
+          "metaHtml": "",
+          "snippet": "This review examines the impacts of climate change on agriculture...",
+          "title": "The Impact of Climate Change on Agriculture - ScienceDirect"
+        },
+        {
+          "link": "https://link.springer.com/article/10.1007/example",
+          "metaHtml": "",
+          "snippet": "Climate change is expected to have significant impacts on agriculture...",
+          "title": "Climate Change and Agriculture: A Review - Springer"
+        },
+        {
+          "link": "https://www.ucsusa.org/resources/climate-change-and-agriculture",
+          "metaHtml": "",
+          "snippet": "Climate change is already affecting agriculture, and the impacts are expected to worsen...",
+          "title": "Climate Change Effects on Agriculture - Union of Concerned Scientists"
+        }
+      ],
+      "stats": {
+        "approximateResults": "3,780,000",
+        "page": null,
+        "seconds": null
+      }
+    }
+  },
+  "{\"gl\":\"us\",\"num\":10,\"q\":\"python list comprehension tutorial\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "link": "https://realpython.com/list-comprehension-python/",
+          "metaHtml": "",
+          "snippet": "Learn how to use list comprehensions in Python to create lists in a concise way...",
+          "title": "Python List Comprehension Tutorial - Real Python"
+        },
+        {
+          "link": "https://www.geeksforgeeks.org/python-list-comprehension/",
+          "metaHtml": "",
+          "snippet": "List comprehensions provide a concise way to create lists in Python...",
+          "title": "List Comprehensions in Python - GeeksforGeeks"
+        },
+        {
+          "link": "https://www.programiz.com/python-programming/list-comprehension",
+          "metaHtml": "",
+          "snippet": "In this tutorial, we will learn about Python list comprehensions with the help of examples...",
+          "title": "Python List Comprehension (With Examples) - Programiz"
+        },
+        {
+          "link": "https://www.digitalocean.com/community/tutorials/understanding-list-comprehensions-in-python-3",
+          "metaHtml": "",
+          "snippet": "List comprehensions offer a succinct way to create lists based on existing lists...",
+          "title": "Understanding List Comprehensions in Python 3 - DigitalOcean"
+        },
+        {
+          "link": "https://www.w3schools.com/python/python_lists_comprehension.asp",
+          "metaHtml": "",
+          "snippet": "List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list...",
+          "title": "Python List Comprehension - W3Schools"
+        },
+        {
+          "link": "https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions",
+          "metaHtml": "",
+          "snippet": "List comprehensions provide a concise way to create lists...",
+          "title": "List Comprehensions - Python 3.12 Documentation"
+        },
+        {
+          "link": "https://www.datacamp.com/tutorial/python-list-comprehension",
+          "metaHtml": "",
+          "snippet": "Master Python list comprehensions with this comprehensive guide...",
+          "title": "Python List Comprehension: A Complete Guide - DataCamp"
+        },
+        {
+          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
+          "metaHtml": "",
+          "snippet": "List comprehensions are a powerful feature in Python...",
+          "title": "List Comprehension in Python - freeCodeCamp"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=example",
+          "metaHtml": "",
+          "snippet": "In this video, we'll learn about list comprehensions in Python...",
+          "title": "Python List Comprehension Tutorial - YouTube"
+        },
+        {
+          "link": "https://stackoverflow.com/questions/example",
+          "metaHtml": "",
+          "snippet": "How do I use list comprehensions in Python? ...",
+          "title": "Python List Comprehension - Stack Overflow"
+        }
+      ],
+      "stats": {
+        "approximateResults": "2,450,000",
+        "page": null,
+        "seconds": null
+      }
+    }
+  },
+  "{\"hl\":\"en-US\",\"num\":5,\"q\":\"best coffee shops in seattle\"}": {
+    "error": "",
+    "response": {
+      "results": [
+        {
+          "link": "https://www.example.com/seattle-coffee-guide",
+          "metaHtml": "<span class=\"news\">Guide</span>",
+          "snippet": "From Capitol Hill to Ballard, here are the top-rated coffee shops in Seattle...",
+          "title": "10 Best Coffee Shops in Seattle (2024)"
+        },
+        {
+          "link": "https://www.seattlesbest.com",
+          "metaHtml": "",
+          "snippet": "Seattle's Best Coffee offers a variety of blends and roasts...",
+          "title": "Seattle's Best Coffee - Official Site"
+        },
+        {
+          "link": "https://seattle.eater.com/maps/best-coffee-shops",
+          "metaHtml": "",
+          "snippet": "A map of the best coffee shops in Seattle, from espresso bars to roasteries...",
+          "title": "Top 15 Coffee Shops in Seattle - Eater Seattle"
+        },
+        {
+          "link": "https://www.tripadvisor.com/Attractions-g60878-Activities-Seattle_Coffee.html",
+          "metaHtml": "",
+          "snippet": "Best Coffee Shops in Seattle, Washington: Find traveler reviews and candid photos...",
+          "title": "The 7 Best Coffee Shops in Seattle - TripAdvisor"
+        },
+        {
+          "link": "https://www.example.org/seattle-coffee-cafes",
+          "metaHtml": "",
+          "snippet": "Discover the best coffee shops in Seattle, including hidden gems and local favorites...",
+          "title": "Seattle Coffee Guide: 20+ Must-Visit Cafes"
+        }
+      ],
+      "stats": {
+        "approximateResults": "1,230,000",
+        "page": null,
+        "seconds": null
+      }
+    }
+  }
+}

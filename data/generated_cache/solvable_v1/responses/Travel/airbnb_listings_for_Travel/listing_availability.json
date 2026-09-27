@@ -1,0 +1,322 @@
+{
+  "{\"is_id\":\"123456789012345678\",\"month\":12,\"year\":2025}": {
+    "error": "",
+    "response": {
+      "days": [
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-01",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-02",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": false,
+          "check_in": false,
+          "check_out": false,
+          "currency": "USD",
+          "date": "2025-12-03",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": false,
+          "check_in": false,
+          "check_out": false,
+          "currency": "USD",
+          "date": "2025-12-04",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-05",
+          "max_nights": 30,
+          "min_nights": 3,
+          "price": 160.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-06",
+          "max_nights": 30,
+          "min_nights": 3,
+          "price": 160.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-07",
+          "max_nights": 30,
+          "min_nights": 3,
+          "price": 160.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-08",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-09",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-10",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-11",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-12",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-13",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-14",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-15",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-16",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-17",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-18",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-19",
+          "max_nights": 30,
+          "min_nights": 2,
+          "price": 145.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-20",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-21",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-22",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-23",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-24",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-25",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-26",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-27",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-28",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-29",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-30",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        },
+        {
+          "available": true,
+          "check_in": true,
+          "check_out": true,
+          "currency": "USD",
+          "date": "2025-12-31",
+          "max_nights": 30,
+          "min_nights": 4,
+          "price": 210.0
+        }
+      ],
+      "listing_id": "123456789012345678",
+      "month": 12,
+      "year": 2025
+    }
+  }
+}

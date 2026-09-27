@@ -1,0 +1,182 @@
+{
+  "{\"latitude\":\"35.6895\",\"longitude\":\"139.6917\"}": {
+    "error": "",
+    "response": {
+      "forecastHourly": {
+        "hours": [
+          {
+            "cloudCover": 0.2,
+            "conditionCode": "Clear",
+            "daylight": false,
+            "forecastStart": "2024-06-01T00:00:00Z",
+            "humidity": 70.0,
+            "precipitationAmount": 0.0,
+            "precipitationChance": 5.0,
+            "precipitationType": "none",
+            "pressure": 1010.0,
+            "pressureTrend": "steady",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 25.0,
+            "temperatureApparent": 26.5,
+            "temperatureDewPoint": 18.0,
+            "uvIndex": 0,
+            "visibility": 20.0,
+            "windDirection": 90,
+            "windGust": 15.0,
+            "windSpeed": 8.0
+          },
+          {
+            "cloudCover": 0.3,
+            "conditionCode": "Clear",
+            "daylight": false,
+            "forecastStart": "2024-06-01T01:00:00Z",
+            "humidity": 72.0,
+            "precipitationAmount": 0.0,
+            "precipitationChance": 5.0,
+            "precipitationType": "none",
+            "pressure": 1010.2,
+            "pressureTrend": "rising",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 24.5,
+            "temperatureApparent": 25.8,
+            "temperatureDewPoint": 17.8,
+            "uvIndex": 0,
+            "visibility": 19.0,
+            "windDirection": 95,
+            "windGust": 16.0,
+            "windSpeed": 9.0
+          }
+        ],
+        "readTime": "2024-06-01T00:05:00Z",
+        "reportedTime": "2024-06-01T00:00:00Z"
+      },
+      "parameters": {
+        "latitude": "35.6895",
+        "longitude": "139.6917"
+      },
+      "resource": "hourly_forecast_48_hours"
+    }
+  },
+  "{\"latitude\":\"40.7128\",\"longitude\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "forecastHourly": {
+        "hours": [
+          {
+            "cloudCover": 0.3,
+            "conditionCode": "PartlyCloudy",
+            "daylight": false,
+            "forecastStart": "2024-06-01T00:00:00Z",
+            "humidity": 60.0,
+            "precipitationAmount": 0.0,
+            "precipitationChance": 10.0,
+            "precipitationType": "none",
+            "pressure": 1013.2,
+            "pressureTrend": "steady",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 22.5,
+            "temperatureApparent": 23.1,
+            "temperatureDewPoint": 15.2,
+            "uvIndex": 0,
+            "visibility": 16.0,
+            "windDirection": 180,
+            "windGust": 20.0,
+            "windSpeed": 12.5
+          },
+          {
+            "cloudCover": 0.4,
+            "conditionCode": "PartlyCloudy",
+            "daylight": false,
+            "forecastStart": "2024-06-01T01:00:00Z",
+            "humidity": 63.0,
+            "precipitationAmount": 0.0,
+            "precipitationChance": 15.0,
+            "precipitationType": "none",
+            "pressure": 1013.0,
+            "pressureTrend": "falling",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 21.8,
+            "temperatureApparent": 22.0,
+            "temperatureDewPoint": 14.9,
+            "uvIndex": 0,
+            "visibility": 15.0,
+            "windDirection": 185,
+            "windGust": 21.0,
+            "windSpeed": 13.0
+          }
+        ],
+        "readTime": "2024-06-01T00:05:00Z",
+        "reportedTime": "2024-06-01T00:00:00Z"
+      },
+      "parameters": {
+        "latitude": "40.7128",
+        "longitude": "-74.0060"
+      },
+      "resource": "hourly_forecast_48_hours"
+    }
+  },
+  "{\"latitude\":\"51.5074\",\"longitude\":\"-0.1278\"}": {
+    "error": "",
+    "response": {
+      "forecastHourly": {
+        "hours": [
+          {
+            "cloudCover": 0.8,
+            "conditionCode": "Cloudy",
+            "daylight": false,
+            "forecastStart": "2024-06-01T00:00:00Z",
+            "humidity": 75.0,
+            "precipitationAmount": 0.2,
+            "precipitationChance": 40.0,
+            "precipitationType": "rain",
+            "pressure": 1008.5,
+            "pressureTrend": "falling",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 15.0,
+            "temperatureApparent": 14.2,
+            "temperatureDewPoint": 10.5,
+            "uvIndex": 0,
+            "visibility": 10.0,
+            "windDirection": 270,
+            "windGust": 30.0,
+            "windSpeed": 18.0
+          },
+          {
+            "cloudCover": 0.9,
+            "conditionCode": "Rain",
+            "daylight": false,
+            "forecastStart": "2024-06-01T01:00:00Z",
+            "humidity": 78.0,
+            "precipitationAmount": 0.5,
+            "precipitationChance": 60.0,
+            "precipitationType": "rain",
+            "pressure": 1007.8,
+            "pressureTrend": "falling",
+            "snowfallAmount": 0.0,
+            "snowfallIntensity": 0.0,
+            "temperature": 14.5,
+            "temperatureApparent": 13.8,
+            "temperatureDewPoint": 10.2,
+            "uvIndex": 0,
+            "visibility": 8.0,
+            "windDirection": 275,
+            "windGust": 32.0,
+            "windSpeed": 20.0
+          }
+        ],
+        "readTime": "2024-06-01T00:05:00Z",
+        "reportedTime": "2024-06-01T00:00:00Z"
+      },
+      "parameters": {
+        "latitude": "51.5074",
+        "longitude": "-0.1278"
+      },
+      "resource": "hourly_forecast_48_hours"
+    }
+  }
+}

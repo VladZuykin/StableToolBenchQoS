@@ -1,0 +1,59 @@
+{
+  "{\"lang_code_src_lang_code_dst\":\"en-es\",\"text_to_translate\":\"hello\"}": {
+    "error": "",
+    "response": {
+      "sentences": [
+        {
+          "dst": "Hola, ¿cómo estás?",
+          "src": "Hello, how are you?"
+        },
+        {
+          "dst": "Ella saludó a todos en la habitación.",
+          "src": "She said hello to everyone in the room."
+        },
+        {
+          "dst": "Hola, mucho gusto.",
+          "src": "Hello there, nice to meet you."
+        }
+      ]
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"en-fr\",\"text_to_translate\":\"book\"}": {
+    "error": "",
+    "response": {
+      "sentences": [
+        {
+          "dst": "J'ai lu un livre hier.",
+          "src": "I read a book yesterday."
+        },
+        {
+          "dst": "Ce livre est très intéressant.",
+          "src": "This book is very interesting."
+        },
+        {
+          "dst": "Elle a emprunté un livre à la bibliothèque.",
+          "src": "She borrowed a book from the library."
+        }
+      ]
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"es-de\",\"text_to_translate\":\"casa\"}": {
+    "error": "",
+    "response": {
+      "sentences": [
+        {
+          "dst": "Mein Haus ist dein Haus.",
+          "src": "Mi casa es tu casa."
+        },
+        {
+          "dst": "Das Haus ist in der Nähe des Parks.",
+          "src": "La casa está cerca del parque."
+        },
+        {
+          "dst": "Lass uns nach Hause gehen, bevor es regnet.",
+          "src": "Volvamos a casa antes de que llueva."
+        }
+      ]
+    }
+  }
+}

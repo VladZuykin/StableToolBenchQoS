@@ -1,0 +1,29 @@
+{
+  "{\"storagename\":\"myStorage\"}": {
+    "error": "",
+    "response": {
+      "discUsage": {
+        "totalSize": 5368709120,
+        "usedSize": 52428800
+      }
+    }
+  },
+  "{\"storagename\":\"production-storage\"}": {
+    "error": "",
+    "response": {
+      "discUsage": {
+        "totalSize": 21474836480,
+        "usedSize": 734003200
+      }
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "discUsage": {
+        "totalSize": 10737418240,
+        "usedSize": 1048576
+      }
+    }
+  }
+}

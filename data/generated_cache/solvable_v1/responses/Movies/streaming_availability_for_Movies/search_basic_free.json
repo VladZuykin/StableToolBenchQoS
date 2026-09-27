@@ -1,0 +1,272 @@
+{
+  "{\"country\":\"de\",\"keyword\":\"berlin\",\"output_language\":\"de\",\"services\":\"prime.subscription,apple.rent\",\"show_original_language\":\"de\",\"show_type\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": "",
+      "result": [
+        {
+          "advisedMinimumAudienceAge": 12,
+          "cast": [
+            "Ulrich Mühe",
+            "Martina Gedeck",
+            "Sebastian Koch",
+            "Ulrich Tukur",
+            "Thomas Thieme",
+            "Hans-Uwe Bauer",
+            "Volkmar Kleinert"
+          ],
+          "genres": [
+            {
+              "id": 18,
+              "name": "Drama"
+            },
+            {
+              "id": 53,
+              "name": "Thriller"
+            }
+          ],
+          "hasMore": false,
+          "imdbId": "tt0405094",
+          "imdbRating": 8.4,
+          "imdbVoteCount": 380000,
+          "nextCursor": "",
+          "overview": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+          "poster": "https://image.tmdb.org/t/p/w500/2p3b1pX1n8X8X8X8X8X8X8X8X8.jpg",
+          "runtime": 137,
+          "streamingInfo": {
+            "de": {
+              "apple": [
+                {
+                  "addOn": "",
+                  "audios": [
+                    {
+                      "language": "de",
+                      "region": "DE"
+                    }
+                  ],
+                  "availableSince": 1490000000,
+                  "link": "https://tv.apple.com/de/movie/das-leben-der-anderen/umc.cmc.1",
+                  "price": {
+                    "amount": "3.99",
+                    "currency": "EUR",
+                    "formatted": "3,99 €"
+                  },
+                  "quality": "hd",
+                  "subtitles": [
+                    {
+                      "closedCaptions": false,
+                      "locale": {
+                        "language": "de",
+                        "region": "DE"
+                      }
+                    }
+                  ],
+                  "type": "rent",
+                  "watchLink": ""
+                }
+              ],
+              "prime": [
+                {
+                  "addOn": "",
+                  "audios": [
+                    {
+                      "language": "de",
+                      "region": "DE"
+                    }
+                  ],
+                  "availableSince": 1500000000,
+                  "link": "https://www.amazon.de/dp/B000M4XQ4K",
+                  "quality": "hd",
+                  "subtitles": [
+                    {
+                      "closedCaptions": false,
+                      "locale": {
+                        "language": "de",
+                        "region": "DE"
+                      }
+                    }
+                  ],
+                  "type": "subscription",
+                  "watchLink": ""
+                }
+              ]
+            }
+          },
+          "title": "Das Leben der Anderen",
+          "tmdbId": 582,
+          "tmdbRating": 8.2,
+          "type": "movie",
+          "year": 2006
+        }
+      ]
+    }
+  },
+  "{\"country\":\"gb\",\"genre\":\"35\",\"keyword\":\"office\",\"output_language\":\"en\",\"services\":\"netflix\",\"show_type\":\"series\"}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": "",
+      "result": [
+        {
+          "advisedMinimumAudienceAge": 14,
+          "cast": [
+            "Steve Carell",
+            "Rainn Wilson",
+            "John Krasinski",
+            "Jenna Fischer",
+            "B.J. Novak",
+            "Ed Helms",
+            "Mindy Kaling"
+          ],
+          "genres": [
+            {
+              "id": 35,
+              "name": "Comedy"
+            }
+          ],
+          "hasMore": false,
+          "imdbId": "tt0386676",
+          "imdbRating": 9.0,
+          "imdbVoteCount": 500000,
+          "nextCursor": "",
+          "overview": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+          "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+          "runtime": 22,
+          "streamingInfo": {
+            "gb": {
+              "netflix": [
+                {
+                  "addOn": "",
+                  "audios": [
+                    {
+                      "language": "en",
+                      "region": "GB"
+                    }
+                  ],
+                  "availableSince": 1451606400,
+                  "link": "https://www.netflix.com/title/70136120",
+                  "quality": "hd",
+                  "subtitles": [
+                    {
+                      "closedCaptions": true,
+                      "locale": {
+                        "language": "en",
+                        "region": "GB"
+                      }
+                    }
+                  ],
+                  "type": "subscription",
+                  "watchLink": ""
+                }
+              ]
+            }
+          },
+          "title": "The Office",
+          "tmdbId": 2316,
+          "tmdbRating": 8.6,
+          "type": "series",
+          "year": 2005
+        }
+      ]
+    }
+  },
+  "{\"country\":\"us\",\"cursor\":\"eyJvZmZzZXQiOjgsInRvdGFsIjo0MH0=\",\"genre\":\"27\",\"keyword\":\"haunted\",\"output_language\":\"en\",\"services\":\"hulu.addon.hbo,peacock.free\",\"show_type\":\"all\"}": {
+    "error": "",
+    "response": {
+      "hasMore": true,
+      "nextCursor": "eyJvZmZzZXQiOjE2LCJ0b3RhbCI6NDB9",
+      "result": [
+        {
+          "advisedMinimumAudienceAge": 16,
+          "cast": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Lili Taylor",
+            "Ron Livingston",
+            "Shanley Caswell",
+            "Hayley McFarland",
+            "Joey King"
+          ],
+          "genres": [
+            {
+              "id": 27,
+              "name": "Horror"
+            },
+            {
+              "id": 53,
+              "name": "Thriller"
+            }
+          ],
+          "hasMore": true,
+          "imdbId": "tt1457767",
+          "imdbRating": 7.5,
+          "imdbVoteCount": 520000,
+          "nextCursor": "eyJvZmZzZXQiOjE2LCJ0b3RhbCI6NDB9",
+          "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+          "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+          "runtime": 112,
+          "streamingInfo": {
+            "us": {
+              "hulu": [
+                {
+                  "addOn": "hbo",
+                  "audios": [
+                    {
+                      "language": "en",
+                      "region": "US"
+                    }
+                  ],
+                  "availableSince": 1600000000,
+                  "link": "https://www.hulu.com/movie/the-conjuring-abc123",
+                  "quality": "hd",
+                  "subtitles": [
+                    {
+                      "closedCaptions": true,
+                      "locale": {
+                        "language": "en",
+                        "region": "US"
+                      }
+                    }
+                  ],
+                  "type": "addon",
+                  "watchLink": ""
+                }
+              ],
+              "peacock": [
+                {
+                  "addOn": "",
+                  "audios": [
+                    {
+                      "language": "en",
+                      "region": "US"
+                    }
+                  ],
+                  "availableSince": 1610000000,
+                  "link": "https://www.peacocktv.com/watch/asset/movies/the-conjuring/xyz789",
+                  "quality": "hd",
+                  "subtitles": [
+                    {
+                      "closedCaptions": true,
+                      "locale": {
+                        "language": "en",
+                        "region": "US"
+                      }
+                    }
+                  ],
+                  "type": "free",
+                  "watchLink": ""
+                }
+              ]
+            }
+          },
+          "title": "The Conjuring",
+          "tmdbId": 138843,
+          "tmdbRating": 7.5,
+          "type": "movie",
+          "year": 2013
+        }
+      ]
+    }
+  }
+}

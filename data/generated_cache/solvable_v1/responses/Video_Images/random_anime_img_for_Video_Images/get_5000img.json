@@ -1,0 +1,13 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "count": 3,
+      "images": [
+        "https://example.com/anime/1.jpg",
+        "https://example.com/anime/2.jpg",
+        "https://example.com/anime/3.jpg"
+      ]
+    }
+  }
+}

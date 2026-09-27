@@ -1,0 +1,41 @@
+{
+  "{\"mode\":\"img\",\"url\":\"https://files.aptero.co/api/public/dl/AbCd1234?inline=true\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "height": 1080,
+      "mode": "img",
+      "output_url": "https://files.aptero.co/api/public/dl/RenderedThumbnail001.png",
+      "size_bytes": 482913,
+      "status": "success",
+      "width": 1920
+    }
+  },
+  "{\"mode\":\"img\",\"url\":\"https://files.aptero.co/api/public/dl/QwEr5678?inline=true\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "height": 600,
+      "mode": "img",
+      "output_url": "https://files.aptero.co/api/public/dl/ThumbnailScene3D.png",
+      "size_bytes": 154320,
+      "status": "success",
+      "width": 800
+    }
+  },
+  "{\"mode\":\"zip\",\"url\":\"https://files.aptero.co/api/public/dl/XyZ9876?inline=true\"}": {
+    "error": "",
+    "response": {
+      "contents": [
+        "main.blend",
+        "script.py",
+        "output/render_0001.png"
+      ],
+      "format": "zip",
+      "mode": "zip",
+      "output_url": "https://files.aptero.co/api/public/dl/BlenderProjectOutput.zip",
+      "size_bytes": 20971520,
+      "status": "success"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "{\"datetime\":\"2023060106\",\"variable\":\"VHM0\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "datetime": "2023060106",
+      "description": "Significant wave height global tile",
+      "tile": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "url": "https://api.wavebase.app/v1/tiles/singleband/VHM0/2023060106/0/0/0.png",
+      "variable": "VHM0"
+    }
+  },
+  "{\"datetime\":\"2024011512\",\"variable\":\"VHM0\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "datetime": "2024011512",
+      "description": "Significant wave height global tile",
+      "tile": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "url": "https://api.wavebase.app/v1/tiles/singleband/VHM0/2024011512/0/0/0.png",
+      "variable": "VHM0"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "user_orders",
+      "message": "User orders retrieved successfully",
+      "parameters": [],
+      "response": [
+        {
+          "orderId": "ORD-1001",
+          "status": "shipped",
+          "total": 49.99,
+          "userId": "U-204"
+        },
+        {
+          "orderId": "ORD-1002",
+          "status": "processing",
+          "total": 12.5,
+          "userId": "U-204"
+        }
+      ],
+      "results": 2,
+      "statusCode": 200
+    }
+  }
+}

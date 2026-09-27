@@ -1,0 +1,32 @@
+{
+  "{\"chapterid\":\"1\"}": {
+    "error": "",
+    "response": {
+      "chapter_name": "Arjuna Vishada Yoga",
+      "chapter_number": 1,
+      "chapter_summary": "The first chapter of the Bhagavad Gita describes Arjuna's dilemma on the battlefield of Kurukshetra. Overwhelmed by grief and moral confusion at the prospect of fighting his own relatives, Arjuna lays down his bow and refuses to fight.",
+      "translation": "The Yoga of Arjuna's Despondency",
+      "verses_count": 47
+    }
+  },
+  "{\"chapterid\":\"12\"}": {
+    "error": "",
+    "response": {
+      "chapter_name": "Bhakti Yoga",
+      "chapter_number": 12,
+      "chapter_summary": "Krishna describes the path of devotion, explaining that those who worship him with love and faith are dearest to him. The chapter outlines the qualities of a true devotee and the simplicity of the path of surrender.",
+      "translation": "The Yoga of Devotion",
+      "verses_count": 20
+    }
+  },
+  "{\"chapterid\":\"2\"}": {
+    "error": "",
+    "response": {
+      "chapter_name": "Sankhya Yoga",
+      "chapter_number": 2,
+      "chapter_summary": "Krishna begins his teachings to Arjuna, explaining the immortality of the soul, the nature of duty, and the path of selfless action. This chapter introduces key concepts such as karma yoga and the eternal nature of the atman.",
+      "translation": "The Yoga of Knowledge",
+      "verses_count": 72
+    }
+  }
+}

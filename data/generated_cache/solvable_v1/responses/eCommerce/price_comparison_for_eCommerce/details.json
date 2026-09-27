@@ -1,0 +1,263 @@
+{
+  "{\"country\":\"CA\",\"is_id\":\"0888462332\",\"latitude\":\"43.653226\",\"longitude\":\"-79.383184\"}": {
+    "error": "",
+    "response": {
+      "ASIN": "B01N5IB20Q",
+      "Attributes": [
+        {
+          "Key": "Brand",
+          "Type": "string",
+          "Value": "Sony"
+        },
+        {
+          "Key": "Model",
+          "Type": "string",
+          "Value": "WH-1000XM3"
+        },
+        {
+          "Key": "Color",
+          "Type": "string",
+          "Value": "Black"
+        },
+        {
+          "Key": "Type",
+          "Type": "string",
+          "Value": "Over-Ear"
+        }
+      ],
+      "BasePrice": 349.99,
+      "BestPrice": 298.0,
+      "FormattedBasePrice": "C$349.99",
+      "FormattedBestPrice": "C$298.00",
+      "ID": 456789123,
+      "Media": {
+        "AverageColor": "#333333",
+        "DominantColor": "#333333",
+        "ImageAlternatives": [
+          "https://example.com/headphone1.jpg",
+          "https://example.com/headphone2.jpg",
+          "https://example.com/headphone3.jpg",
+          "https://example.com/headphone4.jpg",
+          "https://example.com/headphone5.jpg",
+          "https://example.com/headphone6.jpg",
+          "https://example.com/headphone7.jpg",
+          "https://example.com/headphone8.jpg",
+          "https://example.com/headphone9.jpg",
+          "https://example.com/headphone10.jpg",
+          "https://example.com/headphone11.jpg",
+          "https://example.com/headphone12.jpg",
+          "https://example.com/headphone13.jpg",
+          "https://example.com/headphone14.jpg"
+        ],
+        "OriginalHeight": 1200,
+        "OriginalWidth": 1200,
+        "XImage": "https://example.com/xheadphone.jpg"
+      },
+      "Offers": [
+        {
+          "BasePrice": 349,
+          "FormattedBasePrice": "C$349.99",
+          "FormattedPrice": "C$298.00",
+          "ID": null,
+          "InStockStatus": "In Stock",
+          "Link": "https://example.com/headphone-offer",
+          "Links": {
+            "AffiliateLink": "https://example.com/headphone-affiliate",
+            "CashbackLink": null,
+            "ParentAffiliateLink": null,
+            "ParentCashbackLink": null,
+            "ParentLink": null
+          },
+          "Merchant": "Amazon CA",
+          "Price": 298.0,
+          "ProductID": 789123456,
+          "Quality": "New",
+          "Venue": "Amazon"
+        }
+      ],
+      "ProductCategories": [
+        {
+          "FullName": "Electronics > Headphones",
+          "Name": "Headphones",
+          "Source": "Amazon"
+        }
+      ],
+      "Raw": null,
+      "Title": "Sony WH-1000XM3 Wireless Noise-Canceling Headphones"
+    }
+  },
+  "{\"country\":\"DE\",\"is_id\":\"978-3-16-148410-0\",\"latitude\":\"52.520008\",\"longitude\":\"13.404954\"}": {
+    "error": "",
+    "response": {
+      "ASIN": "B07XJ8C8F5",
+      "Attributes": [
+        {
+          "Key": "Author",
+          "Type": "string",
+          "Value": "J.K. Rowling"
+        },
+        {
+          "Key": "Publisher",
+          "Type": "string",
+          "Value": "Bloomsbury"
+        },
+        {
+          "Key": "Language",
+          "Type": "string",
+          "Value": "English"
+        },
+        {
+          "Key": "Pages",
+          "Type": "string",
+          "Value": "320"
+        }
+      ],
+      "BasePrice": 24.99,
+      "BestPrice": 19.99,
+      "FormattedBasePrice": "€24.99",
+      "FormattedBestPrice": "€19.99",
+      "ID": 987654321,
+      "Media": {
+        "AverageColor": "#FFFFFF",
+        "DominantColor": "#FFFFFF",
+        "ImageAlternatives": [
+          "https://example.com/book1.jpg",
+          "https://example.com/book2.jpg",
+          "https://example.com/book3.jpg",
+          "https://example.com/book4.jpg",
+          "https://example.com/book5.jpg",
+          "https://example.com/book6.jpg",
+          "https://example.com/book7.jpg",
+          "https://example.com/book8.jpg",
+          "https://example.com/book9.jpg",
+          "https://example.com/book10.jpg",
+          "https://example.com/book11.jpg",
+          "https://example.com/book12.jpg",
+          "https://example.com/book13.jpg",
+          "https://example.com/book14.jpg"
+        ],
+        "OriginalHeight": 800,
+        "OriginalWidth": 600,
+        "XImage": "https://example.com/xbook.jpg"
+      },
+      "Offers": [
+        {
+          "BasePrice": 24,
+          "FormattedBasePrice": "€24.99",
+          "FormattedPrice": "€19.99",
+          "ID": null,
+          "InStockStatus": "In Stock",
+          "Link": "https://example.com/book-offer",
+          "Links": {
+            "AffiliateLink": "https://example.com/book-affiliate",
+            "CashbackLink": null,
+            "ParentAffiliateLink": null,
+            "ParentCashbackLink": null,
+            "ParentLink": null
+          },
+          "Merchant": "Amazon DE",
+          "Price": 19.99,
+          "ProductID": 123456789,
+          "Quality": "New",
+          "Venue": "Amazon"
+        }
+      ],
+      "ProductCategories": [
+        {
+          "FullName": "Books > Fantasy",
+          "Name": "Fantasy",
+          "Source": "Amazon"
+        }
+      ],
+      "Raw": null,
+      "Title": "Harry Potter and the Philosopher's Stone"
+    }
+  },
+  "{\"country\":\"US\",\"is_id\":\"B08N5WRWNW\",\"latitude\":\"37.777805\",\"longitude\":\"-122.49493\"}": {
+    "error": "",
+    "response": {
+      "ASIN": "B08N5WRWNW",
+      "Attributes": [
+        {
+          "Key": "Brand",
+          "Type": "string",
+          "Value": "Apple"
+        },
+        {
+          "Key": "Model",
+          "Type": "string",
+          "Value": "iPhone 12"
+        },
+        {
+          "Key": "Color",
+          "Type": "string",
+          "Value": "Black"
+        },
+        {
+          "Key": "Storage",
+          "Type": "string",
+          "Value": "64GB"
+        }
+      ],
+      "BasePrice": 799.0,
+      "BestPrice": 749.99,
+      "FormattedBasePrice": "$799.00",
+      "FormattedBestPrice": "$749.99",
+      "ID": 123456789,
+      "Media": {
+        "AverageColor": "#000000",
+        "DominantColor": "#000000",
+        "ImageAlternatives": [
+          "https://example.com/image1.jpg",
+          "https://example.com/image2.jpg",
+          "https://example.com/image3.jpg",
+          "https://example.com/image4.jpg",
+          "https://example.com/image5.jpg",
+          "https://example.com/image6.jpg",
+          "https://example.com/image7.jpg",
+          "https://example.com/image8.jpg",
+          "https://example.com/image9.jpg",
+          "https://example.com/image10.jpg",
+          "https://example.com/image11.jpg",
+          "https://example.com/image12.jpg",
+          "https://example.com/image13.jpg",
+          "https://example.com/image14.jpg"
+        ],
+        "OriginalHeight": 1000,
+        "OriginalWidth": 1000,
+        "XImage": "https://example.com/ximage.jpg"
+      },
+      "Offers": [
+        {
+          "BasePrice": 799,
+          "FormattedBasePrice": "$799.00",
+          "FormattedPrice": "$749.99",
+          "ID": null,
+          "InStockStatus": "In Stock",
+          "Link": "https://example.com/offer",
+          "Links": {
+            "AffiliateLink": "https://example.com/affiliate",
+            "CashbackLink": null,
+            "ParentAffiliateLink": null,
+            "ParentCashbackLink": null,
+            "ParentLink": null
+          },
+          "Merchant": "Amazon",
+          "Price": 749.99,
+          "ProductID": 987654321,
+          "Quality": "New",
+          "Venue": "Amazon"
+        }
+      ],
+      "ProductCategories": [
+        {
+          "FullName": "Electronics > Mobile Phones",
+          "Name": "Mobile Phones",
+          "Source": "Amazon"
+        }
+      ],
+      "Raw": null,
+      "Title": "Apple iPhone 12, 64GB, Black"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"code\":\"Bq123456789\"}": {
+    "error": "",
+    "response": {
+      "message": "Media fetched successfully"
+    }
+  },
+  "{\"code\":\"CxYzAbCdEfG\"}": {
+    "error": "",
+    "response": {
+      "message": "Media fetched successfully"
+    }
+  },
+  "{\"code\":\"DlMnOpQrStU\"}": {
+    "error": "",
+    "response": {
+      "message": "Media fetched successfully"
+    }
+  }
+}

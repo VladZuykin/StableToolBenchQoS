@@ -1,0 +1,35 @@
+{
+  "{\"is_id\":\"1\"}": {
+    "error": "",
+    "response": {
+      "actor": "Zooey Deschanel",
+      "gender": "Female",
+      "id": "1",
+      "name": "Jessica Day",
+      "occupation": "Teacher",
+      "show": "New Girl"
+    }
+  },
+  "{\"is_id\":\"2\"}": {
+    "error": "",
+    "response": {
+      "actor": "Jake Johnson",
+      "gender": "Male",
+      "id": "2",
+      "name": "Nick Miller",
+      "occupation": "Bartender",
+      "show": "New Girl"
+    }
+  },
+  "{\"is_id\":\"3\"}": {
+    "error": "",
+    "response": {
+      "actor": "Max Greenfield",
+      "gender": "Male",
+      "id": "3",
+      "name": "Schmidt",
+      "occupation": "Marketing Associate",
+      "show": "New Girl"
+    }
+  }
+}

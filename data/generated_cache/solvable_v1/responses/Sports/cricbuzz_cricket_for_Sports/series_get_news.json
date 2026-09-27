@@ -1,0 +1,146 @@
+{
+  "{\"seriesid\":3636}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "India tour of Australia, 2020-21",
+        "webURL": "https://www.cricbuzz.com/cricket-series/3636/india-tour-of-australia-2020-21"
+      },
+      "lastUpdatedTime": "2021-01-19T10:30:00",
+      "storyList": [
+        {
+          "story": {
+            "context": "Series",
+            "coverImage": {
+              "caption": "India celebrate series win",
+              "id": "123456",
+              "source": "Cricbuzz"
+            },
+            "hline": "India clinch historic series win at Gabba",
+            "id": 987654,
+            "imageId": 123456,
+            "intro": "India chased down 328 on the final day to win the series 2-1.",
+            "pubTime": "2021-01-19T09:00:00",
+            "seoHeadline": "India win Border-Gavaskar Trophy",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        },
+        {
+          "story": {
+            "context": "Series",
+            "coverImage": {
+              "caption": "Rishabh Pant",
+              "id": "123457",
+              "source": "Cricbuzz"
+            },
+            "hline": "Pant's unbeaten 89 seals epic chase",
+            "id": 987655,
+            "imageId": 123457,
+            "intro": "Rishabh Pant played a match-winning knock to guide India to victory.",
+            "pubTime": "2021-01-19T09:30:00",
+            "seoHeadline": "Pant's heroics at the Gabba",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        }
+      ]
+    }
+  },
+  "{\"seriesid\":4664}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "ICC Cricket World Cup 2023",
+        "webURL": "https://www.cricbuzz.com/cricket-series/4664/icc-cricket-world-cup-2023"
+      },
+      "lastUpdatedTime": "2023-11-19T18:00:00",
+      "storyList": [
+        {
+          "story": {
+            "context": "World Cup",
+            "coverImage": {
+              "caption": "Australia lift the trophy",
+              "id": "789012",
+              "source": "Cricbuzz"
+            },
+            "hline": "Australia win sixth World Cup title",
+            "id": 112233,
+            "imageId": 789012,
+            "intro": "Australia defeated India by six wickets in the final in Ahmedabad.",
+            "pubTime": "2023-11-19T17:30:00",
+            "seoHeadline": "Australia crowned World Cup champions",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        },
+        {
+          "story": {
+            "context": "World Cup",
+            "coverImage": {
+              "caption": "Travis Head",
+              "id": "789013",
+              "source": "Cricbuzz"
+            },
+            "hline": "Head's century sets up Australia's win",
+            "id": 112234,
+            "imageId": 789013,
+            "intro": "Travis Head scored a brilliant 137 to help Australia chase down 241.",
+            "pubTime": "2023-11-19T17:00:00",
+            "seoHeadline": "Head stars in World Cup final",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        }
+      ]
+    }
+  },
+  "{\"seriesid\":5000}": {
+    "error": "",
+    "response": {
+      "appIndex": {
+        "seoTitle": "The Ashes 2023",
+        "webURL": "https://www.cricbuzz.com/cricket-series/5000/the-ashes-2023"
+      },
+      "lastUpdatedTime": "2023-07-31T20:00:00",
+      "storyList": [
+        {
+          "story": {
+            "context": "Ashes",
+            "coverImage": {
+              "caption": "England celebrate",
+              "id": "345678",
+              "source": "Cricbuzz"
+            },
+            "hline": "England level Ashes with thrilling win",
+            "id": 445566,
+            "imageId": 345678,
+            "intro": "England won the fifth Test at The Oval to draw the series 2-2.",
+            "pubTime": "2023-07-31T19:00:00",
+            "seoHeadline": "Ashes ends in 2-2 draw",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        },
+        {
+          "story": {
+            "context": "Ashes",
+            "coverImage": {
+              "caption": "Stuart Broad",
+              "id": "345679",
+              "source": "Cricbuzz"
+            },
+            "hline": "Broad bids farewell with fairytale ending",
+            "id": 445567,
+            "imageId": 345679,
+            "intro": "Stuart Broad took the final wicket to seal England's win in his last Test.",
+            "pubTime": "2023-07-31T19:30:00",
+            "seoHeadline": "Broad's perfect farewell",
+            "source": "Cricbuzz",
+            "storyType": "News"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "{\"is_id\":123456}": {
+    "error": "",
+    "response": {
+      "message": "Icon details retrieved successfully",
+      "status": "success"
+    }
+  },
+  "{\"is_id\":555001}": {
+    "error": "",
+    "response": {
+      "message": "Icon details retrieved successfully",
+      "status": "success"
+    }
+  },
+  "{\"is_id\":987654}": {
+    "error": "",
+    "response": {
+      "message": "Icon details retrieved successfully",
+      "status": "success"
+    }
+  }
+}

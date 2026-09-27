@@ -1,0 +1,29 @@
+{
+  "{\"request_id\":\"req_1a2b3c4d5e6f\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "202",
+        "message": "Message pending delivery"
+      }
+    }
+  },
+  "{\"request_id\":\"req_5c7d9e2f4a6b\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "404",
+        "message": "Request ID not found"
+      }
+    }
+  },
+  "{\"request_id\":\"req_8f3a2b1c9d4e\"}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "200",
+        "message": "Message delivered successfully"
+      }
+    }
+  }
+}

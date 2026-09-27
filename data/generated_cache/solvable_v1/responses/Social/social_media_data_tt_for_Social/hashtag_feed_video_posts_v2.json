@@ -1,0 +1,86 @@
+{
+  "{\"limit\":20,\"name\":\"duett\"}": {
+    "error": "",
+    "response": {
+      "has_more": true,
+      "hashtag": "duett",
+      "max_cursor": "1698765432000",
+      "message": "success",
+      "videos": [
+        {
+          "author": {
+            "avatar": "https://p16-sign.tiktokcdn.com/avatar1.jpeg",
+            "id": "987654321",
+            "nickname": "Dance Queen",
+            "unique_id": "dancequeen"
+          },
+          "create_time": 1698765432,
+          "desc": "Check out this duett challenge! #duett #fyp",
+          "id": "7234567890123456789",
+          "music": {
+            "author": "Dance Queen",
+            "id": "7123456789",
+            "title": "original sound"
+          },
+          "statistics": {
+            "comment_count": 890,
+            "digg_count": 12500,
+            "play_count": 250000,
+            "share_count": 340
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover1.jpeg",
+            "download_addr": "https://v16-webapp.tiktokcdn.com/video1_no_watermark.mp4",
+            "duration": 15,
+            "height": 1920,
+            "id": "7234567890123456789",
+            "play_addr": "https://v16-webapp.tiktokcdn.com/video1.mp4",
+            "width": 1080
+          }
+        }
+      ]
+    }
+  },
+  "{\"limit\":5,\"max_cursor\":\"1698000000000\",\"name\":\"summer\"}": {
+    "error": "",
+    "response": {
+      "has_more": true,
+      "hashtag": "summer",
+      "max_cursor": "1697500000000",
+      "message": "success",
+      "videos": [
+        {
+          "author": {
+            "avatar": "https://p16-sign.tiktokcdn.com/avatar2.jpeg",
+            "id": "123456789",
+            "nickname": "Beach Lover",
+            "unique_id": "beachlover"
+          },
+          "create_time": 1698000000,
+          "desc": "Summer vibes at the beach #summer #beach",
+          "id": "7234000000000000001",
+          "music": {
+            "author": "DJ Sunny",
+            "id": "7987654321",
+            "title": "Summer Hits"
+          },
+          "statistics": {
+            "comment_count": 2300,
+            "digg_count": 45000,
+            "play_count": 890000,
+            "share_count": 1200
+          },
+          "video": {
+            "cover": "https://p16-sign.tiktokcdn.com/cover2.jpeg",
+            "download_addr": "https://v16-webapp.tiktokcdn.com/video2_no_watermark.mp4",
+            "duration": 30,
+            "height": 1920,
+            "id": "7234000000000000001",
+            "play_addr": "https://v16-webapp.tiktokcdn.com/video2.mp4",
+            "width": 1080
+          }
+        }
+      ]
+    }
+  }
+}

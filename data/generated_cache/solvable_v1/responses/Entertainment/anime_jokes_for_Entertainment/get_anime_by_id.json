@@ -1,0 +1,22 @@
+{
+  "{\"is_id\":42}": {
+    "error": "",
+    "response": {
+      "episodes": 64,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "id": 42,
+      "score": 9.1,
+      "status": "Finished Airing",
+      "studio": "Bones",
+      "synopsis": "Two brothers search for the Philosopher's Stone to restore their bodies after a failed alchemical ritual.",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "type": "TV",
+      "year": 2009
+    }
+  }
+}

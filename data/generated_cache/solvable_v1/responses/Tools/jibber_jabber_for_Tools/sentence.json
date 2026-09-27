@@ -1,0 +1,10 @@
+{
+  "{\"maximumnumberofwords\":6,\"maximumwordlength\":9,\"minimumnumberofwords\":4,\"minimumwordlength\":5}": {
+    "error": "",
+    "response": "Bright lanterns flickered across the silent harbor."
+  },
+  "{\"numberofwords\":7}": {
+    "error": "",
+    "response": "Quiet rivers wander beneath ancient stone bridges."
+  }
+}

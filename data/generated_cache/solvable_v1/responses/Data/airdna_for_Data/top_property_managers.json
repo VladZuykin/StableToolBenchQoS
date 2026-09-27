@@ -1,0 +1,14 @@
+{
+  "{\"location\":\"Austin\"}": {
+    "error": "",
+    "response": {
+      "message": "Top property managers in Austin: Austin Vacation Rentals, Hill Country Getaways, Lone Star Stays"
+    }
+  },
+  "{\"location\":\"Miami Beach\"}": {
+    "error": "",
+    "response": {
+      "message": "Top property managers in Miami Beach: Ocean Drive Rentals, South Beach Suites, Coastal Key Management"
+    }
+  }
+}

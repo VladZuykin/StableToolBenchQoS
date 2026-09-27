@@ -1,0 +1,62 @@
+{
+  "{\"category\":\"life\",\"count\":1}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomQuote",
+      "parameters": [
+        {
+          "name": "category",
+          "value": "life"
+        },
+        {
+          "name": "count",
+          "value": 1
+        }
+      ],
+      "response": [
+        {
+          "author": "John Lennon",
+          "category": "life",
+          "quote": "Life is what happens when you're busy making other plans."
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"category\":\"motivation\",\"count\":3}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomQuote",
+      "parameters": [
+        {
+          "name": "category",
+          "value": "motivation"
+        },
+        {
+          "name": "count",
+          "value": 3
+        }
+      ],
+      "response": [
+        {
+          "author": "Steve Jobs",
+          "category": "motivation",
+          "quote": "The only way to do great work is to love what you do."
+        },
+        {
+          "author": "Theodore Roosevelt",
+          "category": "motivation",
+          "quote": "Believe you can and you're halfway there."
+        },
+        {
+          "author": "Nelson Mandela",
+          "category": "motivation",
+          "quote": "It always seems impossible until it's done."
+        }
+      ],
+      "results": 3
+    }
+  }
+}

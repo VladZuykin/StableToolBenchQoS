@@ -1,0 +1,50 @@
+{
+  "{\"limit\":2}": {
+    "error": "",
+    "response": {
+      "entries": 2,
+      "results": [
+        {
+          "birthYear": "1972",
+          "deathYear": "",
+          "knownForTitles": "tt0453562,tt1489889,tt0434409",
+          "nconst": "nm0000789",
+          "primaryName": "Idris Elba",
+          "primaryProfession": "actor,producer,director"
+        },
+        {
+          "birthYear": "1988",
+          "deathYear": "",
+          "knownForTitles": "tt3783958,tt5580036,tt1323594",
+          "nconst": "nm0000321",
+          "primaryName": "Emma Stone",
+          "primaryProfession": "actress,producer,soundtrack"
+        }
+      ]
+    }
+  },
+  "{\"limit\":5}": {
+    "error": "",
+    "response": {
+      "entries": 5,
+      "results": [
+        {
+          "birthYear": "1937",
+          "deathYear": "",
+          "knownForTitles": "tt0111161,tt0102926,tt0120737",
+          "nconst": "nm0000123",
+          "primaryName": "Morgan Freeman",
+          "primaryProfession": "actor,producer,soundtrack"
+        },
+        {
+          "birthYear": "1969",
+          "deathYear": "",
+          "knownForTitles": "tt0120737,tt0458352,tt0434409",
+          "nconst": "nm0000456",
+          "primaryName": "Cate Blanchett",
+          "primaryProfession": "actress,producer,soundtrack"
+        }
+      ]
+    }
+  }
+}

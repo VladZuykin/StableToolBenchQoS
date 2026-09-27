@@ -1,0 +1,194 @@
+{
+  "{\"cursor\":\"t3_def456\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": "t3_ghi789",
+        "posts": [
+          {
+            "author": "science_daily",
+            "authorId": "t2_def456",
+            "authorIsBlocked": false,
+            "belongsTo": {
+              "id": "t5_2qm4e",
+              "type": "subreddit"
+            },
+            "contestMode": false,
+            "created": 1698765000,
+            "discussionType": null,
+            "distinguishType": null,
+            "domain": "sciencemag.org",
+            "flair": [
+              {
+                "backgroundColor": "#ffd635",
+                "templateId": "flair-042",
+                "text": "Health",
+                "textColor": "#1c1c1c",
+                "type": "text"
+              }
+            ],
+            "gildings": null,
+            "goldCount": 2,
+            "hidden": false,
+            "id": "t3_pqr321",
+            "isArchived": false,
+            "isBlank": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMediaOnly": false,
+            "isMeta": false,
+            "isNSFW": false,
+            "isSpoiler": false,
+            "isSponsored": false,
+            "isStickied": false,
+            "numComments": 89,
+            "numDuplicates": null,
+            "postCategories": null,
+            "postId": "pqr321",
+            "saved": false,
+            "score": 1870,
+            "sendReplies": true,
+            "suggestedSort": null,
+            "thumbnail": {
+              "height": 105,
+              "url": "https://a.thumbs.redditmedia.com/example2.jpg",
+              "width": 140
+            },
+            "title": "New study reveals surprising benefits of cold showers",
+            "upvoteRatio": 0.91,
+            "viewCount": 9870
+          }
+        ]
+      },
+      "success": true
+    }
+  },
+  "{\"cursor\":\"t3_jkl012\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": "t3_mno345",
+        "posts": [
+          {
+            "author": "maker_enthusiast",
+            "authorId": "t2_ghi789",
+            "authorIsBlocked": false,
+            "belongsTo": {
+              "id": "t5_2qh0y",
+              "type": "subreddit"
+            },
+            "contestMode": false,
+            "created": 1698764500,
+            "discussionType": null,
+            "distinguishType": null,
+            "domain": "github.com",
+            "flair": [
+              {
+                "backgroundColor": "#ff4500",
+                "templateId": "flair-108",
+                "text": "Project",
+                "textColor": "#ffffff",
+                "type": "text"
+              }
+            ],
+            "gildings": null,
+            "goldCount": 5,
+            "hidden": false,
+            "id": "t3_stu654",
+            "isArchived": false,
+            "isBlank": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMediaOnly": false,
+            "isMeta": false,
+            "isNSFW": false,
+            "isSpoiler": false,
+            "isSponsored": false,
+            "isStickied": false,
+            "numComments": 312,
+            "numDuplicates": null,
+            "postCategories": null,
+            "postId": "stu654",
+            "saved": false,
+            "score": 5320,
+            "sendReplies": true,
+            "suggestedSort": null,
+            "thumbnail": {
+              "height": 140,
+              "url": "https://b.thumbs.redditmedia.com/example3.jpg",
+              "width": 140
+            },
+            "title": "I built a fully offline AI assistant that runs on a Raspberry Pi",
+            "upvoteRatio": 0.97,
+            "viewCount": 42100
+          }
+        ]
+      },
+      "success": true
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": "t3_abc123",
+        "posts": [
+          {
+            "author": "curious_mind",
+            "authorId": "t2_abc123",
+            "authorIsBlocked": false,
+            "belongsTo": {
+              "id": "t5_2qh1i",
+              "type": "subreddit"
+            },
+            "contestMode": false,
+            "created": 1698765432,
+            "discussionType": null,
+            "distinguishType": null,
+            "domain": "self.AskReddit",
+            "flair": [
+              {
+                "backgroundColor": "#0079d3",
+                "templateId": "flair-001",
+                "text": "Discussion",
+                "textColor": "#ffffff",
+                "type": "text"
+              }
+            ],
+            "gildings": null,
+            "goldCount": 0,
+            "hidden": false,
+            "id": "t3_xyz789",
+            "isArchived": false,
+            "isBlank": false,
+            "isGildable": true,
+            "isLocked": false,
+            "isMediaOnly": false,
+            "isMeta": false,
+            "isNSFW": false,
+            "isSpoiler": false,
+            "isSponsored": false,
+            "isStickied": false,
+            "numComments": 142,
+            "numDuplicates": null,
+            "postCategories": null,
+            "postId": "xyz789",
+            "saved": false,
+            "score": 2450,
+            "sendReplies": true,
+            "suggestedSort": null,
+            "thumbnail": {
+              "height": 78,
+              "url": "https://b.thumbs.redditmedia.com/example1.jpg",
+              "width": 140
+            },
+            "title": "What's the most underrated skill everyone should learn?",
+            "upvoteRatio": 0.94,
+            "viewCount": 15230
+          }
+        ]
+      },
+      "success": true
+    }
+  }
+}

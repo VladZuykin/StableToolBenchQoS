@@ -1,0 +1,143 @@
+{
+  "{\"limit\":\"1\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "14",
+        "name": "Rhyth",
+        "stats": {
+          "graffiti": 7,
+          "power": 6,
+          "speed": 8
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"10\",\"orderby\":\"desc\",\"sortby\":\"stats\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "4",
+        "name": "Tab",
+        "stats": {
+          "graffiti": 5,
+          "power": 9,
+          "speed": 7
+        }
+      },
+      {
+        "id": "5",
+        "name": "Piranha",
+        "stats": {
+          "graffiti": 4,
+          "power": 8,
+          "speed": 8
+        }
+      },
+      {
+        "id": "6",
+        "name": "Yo-Yo",
+        "stats": {
+          "graffiti": 6,
+          "power": 7,
+          "speed": 9
+        }
+      },
+      {
+        "id": "7",
+        "name": "Clutch",
+        "stats": {
+          "graffiti": 9,
+          "power": 6,
+          "speed": 7
+        }
+      },
+      {
+        "id": "8",
+        "name": "Mew",
+        "stats": {
+          "graffiti": 8,
+          "power": 5,
+          "speed": 8
+        }
+      },
+      {
+        "id": "9",
+        "name": "Cube",
+        "stats": {
+          "graffiti": 10,
+          "power": 4,
+          "speed": 6
+        }
+      },
+      {
+        "id": "10",
+        "name": "Combo",
+        "stats": {
+          "graffiti": 7,
+          "power": 8,
+          "speed": 5
+        }
+      },
+      {
+        "id": "11",
+        "name": "Slider",
+        "stats": {
+          "graffiti": 6,
+          "power": 7,
+          "speed": 6
+        }
+      },
+      {
+        "id": "12",
+        "name": "Garam",
+        "stats": {
+          "graffiti": 5,
+          "power": 6,
+          "speed": 9
+        }
+      },
+      {
+        "id": "13",
+        "name": "Boogie",
+        "stats": {
+          "graffiti": 9,
+          "power": 5,
+          "speed": 7
+        }
+      }
+    ]
+  },
+  "{\"limit\":\"3\",\"orderby\":\"asc\",\"sortby\":\"name\"}": {
+    "error": "",
+    "response": [
+      {
+        "id": "1",
+        "name": "Beat",
+        "stats": {
+          "graffiti": 6,
+          "power": 7,
+          "speed": 8
+        }
+      },
+      {
+        "id": "2",
+        "name": "Gum",
+        "stats": {
+          "graffiti": 7,
+          "power": 5,
+          "speed": 9
+        }
+      },
+      {
+        "id": "3",
+        "name": "Corn",
+        "stats": {
+          "graffiti": 8,
+          "power": 6,
+          "speed": 6
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": {},
+      "message": "endpoint reached",
+      "status": "ok"
+    }
+  }
+}

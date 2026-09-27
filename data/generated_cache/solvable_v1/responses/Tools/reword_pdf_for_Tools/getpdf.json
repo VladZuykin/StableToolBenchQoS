@@ -1,0 +1,32 @@
+{
+  "{\"pdfid\":\"annual_report_2023\"}": {
+    "error": "",
+    "response": {
+      "fileName": "annual_report_2023.pdf",
+      "pageCount": 42,
+      "pdfId": "annual_report_2023",
+      "status": "success",
+      "text": "Annual Report 2023\n\nExecutive Summary\nThis year marked significant growth across all business segments..."
+    }
+  },
+  "{\"pdfid\":\"contract_draft_v2\"}": {
+    "error": "",
+    "response": {
+      "fileName": "contract_draft_v2.pdf",
+      "pageCount": 15,
+      "pdfId": "contract_draft_v2",
+      "status": "success",
+      "text": "SERVICE AGREEMENT\n\nThis Agreement is entered into as of the Effective Date by and between..."
+    }
+  },
+  "{\"pdfid\":\"invoice-88421\"}": {
+    "error": "",
+    "response": {
+      "fileName": "invoice-88421.pdf",
+      "pageCount": 2,
+      "pdfId": "invoice-88421",
+      "status": "success",
+      "text": "INVOICE #88421\nDate: March 14, 2024\nBill To: Acme Corporation\nTotal Due: $4,250.00"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "{\"searchtopic\":\"inception\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:8b1a9953c4611296a827abf8c47804d7",
+          "Quality": "1080p",
+          "Size": "2.1 GB",
+          "Torrent": "https://yts.mx/torrent/download/8b1a9953c4611296a827abf8c47804d7",
+          "Type": "BluRay"
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:5c2f9a1e4b7d3f8a6c0e2d9b1a4f7c3e",
+          "Quality": "720p",
+          "Size": "1.1 GB",
+          "Torrent": "https://yts.mx/torrent/download/5c2f9a1e4b7d3f8a6c0e2d9b1a4f7c3e",
+          "Type": "BluRay"
+        }
+      ],
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Language": "English",
+      "Likes": "0",
+      "Name": "Inception",
+      "Poster": "https://yts.mx/assets/images/movies/inception_2010/medium-cover.jpg",
+      "Rating": "8.8",
+      "ReleasedDate": "2010-07-16",
+      "Runtime": "148 min",
+      "Url": "https://yts.mx/movies/inception-2010"
+    }
+  },
+  "{\"searchtopic\":\"interstellar\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:1a4b7c2d5e8f0a3b6c9d1e4f7a2b5c8d",
+          "Quality": "1080p",
+          "Size": "2.8 GB",
+          "Torrent": "https://yts.mx/torrent/download/1a4b7c2d5e8f0a3b6c9d1e4f7a2b5c8d",
+          "Type": "WEB"
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:6c9d2e5f8a1b4c7d0e3f6a9b2c5d8e1f",
+          "Quality": "720p",
+          "Size": "1.4 GB",
+          "Torrent": "https://yts.mx/torrent/download/6c9d2e5f8a1b4c7d0e3f6a9b2c5d8e1f",
+          "Type": "WEB"
+        }
+      ],
+      "Genre": "Adventure, Drama, Sci-Fi",
+      "Language": "English",
+      "Likes": "0",
+      "Name": "Interstellar",
+      "Poster": "https://yts.mx/assets/images/movies/interstellar_2014/medium-cover.jpg",
+      "Rating": "8.6",
+      "ReleasedDate": "2014-11-07",
+      "Runtime": "169 min",
+      "Url": "https://yts.mx/movies/interstellar-2014"
+    }
+  },
+  "{\"searchtopic\":\"the matrix\"}": {
+    "error": "",
+    "response": {
+      "Files": [
+        {
+          "Magnet": "magnet:?xt=urn:btih:3f9a2b7c1d4e8f0a6b5c9d2e7f1a3b8c",
+          "Quality": "2160p",
+          "Size": "5.4 GB",
+          "Torrent": "https://yts.mx/torrent/download/3f9a2b7c1d4e8f0a6b5c9d2e7f1a3b8c",
+          "Type": "BluRay"
+        },
+        {
+          "Magnet": "magnet:?xt=urn:btih:9d1e4c7a2b5f8e0d3a6c9b1f4e7d2a5c",
+          "Quality": "1080p",
+          "Size": "2.3 GB",
+          "Torrent": "https://yts.mx/torrent/download/9d1e4c7a2b5f8e0d3a6c9b1f4e7d2a5c",
+          "Type": "BluRay"
+        }
+      ],
+      "Genre": "Action, Sci-Fi",
+      "Language": "English",
+      "Likes": "0",
+      "Name": "The Matrix",
+      "Poster": "https://yts.mx/assets/images/movies/the_matrix_1999/medium-cover.jpg",
+      "Rating": "8.7",
+      "ReleasedDate": "1999-03-31",
+      "Runtime": "136 min",
+      "Url": "https://yts.mx/movies/the-matrix-1999"
+    }
+  }
+}

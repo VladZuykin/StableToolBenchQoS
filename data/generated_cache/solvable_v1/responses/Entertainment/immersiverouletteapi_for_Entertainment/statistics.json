@@ -1,0 +1,51 @@
+{
+  "{\"duration\":1}": {
+    "error": "",
+    "response": {
+      "wheelResults": [
+        {
+          "count": 42,
+          "hotFrequencyPercentage": 1.11,
+          "lastOccurredAt": "2024-06-11T14:00:00Z",
+          "lastSeenBefore": "2024-06-11T13:00:00Z",
+          "percentage": 8.33
+        },
+        {
+          "count": 37,
+          "hotFrequencyPercentage": 0.92,
+          "lastOccurredAt": "2024-06-11T12:00:00Z",
+          "lastSeenBefore": "2024-06-11T09:00:00Z",
+          "percentage": 7.34
+        }
+      ]
+    }
+  },
+  "{\"duration\":72}": {
+    "error": "",
+    "response": {
+      "wheelResults": [
+        {
+          "count": 512,
+          "hotFrequencyPercentage": 1.11,
+          "lastOccurredAt": "2024-06-11T14:00:00Z",
+          "lastSeenBefore": "2024-06-11T13:00:00Z",
+          "percentage": 9.87
+        },
+        {
+          "count": 498,
+          "hotFrequencyPercentage": 1.04,
+          "lastOccurredAt": "2024-06-11T11:00:00Z",
+          "lastSeenBefore": "2024-06-11T08:00:00Z",
+          "percentage": 9.6
+        },
+        {
+          "count": 476,
+          "hotFrequencyPercentage": 0.98,
+          "lastOccurredAt": "2024-06-11T10:00:00Z",
+          "lastSeenBefore": "2024-06-11T07:00:00Z",
+          "percentage": 9.18
+        }
+      ]
+    }
+  }
+}

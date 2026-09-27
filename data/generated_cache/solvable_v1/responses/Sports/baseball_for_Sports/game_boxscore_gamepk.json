@@ -1,0 +1,81 @@
+{
+  "{\"gamepk\":\"633282\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": {
+        "away": {
+          "team": {
+            "abbreviation": "NYY",
+            "division": {
+              "id": 201,
+              "name": "American League East"
+            },
+            "id": 147,
+            "league": {
+              "id": 103,
+              "name": "American League"
+            },
+            "locationName": "New York",
+            "name": "New York Yankees",
+            "record": {
+              "losses": 30,
+              "winningPercentage": ".600",
+              "wins": 45
+            },
+            "teamName": "Yankees"
+          },
+          "teamStats": {
+            "batting": {
+              "errors": 0,
+              "hits": 9,
+              "runs": 5
+            },
+            "pitching": {
+              "hitsAllowed": 7,
+              "runsAllowed": 3,
+              "strikeOuts": 10
+            }
+          }
+        },
+        "home": {
+          "team": {
+            "abbreviation": "BOS",
+            "division": {
+              "id": 201,
+              "name": "American League East"
+            },
+            "id": 111,
+            "league": {
+              "id": 103,
+              "name": "American League"
+            },
+            "locationName": "Boston",
+            "name": "Boston Red Sox",
+            "record": {
+              "losses": 35,
+              "winningPercentage": ".533",
+              "wins": 40
+            },
+            "teamName": "Red Sox"
+          },
+          "teamStats": {
+            "batting": {
+              "errors": 1,
+              "hits": 7,
+              "runs": 3
+            },
+            "pitching": {
+              "hitsAllowed": 9,
+              "runsAllowed": 5,
+              "strikeOuts": 8
+            }
+          }
+        }
+      }
+    }
+  }
+}

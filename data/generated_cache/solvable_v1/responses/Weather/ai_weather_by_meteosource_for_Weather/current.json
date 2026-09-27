@@ -1,0 +1,37 @@
+{
+  "{\"language\":\"fr\",\"lat\":\"48.8566N\",\"lon\":\"2.3522E\",\"timezone\":\"Europe/Paris\",\"units\":\"metric\"}": {
+    "error": "",
+    "response": {
+      "current": {
+        "cloud_cover": 42,
+        "dew_point": 11.2,
+        "feels_like": 17.9,
+        "humidity": 63,
+        "icon": "partly-cloudy",
+        "icon_num": 3,
+        "ozone": 312.4,
+        "precipitation": {
+          "total": 0.0,
+          "type": "none"
+        },
+        "pressure": 1015.8,
+        "summary": "Partiellement nuageux",
+        "temperature": 18.4,
+        "uv_index": 4.1,
+        "visibility": 14.0,
+        "wind": {
+          "angle": 245,
+          "dir": "WSW",
+          "gusts": 7.2,
+          "speed": 3.6
+        },
+        "wind_chill": 17.5
+      },
+      "elevation": 35,
+      "lat": "48.8566",
+      "lon": "2.3522",
+      "timezone": "Europe/Paris",
+      "units": "metric"
+    }
+  }
+}

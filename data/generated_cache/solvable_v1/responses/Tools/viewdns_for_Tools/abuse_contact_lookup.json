@@ -1,0 +1,26 @@
+{
+  "{\"domain\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "abuse_contact": "abuse@example.com",
+      "domain": "example.com",
+      "source": "whois"
+    }
+  },
+  "{\"domain\":\"github.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "abuse_contact": "abuse@github.com",
+      "domain": "github.com",
+      "source": "whois"
+    }
+  },
+  "{\"domain\":\"google.com\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": {
+      "abuse_contact": "abuse@google.com",
+      "domain": "google.com",
+      "source": "whois"
+    }
+  }
+}

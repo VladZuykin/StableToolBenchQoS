@@ -1,0 +1,151 @@
+{
+  "{\"gl\":\"au\",\"google_domain\":\"google.com.au\",\"hl\":\"en\",\"location\":\"Sydney,New South Wales,Australia\",\"location_auto\":\"false\",\"product_id\":\"55555555555555555555\",\"type\":\"product\",\"uule\":\"w+CAIQICIGU3lkbmV5\"}": {
+    "error": "",
+    "response": {
+      "availability": "In stock",
+      "brand": "Dyson",
+      "condition": "New",
+      "description": "Cordless vacuum with laser dust detection and piezo sensor that automatically adapts suction power.",
+      "gl": "au",
+      "hl": "en",
+      "images": [
+        "https://example.com/images/dyson-v15-1.jpg",
+        "https://example.com/images/dyson-v15-2.jpg"
+      ],
+      "location": "Sydney,New South Wales,Australia",
+      "price": {
+        "currency": "AUD",
+        "raw": "$1,249.00",
+        "value": 1249.0
+      },
+      "product_id": "55555555555555555555",
+      "rating": 4.6,
+      "reviews_count": 987,
+      "sellers": [
+        {
+          "condition": "New",
+          "name": "The Good Guys",
+          "price": {
+            "currency": "AUD",
+            "value": 1249.0
+          },
+          "shipping": "Free shipping"
+        },
+        {
+          "condition": "New",
+          "name": "JB Hi-Fi",
+          "price": {
+            "currency": "AUD",
+            "value": 1269.0
+          },
+          "shipping": "Free shipping"
+        }
+      ],
+      "specifications": {
+        "Bin Volume": "0.76 L",
+        "Run Time": "Up to 60 minutes",
+        "Weight": "3.1 kg"
+      },
+      "title": "Dyson V15 Detect Cordless Vacuum Cleaner"
+    }
+  },
+  "{\"gl\":\"uk\",\"google_domain\":\"google.co.uk\",\"hl\":\"en\",\"location\":\"London,England,United Kingdom\",\"product_condition_new\":\"true\",\"product_id\":\"12345678901234567890\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "availability": "In stock",
+      "brand": "Sony",
+      "condition": "New",
+      "description": "Industry-leading noise cancellation with two processors and eight microphones. Up to 30-hour battery life and quick charging.",
+      "gl": "uk",
+      "hl": "en",
+      "images": [
+        "https://example.com/images/sony-wh1000xm5-1.jpg",
+        "https://example.com/images/sony-wh1000xm5-2.jpg"
+      ],
+      "location": "London,England,United Kingdom",
+      "price": {
+        "currency": "GBP",
+        "raw": "£349.99",
+        "value": 349.99
+      },
+      "product_id": "12345678901234567890",
+      "rating": 4.7,
+      "reviews_count": 2841,
+      "sellers": [
+        {
+          "condition": "New",
+          "name": "Amazon UK",
+          "price": {
+            "currency": "GBP",
+            "value": 349.99
+          },
+          "shipping": "Free shipping"
+        },
+        {
+          "condition": "New",
+          "name": "Currys",
+          "price": {
+            "currency": "GBP",
+            "value": 359.0
+          },
+          "shipping": "£4.99 shipping"
+        }
+      ],
+      "specifications": {
+        "Battery Life": "30 hours",
+        "Color": "Black",
+        "Connectivity": "Bluetooth 5.2"
+      },
+      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones"
+    }
+  },
+  "{\"gl\":\"us\",\"google_domain\":\"google.com\",\"hl\":\"en\",\"location\":\"90210,California,United States\",\"product_condition_used\":\"true\",\"product_free_shipping\":\"true\",\"product_id\":\"98765432109876543210\",\"type\":\"product\"}": {
+    "error": "",
+    "response": {
+      "availability": "In stock",
+      "brand": "Apple",
+      "condition": "Used",
+      "description": "Refurbished 14-inch MacBook Pro with M1 Pro chip, 16GB unified memory and 512GB SSD storage.",
+      "gl": "us",
+      "hl": "en",
+      "images": [
+        "https://example.com/images/macbook-pro-14-1.jpg"
+      ],
+      "location": "90210,California,United States",
+      "price": {
+        "currency": "USD",
+        "raw": "$1,299.00",
+        "value": 1299.0
+      },
+      "product_id": "98765432109876543210",
+      "rating": 4.5,
+      "reviews_count": 512,
+      "sellers": [
+        {
+          "condition": "Used - Excellent",
+          "name": "Back Market",
+          "price": {
+            "currency": "USD",
+            "value": 1299.0
+          },
+          "shipping": "Free shipping"
+        },
+        {
+          "condition": "Used - Good",
+          "name": "eBay Refurbished",
+          "price": {
+            "currency": "USD",
+            "value": 1249.0
+          },
+          "shipping": "Free shipping"
+        }
+      ],
+      "specifications": {
+        "Display": "14.2-inch Liquid Retina XDR",
+        "Memory": "16GB",
+        "Storage": "512GB SSD"
+      },
+      "title": "Apple MacBook Pro 14-inch (2021) M1 Pro"
+    }
+  }
+}

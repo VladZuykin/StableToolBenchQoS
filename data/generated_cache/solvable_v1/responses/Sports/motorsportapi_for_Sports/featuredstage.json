@@ -1,0 +1,60 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "stages": [
+        {
+          "_list_length": 9,
+          "country": {
+            "alpha2": "IT",
+            "name": "Italy"
+          },
+          "description": "The Italian Grand Prix is held at the Autodromo Nazionale Monza, one of the fastest circuits in the world.",
+          "endDateTimestamp": 1693843200,
+          "flag": "it",
+          "id": 12345,
+          "info": {
+            "circuit": "Autodromo Nazionale Monza",
+            "circuitCity": "Monza",
+            "circuitCountry": "Italy",
+            "circuitLength": 5793
+          },
+          "name": "Italian Grand Prix",
+          "seasonStageName": "Round 15",
+          "slug": "italian-grand-prix",
+          "stageParent": {
+            "description": "Formula 1 World Championship",
+            "id": 100,
+            "startDateTimestamp": 1688169600
+          },
+          "startDateTimestamp": 1693756800,
+          "status": {
+            "description": "Finished",
+            "type": "finished"
+          },
+          "type": {
+            "id": 1,
+            "name": "Race"
+          },
+          "uniqueStage": {
+            "category": {
+              "flag": "it",
+              "id": 10,
+              "name": "Formula 1",
+              "slug": "formula-1",
+              "sport": {
+                "id": 1,
+                "name": "Motorsport",
+                "slug": "motorsport"
+              }
+            },
+            "id": 500,
+            "name": "Italian Grand Prix",
+            "slug": "italian-grand-prix"
+          },
+          "year": "2023"
+        }
+      ]
+    }
+  }
+}

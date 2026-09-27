@@ -1,0 +1,37 @@
+{
+  "{\"folder\":\"archive/2024\",\"searchcontextid\":\"ctx-5c1a8b3d\",\"similaritythreshold\":0.95,\"storage\":\"CloudStorage\"}": {
+    "error": "",
+    "response": {
+      "duplicates": []
+    }
+  },
+  "{\"folder\":\"images/photos\",\"searchcontextid\":\"ctx-8f3a1b2c\",\"similaritythreshold\":0.85,\"storage\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "duplicates": [
+        {
+          "image1": "images/photos/cat1.jpg",
+          "image2": "images/photos/cat1_copy.jpg",
+          "similarity": 0.97
+        },
+        {
+          "image1": "images/photos/sunset.png",
+          "image2": "images/photos/sunset_edit.png",
+          "similarity": 0.89
+        }
+      ]
+    }
+  },
+  "{\"searchcontextid\":\"ctx-2d9e4f7a\",\"similaritythreshold\":0.7}": {
+    "error": "",
+    "response": {
+      "duplicates": [
+        {
+          "image1": "photo_a.png",
+          "image2": "photo_b.png",
+          "similarity": 0.74
+        }
+      ]
+    }
+  }
+}

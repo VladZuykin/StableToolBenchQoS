@@ -1,0 +1,64 @@
+{
+  "{\"count\":1}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomUser",
+      "parameters": [
+        {
+          "count": 1
+        }
+      ],
+      "response": [
+        {
+          "age": 34,
+          "city": "Portland",
+          "country": "United States",
+          "email": "marcus.delgado@example.com",
+          "name": "Marcus Delgado",
+          "username": "mdelgado"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"count\":3}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "getRandomUser",
+      "parameters": [
+        {
+          "count": 3
+        }
+      ],
+      "response": [
+        {
+          "age": 27,
+          "city": "Osaka",
+          "country": "Japan",
+          "email": "aiko.tanaka@example.com",
+          "name": "Aiko Tanaka",
+          "username": "aikotanaka"
+        },
+        {
+          "age": 41,
+          "city": "Bengaluru",
+          "country": "India",
+          "email": "priya.nair@example.com",
+          "name": "Priya Nair",
+          "username": "pnair"
+        },
+        {
+          "age": 52,
+          "city": "Munich",
+          "country": "Germany",
+          "email": "lukas.weber@example.com",
+          "name": "Lukas Weber",
+          "username": "lweber"
+        }
+      ],
+      "results": 3
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "service_status": {
+        "availability": {
+          "by_country": [
+            {
+              "country_iso": "US",
+              "proxies": 18432
+            },
+            {
+              "country_iso": "GB",
+              "proxies": 5210
+            },
+            {
+              "country_iso": "DE",
+              "proxies": 4783
+            },
+            {
+              "country_iso": "FR",
+              "proxies": 3120
+            },
+            {
+              "country_iso": "BR",
+              "proxies": 2874
+            },
+            {
+              "country_iso": "IN",
+              "proxies": 2451
+            },
+            {
+              "country_iso": "CA",
+              "proxies": 1987
+            },
+            {
+              "country_iso": "JP",
+              "proxies": 1654
+            },
+            {
+              "country_iso": "AU",
+              "proxies": 1203
+            },
+            {
+              "country_iso": "NL",
+              "proxies": 987
+            },
+            {
+              "country_iso": "ES",
+              "proxies": 845
+            },
+            {
+              "country_iso": "IT",
+              "proxies": 792
+            },
+            {
+              "country_iso": "MX",
+              "proxies": 654
+            },
+            {
+              "country_iso": "PL",
+              "proxies": 512
+            },
+            {
+              "country_iso": "SE",
+              "proxies": 431
+            },
+            {
+              "country_iso": "SG",
+              "proxies": 398
+            },
+            {
+              "country_iso": "ZA",
+              "proxies": 312
+            },
+            {
+              "country_iso": "AR",
+              "proxies": 287
+            },
+            {
+              "country_iso": "KR",
+              "proxies": 254
+            },
+            {
+              "country_iso": "TR",
+              "proxies": 221
+            },
+            {
+              "country_iso": "ID",
+              "proxies": 198
+            },
+            {
+              "country_iso": "PH",
+              "proxies": 176
+            },
+            {
+              "country_iso": "VN",
+              "proxies": 154
+            },
+            {
+              "country_iso": "TH",
+              "proxies": 132
+            },
+            {
+              "country_iso": "MY",
+              "proxies": 118
+            },
+            {
+              "country_iso": "NG",
+              "proxies": 97
+            },
+            {
+              "country_iso": "EG",
+              "proxies": 84
+            },
+            {
+              "country_iso": "SA",
+              "proxies": 76
+            },
+            {
+              "country_iso": "AE",
+              "proxies": 63
+            },
+            {
+              "country_iso": "IL",
+              "proxies": 52
+            },
+            {
+              "country_iso": "CH",
+              "proxies": 44
+            },
+            {
+              "country_iso": "NO",
+              "proxies": 31
+            }
+          ],
+          "total": {
+            "proxies": 45231
+          }
+        }
+      },
+      "success": true
+    }
+  }
+}

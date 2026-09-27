@@ -1,0 +1,55 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "_list_length": 155,
+          "icon": "https://cdn.lostark.example/icons/sailors/blackfang.png",
+          "name": "Blackfang",
+          "rank": "Legendary",
+          "resistance": {
+            "cold_snap": "Good",
+            "dead_waters": "Good",
+            "kelp_beds": "Good",
+            "sandstorm": "Good",
+            "siren": "Good",
+            "tempest": "Good"
+          },
+          "speed": "4.5"
+        },
+        {
+          "_list_length": 155,
+          "icon": "https://cdn.lostark.example/icons/sailors/berald.png",
+          "name": "Berald",
+          "rank": "Epic",
+          "resistance": {
+            "cold_snap": "Normal",
+            "dead_waters": "Normal",
+            "kelp_beds": "Good",
+            "sandstorm": "Normal",
+            "siren": "Normal",
+            "tempest": "Normal"
+          },
+          "speed": "3.9"
+        },
+        {
+          "_list_length": 155,
+          "icon": "https://cdn.lostark.example/icons/sailors/pompom.png",
+          "name": "Pom Pom",
+          "rank": "Rare",
+          "resistance": {
+            "cold_snap": "Weak",
+            "dead_waters": "Normal",
+            "kelp_beds": "Normal",
+            "sandstorm": "Weak",
+            "siren": "Normal",
+            "tempest": "Weak"
+          },
+          "speed": "3.2"
+        }
+      ],
+      "status": "success"
+    }
+  }
+}

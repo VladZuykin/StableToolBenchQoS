@@ -1,0 +1,287 @@
+{
+  "{\"keyword\":\"kitchen knife set\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "goodsList": [
+          {
+            "data": {
+              "benefitText": {
+                "text": "Extra 10% off with coupon"
+              },
+              "goodsId": 602345678901,
+              "goodsTags": [
+                {
+                  "_list_length": 1,
+                  "color": "#52C41A",
+                  "extMap": {
+                    "extraText": "Best seller"
+                  },
+                  "height": 22,
+                  "tagId": 201,
+                  "tagSeries": 3,
+                  "text": "Best Seller",
+                  "url": "https://www.temu.com/tag/best-seller",
+                  "width": 70
+                }
+              ],
+              "mallId": 876543210,
+              "pageAlt": "Kitchen Knife Set - Stainless Steel",
+              "priceInfo": {
+                "currency": "USD",
+                "marketPrice": 2881,
+                "marketPriceStr": "$28.81",
+                "marketPriceText": [
+                  "$",
+                  "28",
+                  ".81"
+                ],
+                "price": 2449,
+                "priceStr": "$24.49",
+                "priceText": [
+                  "$",
+                  "24",
+                  ".49"
+                ],
+                "reduction": 432,
+                "reductionText": [
+                  "-15%",
+                  "was $28.81"
+                ]
+              },
+              "specialTags": [
+                {
+                  "_list_length": 1,
+                  "endTime": 1736294400,
+                  "footer": {
+                    "endTime": 1736294400,
+                    "iconImg": "https://img.temu.com/icons/clock.png",
+                    "text": "Limited time"
+                  },
+                  "header": {
+                    "iconImg": "https://img.temu.com/icons/deal.png",
+                    "text": "Deal"
+                  },
+                  "splitLine": 0
+                }
+              ],
+              "tagsInfo": {
+                "goodsTags": [
+                  {
+                    "_list_length": 1,
+                    "color": "#1890FF",
+                    "extMap": {
+                      "extraText": "New"
+                    },
+                    "height": 18,
+                    "tagId": 202,
+                    "tagSeries": 4,
+                    "text": "New",
+                    "url": "https://www.temu.com/tag/new",
+                    "width": 35
+                  }
+                ],
+                "promotionTags": [
+                  {
+                    "dx": "1"
+                  }
+                ]
+              },
+              "title": "5-Piece Stainless Steel Kitchen Knife Set with Block"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "{\"keyword\":\"wireless earbuds\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "goodsList": [
+          {
+            "data": {
+              "benefitText": {
+                "text": "Save $5 on orders over $50"
+              },
+              "goodsId": 601234567890,
+              "goodsTags": [
+                {
+                  "_list_length": 1,
+                  "color": "#FF4D4F",
+                  "extMap": {
+                    "extraText": "Free shipping"
+                  },
+                  "height": 20,
+                  "tagId": 101,
+                  "tagSeries": 1,
+                  "text": "Free Shipping",
+                  "url": "https://www.temu.com/tag/free-shipping",
+                  "width": 60
+                }
+              ],
+              "mallId": 987654321,
+              "pageAlt": "Wireless Earbuds - Bluetooth 5.3",
+              "priceInfo": {
+                "currency": "USD",
+                "marketPrice": 1856,
+                "marketPriceStr": "$18.56",
+                "marketPriceText": [
+                  "$",
+                  "18",
+                  ".56"
+                ],
+                "price": 1299,
+                "priceStr": "$12.99",
+                "priceText": [
+                  "$",
+                  "12",
+                  ".99"
+                ],
+                "reduction": 557,
+                "reductionText": [
+                  "-30%",
+                  "was $18.56"
+                ]
+              },
+              "specialTags": [
+                {
+                  "_list_length": 1,
+                  "endTime": 1735689600,
+                  "footer": {
+                    "endTime": 1735689600,
+                    "iconImg": "https://img.temu.com/icons/flash.png",
+                    "text": "Ends soon"
+                  },
+                  "header": {
+                    "iconImg": "https://img.temu.com/icons/lightning.png",
+                    "text": "Flash Sale"
+                  },
+                  "splitLine": 1
+                }
+              ],
+              "tagsInfo": {
+                "goodsTags": [
+                  {
+                    "_list_length": 1,
+                    "color": "#FF7A45",
+                    "extMap": {
+                      "extraText": "Hot"
+                    },
+                    "height": 18,
+                    "tagId": 102,
+                    "tagSeries": 2,
+                    "text": "Hot",
+                    "url": "https://www.temu.com/tag/hot",
+                    "width": 40
+                  }
+                ],
+                "promotionTags": [
+                  {
+                    "dx": "0"
+                  }
+                ]
+              },
+              "title": "TWS Wireless Earbuds Bluetooth 5.3 with Charging Case"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "{\"keyword\":\"yoga mat\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "goodsList": [
+          {
+            "data": {
+              "benefitText": {
+                "text": "Buy 2 get 1 free"
+              },
+              "goodsId": 603456789012,
+              "goodsTags": [
+                {
+                  "_list_length": 1,
+                  "color": "#722ED1",
+                  "extMap": {
+                    "extraText": "Eco-friendly"
+                  },
+                  "height": 20,
+                  "tagId": 301,
+                  "tagSeries": 5,
+                  "text": "Eco-Friendly",
+                  "url": "https://www.temu.com/tag/eco-friendly",
+                  "width": 80
+                }
+              ],
+              "mallId": 765432109,
+              "pageAlt": "Yoga Mat - Non-Slip",
+              "priceInfo": {
+                "currency": "USD",
+                "marketPrice": 2499,
+                "marketPriceStr": "$24.99",
+                "marketPriceText": [
+                  "$",
+                  "24",
+                  ".99"
+                ],
+                "price": 1999,
+                "priceStr": "$19.99",
+                "priceText": [
+                  "$",
+                  "19",
+                  ".99"
+                ],
+                "reduction": 500,
+                "reductionText": [
+                  "-20%",
+                  "was $24.99"
+                ]
+              },
+              "specialTags": [
+                {
+                  "_list_length": 1,
+                  "endTime": 1736899200,
+                  "footer": {
+                    "endTime": 1736899200,
+                    "iconImg": "https://img.temu.com/icons/star.png",
+                    "text": "Top rated"
+                  },
+                  "header": {
+                    "iconImg": "https://img.temu.com/icons/top.png",
+                    "text": "Top Pick"
+                  },
+                  "splitLine": 1
+                }
+              ],
+              "tagsInfo": {
+                "goodsTags": [
+                  {
+                    "_list_length": 1,
+                    "color": "#FAAD14",
+                    "extMap": {
+                      "extraText": "Popular"
+                    },
+                    "height": 18,
+                    "tagId": 302,
+                    "tagSeries": 6,
+                    "text": "Popular",
+                    "url": "https://www.temu.com/tag/popular",
+                    "width": 50
+                  }
+                ],
+                "promotionTags": [
+                  {
+                    "dx": "2"
+                  }
+                ]
+              },
+              "title": "Non-Slip Yoga Mat 1/4 Inch Thick with Carrying Strap"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

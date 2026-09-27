@@ -1,0 +1,32 @@
+{
+  "{\"info\":false,\"limit\":5}": {
+    "error": "",
+    "response": [
+      {
+        "ics": "ICSA-24-123-01",
+        "icsURL": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-123-01",
+        "title": "Siemens SIMATIC S7-1500 CPU Denial-of-Service Vulnerability"
+      },
+      {
+        "ics": "ICSA-24-124-02",
+        "icsURL": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-124-02",
+        "title": "Rockwell Automation ControlLogix Improper Input Validation"
+      },
+      {
+        "ics": "ICSA-24-125-03",
+        "icsURL": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-125-03",
+        "title": "Schneider Electric EcoStruxure Operator Terminal Expert"
+      },
+      {
+        "ics": "ICSA-24-126-04",
+        "icsURL": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-126-04",
+        "title": "Mitsubishi Electric MELSEC iQ-R Series Authentication Bypass"
+      },
+      {
+        "ics": "ICSA-24-127-05",
+        "icsURL": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-127-05",
+        "title": "ABB AC500 PLC Firmware Buffer Overflow"
+      }
+    ]
+  }
+}

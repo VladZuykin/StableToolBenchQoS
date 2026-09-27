@@ -1,0 +1,83 @@
+{
+  "{\"page\":0,\"seasonid\":46701,\"tournamentid\":421}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Leicester Tigers",
+          "homeTeam": "Saracens",
+          "id": 1023456,
+          "seasonId": 46701,
+          "startTime": "2024-05-18T14:00:00Z",
+          "status": "NotStarted",
+          "tournamentId": 421,
+          "venue": "StoneX Stadium"
+        },
+        {
+          "awayTeam": "Northampton Saints",
+          "homeTeam": "Bath Rugby",
+          "id": 1023457,
+          "seasonId": 46701,
+          "startTime": "2024-05-18T16:30:00Z",
+          "status": "NotStarted",
+          "tournamentId": 421,
+          "venue": "Recreation Ground"
+        }
+      ]
+    }
+  },
+  "{\"page\":1,\"seasonid\":46702,\"tournamentid\":422}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Melbourne Storm",
+          "homeTeam": "Brisbane Broncos",
+          "id": 1023460,
+          "seasonId": 46702,
+          "startTime": "2024-06-01T09:50:00Z",
+          "status": "NotStarted",
+          "tournamentId": 422,
+          "venue": "Suncorp Stadium"
+        },
+        {
+          "awayTeam": "Sydney Roosters",
+          "homeTeam": "Penrith Panthers",
+          "id": 1023461,
+          "seasonId": 46702,
+          "startTime": "2024-06-02T06:00:00Z",
+          "status": "NotStarted",
+          "tournamentId": 422,
+          "venue": "BlueBet Stadium"
+        }
+      ]
+    }
+  },
+  "{\"page\":2,\"seasonid\":46703,\"tournamentid\":423}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "awayTeam": "Stade Français",
+          "homeTeam": "Stade Toulousain",
+          "id": 1023470,
+          "seasonId": 46703,
+          "startTime": "2024-06-08T19:05:00Z",
+          "status": "NotStarted",
+          "tournamentId": 423,
+          "venue": "Stade Ernest-Wallon"
+        },
+        {
+          "awayTeam": "La Rochelle",
+          "homeTeam": "Union Bordeaux Bègles",
+          "id": 1023471,
+          "seasonId": 46703,
+          "startTime": "2024-06-09T15:00:00Z",
+          "status": "NotStarted",
+          "tournamentId": 423,
+          "venue": "Stade Chaban-Delmas"
+        }
+      ]
+    }
+  }
+}

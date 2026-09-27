@@ -1,0 +1,87 @@
+{
+  "{\"end_date\":\"20230131\",\"limit\":20,\"page\":1,\"start_date\":\"20230101\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "changes": [
+            {
+              "changeType": "new_episode",
+              "date": "20230115",
+              "episode": "S04E01"
+            }
+          ],
+          "id": 12345,
+          "title": "Stranger Things"
+        },
+        {
+          "changes": [
+            {
+              "changeType": "episode_details_changed",
+              "date": "20230120",
+              "episode": "S05E03"
+            }
+          ],
+          "id": 67890,
+          "title": "The Crown"
+        }
+      ]
+    }
+  },
+  "{\"end_date\":\"20230201180000\",\"limit\":10,\"page\":2,\"start_date\":\"20230201120000\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "changes": [
+            {
+              "changeType": "new_episode",
+              "date": "20230201140000",
+              "episode": "S03E02"
+            }
+          ],
+          "id": 11223,
+          "title": "The Mandalorian"
+        }
+      ]
+    }
+  },
+  "{\"end_date\":\"20230315\",\"limit\":50,\"page\":1,\"start_date\":\"20230301\"}": {
+    "error": "",
+    "response": {
+      "statusCode": 200,
+      "statusMessage": "Success",
+      "success": true,
+      "titles": [
+        {
+          "changes": [
+            {
+              "changeType": "new_episode",
+              "date": "20230305",
+              "episode": "S01E05"
+            }
+          ],
+          "id": 33445,
+          "title": "The Last of Us"
+        },
+        {
+          "changes": [
+            {
+              "changeType": "episode_details_changed",
+              "date": "20230310",
+              "episode": "S03E04"
+            }
+          ],
+          "id": 55667,
+          "title": "Ted Lasso"
+        }
+      ]
+    }
+  }
+}

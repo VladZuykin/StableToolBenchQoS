@@ -1,0 +1,18 @@
+{
+  "{\"url\":\"https://mybusiness.com/contact\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "description": "PNG image of QR code encoding https://mybusiness.com/contact",
+      "image_url": "https://api.example.com/qr?url=https%3A%2F%2Fmybusiness.com%2Fcontact"
+    }
+  },
+  "{\"url\":\"https://www.example.com/products/sale\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "description": "PNG image of QR code encoding https://www.example.com/products/sale",
+      "image_url": "https://api.example.com/qr?url=https%3A%2F%2Fwww.example.com%2Fproducts%2Fsale"
+    }
+  }
+}

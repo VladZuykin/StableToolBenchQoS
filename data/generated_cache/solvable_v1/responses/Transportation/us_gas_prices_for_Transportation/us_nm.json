@@ -1,0 +1,44 @@
+{
+  "{\"date\":\"2023-06-01\"}": {
+    "error": "",
+    "response": {
+      "date": "2023-06-01",
+      "gasoline": {
+        "diesel": 3.99,
+        "mid_grade": 3.81,
+        "premium": 4.04,
+        "regular": 3.58
+      },
+      "state": "New Mexico",
+      "unit": "USD per gallon"
+    }
+  },
+  "{\"date\":\"2024-01-15\"}": {
+    "error": "",
+    "response": {
+      "date": "2024-01-15",
+      "gasoline": {
+        "diesel": 3.72,
+        "mid_grade": 3.34,
+        "premium": 3.57,
+        "regular": 3.11
+      },
+      "state": "New Mexico",
+      "unit": "USD per gallon"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "date": "2024-05-20",
+      "gasoline": {
+        "diesel": 3.95,
+        "mid_grade": 3.65,
+        "premium": 3.88,
+        "regular": 3.42
+      },
+      "state": "New Mexico",
+      "unit": "USD per gallon"
+    }
+  }
+}

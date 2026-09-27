@@ -1,0 +1,83 @@
+{
+  "{\"count\":20,\"cursor\":\"DAABCgABF9x2kQoAAA\",\"is_id\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author_id": "44196397",
+          "created_at": "2024-05-02T09:15:44.000Z",
+          "id": "1765432109876543210",
+          "public_metrics": {
+            "like_count": 2100,
+            "quote_count": 18,
+            "reply_count": 52,
+            "retweet_count": 340
+          },
+          "text": "The best way to predict the future is to build it."
+        },
+        {
+          "author_id": "44196397",
+          "created_at": "2024-05-01T22:03:10.000Z",
+          "id": "1765432109876543211",
+          "public_metrics": {
+            "like_count": 980,
+            "quote_count": 7,
+            "reply_count": 19,
+            "retweet_count": 120
+          },
+          "text": "Rockets are just controlled explosions we decided to trust."
+        }
+      ],
+      "meta": {
+        "next_token": "77qp3mz9x1c8v4b6n2k5j7h0",
+        "result_count": 2
+      }
+    }
+  },
+  "{\"count\":5,\"is_id\":\"783214\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author_id": "783214",
+          "created_at": "2024-03-11T14:22:05.000Z",
+          "id": "1583310903",
+          "public_metrics": {
+            "like_count": 88,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 12
+          },
+          "text": "Just shipped a new feature — excited to share it with everyone soon!"
+        }
+      ],
+      "meta": {
+        "next_token": "7140dibdnow9c7btw3z1q4v2m8k9p0",
+        "result_count": 1
+      }
+    }
+  },
+  "{\"is_id\":\"2244994945\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "author_id": "2244994945",
+          "created_at": "2024-04-18T17:41:29.000Z",
+          "id": "1770000000000000001",
+          "public_metrics": {
+            "like_count": 310,
+            "quote_count": 3,
+            "reply_count": 8,
+            "retweet_count": 45
+          },
+          "text": "Great thread on distributed systems — worth a read."
+        }
+      ],
+      "meta": {
+        "next_token": "9a8b7c6d5e4f3g2h1i0j",
+        "result_count": 1
+      }
+    }
+  }
+}

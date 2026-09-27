@@ -1,0 +1,20 @@
+{
+  "{\"code\":\"200\"}": {
+    "error": "",
+    "response": {
+      "message": "200"
+    }
+  },
+  "{\"code\":\"404\"}": {
+    "error": "",
+    "response": {
+      "message": "404"
+    }
+  },
+  "{\"code\":\"500\"}": {
+    "error": "",
+    "response": {
+      "message": "500"
+    }
+  }
+}

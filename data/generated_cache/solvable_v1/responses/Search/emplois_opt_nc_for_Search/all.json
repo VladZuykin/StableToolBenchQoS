@@ -1,0 +1,45 @@
+{
+  "{}": {
+    "error": "",
+    "response": [
+      {
+        "date_mise_en_ligne": "2024-03-12",
+        "date_recrutement": "2024-04-05",
+        "diplome_formation": "BTS Télécommunications",
+        "direction": "Direction des Réseaux",
+        "duree_contrat": "CDD 12 mois",
+        "experience": "2 ans",
+        "intitule_poste": "Technicien Réseaux et Télécommunications",
+        "langcode": "fr",
+        "lien": "https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi/technicien-reseaux-telecoms",
+        "mission": "Assurer l'exploitation et la maintenance des équipements de transmission du réseau optique.",
+        "nid": "4821",
+        "niveau_diplome": "Bac+2",
+        "reference_se": "OPT-2024-0312",
+        "service": "Service Exploitation Réseau",
+        "site": "Nouméa",
+        "titre": "Technicien Réseaux et Télécommunications",
+        "url_fiche_poste": "https://office.opt.nc/sites/default/files/fiches/OPT-2024-0312.pdf"
+      },
+      {
+        "date_mise_en_ligne": "2024-03-20",
+        "date_recrutement": "2024-04-15",
+        "diplome_formation": "Licence Commerce ou équivalent",
+        "direction": "Direction Commerciale",
+        "duree_contrat": "CDI",
+        "experience": "3 ans",
+        "intitule_poste": "Chargé de Clientèle Entreprises",
+        "langcode": "fr",
+        "lien": "https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi/charge-clientele-entreprises",
+        "mission": "Développer et fidéliser le portefeuille clients entreprises de l'OPT-NC.",
+        "nid": "4835",
+        "niveau_diplome": "Bac+3",
+        "reference_se": "OPT-2024-0320",
+        "service": "Service Grands Comptes",
+        "site": "Nouméa",
+        "titre": "Chargé de Clientèle Entreprises",
+        "url_fiche_poste": "https://office.opt.nc/sites/default/files/fiches/OPT-2024-0320.pdf"
+      }
+    ]
+  }
+}

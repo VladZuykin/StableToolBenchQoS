@@ -1,0 +1,14 @@
+{
+  "{\"codec\":\"j2k\",\"comment\":\"First comment,Second comment\",\"folder\":\"uploads/2024\",\"fromscratch\":false,\"name\":\"photo.jp2\",\"storage\":\"DefaultStorage\"}": {
+    "error": "",
+    "response": "binary image data"
+  },
+  "{\"codec\":\"jp2\",\"comment\":\"Processed by Aspose.Imaging Cloud\",\"folder\":\"images/input\",\"fromscratch\":true,\"name\":\"sample1.j2k\",\"storage\":\"MyStorage\"}": {
+    "error": "",
+    "response": "binary image data"
+  },
+  "{\"codec\":\"jp2\",\"comment\":\"Updated metadata\",\"folder\":\"assets/jpeg2000\",\"fromscratch\":true,\"name\":\"diagram.j2k\",\"storage\":\"ProjectStorage\"}": {
+    "error": "",
+    "response": "binary image data"
+  }
+}

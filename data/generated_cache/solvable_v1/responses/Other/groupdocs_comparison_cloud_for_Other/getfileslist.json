@@ -1,0 +1,79 @@
+{
+  "{\"path\":\"/\",\"storagename\":\"DefaultStorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-01-10T12:00:00Z",
+          "Name": "archive",
+          "Path": "/archive",
+          "Size": 0
+        },
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-01-11T13:30:00Z",
+          "Name": "templates",
+          "Path": "/templates",
+          "Size": 0
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-01-12T14:15:00Z",
+          "Name": "readme.txt",
+          "Path": "/readme.txt",
+          "Size": 1024
+        }
+      ]
+    }
+  },
+  "{\"path\":\"/documents\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": true,
+          "ModifiedDate": "2024-03-15T09:22:41Z",
+          "Name": "Contracts",
+          "Path": "/documents/Contracts",
+          "Size": 0
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-14T16:05:12Z",
+          "Name": "agreement_v1.docx",
+          "Path": "/documents/agreement_v1.docx",
+          "Size": 48213
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-03-14T16:07:55Z",
+          "Name": "agreement_v2.docx",
+          "Path": "/documents/agreement_v2.docx",
+          "Size": 49780
+        }
+      ]
+    }
+  },
+  "{\"path\":\"/reports/2024\",\"storagename\":\"MyStorage\"}": {
+    "error": "",
+    "response": {
+      "Value": [
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-02-01T08:00:00Z",
+          "Name": "quarterly_summary.pdf",
+          "Path": "/reports/2024/quarterly_summary.pdf",
+          "Size": 1048576
+        },
+        {
+          "IsFolder": false,
+          "ModifiedDate": "2024-02-28T11:45:30Z",
+          "Name": "annual_review.pdf",
+          "Path": "/reports/2024/annual_review.pdf",
+          "Size": 2097152
+        }
+      ]
+    }
+  }
+}

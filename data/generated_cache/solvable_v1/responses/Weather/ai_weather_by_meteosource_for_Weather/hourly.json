@@ -1,0 +1,154 @@
+{
+  "{\"language\":\"en\",\"place_id\":\"london-uk\",\"timezone\":\"UTC\",\"units\":\"uk\"}": {
+    "error": "",
+    "response": {
+      "elevation": 11,
+      "hourly": {
+        "data": [
+          {
+            "cloud_cover": 42,
+            "date": "2024-06-14 00:00:00",
+            "dew_point": 9.8,
+            "feels_like": 13.5,
+            "humidity": 76,
+            "icon": 2,
+            "ozone": 298.1,
+            "precipitation": {
+              "total": 0.0,
+              "type": "none"
+            },
+            "pressure": 1012.4,
+            "probability": {
+              "freeze": 0.0,
+              "precipitation": 10,
+              "storm": 0.0
+            },
+            "summary": "Partly cloudy",
+            "temperature": 14.2,
+            "uv_index": 0.0,
+            "visibility": 12.4,
+            "weather": "partly_cloudy",
+            "wind": {
+              "angle": 270,
+              "dir": "W",
+              "gusts": 14.3,
+              "speed": 8.7
+            },
+            "wind_chill": 13.2
+          },
+          {
+            "cloud_cover": 65,
+            "date": "2024-06-14 01:00:00",
+            "dew_point": 9.6,
+            "feels_like": 13.0,
+            "humidity": 78,
+            "icon": 3,
+            "ozone": 296.5,
+            "precipitation": {
+              "total": 0.1,
+              "type": "rain"
+            },
+            "pressure": 1012.1,
+            "probability": {
+              "freeze": 0.0,
+              "precipitation": 25,
+              "storm": 0.0
+            },
+            "summary": "Cloudy",
+            "temperature": 13.8,
+            "uv_index": 0.0,
+            "visibility": 11.8,
+            "weather": "cloudy",
+            "wind": {
+              "angle": 275,
+              "dir": "W",
+              "gusts": 15.0,
+              "speed": 9.1
+            },
+            "wind_chill": 12.7
+          }
+        ]
+      },
+      "lat": "51.5074",
+      "lon": "-0.1278",
+      "timezone": "UTC",
+      "units": "uk"
+    }
+  },
+  "{\"language\":\"fr\",\"lat\":\"48.8566N\",\"lon\":\"2.3522E\",\"timezone\":\"Europe/Paris\",\"units\":\"metric\"}": {
+    "error": "",
+    "response": {
+      "elevation": 35,
+      "hourly": {
+        "data": [
+          {
+            "cloud_cover": 5,
+            "date": "2024-06-14 00:00:00",
+            "dew_point": 12.3,
+            "feels_like": 18.1,
+            "humidity": 68,
+            "icon": 1,
+            "ozone": 312.4,
+            "precipitation": {
+              "total": 0.0,
+              "type": "none"
+            },
+            "pressure": 1015.2,
+            "probability": {
+              "freeze": 0.0,
+              "precipitation": 0,
+              "storm": 0.0
+            },
+            "summary": "Ciel dégagé",
+            "temperature": 18.4,
+            "uv_index": 0.0,
+            "visibility": 20.0,
+            "weather": "clear",
+            "wind": {
+              "angle": 225,
+              "dir": "SW",
+              "gusts": 6.1,
+              "speed": 3.2
+            },
+            "wind_chill": 18.0
+          },
+          {
+            "cloud_cover": 8,
+            "date": "2024-06-14 01:00:00",
+            "dew_point": 12.1,
+            "feels_like": 17.6,
+            "humidity": 70,
+            "icon": 1,
+            "ozone": 310.8,
+            "precipitation": {
+              "total": 0.0,
+              "type": "none"
+            },
+            "pressure": 1015.0,
+            "probability": {
+              "freeze": 0.0,
+              "precipitation": 0,
+              "storm": 0.0
+            },
+            "summary": "Ciel dégagé",
+            "temperature": 17.9,
+            "uv_index": 0.0,
+            "visibility": 19.5,
+            "weather": "clear",
+            "wind": {
+              "angle": 230,
+              "dir": "SW",
+              "gusts": 5.8,
+              "speed": 3.0
+            },
+            "wind_chill": 17.5
+          }
+        ]
+      },
+      "lat": "48.8566",
+      "lon": "2.3522",
+      "timezone": "Europe/Paris",
+      "units": "metric"
+    }
+  }
+}

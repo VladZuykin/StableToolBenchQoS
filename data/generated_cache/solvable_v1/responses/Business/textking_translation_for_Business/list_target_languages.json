@@ -1,0 +1,719 @@
+{
+  "{\"page\":2,\"per_page\":10}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "code": "nl-NL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/nl-NL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "nl",
+          "name": "Dutch (Netherlands)"
+        },
+        {
+          "code": "pl-PL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/pl-PL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "pl",
+          "name": "Polish (Poland)"
+        },
+        {
+          "code": "ru-RU",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ru-RU",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ru",
+          "name": "Russian (Russia)"
+        },
+        {
+          "code": "ja-JP",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ja-JP",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ja",
+          "name": "Japanese (Japan)"
+        },
+        {
+          "code": "zh-CN",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/zh-CN",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "zh",
+          "name": "Chinese (Simplified, China)"
+        },
+        {
+          "code": "ko-KR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ko-KR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ko",
+          "name": "Korean (South Korea)"
+        },
+        {
+          "code": "tr-TR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/tr-TR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "tr",
+          "name": "Turkish (Turkey)"
+        },
+        {
+          "code": "sv-SE",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/sv-SE",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "sv",
+          "name": "Swedish (Sweden)"
+        },
+        {
+          "code": "da-DK",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/da-DK",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "da",
+          "name": "Danish (Denmark)"
+        },
+        {
+          "code": "fi-FI",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/fi-FI",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "fi",
+          "name": "Finnish (Finland)"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=2&per_page=10",
+          "rel": "self"
+        },
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=1&per_page=10",
+          "rel": "prev"
+        },
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=3&per_page=10",
+          "rel": "next"
+        }
+      ],
+      "page": 2,
+      "per_page": 10,
+      "total": 44
+    }
+  },
+  "{\"page\":5,\"per_page\":5}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "code": "ro-RO",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ro-RO",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ro",
+          "name": "Romanian (Romania)"
+        },
+        {
+          "code": "el-GR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/el-GR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "el",
+          "name": "Greek (Greece)"
+        },
+        {
+          "code": "ar-SA",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ar-SA",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ar",
+          "name": "Arabic (Saudi Arabia)"
+        },
+        {
+          "code": "he-IL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/he-IL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "he",
+          "name": "Hebrew (Israel)"
+        },
+        {
+          "code": "hi-IN",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/hi-IN",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "hi",
+          "name": "Hindi (India)"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=5&per_page=5",
+          "rel": "self"
+        },
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=4&per_page=5",
+          "rel": "prev"
+        },
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=6&per_page=5",
+          "rel": "next"
+        }
+      ],
+      "page": 5,
+      "per_page": 5,
+      "total": 44
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "items": [
+        {
+          "code": "en-US",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/en-US",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "en",
+          "name": "English (United States)"
+        },
+        {
+          "code": "de-DE",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/de-DE",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "de",
+          "name": "German (Germany)"
+        },
+        {
+          "code": "fr-FR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/fr-FR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "fr",
+          "name": "French (France)"
+        },
+        {
+          "code": "es-ES",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/es-ES",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "es",
+          "name": "Spanish (Spain)"
+        },
+        {
+          "code": "it-IT",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/it-IT",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "it",
+          "name": "Italian (Italy)"
+        },
+        {
+          "code": "pt-BR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/pt-BR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "pt",
+          "name": "Portuguese (Brazil)"
+        },
+        {
+          "code": "nl-NL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/nl-NL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "nl",
+          "name": "Dutch (Netherlands)"
+        },
+        {
+          "code": "pl-PL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/pl-PL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "pl",
+          "name": "Polish (Poland)"
+        },
+        {
+          "code": "ru-RU",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ru-RU",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ru",
+          "name": "Russian (Russia)"
+        },
+        {
+          "code": "ja-JP",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ja-JP",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ja",
+          "name": "Japanese (Japan)"
+        },
+        {
+          "code": "zh-CN",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/zh-CN",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "zh",
+          "name": "Chinese (Simplified, China)"
+        },
+        {
+          "code": "ko-KR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ko-KR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ko",
+          "name": "Korean (South Korea)"
+        },
+        {
+          "code": "tr-TR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/tr-TR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "tr",
+          "name": "Turkish (Turkey)"
+        },
+        {
+          "code": "sv-SE",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/sv-SE",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "sv",
+          "name": "Swedish (Sweden)"
+        },
+        {
+          "code": "da-DK",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/da-DK",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "da",
+          "name": "Danish (Denmark)"
+        },
+        {
+          "code": "fi-FI",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/fi-FI",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "fi",
+          "name": "Finnish (Finland)"
+        },
+        {
+          "code": "nb-NO",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/nb-NO",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "nb",
+          "name": "Norwegian Bokmål (Norway)"
+        },
+        {
+          "code": "cs-CZ",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/cs-CZ",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "cs",
+          "name": "Czech (Czech Republic)"
+        },
+        {
+          "code": "hu-HU",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/hu-HU",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "hu",
+          "name": "Hungarian (Hungary)"
+        },
+        {
+          "code": "ro-RO",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ro-RO",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ro",
+          "name": "Romanian (Romania)"
+        },
+        {
+          "code": "el-GR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/el-GR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "el",
+          "name": "Greek (Greece)"
+        },
+        {
+          "code": "ar-SA",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ar-SA",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ar",
+          "name": "Arabic (Saudi Arabia)"
+        },
+        {
+          "code": "he-IL",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/he-IL",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "he",
+          "name": "Hebrew (Israel)"
+        },
+        {
+          "code": "hi-IN",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/hi-IN",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "hi",
+          "name": "Hindi (India)"
+        },
+        {
+          "code": "th-TH",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/th-TH",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "th",
+          "name": "Thai (Thailand)"
+        },
+        {
+          "code": "vi-VN",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/vi-VN",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "vi",
+          "name": "Vietnamese (Vietnam)"
+        },
+        {
+          "code": "id-ID",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/id-ID",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "id",
+          "name": "Indonesian (Indonesia)"
+        },
+        {
+          "code": "uk-UA",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/uk-UA",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "uk",
+          "name": "Ukrainian (Ukraine)"
+        },
+        {
+          "code": "bg-BG",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/bg-BG",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "bg",
+          "name": "Bulgarian (Bulgaria)"
+        },
+        {
+          "code": "hr-HR",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/hr-HR",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "hr",
+          "name": "Croatian (Croatia)"
+        },
+        {
+          "code": "sk-SK",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/sk-SK",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "sk",
+          "name": "Slovak (Slovakia)"
+        },
+        {
+          "code": "sl-SI",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/sl-SI",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "sl",
+          "name": "Slovenian (Slovenia)"
+        },
+        {
+          "code": "lt-LT",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/lt-LT",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "lt",
+          "name": "Lithuanian (Lithuania)"
+        },
+        {
+          "code": "lv-LV",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/lv-LV",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "lv",
+          "name": "Latvian (Latvia)"
+        },
+        {
+          "code": "et-EE",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/et-EE",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "et",
+          "name": "Estonian (Estonia)"
+        },
+        {
+          "code": "ca-ES",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ca-ES",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ca",
+          "name": "Catalan (Spain)"
+        },
+        {
+          "code": "gl-ES",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/gl-ES",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "gl",
+          "name": "Galician (Spain)"
+        },
+        {
+          "code": "eu-ES",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/eu-ES",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "eu",
+          "name": "Basque (Spain)"
+        },
+        {
+          "code": "is-IS",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/is-IS",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "is",
+          "name": "Icelandic (Iceland)"
+        },
+        {
+          "code": "ga-IE",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/ga-IE",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "ga",
+          "name": "Irish (Ireland)"
+        },
+        {
+          "code": "mt-MT",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/mt-MT",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "mt",
+          "name": "Maltese (Malta)"
+        },
+        {
+          "code": "sr-RS",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/sr-RS",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "sr",
+          "name": "Serbian (Serbia)"
+        },
+        {
+          "code": "bs-BA",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/bs-BA",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "bs",
+          "name": "Bosnian (Bosnia and Herzegovina)"
+        },
+        {
+          "code": "mk-MK",
+          "links": [
+            {
+              "href": "https://www.textking.com/api/v1/languages/mk-MK",
+              "rel": "self"
+            }
+          ],
+          "localization_language": "mk",
+          "name": "Macedonian (North Macedonia)"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=1&per_page=100",
+          "rel": "self"
+        },
+        {
+          "href": "https://www.textking.com/api/v1/languages?page=2&per_page=100",
+          "rel": "next"
+        }
+      ],
+      "page": 1,
+      "per_page": 100,
+      "total": 44
+    }
+  }
+}

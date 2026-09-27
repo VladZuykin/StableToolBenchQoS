@@ -1,0 +1,20 @@
+{
+  "{\"storagename\":\"diagrams-storage\"}": {
+    "error": "",
+    "response": {
+      "Exists": false
+    }
+  },
+  "{\"storagename\":\"mystorage\"}": {
+    "error": "",
+    "response": {
+      "Exists": true
+    }
+  },
+  "{\"storagename\":\"production\"}": {
+    "error": "",
+    "response": {
+      "Exists": true
+    }
+  }
+}

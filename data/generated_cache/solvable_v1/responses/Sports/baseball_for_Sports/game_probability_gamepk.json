@@ -1,0 +1,235 @@
+{
+  "{\"gamepk\":\"634512\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": [
+        {
+          "about": {
+            "atBatIndex": 88,
+            "captivatingIndex": 9,
+            "endTime": "2024-06-02T03:12:01.000Z",
+            "halfInning": "top",
+            "hasOut": false,
+            "hasReview": true,
+            "inning": 9,
+            "isComplete": true,
+            "isScoringPlay": true,
+            "isTopInning": true,
+            "startTime": "2024-06-02T03:11:08.000Z"
+          },
+          "actionIndex": {
+            "1": 0,
+            "2": 1,
+            "3": 2
+          },
+          "count": {
+            "balls": 3,
+            "outs": 2,
+            "strikes": 1
+          },
+          "matchup": {
+            "batSide": {
+              "code": "R",
+              "description": "Right"
+            },
+            "batter": {
+              "fullName": "Mookie Betts",
+              "id": 605141
+            },
+            "batterHotColdZones": [],
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "pitcher": {
+              "fullName": "Paul Skenes",
+              "id": 694973
+            },
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs RHP",
+              "menOnBase": "Runner On First",
+              "pitcher": "vs RHB"
+            }
+          },
+          "pitchIndex": {
+            "1": 0,
+            "2": 1,
+            "3": 2,
+            "4": 3,
+            "5": 4
+          },
+          "result": {
+            "awayScore": 4,
+            "description": "Batter homers to deep center field.",
+            "event": "Home Run",
+            "eventType": "home_run",
+            "homeScore": 4,
+            "isOut": false,
+            "rbi": 2,
+            "type": "atBat"
+          },
+          "runnerIndex": [],
+          "runners": []
+        }
+      ]
+    }
+  },
+  "{\"gamepk\":\"716392\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": [
+        {
+          "about": {
+            "atBatIndex": 15,
+            "captivatingIndex": 3,
+            "endTime": "2024-04-21T23:46:18.000Z",
+            "halfInning": "top",
+            "hasOut": true,
+            "hasReview": false,
+            "inning": 3,
+            "isComplete": true,
+            "isScoringPlay": false,
+            "isTopInning": true,
+            "startTime": "2024-04-21T23:45:30.000Z"
+          },
+          "actionIndex": {
+            "1": 0
+          },
+          "count": {
+            "balls": 0,
+            "outs": 3,
+            "strikes": 3
+          },
+          "matchup": {
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "batter": {
+              "fullName": "Juan Soto",
+              "id": 665742
+            },
+            "batterHotColdZones": [],
+            "pitchHand": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "fullName": "Framber Valdez",
+              "id": 543037
+            },
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs LHP",
+              "menOnBase": "Empty",
+              "pitcher": "vs LHB"
+            }
+          },
+          "pitchIndex": {
+            "1": 0,
+            "2": 1,
+            "3": 2
+          },
+          "result": {
+            "awayScore": 1,
+            "description": "Batter strikes out swinging.",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "homeScore": 0,
+            "isOut": true,
+            "rbi": 0,
+            "type": "atBat"
+          },
+          "runnerIndex": [],
+          "runners": []
+        }
+      ]
+    }
+  },
+  "{\"gamepk\":\"745804\"}": {
+    "error": "",
+    "response": {
+      "meta": {
+        "status": 200,
+        "version": "1.0"
+      },
+      "results": [
+        {
+          "about": {
+            "atBatIndex": 42,
+            "captivatingIndex": 7,
+            "endTime": "2024-05-14T01:24:12.000Z",
+            "halfInning": "bottom",
+            "hasOut": false,
+            "hasReview": false,
+            "inning": 6,
+            "isComplete": true,
+            "isScoringPlay": true,
+            "isTopInning": false,
+            "startTime": "2024-05-14T01:23:45.000Z"
+          },
+          "actionIndex": {
+            "1": 0,
+            "2": 1
+          },
+          "count": {
+            "balls": 1,
+            "outs": 1,
+            "strikes": 2
+          },
+          "matchup": {
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "batter": {
+              "fullName": "Shohei Ohtani",
+              "id": 660271
+            },
+            "batterHotColdZones": [],
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "pitcher": {
+              "fullName": "Gerrit Cole",
+              "id": 592789
+            },
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs RHP",
+              "menOnBase": "Runners On",
+              "pitcher": "vs LHB"
+            }
+          },
+          "pitchIndex": {
+            "1": 0,
+            "2": 1,
+            "3": 2
+          },
+          "result": {
+            "awayScore": 2,
+            "description": "Batter singles on a line drive to left field.",
+            "event": "Single",
+            "eventType": "single",
+            "homeScore": 3,
+            "isOut": false,
+            "rbi": 1,
+            "type": "atBat"
+          },
+          "runnerIndex": [],
+          "runners": []
+        }
+      ]
+    }
+  }
+}

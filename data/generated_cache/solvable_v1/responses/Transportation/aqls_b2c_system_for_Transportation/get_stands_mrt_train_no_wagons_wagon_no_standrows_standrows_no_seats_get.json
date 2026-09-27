@@ -1,0 +1,20 @@
+{
+  "{\"standrows_no\":12,\"train_no\":\"G2045\",\"wagon_no\":8}": {
+    "error": "",
+    "response": {
+      "messages": "Seats for train G2045, wagon 8, standrow 12: 12A, 12B, 12C, 12D, 12E"
+    }
+  },
+  "{\"standrows_no\":2,\"train_no\":\"D3107\",\"wagon_no\":1}": {
+    "error": "",
+    "response": {
+      "messages": "Seats for train D3107, wagon 1, standrow 2: 2A, 2B, 2C"
+    }
+  },
+  "{\"standrows_no\":5,\"train_no\":\"T101\",\"wagon_no\":3}": {
+    "error": "",
+    "response": {
+      "messages": "Seats for train T101, wagon 3, standrow 5: 1A, 1B, 1C, 1D"
+    }
+  }
+}

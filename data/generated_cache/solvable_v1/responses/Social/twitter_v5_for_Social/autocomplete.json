@@ -1,0 +1,22 @@
+{
+  "{\"value\":\"MrB\"}": {
+    "error": "",
+    "response": [
+      "MrBeast",
+      "MrBeast Gaming",
+      "MrBeast Shorts",
+      "MrBeast Philanthropy",
+      "MrBeast Reacts"
+    ]
+  },
+  "{\"value\":\"elonmusk\"}": {
+    "error": "",
+    "response": [
+      "elonmusk",
+      "elonmusk fan page",
+      "elonmusk news",
+      "elonmusk tweets",
+      "elonmusk SpaceX"
+    ]
+  }
+}

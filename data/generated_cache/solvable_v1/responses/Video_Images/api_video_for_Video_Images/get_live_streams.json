@@ -1,0 +1,26 @@
+{
+  "{\"currentpage\":1,\"pagesize\":50,\"sortby\":\"publishedAt\",\"streamkey\":\"sk_live_xyz789\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Live Streams - Page 1",
+      "type": "live-streams"
+    }
+  },
+  "{\"currentpage\":2,\"pagesize\":10,\"sortby\":\"createdAt\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Live Streams - Page 2",
+      "type": "live-streams"
+    }
+  },
+  "{\"name\":\"Product Launch\",\"sortby\":\"name\",\"streamkey\":\"sk_live_abc123\"}": {
+    "error": "",
+    "response": {
+      "status": 200,
+      "title": "Live Streams matching 'Product Launch'",
+      "type": "live-streams"
+    }
+  }
+}

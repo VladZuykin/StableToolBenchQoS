@@ -1,0 +1,166 @@
+{
+  "{\"end_year\":2000,\"genre\":\"drama,romance\",\"language\":\"english\",\"max_imdb\":9.5,\"min_imdb\":8.0,\"page\":1,\"sort\":\"highestrated\",\"start_year\":1990,\"type\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "results": [
+        {
+          "genre": [
+            "Drama"
+          ],
+          "imageurl": [
+            "https://example.com/shawshank.jpg"
+          ],
+          "imdbid": "tt0111161",
+          "imdbrating": 9.3,
+          "released": 1994,
+          "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+          "title": "The Shawshank Redemption",
+          "type": "movie"
+        },
+        {
+          "genre": [
+            "Crime",
+            "Drama"
+          ],
+          "imageurl": [
+            "https://example.com/godfather.jpg"
+          ],
+          "imdbid": "tt0068646",
+          "imdbrating": 9.2,
+          "released": 1972,
+          "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+          "title": "The Godfather",
+          "type": "movie"
+        },
+        {
+          "genre": [
+            "Biography",
+            "Drama",
+            "History"
+          ],
+          "imageurl": [
+            "https://example.com/schindler.jpg"
+          ],
+          "imdbid": "tt0108052",
+          "imdbrating": 9.0,
+          "released": 1993,
+          "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "title": "Schindler's List",
+          "type": "movie"
+        }
+      ]
+    }
+  },
+  "{\"end_year\":2015,\"genre\":\"action,thriller\",\"language\":\"english,german\",\"max_imdb\":8.0,\"min_imdb\":6.5,\"page\":3,\"sort\":\"lowestrated\",\"start_year\":2005,\"type\":\"movie\"}": {
+    "error": "",
+    "response": {
+      "page": 3,
+      "results": [
+        {
+          "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "imageurl": [
+            "https://example.com/inception.jpg"
+          ],
+          "imdbid": "tt1375666",
+          "imdbrating": 8.8,
+          "released": 2010,
+          "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+          "title": "Inception",
+          "type": "movie"
+        },
+        {
+          "genre": [
+            "Action",
+            "Thriller"
+          ],
+          "imageurl": [
+            "https://example.com/tdkr.jpg"
+          ],
+          "imdbid": "tt1345836",
+          "imdbrating": 8.4,
+          "released": 2012,
+          "synopsis": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+          "title": "The Dark Knight Rises",
+          "type": "movie"
+        },
+        {
+          "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "imageurl": [
+            "https://example.com/tdk.jpg"
+          ],
+          "imdbid": "tt0468569",
+          "imdbrating": 9.0,
+          "released": 2008,
+          "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+          "title": "The Dark Knight",
+          "type": "movie"
+        }
+      ]
+    }
+  },
+  "{\"end_year\":2020,\"genre\":\"comedy\",\"language\":\"english\",\"max_imdb\":8.5,\"min_imdb\":7.0,\"page\":2,\"sort\":\"latest\",\"start_year\":2010,\"type\":\"show\"}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "results": [
+        {
+          "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "imageurl": [
+            "https://example.com/got.jpg"
+          ],
+          "imdbid": "tt0944947",
+          "imdbrating": 9.3,
+          "released": 2011,
+          "synopsis": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+          "title": "Game of Thrones",
+          "type": "show"
+        },
+        {
+          "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "imageurl": [
+            "https://example.com/breakingbad.jpg"
+          ],
+          "imdbid": "tt0903747",
+          "imdbrating": 9.5,
+          "released": 2008,
+          "synopsis": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+          "title": "Breaking Bad",
+          "type": "show"
+        },
+        {
+          "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+          ],
+          "imageurl": [
+            "https://example.com/strangerthings.jpg"
+          ],
+          "imdbid": "tt4574334",
+          "imdbrating": 8.7,
+          "released": 2016,
+          "synopsis": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+          "title": "Stranger Things",
+          "type": "show"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "{\"symbol\":\"AAPL\"}": {
+    "error": "",
+    "response": {
+      "0": {
+        "link": "https://finance.yahoo.com/news/apple-unveils-ai-features-123456789.html",
+        "providerPublishTime": 1717000000,
+        "publisher": "Reuters",
+        "relatedTickers": [
+          "AAPL",
+          "MSFT",
+          "GOOGL",
+          "NVDA",
+          "META"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/aa/ib=1.2/aa.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/bb/ib=1.2/bb.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Apple Unveils Next-Generation AI Features Across iPhone Lineup",
+        "type": "STORY",
+        "uuid": "a1b2c3d4-1111-4aaa-8bbb-000000000001"
+      },
+      "1": {
+        "link": "https://finance.yahoo.com/news/apple-stock-record-high-987654321.html",
+        "providerPublishTime": 1716990000,
+        "publisher": "Bloomberg",
+        "relatedTickers": [
+          "AAPL"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/cc/ib=1.2/cc.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/dd/ib=1.2/dd.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Apple Stock Hits Record High After Strong Services Revenue",
+        "type": "STORY",
+        "uuid": "a1b2c3d4-1111-4aaa-8bbb-000000000002"
+      },
+      "2": {
+        "link": "https://finance.yahoo.com/news/analysts-raise-apple-targets-555555555.html",
+        "providerPublishTime": 1716980000,
+        "publisher": "CNBC",
+        "relatedTickers": [
+          "AAPL"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ee/ib=1.2/ee.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ff/ib=1.2/ff.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Analysts Raise Apple Price Targets Ahead of Earnings",
+        "type": "STORY",
+        "uuid": "a1b2c3d4-1111-4aaa-8bbb-000000000003"
+      },
+      "3": {
+        "link": "https://finance.yahoo.com/news/apple-expands-india-444444444.html",
+        "providerPublishTime": 1716970000,
+        "publisher": "The Wall Street Journal",
+        "relatedTickers": [
+          "AAPL"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/gg/ib=1.2/gg.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/hh/ib=1.2/hh.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Apple Expands Manufacturing Footprint in India",
+        "type": "STORY",
+        "uuid": "a1b2c3d4-1111-4aaa-8bbb-000000000004"
+      }
+    }
+  },
+  "{\"symbol\":\"NVDA\"}": {
+    "error": "",
+    "response": {
+      "0": {
+        "link": "https://finance.yahoo.com/news/nvidia-surges-data-center-111111111.html",
+        "providerPublishTime": 1717100000,
+        "publisher": "Reuters",
+        "relatedTickers": [
+          "NVDA",
+          "AMD",
+          "INTC",
+          "TSM",
+          "AVGO"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ii/ib=1.2/ii.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/jj/ib=1.2/jj.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Nvidia Surges as Data Center Demand Shows No Signs of Slowing",
+        "type": "STORY",
+        "uuid": "b2c3d4e5-2222-4bbb-9ccc-000000000001"
+      },
+      "1": {
+        "link": "https://finance.yahoo.com/news/nvidia-blackwell-ultra-222222222.html",
+        "providerPublishTime": 1717090000,
+        "publisher": "TechCrunch",
+        "relatedTickers": [
+          "NVDA"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/kk/ib=1.2/kk.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ll/ib=1.2/ll.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Nvidia Announces New Blackwell Ultra Chips for AI Training",
+        "type": "STORY",
+        "uuid": "b2c3d4e5-2222-4bbb-9ccc-000000000002"
+      },
+      "2": {
+        "link": "https://finance.yahoo.com/news/nvidia-cloud-partners-333333333.html",
+        "providerPublishTime": 1717080000,
+        "publisher": "Bloomberg",
+        "relatedTickers": [
+          "NVDA"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/mm/ib=1.2/mm.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/nn/ib=1.2/nn.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Nvidia Partners With Major Cloud Providers on AI Infrastructure",
+        "type": "STORY",
+        "uuid": "b2c3d4e5-2222-4bbb-9ccc-000000000003"
+      },
+      "3": {
+        "link": "https://finance.yahoo.com/news/nvidia-competition-ai-chips-444444444.html",
+        "providerPublishTime": 1717070000,
+        "publisher": "CNBC",
+        "relatedTickers": [
+          "NVDA"
+        ],
+        "thumbnail": {
+          "resolutions": [
+            {
+              "height": 90,
+              "tag": "120x90",
+              "url": "https://s.yimg.com/uu/api/res/1.2/oo/ib=1.2/oo.jpg",
+              "width": 120
+            },
+            {
+              "height": 360,
+              "tag": "640x360",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pp/ib=1.2/pp.jpg",
+              "width": 640
+            }
+          ]
+        },
+        "title": "Nvidia Faces Growing Competition in AI Chip Market",
+        "type": "STORY",
+        "uuid": "b2c3d4e5-2222-4bbb-9ccc-000000000004"
+      }
+    }
+  }
+}

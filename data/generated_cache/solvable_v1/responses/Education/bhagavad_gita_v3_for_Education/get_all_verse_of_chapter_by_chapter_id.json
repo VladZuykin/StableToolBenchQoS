@@ -1,0 +1,62 @@
+{
+  "{\"chapterid\":\"1\"}": {
+    "error": "",
+    "response": {
+      "chapter": 1,
+      "verses": [
+        {
+          "text": "Dhritarashtra said: O Sanjaya, assembled on the field of dharma, the field of the Kurus, eager for battle, what did my sons and the sons of Pandu do?",
+          "verse": 1
+        },
+        {
+          "text": "Sanjaya said: Seeing the Pandava army arrayed in battle formation, Duryodhana approached his teacher Drona and spoke these words.",
+          "verse": 2
+        },
+        {
+          "text": "Behold, O teacher, this mighty army of the sons of Pandu, arranged by your own gifted disciple, the son of Drupada.",
+          "verse": 3
+        }
+      ]
+    }
+  },
+  "{\"chapterid\":\"12\"}": {
+    "error": "",
+    "response": {
+      "chapter": 12,
+      "verses": [
+        {
+          "text": "Arjuna inquired: Which are considered to be more perfect, those who are always properly engaged in Your devotional service or those who worship the impersonal Brahman, the unmanifested?",
+          "verse": 1
+        },
+        {
+          "text": "The Supreme Personality of Godhead said: Those who fix their minds on Me and always engage in devotional service with full faith, considering Me the supreme goal, are considered by Me to be most perfect.",
+          "verse": 2
+        },
+        {
+          "text": "But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, unchanging, fixed and immovable.",
+          "verse": 3
+        }
+      ]
+    }
+  },
+  "{\"chapterid\":\"2\"}": {
+    "error": "",
+    "response": {
+      "chapter": 2,
+      "verses": [
+        {
+          "text": "Sanjaya said: To him who was thus overcome with compassion, whose eyes were full of tears and who was despondent, Madhusudana spoke these words.",
+          "verse": 1
+        },
+        {
+          "text": "The Supreme Personality of Godhead said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life.",
+          "verse": 2
+        },
+        {
+          "text": "Do not yield to this degrading impotence. It does not become you. Give up such petty weakness of heart and arise, O chastiser of the enemy.",
+          "verse": 3
+        }
+      ]
+    }
+  }
+}

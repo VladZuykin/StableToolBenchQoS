@@ -1,0 +1,463 @@
+{
+  "{\"is_id\":\"0OdUWJ0sBjDrqHygGUXeCF\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "following": false,
+          "id": "0OdUWJ0sBjDrqHygGUXeCF",
+          "profile": {
+            "biography": {
+              "text": "Band of Horses is an American rock band formed in Seattle in 2004."
+            },
+            "externalLinks": {
+              "items": [
+                {
+                  "name": "official site",
+                  "url": "http://www.bandofhorses.com/"
+                },
+                {
+                  "name": "facebook",
+                  "url": "https://www.facebook.com/bandofhorses"
+                },
+                {
+                  "name": "twitter",
+                  "url": "https://twitter.com/bandofhorses"
+                },
+                {
+                  "_list_length": 4,
+                  "name": "instagram",
+                  "url": "https://www.instagram.com/bandofhorses/"
+                }
+              ]
+            },
+            "name": "Band of Horses",
+            "pinnedItem": {
+              "comment": "New album out now",
+              "item": {
+                "images": {
+                  "items": [
+                    {
+                      "_list_length": 1,
+                      "sources": [
+                        {
+                          "_list_length": 1,
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Things Are Great",
+                "uri": "spotify:album:1x9Bq8bDbPY5k9VrZePKyY"
+              },
+              "type": "album"
+            },
+            "playlists": {
+              "items": [
+                {
+                  "description": "With Band of Horses, My Morning Jacket, Fleet Foxes and more",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003e8b066f70c206551210d902b",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "Band of Horses Radio",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+                },
+                {
+                  "_list_length": 8,
+                  "description": "The best in indie folk",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003f8b066f70c206551210d902b",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "Indie Folk",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+                }
+              ],
+              "totalCount": 2
+            },
+            "verified": true
+          },
+          "sharingInfo": {
+            "shareId": "0OdUWJ0sBjDrqHygGUXeCF",
+            "shareUrl": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          },
+          "uri": "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF",
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "_list_length": 1,
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb1a2b3c4d5e6f7a8b9c0d1e2f",
+                  "width": 640
+                }
+              ]
+            },
+            "gallery": {
+              "items": [
+                {
+                  "_list_length": 5,
+                  "sources": [
+                    {
+                      "_list_length": 1,
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1a2b3c4d5e6f7a8b9c0d1e2f",
+                      "width": 640
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"is_id\":\"1Xyo4u8uXC1ZmMpatF05PJ\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "following": false,
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "profile": {
+            "biography": {
+              "text": "Abel Makkonen Tesfaye, known professionally as the Weeknd, is a Canadian singer-songwriter."
+            },
+            "externalLinks": {
+              "items": [
+                {
+                  "name": "official site",
+                  "url": "https://www.theweeknd.com/"
+                },
+                {
+                  "name": "facebook",
+                  "url": "https://www.facebook.com/theweeknd"
+                },
+                {
+                  "name": "twitter",
+                  "url": "https://twitter.com/theweeknd"
+                },
+                {
+                  "_list_length": 4,
+                  "name": "instagram",
+                  "url": "https://www.instagram.com/theweeknd/"
+                }
+              ]
+            },
+            "name": "The Weeknd",
+            "pinnedItem": {
+              "comment": "Dawn FM out now",
+              "item": {
+                "images": {
+                  "items": [
+                    {
+                      "_list_length": 1,
+                      "sources": [
+                        {
+                          "_list_length": 1,
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d4e5f6a7b8c9d0e1f2a3b4c5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Dawn FM",
+                "uri": "spotify:album:2ODvWsOgouMbaA5xf0RkJe"
+              },
+              "type": "album"
+            },
+            "playlists": {
+              "items": [
+                {
+                  "description": "With The Weeknd, Drake, Post Malone and more",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003d4e5f6a7b8c9d0e1f2a3b4c5",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "The Weeknd Radio",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX4E3UdUs7fUx"
+                },
+                {
+                  "_list_length": 8,
+                  "description": "New music from Drake, The Weeknd, and more",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003e5f6a7b8c9d0e1f2a3b4c5d6",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "RapCaviar",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+                }
+              ],
+              "totalCount": 2
+            },
+            "verified": true
+          },
+          "sharingInfo": {
+            "shareId": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "shareUrl": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          },
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "_list_length": 1,
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb3c4d5e6f7a8b9c0d1e2f3a4b",
+                  "width": 640
+                }
+              ]
+            },
+            "gallery": {
+              "items": [
+                {
+                  "_list_length": 5,
+                  "sources": [
+                    {
+                      "_list_length": 1,
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3c4d5e6f7a8b9c0d1e2f3a4b",
+                      "width": 640
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"is_id\":\"3WrFJ7ztbogyGnTHbHJFl2\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "artist": {
+          "following": true,
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "profile": {
+            "biography": {
+              "text": "The Beatles were an English rock band formed in Liverpool in 1960."
+            },
+            "externalLinks": {
+              "items": [
+                {
+                  "name": "official site",
+                  "url": "https://www.thebeatles.com/"
+                },
+                {
+                  "name": "facebook",
+                  "url": "https://www.facebook.com/thebeatles"
+                },
+                {
+                  "name": "twitter",
+                  "url": "https://twitter.com/thebeatles"
+                },
+                {
+                  "_list_length": 4,
+                  "name": "instagram",
+                  "url": "https://www.instagram.com/thebeatles/"
+                }
+              ]
+            },
+            "name": "The Beatles",
+            "pinnedItem": {
+              "comment": "The Beatles: Get Back now streaming",
+              "item": {
+                "images": {
+                  "items": [
+                    {
+                      "_list_length": 1,
+                      "sources": [
+                        {
+                          "_list_length": 1,
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734ce8a4f5b3c1e2d3f4a5b6c7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Let It Be",
+                "uri": "spotify:album:0JGOiO34nwfUdDrD612dOp"
+              },
+              "type": "album"
+            },
+            "playlists": {
+              "items": [
+                {
+                  "description": "With The Beatles, John Lennon, Paul McCartney and more",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003a1b2c3d4e5f6a7b8c9d0e1f2",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "The Beatles Radio",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DWSV3Tk4GO2fq"
+                },
+                {
+                  "description": "The best of classic rock",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003b2c3d4e5f6a7b8c9d0e1f2a3",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "Classic Rock",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX4o1oenSJRJd"
+                },
+                {
+                  "_list_length": 8,
+                  "description": "The biggest hits of the 1960s",
+                  "images": {
+                    "items": [
+                      {
+                        "_list_length": 1,
+                        "sources": [
+                          {
+                            "_list_length": 1,
+                            "height": null,
+                            "url": "https://i.scdn.co/image/ab67706f00000003c3d4e5f6a7b8c9d0e1f2a3b4",
+                            "width": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "name": "60s Hits",
+                  "owner": {
+                    "name": "Spotify"
+                  },
+                  "uri": "spotify:playlist:37i9dQZF1DX6ziVCJnEm59"
+                }
+              ],
+              "totalCount": 3
+            },
+            "verified": true
+          },
+          "sharingInfo": {
+            "shareId": "3WrFJ7ztbogyGnTHbHJFl2",
+            "shareUrl": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          },
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2",
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "_list_length": 1,
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb2b3c4d5e6f7a8b9c0d1e2f3a",
+                  "width": 640
+                }
+              ]
+            },
+            "gallery": {
+              "items": [
+                {
+                  "_list_length": 5,
+                  "sources": [
+                    {
+                      "_list_length": 1,
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2b3c4d5e6f7a8b9c0d1e2f3a",
+                      "width": 640
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

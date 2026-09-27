@@ -1,0 +1,16 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "message": "Random anime profile picture fetched successfully",
+      "status": "success",
+      "stuff": [
+        {
+          "_list_length": 1,
+          "image": "https://anyanime-api.example.com/images/zero-two-001.gif",
+          "name": "Zero Two"
+        }
+      ]
+    }
+  }
+}

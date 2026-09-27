@@ -1,0 +1,83 @@
+{
+  "{\"is_id\":\"0JQ5DAqbMKFQ00XGBls6ym\",\"offset\":\"50\"}": {
+    "error": "",
+    "response": {
+      "nextOffset": "100",
+      "success": true,
+      "trackList": [
+        {
+          "_list_length": 50,
+          "album": "Future Nostalgia",
+          "artists": "Dua Lipa",
+          "cover": "https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946",
+          "id": "1dGr1c8CrMLDpV6mPbImSI",
+          "releaseDate": "2020-10-01",
+          "title": "Levitating"
+        },
+        {
+          "_list_length": 50,
+          "album": "Future Nostalgia",
+          "artists": "Dua Lipa",
+          "cover": "https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946",
+          "id": "6UelLqGlWMcVH1E5c4H7lY",
+          "releaseDate": "2019-10-31",
+          "title": "Don't Start Now"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":\"37i9dQZF1DXcBWIGoYBM5M\"}": {
+    "error": "",
+    "response": {
+      "nextOffset": null,
+      "success": true,
+      "trackList": [
+        {
+          "_list_length": 50,
+          "album": "After Hours",
+          "artists": "The Weeknd",
+          "cover": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+          "id": "4cOdK2wGLETKBW3PvgPWqT",
+          "releaseDate": "2019-11-29",
+          "title": "Blinding Lights"
+        },
+        {
+          "_list_length": 50,
+          "album": "After Hours",
+          "artists": "The Weeknd",
+          "cover": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+          "id": "7GhIk7Il098yCjg4BQjzvb",
+          "releaseDate": "2020-03-20",
+          "title": "Save Your Tears"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":\"3cEYpjA9oz9GiPac4AsH4n\",\"offset\":\"0\"}": {
+    "error": "",
+    "response": {
+      "nextOffset": null,
+      "success": true,
+      "trackList": [
+        {
+          "_list_length": 50,
+          "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+          "artists": "Billie Eilish",
+          "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+          "id": "2Fxmhks0bxGSBdJ92vM42m",
+          "releaseDate": "2019-03-29",
+          "title": "bad guy"
+        },
+        {
+          "_list_length": 50,
+          "album": "everything i wanted",
+          "artists": "Billie Eilish",
+          "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+          "id": "5Z9KJZvQzH6PFmb8SNkxuk",
+          "releaseDate": "2019-11-13",
+          "title": "everything i wanted"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "{\"is_id\":\"HDFC-TOP100\"}": {
+    "error": "",
+    "response": {
+      "currency": "INR",
+      "date": "2024-06-14",
+      "fund_id": "HDFC-TOP100",
+      "nav": 156.23
+    }
+  },
+  "{\"is_id\":\"ICICI-BAL\"}": {
+    "error": "",
+    "response": {
+      "currency": "INR",
+      "date": "2024-06-14",
+      "fund_id": "ICICI-BAL",
+      "nav": 78.45
+    }
+  },
+  "{\"is_id\":\"PPFAS001\"}": {
+    "error": "",
+    "response": {
+      "currency": "INR",
+      "date": "2024-06-14",
+      "fund_id": "PPFAS001",
+      "nav": 42.87
+    }
+  }
+}

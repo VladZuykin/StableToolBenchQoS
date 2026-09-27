@@ -1,0 +1,128 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "averageDailyVolume10Day": {},
+      "averageDailyVolume3Month": {},
+      "exchange": "NMS",
+      "exchangeDataDelayedBy": 0,
+      "exchangeName": "NasdaqGS",
+      "longName": "Microsoft Corporation",
+      "marketState": "REGULAR",
+      "maxAge": 1,
+      "openInterest": {},
+      "postMarketChange": {},
+      "postMarketPrice": {},
+      "preMarketChange": {},
+      "preMarketPrice": {},
+      "priceHint": {
+        "fmt": "2",
+        "longFmt": "2",
+        "raw": 2
+      },
+      "quoteType": "EQUITY",
+      "regularMarketChange": {
+        "fmt": "-1.87",
+        "raw": -1.87
+      },
+      "regularMarketChangePercent": {
+        "fmt": "-0.45%",
+        "raw": -0.4521
+      },
+      "regularMarketDayHigh": {
+        "fmt": "415.20",
+        "raw": 415.2
+      },
+      "regularMarketDayLow": {
+        "fmt": "409.11",
+        "raw": 409.11
+      },
+      "regularMarketOpen": {
+        "fmt": "414.00",
+        "raw": 414.0
+      },
+      "regularMarketPreviousClose": {
+        "fmt": "413.72",
+        "raw": 413.72
+      },
+      "regularMarketPrice": {
+        "fmt": "411.85",
+        "raw": 411.85
+      },
+      "regularMarketSource": "FREE_REALTIME",
+      "regularMarketTime": 1700000000,
+      "regularMarketVolume": {
+        "fmt": "19.88M",
+        "longFmt": "19,876,500",
+        "raw": 19876500
+      },
+      "shortName": "Microsoft Corporation",
+      "strikePrice": {},
+      "symbol": "MSFT",
+      "underlyingSymbol": null
+    }
+  },
+  "{\"symbol\":\"btc-usd\"}": {
+    "error": "",
+    "response": {
+      "averageDailyVolume10Day": {},
+      "averageDailyVolume3Month": {},
+      "exchange": "CCC",
+      "exchangeDataDelayedBy": 0,
+      "exchangeName": "CCC",
+      "longName": "Bitcoin USD",
+      "marketState": "REGULAR",
+      "maxAge": 1,
+      "openInterest": {},
+      "postMarketChange": {},
+      "postMarketPrice": {},
+      "preMarketChange": {},
+      "preMarketPrice": {},
+      "priceHint": {
+        "fmt": "2",
+        "longFmt": "2",
+        "raw": 2
+      },
+      "quoteType": "CRYPTOCURRENCY",
+      "regularMarketChange": {
+        "fmt": "1,420.55",
+        "raw": 1420.55
+      },
+      "regularMarketChangePercent": {
+        "fmt": "2.13%",
+        "raw": 2.1345
+      },
+      "regularMarketDayHigh": {
+        "fmt": "68,420.00",
+        "raw": 68420.0
+      },
+      "regularMarketDayLow": {
+        "fmt": "66,110.34",
+        "raw": 66110.34
+      },
+      "regularMarketOpen": {
+        "fmt": "66,500.00",
+        "raw": 66500.0
+      },
+      "regularMarketPreviousClose": {
+        "fmt": "66,529.57",
+        "raw": 66529.57
+      },
+      "regularMarketPrice": {
+        "fmt": "67,950.12",
+        "raw": 67950.12
+      },
+      "regularMarketSource": "FREE_REALTIME",
+      "regularMarketTime": 1700000000,
+      "regularMarketVolume": {
+        "fmt": "28.93B",
+        "longFmt": "28,934,512,000",
+        "raw": 28934512000
+      },
+      "shortName": "Bitcoin USD",
+      "strikePrice": {},
+      "symbol": "BTC-USD",
+      "underlyingSymbol": null
+    }
+  }
+}

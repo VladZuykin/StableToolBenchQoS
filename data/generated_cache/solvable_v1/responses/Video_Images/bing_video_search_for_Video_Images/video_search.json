@@ -1,0 +1,68 @@
+{
+  "{\"count\":3,\"mkt\":\"en-GB\",\"q\":\"python programming crash course\",\"safesearch\":\"Strict\"}": {
+    "error": "",
+    "response": {
+      "_type": "Videos",
+      "value": [
+        {
+          "contentUrl": "https://www.youtube.com/watch?v=py101",
+          "datePublished": "2024-01-20T00:00:00.0000000Z",
+          "duration": "PT45M00S",
+          "hostPageUrl": "https://www.youtube.com/watch?v=py101",
+          "name": "Python Programming Crash Course",
+          "publisher": [
+            {
+              "name": "Code Academy"
+            }
+          ],
+          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.python1",
+          "webSearchUrl": "https://www.bing.com/videos/search?q=python+programming+crash+course"
+        }
+      ]
+    }
+  },
+  "{\"count\":5,\"mkt\":\"en-US\",\"q\":\"cooking tutorials for beginners\"}": {
+    "error": "",
+    "response": {
+      "_type": "Videos",
+      "value": [
+        {
+          "contentUrl": "https://www.youtube.com/watch?v=abc123",
+          "datePublished": "2024-03-12T00:00:00.0000000Z",
+          "duration": "PT12M30S",
+          "hostPageUrl": "https://www.youtube.com/watch?v=abc123",
+          "name": "Easy Cooking Tutorial for Beginners",
+          "publisher": [
+            {
+              "name": "Cooking Channel"
+            }
+          ],
+          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.cooking1",
+          "webSearchUrl": "https://www.bing.com/videos/search?q=cooking+tutorials+for+beginners"
+        }
+      ]
+    }
+  },
+  "{\"offset\":10,\"q\":\"live concert highlights 2024\",\"safesearch\":\"Moderate\"}": {
+    "error": "",
+    "response": {
+      "_type": "Videos",
+      "value": [
+        {
+          "contentUrl": "https://www.youtube.com/watch?v=xyz789",
+          "datePublished": "2024-07-01T00:00:00.0000000Z",
+          "duration": "PT8M15S",
+          "hostPageUrl": "https://www.youtube.com/watch?v=xyz789",
+          "name": "Best Live Concert Highlights 2024",
+          "publisher": [
+            {
+              "name": "Music Live"
+            }
+          ],
+          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.concert1",
+          "webSearchUrl": "https://www.bing.com/videos/search?q=live+concert+highlights+2024"
+        }
+      ]
+    }
+  }
+}

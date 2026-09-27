@@ -1,0 +1,209 @@
+{
+  "{\"symbol\":\"aapl\"}": {
+    "error": "",
+    "response": {
+      "balanceSheetStatements": [
+        {
+          "accountsPayable": {
+            "fmt": "62.61B",
+            "longFmt": "62,611,000,000",
+            "raw": 62611000000
+          },
+          "cash": {
+            "fmt": "29.97B",
+            "longFmt": "29,965,000,000",
+            "raw": 29965000000
+          },
+          "endDate": {
+            "fmt": "2023-12-31",
+            "raw": 1704067200
+          },
+          "goodWill": {
+            "fmt": "0",
+            "longFmt": "0",
+            "raw": 0
+          },
+          "inventory": {
+            "fmt": "6.51B",
+            "longFmt": "6,511,000,000",
+            "raw": 6511000000
+          },
+          "maxAge": 1,
+          "netReceivables": {
+            "fmt": "23.1B",
+            "longFmt": "23,100,000,000",
+            "raw": 23100000000
+          },
+          "propertyPlantEquipment": {
+            "fmt": "43.72B",
+            "longFmt": "43,715,000,000",
+            "raw": 43715000000
+          },
+          "shortTermInvestments": {
+            "fmt": "31.59B",
+            "longFmt": "31,590,000,000",
+            "raw": 31590000000
+          },
+          "totalAssets": {
+            "fmt": "353.51B",
+            "longFmt": "353,514,000,000",
+            "raw": 353514000000
+          },
+          "totalCurrentAssets": {
+            "fmt": "143.57B",
+            "longFmt": "143,566,000,000",
+            "raw": 143566000000
+          },
+          "totalLiab": {
+            "fmt": "290.44B",
+            "longFmt": "290,437,000,000",
+            "raw": 290437000000
+          },
+          "totalStockholderEquity": {
+            "fmt": "62.15B",
+            "longFmt": "62,146,000,000",
+            "raw": 62146000000
+          }
+        }
+      ]
+    }
+  },
+  "{\"symbol\":\"amzn\"}": {
+    "error": "",
+    "response": {
+      "balanceSheetStatements": [
+        {
+          "accountsPayable": {
+            "fmt": "84.98B",
+            "longFmt": "84,981,000,000",
+            "raw": 84981000000
+          },
+          "cash": {
+            "fmt": "73.4B",
+            "longFmt": "73,400,000,000",
+            "raw": 73400000000
+          },
+          "endDate": {
+            "fmt": "2023-12-31",
+            "raw": 1703980800
+          },
+          "goodWill": {
+            "fmt": "22.79B",
+            "longFmt": "22,789,000,000",
+            "raw": 22789000000
+          },
+          "inventory": {
+            "fmt": "33.32B",
+            "longFmt": "33,318,000,000",
+            "raw": 33318000000
+          },
+          "maxAge": 1,
+          "netReceivables": {
+            "fmt": "52.25B",
+            "longFmt": "52,250,000,000",
+            "raw": 52250000000
+          },
+          "propertyPlantEquipment": {
+            "fmt": "204.18B",
+            "longFmt": "204,177,000,000",
+            "raw": 204177000000
+          },
+          "shortTermInvestments": {
+            "fmt": "1.34B",
+            "longFmt": "1,340,000,000",
+            "raw": 1340000000
+          },
+          "totalAssets": {
+            "fmt": "527.85B",
+            "longFmt": "527,854,000,000",
+            "raw": 527854000000
+          },
+          "totalCurrentAssets": {
+            "fmt": "172.35B",
+            "longFmt": "172,350,000,000",
+            "raw": 172350000000
+          },
+          "totalLiab": {
+            "fmt": "325.98B",
+            "longFmt": "325,979,000,000",
+            "raw": 325979000000
+          },
+          "totalStockholderEquity": {
+            "fmt": "201.88B",
+            "longFmt": "201,875,000,000",
+            "raw": 201875000000
+          }
+        }
+      ]
+    }
+  },
+  "{\"symbol\":\"msft\"}": {
+    "error": "",
+    "response": {
+      "balanceSheetStatements": [
+        {
+          "accountsPayable": {
+            "fmt": "22.05B",
+            "longFmt": "22,054,000,000",
+            "raw": 22054000000
+          },
+          "cash": {
+            "fmt": "17.33B",
+            "longFmt": "17,326,000,000",
+            "raw": 17326000000
+          },
+          "endDate": {
+            "fmt": "2023-12-31",
+            "raw": 1703980800
+          },
+          "goodWill": {
+            "fmt": "67.89B",
+            "longFmt": "67,886,000,000",
+            "raw": 67886000000
+          },
+          "inventory": {
+            "fmt": "1.61B",
+            "longFmt": "1,610,000,000",
+            "raw": 1610000000
+          },
+          "maxAge": 1,
+          "netReceivables": {
+            "fmt": "48.69B",
+            "longFmt": "48,688,000,000",
+            "raw": 48688000000
+          },
+          "propertyPlantEquipment": {
+            "fmt": "109.97B",
+            "longFmt": "109,970,000,000",
+            "raw": 109970000000
+          },
+          "shortTermInvestments": {
+            "fmt": "76.56B",
+            "longFmt": "76,558,000,000",
+            "raw": 76558000000
+          },
+          "totalAssets": {
+            "fmt": "470.56B",
+            "longFmt": "470,558,000,000",
+            "raw": 470558000000
+          },
+          "totalCurrentAssets": {
+            "fmt": "147.21B",
+            "longFmt": "147,212,000,000",
+            "raw": 147212000000
+          },
+          "totalLiab": {
+            "fmt": "232.29B",
+            "longFmt": "232,290,000,000",
+            "raw": 232290000000
+          },
+          "totalStockholderEquity": {
+            "fmt": "238.27B",
+            "longFmt": "238,268,000,000",
+            "raw": 238268000000
+          }
+        }
+      ]
+    }
+  }
+}

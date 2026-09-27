@@ -1,0 +1,20 @@
+{
+  "{\"request_id\":\"9c858901-8a57-4791-81fe-4c455b099bc9\"}": {
+    "error": "",
+    "response": {
+      "message": "Email validation failed: disposable domain detected. Risk score: 0.87 (high risk)."
+    }
+  },
+  "{\"request_id\":\"a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d\"}": {
+    "error": "",
+    "response": {
+      "message": "Email validation completed successfully. Risk score: 0.12 (low risk)."
+    }
+  },
+  "{\"request_id\":\"f47ac10b-58cc-4372-a567-0e02b2c3d479\"}": {
+    "error": "",
+    "response": {
+      "message": "Email validation in progress. Please retry shortly."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "news": [
+        {
+          "published_at": "2024-06-15T09:30:00Z",
+          "source": "TechCrunch",
+          "summary": "OpenAI announced GPT-5, featuring improved multi-step reasoning and a larger context window, marking a significant leap in generative AI.",
+          "title": "OpenAI Unveils GPT-5 with Enhanced Reasoning Capabilities"
+        },
+        {
+          "published_at": "2024-06-14T14:05:00Z",
+          "source": "Reuters",
+          "summary": "The European Union approved the AI Act, introducing risk-based rules for AI systems and heavy fines for non-compliance.",
+          "title": "EU Passes Landmark AI Regulation Act"
+        },
+        {
+          "published_at": "2024-06-13T11:20:00Z",
+          "source": "Nature News",
+          "summary": "DeepMind released AlphaFold 3, extending its protein structure prediction to interactions with DNA, RNA, and small molecules.",
+          "title": "DeepMind's AlphaFold 3 Predicts Protein-Ligand Structures"
+        },
+        {
+          "published_at": "2024-06-12T16:45:00Z",
+          "source": "Bloomberg",
+          "summary": "Nvidia reported record quarterly revenue as demand for AI accelerators continues to surge across data centers worldwide.",
+          "title": "AI Chip Demand Drives Nvidia to Record Revenue"
+        },
+        {
+          "published_at": "2024-06-11T08:00:00Z",
+          "source": "The Japan Times",
+          "summary": "Japan established a national institute to evaluate AI safety and develop guidelines for responsible AI deployment.",
+          "title": "Japan Launches National AI Safety Institute"
+        }
+      ]
+    }
+  }
+}

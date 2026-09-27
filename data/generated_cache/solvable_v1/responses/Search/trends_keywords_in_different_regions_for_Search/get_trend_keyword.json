@@ -1,0 +1,176 @@
+{
+  "{\"date\":\"2023-05-16\",\"geo\":\"US\"}": {
+    "error": "",
+    "response": [
+      {
+        "articles": [
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/tech-trend.jpg",
+              "newsUrl": "https://example.com/news/tech-trend",
+              "source": "Tech Daily"
+            },
+            "snippet": "A new wave of AI-powered gadgets is reshaping consumer electronics.",
+            "source": "Tech Daily",
+            "timeAgo": "2 hours ago",
+            "title": "AI Gadgets Dominate the Market",
+            "url": "https://example.com/articles/ai-gadgets"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/climate-summit.jpg",
+              "newsUrl": "https://example.com/news/climate-summit",
+              "source": "Global News"
+            },
+            "snippet": "World leaders gather to discuss urgent climate action.",
+            "source": "Global News",
+            "timeAgo": "5 hours ago",
+            "title": "Climate Summit 2023",
+            "url": "https://example.com/articles/climate-summit"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/space-mission.jpg",
+              "newsUrl": "https://example.com/news/space-mission",
+              "source": "Space Watch"
+            },
+            "snippet": "NASA announces new mission to explore Europa.",
+            "source": "Space Watch",
+            "timeAgo": "8 hours ago",
+            "title": "NASA's Europa Mission",
+            "url": "https://example.com/articles/europa-mission"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/economy-report.jpg",
+              "newsUrl": "https://example.com/news/economy-report",
+              "source": "Finance Times"
+            },
+            "snippet": "Global markets rally as inflation shows signs of cooling.",
+            "source": "Finance Times",
+            "timeAgo": "12 hours ago",
+            "title": "Markets Rally on Inflation Data",
+            "url": "https://example.com/articles/market-rally"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/health-study.jpg",
+              "newsUrl": "https://example.com/news/health-study",
+              "source": "Health Journal"
+            },
+            "snippet": "New study links regular exercise to improved mental health.",
+            "source": "Health Journal",
+            "timeAgo": "1 day ago",
+            "title": "Exercise and Mental Health",
+            "url": "https://example.com/articles/exercise-mental-health"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/sports-final.jpg",
+              "newsUrl": "https://example.com/news/sports-final",
+              "source": "Sports Central"
+            },
+            "snippet": "Underdogs clinch victory in a thrilling championship final.",
+            "source": "Sports Central",
+            "timeAgo": "1 day ago",
+            "title": "Championship Final Upset",
+            "url": "https://example.com/articles/championship-final"
+          }
+        ],
+        "date": "2023-05-16",
+        "formattedDate": "May 16, 2023",
+        "geo": "US",
+        "image": "https://example.com/images/trending-us.jpg",
+        "index": 0,
+        "title": "Trending in United States"
+      }
+    ]
+  },
+  "{\"date\":\"2023-05-17\",\"geo\":\"GB\"}": {
+    "error": "",
+    "response": [
+      {
+        "articles": [
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/royal-event.jpg",
+              "newsUrl": "https://example.com/news/royal-event",
+              "source": "UK News"
+            },
+            "snippet": "Royal family attends a charity gala in London.",
+            "source": "UK News",
+            "timeAgo": "3 hours ago",
+            "title": "Royal Charity Gala",
+            "url": "https://example.com/articles/royal-charity-gala"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/football-transfer.jpg",
+              "newsUrl": "https://example.com/news/football-transfer",
+              "source": "Sports UK"
+            },
+            "snippet": "Premier League club signs a record-breaking deal.",
+            "source": "Sports UK",
+            "timeAgo": "6 hours ago",
+            "title": "Record Transfer in Premier League",
+            "url": "https://example.com/articles/premier-league-transfer"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/tech-startup.jpg",
+              "newsUrl": "https://example.com/news/tech-startup",
+              "source": "Tech London"
+            },
+            "snippet": "London-based startup raises £100M in Series B funding.",
+            "source": "Tech London",
+            "timeAgo": "10 hours ago",
+            "title": "London Startup Secures Funding",
+            "url": "https://example.com/articles/london-startup-funding"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/weather-alert.jpg",
+              "newsUrl": "https://example.com/news/weather-alert",
+              "source": "Weather Watch"
+            },
+            "snippet": "Storm warning issued for southern England.",
+            "source": "Weather Watch",
+            "timeAgo": "14 hours ago",
+            "title": "Storm Warning in UK",
+            "url": "https://example.com/articles/storm-warning"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/political-debate.jpg",
+              "newsUrl": "https://example.com/news/political-debate",
+              "source": "Politics Today"
+            },
+            "snippet": "Parliament debates new environmental policy.",
+            "source": "Politics Today",
+            "timeAgo": "1 day ago",
+            "title": "Parliament Debates Green Policy",
+            "url": "https://example.com/articles/parliament-green-policy"
+          },
+          {
+            "image": {
+              "imageUrl": "https://example.com/images/culture-festival.jpg",
+              "newsUrl": "https://example.com/news/culture-festival",
+              "source": "Culture UK"
+            },
+            "snippet": "Edinburgh Festival announces headline acts.",
+            "source": "Culture UK",
+            "timeAgo": "1 day ago",
+            "title": "Edinburgh Festival Lineup",
+            "url": "https://example.com/articles/edinburgh-festival"
+          }
+        ],
+        "date": "2023-05-17",
+        "formattedDate": "May 17, 2023",
+        "geo": "GB",
+        "image": "https://example.com/images/trending-gb.jpg",
+        "index": 1,
+        "title": "Trending in United Kingdom"
+      }
+    ]
+  }
+}

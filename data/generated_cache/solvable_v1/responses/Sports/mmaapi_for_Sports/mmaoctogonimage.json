@@ -1,0 +1,19 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "mmaoctogonimage",
+      "parameters": [],
+      "response": [
+        {
+          "format": "jpg",
+          "height": 800,
+          "image": "https://mmaapi.p.rapidapi.com/images/octagon.jpg",
+          "width": 1200
+        }
+      ],
+      "results": 1
+    }
+  }
+}

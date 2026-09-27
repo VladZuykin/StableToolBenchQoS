@@ -1,0 +1,23 @@
+{
+  "{\"cr\":\"countryUS\",\"filter\":0,\"flatten_results\":true,\"lr\":\"lang_en\",\"nfpr\":1,\"q\":\"climate change research 2024\",\"time_period\":\"custom\",\"time_period_max\":\"06/30/2024\",\"time_period_min\":\"01/01/2024\"}": {
+    "error": "",
+    "response": {
+      "info": "Successfully retrieved Google search results for 'climate change research 2024'",
+      "message": "10 organic results returned for the custom time period"
+    }
+  },
+  "{\"gl\":\"uk\",\"google_domain\":\"google.co.uk\",\"hl\":\"en\",\"include_answer_box\":true,\"knowledge_graph_id\":\"/m/05z1_\",\"location\":\"London,England,United Kingdom\",\"location_auto\":false,\"num\":15,\"page\":2,\"q\":\"Python programming tutorial\",\"tbs\":\"qdr:w\",\"uule\":\"w+CAIQICIGTG9uZG9u\"}": {
+    "error": "",
+    "response": {
+      "info": "Successfully retrieved Google search results for 'Python programming tutorial'",
+      "message": "15 organic results returned for page 2"
+    }
+  },
+  "{\"gl\":\"us\",\"google_domain\":\"google.com\",\"hl\":\"en\",\"location\":\"Seattle,Washington,United States\",\"num\":20,\"page\":1,\"q\":\"best coffee shops in Seattle\",\"safe\":\"active\"}": {
+    "error": "",
+    "response": {
+      "info": "Successfully retrieved Google search results for 'best coffee shops in Seattle'",
+      "message": "20 organic results returned for page 1"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "matches": [
+        {
+          "away_team": "Chelsea",
+          "home_team": "Arsenal",
+          "id": "bc-1001",
+          "league": "English Premier League",
+          "odds": {
+            "away": 3.6,
+            "draw": 3.4,
+            "home": 2.05
+          },
+          "sport": "football",
+          "start_time": "2025-08-16T14:00:00Z",
+          "status": "pre-game"
+        },
+        {
+          "away_team": "Boston Celtics",
+          "home_team": "Los Angeles Lakers",
+          "id": "bc-1002",
+          "league": "NBA",
+          "odds": {
+            "away": 1.95,
+            "home": 1.85
+          },
+          "sport": "basketball",
+          "start_time": "2025-08-16T23:30:00Z",
+          "status": "pre-game"
+        },
+        {
+          "away_team": "Jannik Sinner",
+          "home_team": "Carlos Alcaraz",
+          "id": "bc-1003",
+          "league": "ATP Masters 1000",
+          "odds": {
+            "away": 2.1,
+            "home": 1.7
+          },
+          "sport": "tennis",
+          "start_time": "2025-08-17T12:00:00Z",
+          "status": "pre-game"
+        }
+      ]
+    }
+  }
+}

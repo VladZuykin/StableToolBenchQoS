@@ -1,0 +1,94 @@
+{
+  "{\"fields\":\"id,title,mean,media_type\",\"limit\":5,\"q\":\"Attack on Titan\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": 16498,
+          "mean": 8.56,
+          "media_type": "tv",
+          "title": "Shingeki no Kyojin"
+        },
+        {
+          "id": 110277,
+          "mean": 8.79,
+          "media_type": "tv",
+          "title": "Shingeki no Kyojin: The Final Season"
+        },
+        {
+          "id": 40028,
+          "mean": 8.83,
+          "media_type": "tv",
+          "title": "Shingeki no Kyojin: The Final Season Part 2"
+        },
+        {
+          "id": 51535,
+          "mean": 8.62,
+          "media_type": "tv",
+          "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
+        },
+        {
+          "id": 35760,
+          "mean": 9.05,
+          "media_type": "tv",
+          "title": "Shingeki no Kyojin Season 3 Part 2"
+        }
+      ],
+      "message": "Animes retrieved successfully"
+    }
+  },
+  "{\"fields\":\"title,mean,year,studios\",\"limit\":3,\"media_type\":\"movie\",\"order\":\"mean\",\"sort\":false,\"studio\":\"Studio Ghibli\",\"year_greater\":2000}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "mean": 8.77,
+          "studios": [
+            "Studio Ghibli"
+          ],
+          "title": "Sen to Chihiro no Kamikakushi",
+          "year": 2001
+        },
+        {
+          "mean": 8.66,
+          "studios": [
+            "Studio Ghibli"
+          ],
+          "title": "Howl no Ugoku Shiro",
+          "year": 2004
+        },
+        {
+          "mean": 8.13,
+          "studios": [
+            "Studio Ghibli"
+          ],
+          "title": "Kaze Tachinu",
+          "year": 2013
+        }
+      ],
+      "message": "Animes retrieved successfully"
+    }
+  },
+  "{\"fields\":\"title,title_english,num_episodes,season,year\",\"genre\":\"sports\",\"limit\":2,\"offset\":0,\"season\":\"fall\",\"source\":\"manga\",\"status\":\"finished_airing\",\"year_equal\":2014}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "num_episodes": 25,
+          "season": "fall",
+          "title": "Haikyuu!!",
+          "title_english": "Haikyu!!",
+          "year": 2014
+        },
+        {
+          "num_episodes": 24,
+          "season": "fall",
+          "title": "Yowamushi Pedal: Grande Road",
+          "title_english": "Yowamushi Pedal: Grande Road",
+          "year": 2014
+        }
+      ],
+      "message": "Animes retrieved successfully"
+    }
+  }
+}

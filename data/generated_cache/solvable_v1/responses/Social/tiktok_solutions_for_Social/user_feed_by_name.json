@@ -1,0 +1,20 @@
+{
+  "{\"username\":\"addisonre\"}": {
+    "error": "",
+    "response": {
+      "message": "User feed for addisonre retrieved successfully."
+    }
+  },
+  "{\"username\":\"bellapoarch\"}": {
+    "error": "",
+    "response": {
+      "message": "User feed for bellapoarch retrieved successfully."
+    }
+  },
+  "{\"username\":\"charlidamelio\"}": {
+    "error": "",
+    "response": {
+      "message": "User feed for charlidamelio retrieved successfully."
+    }
+  }
+}

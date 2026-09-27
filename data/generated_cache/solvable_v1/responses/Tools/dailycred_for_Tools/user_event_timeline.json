@@ -1,0 +1,76 @@
+{
+  "{\"event_type\":\"login\"}": {
+    "error": "",
+    "response": {
+      "event_type": "login",
+      "events": [
+        {
+          "ip": "203.0.113.45",
+          "provider": "email",
+          "timestamp": "2024-06-01T08:14:22Z",
+          "user_id": "u_10293"
+        },
+        {
+          "ip": "203.0.113.45",
+          "provider": "google",
+          "timestamp": "2024-06-03T19:02:11Z",
+          "user_id": "u_10293"
+        },
+        {
+          "ip": "198.51.100.9",
+          "provider": "email",
+          "timestamp": "2024-06-07T12:47:05Z",
+          "user_id": "u_10293"
+        }
+      ]
+    }
+  },
+  "{\"event_type\":\"page_view\"}": {
+    "error": "",
+    "response": {
+      "event_type": "page_view",
+      "events": [
+        {
+          "duration_seconds": 142,
+          "path": "/dashboard",
+          "timestamp": "2024-06-10T10:05:59Z",
+          "user_id": "u_77402"
+        },
+        {
+          "duration_seconds": 58,
+          "path": "/settings/profile",
+          "timestamp": "2024-06-10T10:09:31Z",
+          "user_id": "u_77402"
+        },
+        {
+          "duration_seconds": 311,
+          "path": "/reports/monthly",
+          "timestamp": "2024-06-11T21:44:07Z",
+          "user_id": "u_77402"
+        }
+      ]
+    }
+  },
+  "{\"event_type\":\"signup\"}": {
+    "error": "",
+    "response": {
+      "event_type": "signup",
+      "events": [
+        {
+          "ip": "192.0.2.77",
+          "provider": "twitter",
+          "referrer": "https://example.com/pricing",
+          "timestamp": "2024-05-21T15:33:40Z",
+          "user_id": "u_55810"
+        },
+        {
+          "ip": "192.0.2.77",
+          "provider": "linkedin",
+          "referrer": "https://example.com/blog",
+          "timestamp": "2024-05-22T09:10:18Z",
+          "user_id": "u_55810"
+        }
+      ]
+    }
+  }
+}

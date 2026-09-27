@@ -1,0 +1,413 @@
+{
+  "{\"tournamentid\":1}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456789,
+          "doFollow": true,
+          "id": 2001,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/2001",
+          "subtitle": "Premiership highlights",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2001.jpg",
+          "title": "Aviva Premiership: Round 10",
+          "url": "https://rugbyapi.com/watch/2001"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456790,
+          "doFollow": false,
+          "id": 2002,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/2002",
+          "subtitle": "Player interview",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2002.jpg",
+          "title": "Man of the match speaks",
+          "url": "https://rugbyapi.com/watch/2002"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456791,
+          "doFollow": true,
+          "id": 2003,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/2003",
+          "subtitle": "Top tackles",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2003.jpg",
+          "title": "Best defensive moments",
+          "url": "https://rugbyapi.com/watch/2003"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456792,
+          "doFollow": false,
+          "id": 2004,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/2004",
+          "subtitle": "Match preview",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2004.jpg",
+          "title": "Preview: Saracens vs Leicester",
+          "url": "https://rugbyapi.com/watch/2004"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456793,
+          "doFollow": true,
+          "id": 2005,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/2005",
+          "subtitle": "Full match replay",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2005.jpg",
+          "title": "Replay: Bath vs Harlequins",
+          "url": "https://rugbyapi.com/watch/2005"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456794,
+          "doFollow": false,
+          "id": 2006,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/2006",
+          "subtitle": "Injury news",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2006.jpg",
+          "title": "Team updates ahead of Round 11",
+          "url": "https://rugbyapi.com/watch/2006"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456795,
+          "doFollow": true,
+          "id": 2007,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/2007",
+          "subtitle": "Try of the week",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2007.jpg",
+          "title": "Brilliant team try",
+          "url": "https://rugbyapi.com/watch/2007"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456796,
+          "doFollow": false,
+          "id": 2008,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/2008",
+          "subtitle": "Stats analysis",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2008.jpg",
+          "title": "Round 10 statistics",
+          "url": "https://rugbyapi.com/watch/2008"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456797,
+          "doFollow": true,
+          "id": 2009,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/2009",
+          "subtitle": "Fan zone",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2009.jpg",
+          "title": "Supporters react to win",
+          "url": "https://rugbyapi.com/watch/2009"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1713456798,
+          "doFollow": false,
+          "id": 2010,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/2010",
+          "subtitle": "Press conference",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/2010.jpg",
+          "title": "Coaches discuss upcoming fixtures",
+          "url": "https://rugbyapi.com/watch/2010"
+        }
+      ]
+    }
+  },
+  "{\"tournamentid\":294}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345678,
+          "doFollow": true,
+          "id": 1001,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/1001",
+          "subtitle": "Round 5 Highlights",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1001.jpg",
+          "title": "NRL Round 5: Storm vs Broncos",
+          "url": "https://rugbyapi.com/watch/1001"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345679,
+          "doFollow": false,
+          "id": 1002,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/1002",
+          "subtitle": "Post-match interview",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1002.jpg",
+          "title": "Coach speaks after narrow win",
+          "url": "https://rugbyapi.com/watch/1002"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345680,
+          "doFollow": true,
+          "id": 1003,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/1003",
+          "subtitle": "Top 10 tries of the week",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1003.jpg",
+          "title": "Best tries: NRL Week 5",
+          "url": "https://rugbyapi.com/watch/1003"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345681,
+          "doFollow": false,
+          "id": 1004,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/1004",
+          "subtitle": "Match preview",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1004.jpg",
+          "title": "Preview: Panthers vs Rabbitohs",
+          "url": "https://rugbyapi.com/watch/1004"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345682,
+          "doFollow": true,
+          "id": 1005,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/1005",
+          "subtitle": "Full match replay",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1005.jpg",
+          "title": "Replay: Eels vs Tigers",
+          "url": "https://rugbyapi.com/watch/1005"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345683,
+          "doFollow": false,
+          "id": 1006,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/1006",
+          "subtitle": "Injury update",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1006.jpg",
+          "title": "Team news: Round 6",
+          "url": "https://rugbyapi.com/watch/1006"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345684,
+          "doFollow": true,
+          "id": 1007,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/1007",
+          "subtitle": "Try of the round",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1007.jpg",
+          "title": "Spectacular solo try",
+          "url": "https://rugbyapi.com/watch/1007"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345685,
+          "doFollow": false,
+          "id": 1008,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/1008",
+          "subtitle": "Stats breakdown",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1008.jpg",
+          "title": "Round 5 by the numbers",
+          "url": "https://rugbyapi.com/watch/1008"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345686,
+          "doFollow": true,
+          "id": 1009,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/1009",
+          "subtitle": "Fan reactions",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1009.jpg",
+          "title": "Fans celebrate derby win",
+          "url": "https://rugbyapi.com/watch/1009"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1712345687,
+          "doFollow": false,
+          "id": 1010,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/1010",
+          "subtitle": "Press conference",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/1010.jpg",
+          "title": "Captains face the media",
+          "url": "https://rugbyapi.com/watch/1010"
+        }
+      ]
+    }
+  },
+  "{\"tournamentid\":5}": {
+    "error": "",
+    "response": {
+      "media": [
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567890,
+          "doFollow": true,
+          "id": 3001,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/3001",
+          "subtitle": "Top 14 highlights",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3001.jpg",
+          "title": "Top 14: Round 8",
+          "url": "https://rugbyapi.com/watch/3001"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567891,
+          "doFollow": false,
+          "id": 3002,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/3002",
+          "subtitle": "Post-match reaction",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3002.jpg",
+          "title": "Player reactions after victory",
+          "url": "https://rugbyapi.com/watch/3002"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567892,
+          "doFollow": true,
+          "id": 3003,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/3003",
+          "subtitle": "Best tries",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3003.jpg",
+          "title": "Top 5 tries of the round",
+          "url": "https://rugbyapi.com/watch/3003"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567893,
+          "doFollow": false,
+          "id": 3004,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/3004",
+          "subtitle": "Match preview",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3004.jpg",
+          "title": "Preview: Toulouse vs Clermont",
+          "url": "https://rugbyapi.com/watch/3004"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567894,
+          "doFollow": true,
+          "id": 3005,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/3005",
+          "subtitle": "Full match replay",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3005.jpg",
+          "title": "Replay: Racing 92 vs La Rochelle",
+          "url": "https://rugbyapi.com/watch/3005"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567895,
+          "doFollow": false,
+          "id": 3006,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/3006",
+          "subtitle": "Injury update",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3006.jpg",
+          "title": "Team news: Round 9",
+          "url": "https://rugbyapi.com/watch/3006"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567896,
+          "doFollow": true,
+          "id": 3007,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/3007",
+          "subtitle": "Try of the round",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3007.jpg",
+          "title": "Spectacular finish",
+          "url": "https://rugbyapi.com/watch/3007"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567897,
+          "doFollow": false,
+          "id": 3008,
+          "keyHighlight": false,
+          "mediaType": 3,
+          "sourceUrl": "https://rugbyapi.com/media/3008",
+          "subtitle": "Stats breakdown",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3008.jpg",
+          "title": "Round 8 by the numbers",
+          "url": "https://rugbyapi.com/watch/3008"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567898,
+          "doFollow": true,
+          "id": 3009,
+          "keyHighlight": true,
+          "mediaType": 1,
+          "sourceUrl": "https://rugbyapi.com/media/3009",
+          "subtitle": "Fan reactions",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3009.jpg",
+          "title": "Fans celebrate derby win",
+          "url": "https://rugbyapi.com/watch/3009"
+        },
+        {
+          "_list_length": 10,
+          "createdAtTimestamp": 1714567899,
+          "doFollow": false,
+          "id": 3010,
+          "keyHighlight": false,
+          "mediaType": 2,
+          "sourceUrl": "https://rugbyapi.com/media/3010",
+          "subtitle": "Press conference",
+          "thumbnailUrl": "https://rugbyapi.com/thumbs/3010.jpg",
+          "title": "Captains face the media",
+          "url": "https://rugbyapi.com/watch/3010"
+        }
+      ]
+    }
+  }
+}

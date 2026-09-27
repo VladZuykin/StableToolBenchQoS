@@ -1,0 +1,11 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "homepage": "https://judge0.com",
+      "maintainer": "Judge0 Team",
+      "source_code": "https://github.com/judge0/judge0",
+      "version": "1.13.1"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"query\":\"contact@outscraper.com\"}": {
+    "error": "",
+    "response": {
+      "message": "Email is deliverable"
+    }
+  },
+  "{\"query\":\"invalid-email@nonexistentdomain.xyz\"}": {
+    "error": "",
+    "response": {
+      "message": "Email is not deliverable"
+    }
+  },
+  "{\"query\":\"john.doe@gmail.com\"}": {
+    "error": "",
+    "response": {
+      "message": "Email is deliverable"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "{\"limit\":10,\"page\":0}": {
+    "error": "",
+    "response": {
+      "amount": 10,
+      "query": {
+        "limit": 10,
+        "method": "matchmaking_matches",
+        "page": 0
+      },
+      "results": [
+        {
+          "id": 482913,
+          "lid": "mm-2024-06-11-001",
+          "starttime": "2024-06-11T18:32:05Z",
+          "status": "finished"
+        },
+        {
+          "id": 482914,
+          "lid": "mm-2024-06-11-002",
+          "starttime": "2024-06-11T18:41:22Z",
+          "status": "finished"
+        },
+        {
+          "id": 482915,
+          "lid": "mm-2024-06-11-003",
+          "starttime": "2024-06-11T18:50:47Z",
+          "status": "finished"
+        },
+        {
+          "id": 482916,
+          "lid": "mm-2024-06-11-004",
+          "starttime": "2024-06-11T19:02:13Z",
+          "status": "finished"
+        },
+        {
+          "id": 482917,
+          "lid": "mm-2024-06-11-005",
+          "starttime": "2024-06-11T19:14:58Z",
+          "status": "finished"
+        },
+        {
+          "id": 482918,
+          "lid": "mm-2024-06-11-006",
+          "starttime": "2024-06-11T19:23:31Z",
+          "status": "finished"
+        },
+        {
+          "id": 482919,
+          "lid": "mm-2024-06-11-007",
+          "starttime": "2024-06-11T19:35:09Z",
+          "status": "finished"
+        },
+        {
+          "id": 482920,
+          "lid": "mm-2024-06-11-008",
+          "starttime": "2024-06-11T19:47:44Z",
+          "status": "finished"
+        },
+        {
+          "id": 482921,
+          "lid": "mm-2024-06-11-009",
+          "starttime": "2024-06-11T19:58:20Z",
+          "status": "finished"
+        },
+        {
+          "id": 482922,
+          "lid": "mm-2024-06-11-010",
+          "starttime": "2024-06-11T20:06:55Z",
+          "status": "finished"
+        }
+      ]
+    }
+  },
+  "{\"limit\":3,\"page\":2}": {
+    "error": "",
+    "response": {
+      "amount": 3,
+      "query": {
+        "limit": 3,
+        "method": "matchmaking_matches",
+        "page": 2
+      },
+      "results": [
+        {
+          "id": 483105,
+          "lid": "mm-2024-06-12-101",
+          "starttime": "2024-06-12T09:12:40Z",
+          "status": "finished"
+        },
+        {
+          "id": 483106,
+          "lid": "mm-2024-06-12-102",
+          "starttime": "2024-06-12T09:21:17Z",
+          "status": "finished"
+        },
+        {
+          "id": 483107,
+          "lid": "mm-2024-06-12-103",
+          "starttime": "2024-06-12T09:33:52Z",
+          "status": "finished"
+        }
+      ]
+    }
+  }
+}

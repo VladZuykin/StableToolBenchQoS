@@ -1,0 +1,87 @@
+{
+  "{\"channel_id\":\"123456\",\"format\":\"xml\",\"full_response\":false,\"summary_response\":true}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "per_page": 25,
+      "total": 1,
+      "videos": [
+        {
+          "duration": 240,
+          "id": 55555555,
+          "summary": "A quick look behind the scenes.",
+          "title": "Behind the Scenes",
+          "uri": "/videos/55555555"
+        }
+      ]
+    }
+  },
+  "{\"channel_id\":\"staffpicks\",\"format\":\"json\",\"full_response\":true,\"page\":1,\"per_page\":10}": {
+    "error": "",
+    "response": {
+      "page": 1,
+      "per_page": 10,
+      "total": 2,
+      "videos": [
+        {
+          "description": "A demo of the new player.",
+          "duration": 62,
+          "id": 76979871,
+          "title": "The New Vimeo Player",
+          "uri": "/videos/76979871",
+          "user": {
+            "id": 12345,
+            "name": "Vimeo Staff",
+            "uri": "/users/staff"
+          }
+        },
+        {
+          "description": "A short film.",
+          "duration": 180,
+          "id": 1084537,
+          "title": "The Mountain",
+          "uri": "/videos/1084537",
+          "user": {
+            "id": 67890,
+            "name": "Example Creator",
+            "uri": "/users/examplecreator"
+          }
+        }
+      ]
+    }
+  },
+  "{\"channel_id\":\"vimeo\",\"format\":\"php\",\"full_response\":true,\"page\":2,\"per_page\":5,\"user_id\":\"staff\"}": {
+    "error": "",
+    "response": {
+      "page": 2,
+      "per_page": 5,
+      "total": 2,
+      "videos": [
+        {
+          "description": "Latest product update.",
+          "duration": 95,
+          "id": 22222222,
+          "title": "Product Update",
+          "uri": "/videos/22222222",
+          "user": {
+            "id": 11111,
+            "name": "Vimeo",
+            "uri": "/users/vimeo"
+          }
+        },
+        {
+          "description": "Highlighting community videos.",
+          "duration": 150,
+          "id": 33333333,
+          "title": "Community Spotlight",
+          "uri": "/videos/33333333",
+          "user": {
+            "id": 22222,
+            "name": "Vimeo Community",
+            "uri": "/users/vimeocommunity"
+          }
+        }
+      ]
+    }
+  }
+}

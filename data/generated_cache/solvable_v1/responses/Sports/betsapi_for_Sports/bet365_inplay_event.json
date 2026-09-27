@@ -1,0 +1,64 @@
+{
+  "{\"fi\":\"123456789\",\"stats\":\"1\"}": {
+    "error": "",
+    "response": {
+      "error": "",
+      "error_detail": "",
+      "event": {
+        "away_team": "Chelsea",
+        "home_team": "Arsenal",
+        "id": "123456789",
+        "league": "Premier League",
+        "markets": [
+          {
+            "name": "Match Winner",
+            "odds": {
+              "away": 6.5,
+              "draw": 4.2,
+              "home": 1.45
+            }
+          },
+          {
+            "name": "Over/Under 2.5",
+            "odds": {
+              "over": 1.8,
+              "under": 2.0
+            }
+          }
+        ],
+        "score": {
+          "away": 1,
+          "home": 2
+        },
+        "sport": "Soccer",
+        "stats": {
+          "corners": {
+            "away": 3,
+            "home": 7
+          },
+          "fouls": {
+            "away": 12,
+            "home": 9
+          },
+          "possession": {
+            "away": 42,
+            "home": 58
+          },
+          "shots_off_target": {
+            "away": 7,
+            "home": 5
+          },
+          "shots_on_target": {
+            "away": 4,
+            "home": 6
+          }
+        },
+        "time": {
+          "minute": 67,
+          "period": "2nd Half"
+        }
+      },
+      "success": 1
+    }
+  }
+}

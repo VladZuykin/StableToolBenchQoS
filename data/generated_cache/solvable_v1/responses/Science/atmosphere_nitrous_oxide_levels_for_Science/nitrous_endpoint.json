@@ -1,0 +1,32 @@
+{
+  "{\"nitrous\":{\"date\":\"2020-05\"}}": {
+    "error": "",
+    "response": {
+      "nitrous": [
+        {
+          "_list_length": 267,
+          "average": "332.45",
+          "averageUnc": "0.12",
+          "date": "2020-05",
+          "trend": "332.38",
+          "trendUnc": "0.09"
+        }
+      ]
+    }
+  },
+  "{\"nitrous\":{\"date\":\"2023-11\"}}": {
+    "error": "",
+    "response": {
+      "nitrous": [
+        {
+          "_list_length": 267,
+          "average": "336.12",
+          "averageUnc": "0.15",
+          "date": "2023-11",
+          "trend": "336.05",
+          "trendUnc": "0.11"
+        }
+      ]
+    }
+  }
+}

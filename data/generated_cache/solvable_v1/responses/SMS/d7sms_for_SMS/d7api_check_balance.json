@@ -1,0 +1,11 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "detail": {
+        "code": "200",
+        "message": "Your current balance is 245.75 credits"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"latitude\":\"35.6895\",\"longitude\":\"139.6917\"}": {
+    "error": "",
+    "response": {
+      "message": "Current conditions for latitude 35.6895, longitude 139.6917: Clear skies, temperature 22.8°C, feels like 23.4°C, humidity 55%, wind 9 km/h from the southeast, pressure 1018 hPa, visibility 12 km, UV index 6. Hourly forecast: 18:00 clear 22°C, 19:00 clear 21°C, 20:00 partly cloudy 20°C. Daily forecast: today high 24°C low 17°C, tomorrow high 23°C low 16°C. No weather alerts in effect."
+    }
+  },
+  "{\"latitude\":\"40.7128\",\"longitude\":\"-74.0060\"}": {
+    "error": "",
+    "response": {
+      "message": "Current conditions for latitude 40.7128, longitude -74.0060: Thunderstorms, temperature 26.5°C, feels like 29.0°C, humidity 84%, wind 32 km/h from the southwest, pressure 1004 hPa, visibility 6 km, UV index 2. Hourly forecast: 14:00 heavy rain 26°C, 15:00 thunderstorms 25°C, 16:00 rain 24°C. Daily forecast: today high 28°C low 21°C, tomorrow high 27°C low 20°C. Weather alert: Severe Thunderstorm Warning until 20:00."
+    }
+  },
+  "{\"latitude\":\"51.5074\",\"longitude\":\"-0.1276\"}": {
+    "error": "",
+    "response": {
+      "message": "Current conditions for latitude 51.5074, longitude -0.1276: Partly cloudy, temperature 14.2°C, feels like 13.1°C, humidity 72%, wind 18 km/h from the west, pressure 1015 hPa, visibility 10 km, UV index 3. Hourly forecast: 15:00 light rain 15°C, 16:00 cloudy 15°C, 17:00 cloudy 14°C. Daily forecast: today high 16°C low 9°C, tomorrow high 15°C low 8°C. No weather alerts in effect."
+    }
+  }
+}

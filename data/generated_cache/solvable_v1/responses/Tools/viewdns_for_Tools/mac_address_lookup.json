@@ -1,0 +1,20 @@
+{
+  "{\"mac\":\"00-05-02-34-56-78\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "company": "3Com Corporation",
+      "mac": "00-05-02-34-56-78"
+    }
+  },
+  "{\"mac\":\"00-14-22-01-23-45\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "company": "Dell Inc.",
+      "mac": "00-14-22-01-23-45"
+    }
+  },
+  "{\"mac\":\"00-1B-63-84-45-E6\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": "<mac_lookup><mac>00-1B-63-84-45-E6</mac><company>Apple, Inc.</company></mac_lookup>"
+  }
+}

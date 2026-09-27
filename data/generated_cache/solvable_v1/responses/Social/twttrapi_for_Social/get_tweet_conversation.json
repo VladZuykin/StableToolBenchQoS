@@ -1,0 +1,290 @@
+{
+  "{\"tweet_id\":\"1652849795336159233\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "timeline_response": {
+          "instructions": [
+            {
+              "__typename": "TimelineAddEntries",
+              "entries": [
+                {
+                  "content": {
+                    "__typename": "TimelineTimelineItem",
+                    "content": {
+                      "__typename": "TimelineTweet",
+                      "hasModeratedReplies": false,
+                      "tweetDisplayType": "Tweet",
+                      "tweetResult": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "conversation_muted": false,
+                          "core": {
+                            "user_result": {
+                              "result": {
+                                "__typename": "User",
+                                "affiliates_highlighted_label": {
+                                  "label": {
+                                    "badge": {
+                                      "url": "https://pbs.twimg.com/profile_images/badge.png"
+                                    },
+                                    "description": "Verified organization",
+                                    "url": {
+                                      "url": "https://example.com",
+                                      "urlType": "ExternalUrl"
+                                    },
+                                    "userLabelDisplayType": "Badge",
+                                    "userLabelType": "BusinessLabel"
+                                  }
+                                },
+                                "business_account": {},
+                                "exclusive_tweet_following": false,
+                                "has_nft_avatar": false,
+                                "is_blue_verified": true,
+                                "legacy": {
+                                  "advertiser_account_service_levels": [
+                                    "None"
+                                  ],
+                                  "advertiser_account_type": "none",
+                                  "analytics_type": "organic",
+                                  "created_at": "Wed Nov 04 20:00:00 +0000 2020",
+                                  "description": "Official account",
+                                  "entities": {
+                                    "description": {
+                                      "hashtags": [],
+                                      "symbols": [],
+                                      "urls": [],
+                                      "user_mentions": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 1200,
+                                  "followers_count": 45000,
+                                  "friends_count": 300,
+                                  "id_str": "1234567890",
+                                  "name": "Example Org",
+                                  "screen_name": "exampleorg",
+                                  "statuses_count": 5400,
+                                  "verified": true
+                                }
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 12,
+                            "conversation_id_str": "1652849795336159233",
+                            "created_at": "Tue May 02 12:00:00 +0000 2023",
+                            "favorite_count": 340,
+                            "full_text": "Welcome to our official conversation thread!",
+                            "id_str": "1652849795336159233",
+                            "lang": "en",
+                            "quote_count": 5,
+                            "reply_count": 18,
+                            "retweet_count": 42,
+                            "user_id_str": "1234567890"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"tweet_id\":\"1652849795336159234\",\"twttr_session\":\"session-token-abc123\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "timeline_response": {
+          "instructions": [
+            {
+              "__typename": "TimelineAddEntries",
+              "entries": [
+                {
+                  "content": {
+                    "__typename": "TimelineTimelineItem",
+                    "content": {
+                      "__typename": "TimelineTweet",
+                      "hasModeratedReplies": true,
+                      "tweetDisplayType": "Tweet",
+                      "tweetResult": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "conversation_muted": true,
+                          "core": {
+                            "user_result": {
+                              "result": {
+                                "__typename": "User",
+                                "affiliates_highlighted_label": {
+                                  "label": {
+                                    "badge": {
+                                      "url": "https://pbs.twimg.com/profile_images/badge2.png"
+                                    },
+                                    "description": "Verified creator",
+                                    "url": {
+                                      "url": "https://creator.example.com",
+                                      "urlType": "ExternalUrl"
+                                    },
+                                    "userLabelDisplayType": "Badge",
+                                    "userLabelType": "CreatorLabel"
+                                  }
+                                },
+                                "business_account": {},
+                                "exclusive_tweet_following": true,
+                                "has_nft_avatar": true,
+                                "is_blue_verified": true,
+                                "legacy": {
+                                  "advertiser_account_service_levels": [
+                                    "None"
+                                  ],
+                                  "advertiser_account_type": "none",
+                                  "analytics_type": "organic",
+                                  "created_at": "Fri Jun 10 09:30:00 +0000 2016",
+                                  "description": "Digital artist and creator",
+                                  "entities": {
+                                    "description": {
+                                      "hashtags": [],
+                                      "symbols": [],
+                                      "urls": [],
+                                      "user_mentions": []
+                                    }
+                                  },
+                                  "fast_followers_count": 3,
+                                  "favourites_count": 8900,
+                                  "followers_count": 120000,
+                                  "friends_count": 450,
+                                  "id_str": "9876543210",
+                                  "name": "Jane Creator",
+                                  "screen_name": "janecreates",
+                                  "statuses_count": 12000,
+                                  "verified": true
+                                }
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 88,
+                            "conversation_id_str": "1652849795336159234",
+                            "created_at": "Wed May 03 08:15:00 +0000 2023",
+                            "favorite_count": 1500,
+                            "full_text": "Here is my latest artwork thread, enjoy!",
+                            "id_str": "1652849795336159234",
+                            "lang": "en",
+                            "quote_count": 20,
+                            "reply_count": 95,
+                            "retweet_count": 210,
+                            "user_id_str": "9876543210"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "{\"tweet_id\":\"1652849795336159235\",\"twttr_proxy\":\"http://proxy.example.com:8080\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "timeline_response": {
+          "instructions": [
+            {
+              "__typename": "TimelineAddEntries",
+              "entries": [
+                {
+                  "content": {
+                    "__typename": "TimelineTimelineItem",
+                    "content": {
+                      "__typename": "TimelineTweet",
+                      "hasModeratedReplies": false,
+                      "tweetDisplayType": "Tweet",
+                      "tweetResult": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "conversation_muted": false,
+                          "core": {
+                            "user_result": {
+                              "result": {
+                                "__typename": "User",
+                                "affiliates_highlighted_label": {
+                                  "label": {
+                                    "badge": {
+                                      "url": "https://pbs.twimg.com/profile_images/badge3.png"
+                                    },
+                                    "description": "News outlet",
+                                    "url": {
+                                      "url": "https://news.example.com",
+                                      "urlType": "ExternalUrl"
+                                    },
+                                    "userLabelDisplayType": "Badge",
+                                    "userLabelType": "NewsLabel"
+                                  }
+                                },
+                                "business_account": {},
+                                "exclusive_tweet_following": false,
+                                "has_nft_avatar": false,
+                                "is_blue_verified": true,
+                                "legacy": {
+                                  "advertiser_account_service_levels": [
+                                    "None"
+                                  ],
+                                  "advertiser_account_type": "none",
+                                  "analytics_type": "organic",
+                                  "created_at": "Mon Jan 15 14:45:00 +0000 2018",
+                                  "description": "Breaking news and updates",
+                                  "entities": {
+                                    "description": {
+                                      "hashtags": [],
+                                      "symbols": [],
+                                      "urls": [],
+                                      "user_mentions": []
+                                    }
+                                  },
+                                  "fast_followers_count": 10,
+                                  "favourites_count": 2300,
+                                  "followers_count": 890000,
+                                  "friends_count": 120,
+                                  "id_str": "5555555555",
+                                  "name": "Daily News",
+                                  "screen_name": "dailynews",
+                                  "statuses_count": 45000,
+                                  "verified": true
+                                }
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 300,
+                            "conversation_id_str": "1652849795336159235",
+                            "created_at": "Thu May 04 18:45:00 +0000 2023",
+                            "favorite_count": 5600,
+                            "full_text": "Live thread: breaking developments as they happen.",
+                            "id_str": "1652849795336159235",
+                            "lang": "en",
+                            "quote_count": 75,
+                            "reply_count": 430,
+                            "retweet_count": 980,
+                            "user_id_str": "5555555555"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

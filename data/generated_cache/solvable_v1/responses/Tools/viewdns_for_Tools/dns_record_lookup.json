@@ -1,0 +1,47 @@
+{
+  "{\"domain\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "domain": "example.com",
+      "records": {
+        "A": [
+          "93.184.216.34"
+        ],
+        "MX": [
+          "0 ."
+        ],
+        "NS": [
+          "a.iana-servers.net",
+          "b.iana-servers.net"
+        ],
+        "SOA": [
+          "ns.icann.org hostmaster.icann.org 2022091301 7200 3600 1209600 3600"
+        ]
+      }
+    }
+  },
+  "{\"domain\":\"github.com\",\"output\":\"xml\",\"recordtype\":\"A\"}": {
+    "error": "",
+    "response": {
+      "domain": "github.com",
+      "records": {
+        "A": [
+          "140.82.112.3"
+        ]
+      },
+      "recordtype": "A"
+    }
+  },
+  "{\"domain\":\"google.com\",\"output\":\"json\",\"recordtype\":\"MX\"}": {
+    "error": "",
+    "response": {
+      "domain": "google.com",
+      "records": {
+        "MX": [
+          "10 smtp.google.com"
+        ]
+      },
+      "recordtype": "MX"
+    }
+  }
+}

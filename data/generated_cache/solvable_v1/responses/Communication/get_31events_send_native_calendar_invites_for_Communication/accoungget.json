@@ -1,0 +1,35 @@
+{
+  "{\"customer_id\":\"1\"}": {
+    "error": "",
+    "response": {
+      "account_name": "Acme Events",
+      "created_at": "2023-01-15T10:30:00Z",
+      "customer_id": "1",
+      "email": "events@acme.com",
+      "status": "active",
+      "timezone": "America/New_York"
+    }
+  },
+  "{\"customer_id\":\"42\"}": {
+    "error": "",
+    "response": {
+      "account_name": "Global Webinars Inc",
+      "created_at": "2022-11-03T08:12:45Z",
+      "customer_id": "42",
+      "email": "admin@globalwebinars.io",
+      "status": "active",
+      "timezone": "Europe/London"
+    }
+  },
+  "{\"customer_id\":\"987\"}": {
+    "error": "",
+    "response": {
+      "account_name": "Summit Training Co",
+      "created_at": "2021-06-21T14:05:30Z",
+      "customer_id": "987",
+      "email": "support@summittraining.org",
+      "status": "suspended",
+      "timezone": "America/Los_Angeles"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "{\"is_id\":\"tt0111161\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "information",
+      "parameters": [
+        {
+          "id": "tt0111161"
+        }
+      ],
+      "response": [
+        {
+          "cinema": "Cinemas NOS Colombo",
+          "city": "Lisboa",
+          "sessions": [
+            "14:30",
+            "17:00",
+            "21:15"
+          ],
+          "version": "VO"
+        },
+        {
+          "cinema": "Cinemas NOS Almada Forum",
+          "city": "Almada",
+          "sessions": [
+            "15:45",
+            "19:30",
+            "22:45"
+          ],
+          "version": "VP"
+        },
+        {
+          "cinema": "Cinemas NOS Norteshopping",
+          "city": "Matosinhos",
+          "sessions": [
+            "13:00",
+            "16:20",
+            "20:50"
+          ],
+          "version": "VO"
+        }
+      ],
+      "results": 3
+    }
+  },
+  "{\"is_id\":\"tt1375666\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "information",
+      "parameters": [
+        {
+          "id": "tt1375666"
+        }
+      ],
+      "response": [
+        {
+          "cinema": "Cinemas NOS Vasco da Gama",
+          "city": "Lisboa",
+          "sessions": [
+            "11:00",
+            "14:10",
+            "18:40",
+            "23:00"
+          ],
+          "version": "VO"
+        },
+        {
+          "cinema": "Cinemas NOS Gaia Shopping",
+          "city": "Vila Nova de Gaia",
+          "sessions": [
+            "12:30",
+            "16:00",
+            "20:15"
+          ],
+          "version": "VP"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

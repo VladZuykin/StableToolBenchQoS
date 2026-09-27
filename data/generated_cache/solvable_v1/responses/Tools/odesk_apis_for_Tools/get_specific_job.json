@@ -1,0 +1,143 @@
+{
+  "{\"format\":\"json\",\"job_reference\":555001,\"job_reference_format\":\"~03\"}": {
+    "error": "",
+    "response": {
+      "job": {
+        "budget": {
+          "amount": 3500,
+          "currency": "USD"
+        },
+        "category": "Design",
+        "client": {
+          "company_name": "PayNest",
+          "country": "United Kingdom",
+          "feedback_score": 5.0,
+          "id": 998877,
+          "team_id": 665544,
+          "total_spent": 210000
+        },
+        "created_time": "2023-11-20T16:10:33Z",
+        "description": "Design intuitive mobile interfaces for a personal finance app. Deliverables include wireframes, high-fidelity mockups, and a design system.",
+        "duration": "1 to 3 months",
+        "id": 555001,
+        "last_modified": "2024-01-10T10:00:00Z",
+        "positions_open": 0,
+        "proposals_count": 32,
+        "reference": "~03",
+        "skills": [
+          {
+            "id": 301,
+            "name": "UI Design"
+          },
+          {
+            "id": 302,
+            "name": "Figma"
+          },
+          {
+            "id": 303,
+            "name": "Mobile Design"
+          }
+        ],
+        "status": "closed",
+        "subcategory": "User Experience Design",
+        "title": "Mobile App UI/UX Designer for Fintech Startup",
+        "type": "fixed-price",
+        "url": "https://www.odesk.com/jobs/~03",
+        "visibility": "public"
+      }
+    }
+  },
+  "{\"format\":\"json\",\"job_reference\":987654,\"job_reference_format\":\"~01\"}": {
+    "error": "",
+    "response": {
+      "job": {
+        "budget": {
+          "currency": "USD",
+          "max": 75,
+          "min": 45
+        },
+        "category": "Web Development",
+        "client": {
+          "company_name": "Nimbus Commerce",
+          "country": "United States",
+          "feedback_score": 4.9,
+          "id": 445566,
+          "team_id": 778899,
+          "total_spent": 125000
+        },
+        "created_time": "2024-03-15T09:22:41Z",
+        "description": "We are seeking an experienced React developer to build and maintain a large-scale marketplace application. Must have 5+ years of experience with React, Redux, and TypeScript.",
+        "duration": "3 to 6 months",
+        "id": 987654,
+        "last_modified": "2024-03-18T14:05:12Z",
+        "positions_open": 2,
+        "proposals_count": 14,
+        "reference": "~01",
+        "skills": [
+          {
+            "id": 101,
+            "name": "React"
+          },
+          {
+            "id": 102,
+            "name": "TypeScript"
+          },
+          {
+            "id": 103,
+            "name": "Redux"
+          }
+        ],
+        "status": "open",
+        "subcategory": "Frontend Development",
+        "title": "Senior React Developer for Marketplace Platform",
+        "type": "hourly",
+        "url": "https://www.odesk.com/jobs/~01",
+        "visibility": "public"
+      }
+    }
+  },
+  "{\"format\":\"xml\",\"job_reference\":123456,\"job_reference_format\":\"~02\"}": {
+    "error": "",
+    "response": {
+      "job": {
+        "budget": {
+          "amount": 800,
+          "currency": "USD"
+        },
+        "category": "Admin Support",
+        "client": {
+          "company_name": "BrightLeaf Retail",
+          "country": "Canada",
+          "feedback_score": 4.7,
+          "id": 112233,
+          "team_id": 445566,
+          "total_spent": 42000
+        },
+        "created_time": "2024-02-02T11:45:00Z",
+        "description": "Need a detail-oriented freelancer to enter and verify product data for an online store. Approximately 500 SKUs.",
+        "duration": "Less than 1 month",
+        "id": 123456,
+        "last_modified": "2024-02-05T08:30:19Z",
+        "positions_open": 1,
+        "proposals_count": 6,
+        "reference": "~02",
+        "skills": [
+          {
+            "id": 201,
+            "name": "Data Entry"
+          },
+          {
+            "id": 202,
+            "name": "Excel"
+          }
+        ],
+        "status": "open",
+        "subcategory": "Data Entry",
+        "title": "Data Entry Specialist for E-commerce Catalog",
+        "type": "fixed-price",
+        "url": "https://www.odesk.com/jobs/~02",
+        "visibility": "private"
+      }
+    }
+  }
+}

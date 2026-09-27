@@ -1,0 +1,74 @@
+{
+  "{\"event_id\":\"42\",\"response_type\":\"accepted\"}": {
+    "error": "",
+    "response": {
+      "event_id": "42",
+      "response_type": "accepted",
+      "responses": [
+        {
+          "email": "alice.johnson@example.com",
+          "name": "Alice Johnson",
+          "responded_at": "2024-06-14T09:12:33Z"
+        },
+        {
+          "email": "brian.lee@example.com",
+          "name": "Brian Lee",
+          "responded_at": "2024-06-14T10:45:01Z"
+        },
+        {
+          "email": "carla.mendez@example.com",
+          "name": "Carla Mendez",
+          "responded_at": "2024-06-15T08:03:19Z"
+        }
+      ]
+    }
+  },
+  "{\"event_id\":\"training-session-7\",\"response_type\":\"noreply\"}": {
+    "error": "",
+    "response": {
+      "event_id": "training-session-7",
+      "response_type": "noreply",
+      "responses": [
+        {
+          "email": "frank.miller@example.com",
+          "name": "Frank Miller",
+          "responded_at": null
+        },
+        {
+          "email": "grace.chen@example.com",
+          "name": "Grace Chen",
+          "responded_at": null
+        },
+        {
+          "email": "hassan.ali@example.com",
+          "name": "Hassan Ali",
+          "responded_at": null
+        },
+        {
+          "email": "isabel.garcia@example.com",
+          "name": "Isabel Garcia",
+          "responded_at": null
+        }
+      ]
+    }
+  },
+  "{\"event_id\":\"webinar-2024-q3\",\"response_type\":\"declined\"}": {
+    "error": "",
+    "response": {
+      "event_id": "webinar-2024-q3",
+      "response_type": "declined",
+      "responses": [
+        {
+          "email": "david.kim@example.com",
+          "name": "David Kim",
+          "responded_at": "2024-07-01T14:22:47Z"
+        },
+        {
+          "email": "elena.rossi@example.com",
+          "name": "Elena Rossi",
+          "responded_at": "2024-07-02T11:09:05Z"
+        }
+      ]
+    }
+  }
+}

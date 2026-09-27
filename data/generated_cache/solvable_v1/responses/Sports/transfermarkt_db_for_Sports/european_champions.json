@@ -1,0 +1,137 @@
+{
+  "{\"locale\":\"DE\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png",
+            "countryName": "Real Madrid",
+            "id": "418",
+            "quantity": 15
+          },
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "AC Mailand",
+            "id": "5",
+            "quantity": 7
+          }
+        ],
+        "share": {
+          "description": "Meiste Titel im Europapokal der Landesmeister/Champions League",
+          "title": "Europapokal-Sieger",
+          "url": "https://www.transfermarkt.de/europapokal-sieger/erfolge/pokalwettbewerb/CL"
+        },
+        "teams": [
+          {
+            "_list_length": 16,
+            "alias": "Real Madrid",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.jpg",
+            "coachName": "Carlo Ancelotti",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png",
+            "countryName": "Spanien",
+            "firstName": "Carlo",
+            "id": "418",
+            "lastName": "Ancelotti",
+            "season": "2023/24",
+            "seasonID": "2023",
+            "successID": "CL"
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"EN\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png",
+            "countryName": "Real Madrid",
+            "id": "418",
+            "quantity": 15
+          },
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "AC Milan",
+            "id": "5",
+            "quantity": 7
+          }
+        ],
+        "share": {
+          "description": "Most European Cup/Champions League titles",
+          "title": "European champions",
+          "url": "https://www.transfermarkt.com/european-champions/erfolge/pokalwettbewerb/CL"
+        },
+        "teams": [
+          {
+            "_list_length": 16,
+            "alias": "Real Madrid",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.jpg",
+            "coachName": "Carlo Ancelotti",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png",
+            "countryName": "Spain",
+            "firstName": "Carlo",
+            "id": "418",
+            "lastName": "Ancelotti",
+            "season": "2023/24",
+            "seasonID": "2023",
+            "successID": "CL"
+          }
+        ]
+      }
+    }
+  },
+  "{\"locale\":\"ES\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "recordWinner": [
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png",
+            "countryName": "Real Madrid",
+            "id": "418",
+            "quantity": 15
+          },
+          {
+            "_list_length": 10,
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/5.png",
+            "countryName": "AC Milan",
+            "id": "5",
+            "quantity": 7
+          }
+        ],
+        "share": {
+          "description": "Más títulos de Copa de Europa/Champions League",
+          "title": "Campeones de Europa",
+          "url": "https://www.transfermarkt.es/campeones-de-europa/erfolge/pokalwettbewerb/CL"
+        },
+        "teams": [
+          {
+            "_list_length": 16,
+            "alias": "Real Madrid",
+            "coachID": "1234",
+            "coachImage": "https://tmssl.akamaized.net/images/portrait/small/1234.jpg",
+            "coachName": "Carlo Ancelotti",
+            "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png",
+            "countryName": "España",
+            "firstName": "Carlo",
+            "id": "418",
+            "lastName": "Ancelotti",
+            "season": "2023/24",
+            "seasonID": "2023",
+            "successID": "CL"
+          }
+        ]
+      }
+    }
+  }
+}

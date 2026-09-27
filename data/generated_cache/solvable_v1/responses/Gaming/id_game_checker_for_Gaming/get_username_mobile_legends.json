@@ -1,0 +1,14 @@
+{
+  "{\"is_id\":5566778899,\"server\":3012}": {
+    "error": "",
+    "response": {
+      "message": "Username: MLBB_King"
+    }
+  },
+  "{\"is_id\":987654321,\"server\":2045}": {
+    "error": "",
+    "response": {
+      "message": "Username: ShadowStrike"
+    }
+  }
+}

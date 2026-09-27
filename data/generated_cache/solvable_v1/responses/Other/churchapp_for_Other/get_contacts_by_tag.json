@@ -1,0 +1,103 @@
+{
+  "{\"tag_id\":\"donor\"}": {
+    "error": "",
+    "response": {
+      "contacts": [
+        {
+          "email": "robert.nguyen@example.com",
+          "first_name": "Robert",
+          "id": "c_12010",
+          "last_name": "Nguyen",
+          "phone": "+1-555-0310",
+          "tags": [
+            "donor",
+            "leadership"
+          ]
+        },
+        {
+          "email": "emily.carter@example.com",
+          "first_name": "Emily",
+          "id": "c_12055",
+          "last_name": "Carter",
+          "phone": "+1-555-0347",
+          "tags": [
+            "donor"
+          ]
+        }
+      ],
+      "count": 2,
+      "tag_id": "donor"
+    }
+  },
+  "{\"tag_id\":\"new-member\"}": {
+    "error": "",
+    "response": {
+      "contacts": [
+        {
+          "email": "grace.okafor@example.com",
+          "first_name": "Grace",
+          "id": "c_11002",
+          "last_name": "Okafor",
+          "phone": "+1-555-0233",
+          "tags": [
+            "new-member"
+          ]
+        },
+        {
+          "email": "thomas.bennett@example.com",
+          "first_name": "Thomas",
+          "id": "c_11045",
+          "last_name": "Bennett",
+          "phone": "+1-555-0271",
+          "tags": [
+            "new-member",
+            "prayer-team"
+          ]
+        },
+        {
+          "email": "aisha.rahman@example.com",
+          "first_name": "Aisha",
+          "id": "c_11067",
+          "last_name": "Rahman",
+          "phone": "+1-555-0294",
+          "tags": [
+            "new-member"
+          ]
+        }
+      ],
+      "count": 3,
+      "tag_id": "new-member"
+    }
+  },
+  "{\"tag_id\":\"volunteer\"}": {
+    "error": "",
+    "response": {
+      "contacts": [
+        {
+          "email": "maria.lopez@example.com",
+          "first_name": "Maria",
+          "id": "c_10231",
+          "last_name": "Lopez",
+          "phone": "+1-555-0142",
+          "tags": [
+            "volunteer",
+            "choir"
+          ]
+        },
+        {
+          "email": "david.chen@example.com",
+          "first_name": "David",
+          "id": "c_10488",
+          "last_name": "Chen",
+          "phone": "+1-555-0198",
+          "tags": [
+            "volunteer",
+            "youth"
+          ]
+        }
+      ],
+      "count": 2,
+      "tag_id": "volunteer"
+    }
+  }
+}

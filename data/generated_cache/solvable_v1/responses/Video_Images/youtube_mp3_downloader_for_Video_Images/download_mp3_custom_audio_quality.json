@@ -1,0 +1,23 @@
+{
+  "{\"quality\":128,\"url\":\"https://youtu.be/9bZkp7q19f0\"}": {
+    "error": "",
+    "response": {
+      "info": "Download started successfully",
+      "messages": "Your mp3 file is being prepared at 128 Kbps. Download will begin shortly."
+    }
+  },
+  "{\"quality\":320,\"url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"}": {
+    "error": "",
+    "response": {
+      "info": "Download started successfully",
+      "messages": "Your mp3 file is being prepared at 320 Kbps. Download will begin shortly."
+    }
+  },
+  "{\"quality\":64,\"url\":\"https://www.youtube.com/watch?v=kJQP7kiw5Fk\"}": {
+    "error": "",
+    "response": {
+      "info": "Download started successfully",
+      "messages": "Your mp3 file is being prepared at 64 Kbps. Download will begin shortly."
+    }
+  }
+}

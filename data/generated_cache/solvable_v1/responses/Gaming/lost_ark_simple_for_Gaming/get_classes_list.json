@@ -1,0 +1,116 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "backup": false,
+      "data": [
+        {
+          "characters": [
+            {
+              "id": "char_001",
+              "name": "Rageblade"
+            },
+            {
+              "id": "char_002",
+              "name": "Ironclad"
+            },
+            {
+              "id": "char_003",
+              "name": "Bloodfang"
+            },
+            {
+              "id": "char_004",
+              "name": "Skullcrusher"
+            }
+          ],
+          "class": "Berserker"
+        },
+        {
+          "characters": [
+            {
+              "id": "char_005",
+              "name": "Lightbringer"
+            },
+            {
+              "id": "char_006",
+              "name": "HolyAvenger"
+            },
+            {
+              "id": "char_007",
+              "name": "DivineShield"
+            },
+            {
+              "id": "char_008",
+              "name": "Sanctifier"
+            }
+          ],
+          "class": "Paladin"
+        },
+        {
+          "characters": [
+            {
+              "id": "char_009",
+              "name": "Frostweaver"
+            },
+            {
+              "id": "char_010",
+              "name": "Pyromancer"
+            },
+            {
+              "id": "char_011",
+              "name": "ArcaneSeer"
+            },
+            {
+              "id": "char_012",
+              "name": "Stormcaller"
+            }
+          ],
+          "class": "Sorceress"
+        },
+        {
+          "characters": [
+            {
+              "id": "char_013",
+              "name": "Shadowstrike"
+            },
+            {
+              "id": "char_014",
+              "name": "Voidreaver"
+            },
+            {
+              "id": "char_015",
+              "name": "Souledge"
+            },
+            {
+              "id": "char_016",
+              "name": "Nightfall"
+            }
+          ],
+          "class": "Deathblade"
+        },
+        {
+          "characters": [
+            {
+              "id": "char_017",
+              "name": "Deadeye"
+            },
+            {
+              "id": "char_018",
+              "name": "Peacekeeper"
+            },
+            {
+              "id": "char_019",
+              "name": "Timeweaver"
+            },
+            {
+              "id": "char_020",
+              "name": "Bulletstorm"
+            }
+          ],
+          "class": "Gunslinger"
+        }
+      ],
+      "status": "success"
+    }
+  }
+}

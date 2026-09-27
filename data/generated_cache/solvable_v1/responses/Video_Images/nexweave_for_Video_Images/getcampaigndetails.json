@@ -1,0 +1,54 @@
+{
+  "{\"campaignid\":\"campaign_2024_holiday_promo\"}": {
+    "error": "",
+    "response": {
+      "campaignId": "campaign_2024_holiday_promo",
+      "campaignName": "Holiday Promo 2024",
+      "message": "Campaign details retrieved successfully",
+      "status": "draft",
+      "variables": [
+        {
+          "defaultValue": "Valued Customer",
+          "name": "recipientName",
+          "type": "string"
+        },
+        {
+          "defaultValue": 15,
+          "name": "discountPercent",
+          "type": "number"
+        },
+        {
+          "defaultValue": "2024-12-31",
+          "name": "expiryDate",
+          "type": "string"
+        }
+      ]
+    }
+  },
+  "{\"campaignid\":\"cmp_9f3a2b7c\"}": {
+    "error": "",
+    "response": {
+      "campaignId": "cmp_9f3a2b7c",
+      "campaignName": "Q3 Product Launch",
+      "message": "Campaign details retrieved successfully",
+      "status": "active",
+      "variables": [
+        {
+          "defaultValue": "Customer",
+          "name": "firstName",
+          "type": "string"
+        },
+        {
+          "defaultValue": "Acme Inc.",
+          "name": "companyName",
+          "type": "string"
+        },
+        {
+          "defaultValue": "SAVE20",
+          "name": "offerCode",
+          "type": "string"
+        }
+      ]
+    }
+  }
+}

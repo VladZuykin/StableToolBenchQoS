@@ -1,0 +1,96 @@
+{
+  "{\"languageid\":\"en\"}": {
+    "error": "",
+    "response": {
+      "propertyTypes": [
+        {
+          "id": "1",
+          "localized_name": "Entire apartment",
+          "name": "Entire apartment"
+        },
+        {
+          "id": "2",
+          "localized_name": "Entire house",
+          "name": "Entire house"
+        },
+        {
+          "id": "3",
+          "localized_name": "Private room",
+          "name": "Private room"
+        },
+        {
+          "id": "4",
+          "localized_name": "Shared room",
+          "name": "Shared room"
+        },
+        {
+          "id": "5",
+          "localized_name": "Entire villa",
+          "name": "Entire villa"
+        },
+        {
+          "id": "6",
+          "localized_name": "Entire loft",
+          "name": "Entire loft"
+        },
+        {
+          "id": "7",
+          "localized_name": "Entire guesthouse",
+          "name": "Entire guesthouse"
+        },
+        {
+          "id": "8",
+          "localized_name": "Entire condominium",
+          "name": "Entire condominium"
+        }
+      ]
+    }
+  },
+  "{\"languageid\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "propertyTypes": [
+        {
+          "id": "1",
+          "localized_name": "Appartement entier",
+          "name": "Entire apartment"
+        },
+        {
+          "id": "2",
+          "localized_name": "Maison entière",
+          "name": "Entire house"
+        },
+        {
+          "id": "3",
+          "localized_name": "Chambre privée",
+          "name": "Private room"
+        },
+        {
+          "id": "4",
+          "localized_name": "Chambre partagée",
+          "name": "Shared room"
+        },
+        {
+          "id": "5",
+          "localized_name": "Villa entière",
+          "name": "Entire villa"
+        },
+        {
+          "id": "6",
+          "localized_name": "Loft entier",
+          "name": "Entire loft"
+        },
+        {
+          "id": "7",
+          "localized_name": "Maison d'hôtes entière",
+          "name": "Entire guesthouse"
+        },
+        {
+          "id": "8",
+          "localized_name": "Condominium entier",
+          "name": "Entire condominium"
+        }
+      ]
+    }
+  }
+}

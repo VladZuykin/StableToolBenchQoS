@@ -1,0 +1,96 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/recommendation-trend",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "buy": 12,
+          "hold": 5,
+          "period": "0m",
+          "sell": 1,
+          "strongBuy": 18,
+          "strongSell": 0
+        },
+        {
+          "buy": 13,
+          "hold": 5,
+          "period": "-1m",
+          "sell": 1,
+          "strongBuy": 17,
+          "strongSell": 0
+        },
+        {
+          "buy": 14,
+          "hold": 5,
+          "period": "-2m",
+          "sell": 1,
+          "strongBuy": 16,
+          "strongSell": 0
+        },
+        {
+          "buy": 15,
+          "hold": 5,
+          "period": "-3m",
+          "sell": 1,
+          "strongBuy": 15,
+          "strongSell": 0
+        }
+      ],
+      "results": 4
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/recommendation-trend",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "buy": 8,
+          "hold": 14,
+          "period": "0m",
+          "sell": 6,
+          "strongBuy": 9,
+          "strongSell": 3
+        },
+        {
+          "buy": 9,
+          "hold": 14,
+          "period": "-1m",
+          "sell": 6,
+          "strongBuy": 8,
+          "strongSell": 3
+        },
+        {
+          "buy": 10,
+          "hold": 14,
+          "period": "-2m",
+          "sell": 6,
+          "strongBuy": 7,
+          "strongSell": 3
+        },
+        {
+          "buy": 11,
+          "hold": 14,
+          "period": "-3m",
+          "sell": 6,
+          "strongBuy": 6,
+          "strongSell": 3
+        }
+      ],
+      "results": 4
+    }
+  }
+}

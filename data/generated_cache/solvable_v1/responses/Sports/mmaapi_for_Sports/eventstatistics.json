@@ -1,0 +1,108 @@
+{
+  "{\"is_id\":11876543}": {
+    "error": "",
+    "response": {
+      "statistics": [
+        {
+          "groups": [
+            {
+              "groupName": "Strikes",
+              "statisticsItems": [
+                {
+                  "away": "64",
+                  "compareCode": 1,
+                  "home": "87",
+                  "name": "Significant Strikes Landed"
+                }
+              ]
+            },
+            {
+              "groupName": "Takedowns",
+              "statisticsItems": [
+                {
+                  "away": "1",
+                  "compareCode": 1,
+                  "home": "3",
+                  "name": "Takedowns Landed"
+                }
+              ]
+            },
+            {
+              "groupName": "Control",
+              "statisticsItems": [
+                {
+                  "away": "58",
+                  "compareCode": 1,
+                  "home": "142",
+                  "name": "Control Time (seconds)"
+                }
+              ]
+            }
+          ],
+          "period": "All"
+        }
+      ]
+    }
+  },
+  "{\"is_id\":12003456}": {
+    "error": "",
+    "response": {
+      "statistics": [
+        {
+          "groups": [
+            {
+              "groupName": "Strikes",
+              "statisticsItems": [
+                {
+                  "away": "33",
+                  "compareCode": 1,
+                  "home": "41",
+                  "name": "Total Strikes Landed"
+                }
+              ]
+            },
+            {
+              "groupName": "Grappling",
+              "statisticsItems": [
+                {
+                  "away": "0",
+                  "compareCode": 1,
+                  "home": "1",
+                  "name": "Submission Attempts"
+                }
+              ]
+            }
+          ],
+          "period": "Round 1"
+        },
+        {
+          "groups": [
+            {
+              "groupName": "Strikes",
+              "statisticsItems": [
+                {
+                  "away": "45",
+                  "compareCode": -1,
+                  "home": "38",
+                  "name": "Total Strikes Landed"
+                }
+              ]
+            },
+            {
+              "groupName": "Grappling",
+              "statisticsItems": [
+                {
+                  "away": "2",
+                  "compareCode": -1,
+                  "home": "0",
+                  "name": "Submission Attempts"
+                }
+              ]
+            }
+          ],
+          "period": "Round 2"
+        }
+      ]
+    }
+  }
+}

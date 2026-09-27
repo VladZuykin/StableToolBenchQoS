@@ -1,0 +1,167 @@
+{
+  "{\"limit\":10}": {
+    "error": "",
+    "response": {
+      "products": [
+        {
+          "addedDate": "2024-06-12T05:55:00Z",
+          "currency": "USD",
+          "price": 59.99,
+          "productId": "1005006123456810",
+          "rating": 4.7,
+          "sales": 17654,
+          "title": "Ergonomic Mechanical Keyboard"
+        },
+        {
+          "addedDate": "2024-06-11T22:40:00Z",
+          "currency": "USD",
+          "price": 79.99,
+          "productId": "1005006123456811",
+          "rating": 4.6,
+          "sales": 16543,
+          "title": "Noise Cancelling Headphones"
+        },
+        {
+          "addedDate": "2024-06-11T19:12:00Z",
+          "currency": "USD",
+          "price": 34.5,
+          "productId": "1005006123456812",
+          "rating": 4.5,
+          "sales": 15432,
+          "title": "Smart Home Security Camera"
+        },
+        {
+          "addedDate": "2024-06-11T14:03:00Z",
+          "currency": "USD",
+          "price": 24.99,
+          "productId": "1005006123456813",
+          "rating": 4.4,
+          "sales": 14321,
+          "title": "Electric Handheld Massager"
+        },
+        {
+          "addedDate": "2024-06-11T10:27:00Z",
+          "currency": "USD",
+          "price": 12.99,
+          "productId": "1005006123456814",
+          "rating": 4.8,
+          "sales": 13210,
+          "title": "Stainless Steel Water Bottle 1L"
+        },
+        {
+          "addedDate": "2024-06-10T23:48:00Z",
+          "currency": "USD",
+          "price": 18.75,
+          "productId": "1005006123456815",
+          "rating": 4.6,
+          "sales": 12109,
+          "title": "Wireless Charging Pad 15W"
+        },
+        {
+          "addedDate": "2024-06-10T16:33:00Z",
+          "currency": "USD",
+          "price": 99.0,
+          "productId": "1005006123456816",
+          "rating": 4.7,
+          "sales": 11098,
+          "title": "Foldable Drone with HD Camera"
+        },
+        {
+          "addedDate": "2024-06-10T11:19:00Z",
+          "currency": "USD",
+          "price": 15.25,
+          "productId": "1005006123456817",
+          "rating": 4.5,
+          "sales": 10987,
+          "title": "Digital Kitchen Scale"
+        },
+        {
+          "addedDate": "2024-06-09T20:05:00Z",
+          "currency": "USD",
+          "price": 8.99,
+          "productId": "1005006123456818",
+          "rating": 4.9,
+          "sales": 9876,
+          "title": "Pet Grooming Brush"
+        },
+        {
+          "addedDate": "2024-06-09T13:41:00Z",
+          "currency": "USD",
+          "price": 27.5,
+          "productId": "1005006123456819",
+          "rating": 4.6,
+          "sales": 8765,
+          "title": "Adjustable Laptop Stand"
+        }
+      ]
+    }
+  },
+  "{\"limit\":1}": {
+    "error": "",
+    "response": {
+      "products": [
+        {
+          "addedDate": "2024-06-12T06:10:00Z",
+          "currency": "USD",
+          "price": 119.99,
+          "productId": "1005006123456801",
+          "rating": 4.8,
+          "sales": 20345,
+          "title": "4K Action Camera with Stabilizer"
+        }
+      ]
+    }
+  },
+  "{\"limit\":5}": {
+    "error": "",
+    "response": {
+      "products": [
+        {
+          "addedDate": "2024-06-11T08:23:00Z",
+          "currency": "USD",
+          "price": 29.99,
+          "productId": "1005006123456789",
+          "rating": 4.8,
+          "sales": 18432,
+          "title": "Wireless Bluetooth Earbuds Pro"
+        },
+        {
+          "addedDate": "2024-06-10T17:05:00Z",
+          "currency": "USD",
+          "price": 45.5,
+          "productId": "1005006123456790",
+          "rating": 4.7,
+          "sales": 15210,
+          "title": "Smart Fitness Watch Waterproof"
+        },
+        {
+          "addedDate": "2024-06-09T12:44:00Z",
+          "currency": "USD",
+          "price": 89.0,
+          "productId": "1005006123456791",
+          "rating": 4.6,
+          "sales": 12987,
+          "title": "Portable Mini Projector 1080P"
+        },
+        {
+          "addedDate": "2024-06-08T09:15:00Z",
+          "currency": "USD",
+          "price": 9.99,
+          "productId": "1005006123456792",
+          "rating": 4.9,
+          "sales": 11045,
+          "title": "USB-C Fast Charging Cable 3-Pack"
+        },
+        {
+          "addedDate": "2024-06-07T21:30:00Z",
+          "currency": "USD",
+          "price": 14.75,
+          "productId": "1005006123456793",
+          "rating": 4.5,
+          "sales": 9876,
+          "title": "LED Strip Lights RGB 5m"
+        }
+      ]
+    }
+  }
+}

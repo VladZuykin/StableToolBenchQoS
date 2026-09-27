@@ -1,0 +1,107 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2024. All Rights Reserved.",
+      "drafts": [
+        {
+          "draftYear": 2024,
+          "rounds": [
+            {
+              "picks": [
+                {
+                  "pickInRound": 1,
+                  "pickOverall": 1,
+                  "prospect": {
+                    "fullName": "Macklin Celebrini",
+                    "id": 8482151,
+                    "link": "https://api-web.nhle.com/v1/prospect/8482151"
+                  },
+                  "round": "1",
+                  "team": {
+                    "id": 28,
+                    "link": "https://api-web.nhle.com/v1/team/28",
+                    "name": "San Jose Sharks"
+                  },
+                  "year": 2024
+                },
+                {
+                  "pickInRound": 2,
+                  "pickOverall": 2,
+                  "prospect": {
+                    "fullName": "Artyom Levshunov",
+                    "id": 8482152,
+                    "link": "https://api-web.nhle.com/v1/prospect/8482152"
+                  },
+                  "round": "1",
+                  "team": {
+                    "id": 6,
+                    "link": "https://api-web.nhle.com/v1/team/6",
+                    "name": "Chicago Blackhawks"
+                  },
+                  "year": 2024
+                },
+                {
+                  "pickInRound": 3,
+                  "pickOverall": 3,
+                  "prospect": {
+                    "fullName": "Anton Silayev",
+                    "id": 8482153,
+                    "link": "https://api-web.nhle.com/v1/prospect/8482153"
+                  },
+                  "round": "1",
+                  "team": {
+                    "id": 1,
+                    "link": "https://api-web.nhle.com/v1/team/1",
+                    "name": "Anaheim Ducks"
+                  },
+                  "year": 2024
+                }
+              ],
+              "round": 1,
+              "roundNumber": 1
+            },
+            {
+              "picks": [
+                {
+                  "pickInRound": 1,
+                  "pickOverall": 33,
+                  "prospect": {
+                    "fullName": "Igor Chernyshov",
+                    "id": 8482181,
+                    "link": "https://api-web.nhle.com/v1/prospect/8482181"
+                  },
+                  "round": "2",
+                  "team": {
+                    "id": 28,
+                    "link": "https://api-web.nhle.com/v1/team/28",
+                    "name": "San Jose Sharks"
+                  },
+                  "year": 2024
+                },
+                {
+                  "pickInRound": 2,
+                  "pickOverall": 34,
+                  "prospect": {
+                    "fullName": "Cole Hutson",
+                    "id": 8482182,
+                    "link": "https://api-web.nhle.com/v1/prospect/8482182"
+                  },
+                  "round": "2",
+                  "team": {
+                    "id": 6,
+                    "link": "https://api-web.nhle.com/v1/team/6",
+                    "name": "Chicago Blackhawks"
+                  },
+                  "year": 2024
+                }
+              ],
+              "round": 2,
+              "roundNumber": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

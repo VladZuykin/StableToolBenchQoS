@@ -1,0 +1,221 @@
+{
+  "{\"host\":\"192.168.1.10\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": {
+      "host": "192.168.1.10",
+      "ports": [
+        {
+          "port": 21,
+          "service": "ftp",
+          "status": "closed"
+        },
+        {
+          "port": 22,
+          "service": "ssh",
+          "status": "closed"
+        },
+        {
+          "port": 23,
+          "service": "telnet",
+          "status": "closed"
+        },
+        {
+          "port": 25,
+          "service": "smtp",
+          "status": "closed"
+        },
+        {
+          "port": 80,
+          "service": "http",
+          "status": "open"
+        },
+        {
+          "port": 110,
+          "service": "pop3",
+          "status": "closed"
+        },
+        {
+          "port": 139,
+          "service": "netbios",
+          "status": "open"
+        },
+        {
+          "port": 143,
+          "service": "imap",
+          "status": "closed"
+        },
+        {
+          "port": 445,
+          "service": "microsoft-ds",
+          "status": "open"
+        },
+        {
+          "port": 1433,
+          "service": "mssql",
+          "status": "closed"
+        },
+        {
+          "port": 1521,
+          "service": "oracle",
+          "status": "closed"
+        },
+        {
+          "port": 3306,
+          "service": "mysql",
+          "status": "closed"
+        },
+        {
+          "port": 3389,
+          "service": "rdp",
+          "status": "closed"
+        }
+      ]
+    }
+  },
+  "{\"host\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "host": "example.com",
+      "ports": [
+        {
+          "port": 21,
+          "service": "ftp",
+          "status": "closed"
+        },
+        {
+          "port": 22,
+          "service": "ssh",
+          "status": "open"
+        },
+        {
+          "port": 23,
+          "service": "telnet",
+          "status": "closed"
+        },
+        {
+          "port": 25,
+          "service": "smtp",
+          "status": "closed"
+        },
+        {
+          "port": 80,
+          "service": "http",
+          "status": "open"
+        },
+        {
+          "port": 110,
+          "service": "pop3",
+          "status": "closed"
+        },
+        {
+          "port": 139,
+          "service": "netbios",
+          "status": "closed"
+        },
+        {
+          "port": 143,
+          "service": "imap",
+          "status": "closed"
+        },
+        {
+          "port": 445,
+          "service": "microsoft-ds",
+          "status": "closed"
+        },
+        {
+          "port": 1433,
+          "service": "mssql",
+          "status": "closed"
+        },
+        {
+          "port": 1521,
+          "service": "oracle",
+          "status": "closed"
+        },
+        {
+          "port": 3306,
+          "service": "mysql",
+          "status": "closed"
+        },
+        {
+          "port": 3389,
+          "service": "rdp",
+          "status": "closed"
+        }
+      ]
+    }
+  },
+  "{\"host\":\"mail.google.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "host": "mail.google.com",
+      "ports": [
+        {
+          "port": 21,
+          "service": "ftp",
+          "status": "closed"
+        },
+        {
+          "port": 22,
+          "service": "ssh",
+          "status": "closed"
+        },
+        {
+          "port": 23,
+          "service": "telnet",
+          "status": "closed"
+        },
+        {
+          "port": 25,
+          "service": "smtp",
+          "status": "closed"
+        },
+        {
+          "port": 80,
+          "service": "http",
+          "status": "open"
+        },
+        {
+          "port": 110,
+          "service": "pop3",
+          "status": "closed"
+        },
+        {
+          "port": 139,
+          "service": "netbios",
+          "status": "closed"
+        },
+        {
+          "port": 143,
+          "service": "imap",
+          "status": "open"
+        },
+        {
+          "port": 445,
+          "service": "microsoft-ds",
+          "status": "closed"
+        },
+        {
+          "port": 1433,
+          "service": "mssql",
+          "status": "closed"
+        },
+        {
+          "port": 1521,
+          "service": "oracle",
+          "status": "closed"
+        },
+        {
+          "port": 3306,
+          "service": "mysql",
+          "status": "closed"
+        },
+        {
+          "port": 3389,
+          "service": "rdp",
+          "status": "closed"
+        }
+      ]
+    }
+  }
+}

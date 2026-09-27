@@ -1,0 +1,170 @@
+{
+  "{\"count\":20,\"is_id\":\"783214\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "itemContent": {
+                            "tweet_results": {
+                              "result": {
+                                "legacy": {
+                                  "created_at": "Wed Oct 10 20:19:24 +0000 2018",
+                                  "favorite_count": 42,
+                                  "full_text": "Just shipped a new feature!",
+                                  "retweet_count": 7
+                                },
+                                "rest_id": "1234567890"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "tweet-1234567890"
+                      },
+                      {
+                        "content": {
+                          "itemContent": {
+                            "tweet_results": {
+                              "result": {
+                                "legacy": {
+                                  "created_at": "Wed Oct 10 21:02:11 +0000 2018",
+                                  "favorite_count": 15,
+                                  "full_text": "Thanks for all the feedback!",
+                                  "retweet_count": 2
+                                },
+                                "rest_id": "1234567891"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "tweet-1234567891"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  },
+                  {
+                    "moduleItems": [],
+                    "type": "TimelineAddToModule"
+                  }
+                ],
+                "metadata": {
+                  "scribeConfig": {
+                    "page": "profile"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"count\":40,\"cursor\":\"DAABCgABF\",\"is_id\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "itemContent": {
+                            "tweet_results": {
+                              "result": {
+                                "legacy": {
+                                  "created_at": "Tue Nov 05 09:15:00 +0000 2019",
+                                  "favorite_count": 120,
+                                  "full_text": "Exploring new ideas today.",
+                                  "retweet_count": 30
+                                },
+                                "rest_id": "9876543210"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "tweet-9876543210"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  },
+                  {
+                    "moduleItems": [],
+                    "type": "TimelineAddToModule"
+                  }
+                ],
+                "metadata": {
+                  "scribeConfig": {
+                    "page": "profile"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"count\":5,\"is_id\":\"2244994945\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "itemContent": {
+                            "tweet_results": {
+                              "result": {
+                                "legacy": {
+                                  "created_at": "Mon Jan 20 12:00:00 +0000 2020",
+                                  "favorite_count": 8,
+                                  "full_text": "Quick update on our roadmap.",
+                                  "retweet_count": 1
+                                },
+                                "rest_id": "5555555555"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "tweet-5555555555"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  },
+                  {
+                    "moduleItems": [],
+                    "type": "TimelineAddToModule"
+                  }
+                ],
+                "metadata": {
+                  "scribeConfig": {
+                    "page": "profile"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

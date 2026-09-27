@@ -1,0 +1,161 @@
+{
+  "{\"page\":1}": {
+    "error": "",
+    "response": {
+      "nextPage": 2,
+      "page": 1,
+      "path": "/powerbi/dax/functions",
+      "title": "Power BI DAX Functions",
+      "value": [
+        {
+          "content": "Returns a table with data filtered by the specified condition.",
+          "excerpt": "FILTER evaluates a table expression...",
+          "heat": 95,
+          "name": "FILTER",
+          "path": "/powerbi/dax/functions/filter",
+          "provider": {
+            "domain": "learn.microsoft.com",
+            "images": [
+              {
+                "height": 64,
+                "isCached": true,
+                "url": "https://learn.microsoft.com/en-us/dax/media/filter.png",
+                "width": 64
+              }
+            ],
+            "name": "Microsoft Learn"
+          },
+          "size": 1024,
+          "sourceUrl": "https://learn.microsoft.com/en-us/dax/filter-function-dax",
+          "title": "FILTER function (DAX)",
+          "topItems": [
+            {
+              "excerpt": "Applies a filter to a table.",
+              "heat": 88,
+              "name": "FILTER",
+              "path": "/powerbi/dax/functions/filter",
+              "title": "FILTER function",
+              "topics": [
+                "DAX",
+                "Filter"
+              ],
+              "type": "function"
+            }
+          ],
+          "topics": [
+            "DAX",
+            "Filter"
+          ],
+          "type": "function",
+          "webUrl": "https://learn.microsoft.com/en-us/dax/filter-function-dax"
+        }
+      ]
+    }
+  },
+  "{\"page\":2}": {
+    "error": "",
+    "response": {
+      "nextPage": 3,
+      "page": 2,
+      "path": "/powerbi/dax/functions",
+      "title": "Power BI DAX Functions",
+      "value": [
+        {
+          "content": "Calculates the sum of an expression evaluated over a table.",
+          "excerpt": "SUMX iterates over a table...",
+          "heat": 90,
+          "name": "SUMX",
+          "path": "/powerbi/dax/functions/sumx",
+          "provider": {
+            "domain": "learn.microsoft.com",
+            "images": [
+              {
+                "height": 64,
+                "isCached": true,
+                "url": "https://learn.microsoft.com/en-us/dax/media/sumx.png",
+                "width": 64
+              }
+            ],
+            "name": "Microsoft Learn"
+          },
+          "size": 980,
+          "sourceUrl": "https://learn.microsoft.com/en-us/dax/sumx-function-dax",
+          "title": "SUMX function (DAX)",
+          "topItems": [
+            {
+              "excerpt": "Returns the sum of an expression evaluated for each row.",
+              "heat": 85,
+              "name": "SUMX",
+              "path": "/powerbi/dax/functions/sumx",
+              "title": "SUMX function",
+              "topics": [
+                "DAX",
+                "Aggregation"
+              ],
+              "type": "function"
+            }
+          ],
+          "topics": [
+            "DAX",
+            "Aggregation"
+          ],
+          "type": "function",
+          "webUrl": "https://learn.microsoft.com/en-us/dax/sumx-function-dax"
+        }
+      ]
+    }
+  },
+  "{\"page\":3}": {
+    "error": "",
+    "response": {
+      "nextPage": 4,
+      "page": 3,
+      "path": "/powerbi/dax/functions",
+      "title": "Power BI DAX Functions",
+      "value": [
+        {
+          "content": "Returns the current date and time.",
+          "excerpt": "NOW returns the current date and time...",
+          "heat": 80,
+          "name": "NOW",
+          "path": "/powerbi/dax/functions/now",
+          "provider": {
+            "domain": "learn.microsoft.com",
+            "images": [
+              {
+                "height": 64,
+                "isCached": true,
+                "url": "https://learn.microsoft.com/en-us/dax/media/now.png",
+                "width": 64
+              }
+            ],
+            "name": "Microsoft Learn"
+          },
+          "size": 750,
+          "sourceUrl": "https://learn.microsoft.com/en-us/dax/now-function-dax",
+          "title": "NOW function (DAX)",
+          "topItems": [
+            {
+              "excerpt": "Returns the current date and time.",
+              "heat": 75,
+              "name": "NOW",
+              "path": "/powerbi/dax/functions/now",
+              "title": "NOW function",
+              "topics": [
+                "DAX",
+                "Date and Time"
+              ],
+              "type": "function"
+            }
+          ],
+          "topics": [
+            "DAX",
+            "Date and Time"
+          ],
+          "type": "function",
+          "webUrl": "https://learn.microsoft.com/en-us/dax/now-function-dax"
+        }
+      ]
+    }
+  }
+}

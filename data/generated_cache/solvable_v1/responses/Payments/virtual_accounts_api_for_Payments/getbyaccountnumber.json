@@ -1,0 +1,20 @@
+{
+  "{\"accountnumber\":1200022398}": {
+    "error": "",
+    "response": {
+      "error": "Virtual account not found"
+    }
+  },
+  "{\"accountnumber\":5551234567}": {
+    "error": "",
+    "response": {
+      "error": "Account is inactive"
+    }
+  },
+  "{\"accountnumber\":9876543210}": {
+    "error": "",
+    "response": {
+      "error": "Invalid account number format"
+    }
+  }
+}

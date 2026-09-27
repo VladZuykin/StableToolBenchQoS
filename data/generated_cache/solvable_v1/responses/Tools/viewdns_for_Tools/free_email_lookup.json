@@ -1,0 +1,29 @@
+{
+  "{\"domain\":\"example.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "domain": "example.com",
+      "free_email": false,
+      "provider": null,
+      "status": "success"
+    }
+  },
+  "{\"domain\":\"gmail.com\",\"output\":\"json\"}": {
+    "error": "",
+    "response": {
+      "domain": "gmail.com",
+      "free_email": true,
+      "provider": "Google Gmail",
+      "status": "success"
+    }
+  },
+  "{\"domain\":\"yahoo.com\",\"output\":\"xml\"}": {
+    "error": "",
+    "response": {
+      "domain": "yahoo.com",
+      "free_email": true,
+      "provider": "Yahoo Mail",
+      "status": "success"
+    }
+  }
+}

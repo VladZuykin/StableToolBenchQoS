@@ -1,0 +1,101 @@
+{
+  "{\"page\":1,\"topic\":\"visuals\"}": {
+    "error": "",
+    "response": {
+      "communities": [
+        {
+          "description": "Showcase and discuss custom Power BI visuals.",
+          "id": "c-2001",
+          "members": 26340,
+          "name": "Custom Visuals Gallery",
+          "posts": 120875,
+          "url": "https://community.powerbi.com/t5/Custom-Visuals/bd-p/CustomVisuals"
+        },
+        {
+          "description": "Design principles for effective dashboards and reports.",
+          "id": "c-2002",
+          "members": 11220,
+          "name": "Visualization Best Practices",
+          "posts": 45630,
+          "url": "https://community.powerbi.com/t5/Visualization-Best-Practices/bd-p/VisualBestPractices"
+        },
+        {
+          "description": "Advanced custom visual authoring with Charticulator and Deneb.",
+          "id": "c-2003",
+          "members": 4180,
+          "name": "Charticulator & Deneb",
+          "posts": 12990,
+          "url": "https://community.powerbi.com/t5/Charticulator-Deneb/bd-p/CharticulatorDeneb"
+        }
+      ],
+      "page": 1,
+      "topic": "visuals"
+    }
+  },
+  "{\"page\":2,\"topic\":\"power query\"}": {
+    "error": "",
+    "response": {
+      "communities": [
+        {
+          "description": "Tips and tricks for data transformation with Power Query.",
+          "id": "c-1001",
+          "members": 18450,
+          "name": "Power Query Pros",
+          "posts": 93210,
+          "url": "https://community.powerbi.com/t5/Power-Query/bd-p/PowerQuery"
+        },
+        {
+          "description": "Questions and answers about the M formula language.",
+          "id": "c-1002",
+          "members": 7210,
+          "name": "M Language Help",
+          "posts": 31045,
+          "url": "https://community.powerbi.com/t5/Power-Query-M/bd-p/PowerQueryM"
+        },
+        {
+          "description": "Building reusable ETL pipelines with dataflows.",
+          "id": "c-1003",
+          "members": 5390,
+          "name": "Dataflows & ETL",
+          "posts": 18760,
+          "url": "https://community.powerbi.com/t5/Dataflows/bd-p/Dataflows"
+        }
+      ],
+      "page": 2,
+      "topic": "power query"
+    }
+  },
+  "{\"page\":3,\"topic\":\"gateway\"}": {
+    "error": "",
+    "response": {
+      "communities": [
+        {
+          "description": "Installation, configuration, and troubleshooting of the data gateway.",
+          "id": "c-3001",
+          "members": 9870,
+          "name": "On-premises Data Gateway",
+          "posts": 41220,
+          "url": "https://community.powerbi.com/t5/On-premises-Data-Gateway/bd-p/OnPremGateway"
+        },
+        {
+          "description": "High availability and load balancing for gateway clusters.",
+          "id": "c-3002",
+          "members": 2140,
+          "name": "Gateway Clusters & HA",
+          "posts": 7630,
+          "url": "https://community.powerbi.com/t5/Gateway-Clusters/bd-p/GatewayClusters"
+        },
+        {
+          "description": "Help with the personal mode gateway for scheduled refresh.",
+          "id": "c-3003",
+          "members": 3560,
+          "name": "Personal Gateway Support",
+          "posts": 10480,
+          "url": "https://community.powerbi.com/t5/Personal-Gateway/bd-p/PersonalGateway"
+        }
+      ],
+      "page": 3,
+      "topic": "gateway"
+    }
+  }
+}

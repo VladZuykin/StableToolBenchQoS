@@ -1,0 +1,50 @@
+{
+  "{\"domain\":\"example.com\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "domain": "example.com",
+        "sld": "example",
+        "tld": "com",
+        "whois": "Domain Name: EXAMPLE.COM\nRegistry Domain ID: 2336799_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.iana.org\nRegistrar URL: http://res-dom.iana.org\nUpdated Date: 2023-08-14T07:01:38Z\nCreation Date: 1995-08-14T04:00:00Z\nRegistry Expiry Date: 2024-08-13T04:00:00Z\nRegistrar: RESERVED-Internet Assigned Numbers Authority\nRegistrar IANA ID: 376\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: A.IANA-SERVERS.NET\nName Server: B.IANA-SERVERS.NET\nDNSSEC: signedDelegation"
+      },
+      "parameters": {
+        "domain": "example.com"
+      },
+      "request_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "status": "OK"
+    }
+  },
+  "{\"domain\":\"google.com\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "domain": "google.com",
+        "sld": "google",
+        "tld": "com",
+        "whois": "Domain Name: GOOGLE.COM\nRegistry Domain ID: 2138514_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar URL: http://www.markmonitor.com\nUpdated Date: 2019-09-09T15:39:04Z\nCreation Date: 1997-09-15T04:00:00Z\nRegistry Expiry Date: 2028-09-14T04:00:00Z\nRegistrar: MarkMonitor Inc.\nRegistrar IANA ID: 292\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\nDomain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\nDomain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\nName Server: NS1.GOOGLE.COM\nName Server: NS2.GOOGLE.COM\nName Server: NS3.GOOGLE.COM\nName Server: NS4.GOOGLE.COM\nDNSSEC: unsigned"
+      },
+      "parameters": {
+        "domain": "google.com"
+      },
+      "request_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "status": "OK"
+    }
+  },
+  "{\"domain\":\"wikipedia.org\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "domain": "wikipedia.org",
+        "sld": "wikipedia",
+        "tld": "org",
+        "whois": "Domain Name: WIKIPEDIA.ORG\nRegistry Domain ID: 148716_DOMAIN_ORG-VRSN\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar URL: http://www.markmonitor.com\nUpdated Date: 2023-01-13T09:00:00Z\nCreation Date: 2001-01-13T00:12:14Z\nRegistry Expiry Date: 2025-01-13T00:12:14Z\nRegistrar: MarkMonitor Inc.\nRegistrar IANA ID: 292\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS0.WIKIMEDIA.ORG\nName Server: NS1.WIKIMEDIA.ORG\nName Server: NS2.WIKIMEDIA.ORG\nDNSSEC: unsigned"
+      },
+      "parameters": {
+        "domain": "wikipedia.org"
+      },
+      "request_id": "9b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "status": "OK"
+    }
+  }
+}

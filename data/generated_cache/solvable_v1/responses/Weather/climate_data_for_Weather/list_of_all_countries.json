@@ -1,0 +1,98 @@
+{
+  "{\"lang\":\"de\"}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albanien"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algerien"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorra"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        }
+      ],
+      "_list_length": 278,
+      "description": "Liste aller Länder",
+      "generator": "climate data worldwide",
+      "link": "https://api.example.com/Weather/climate_data/list_of_all_countries?LANG=de",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  },
+  "{\"lang\":\"fr\"}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albanie"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algérie"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorre"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        }
+      ],
+      "_list_length": 278,
+      "description": "Liste de tous les pays",
+      "generator": "climate data worldwide",
+      "link": "https://api.example.com/Weather/climate_data/list_of_all_countries?LANG=fr",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  },
+  "{}": {
+    "error": "",
+    "response": {
+      "Countries": [
+        {
+          "COUNTRY": "AF",
+          "name": "Afghanistan"
+        },
+        {
+          "COUNTRY": "AL",
+          "name": "Albania"
+        },
+        {
+          "COUNTRY": "DZ",
+          "name": "Algeria"
+        },
+        {
+          "COUNTRY": "AD",
+          "name": "Andorra"
+        },
+        {
+          "COUNTRY": "AO",
+          "name": "Angola"
+        }
+      ],
+      "_list_length": 278,
+      "description": "List of all Countries",
+      "generator": "climate data worldwide",
+      "link": "https://api.example.com/Weather/climate_data/list_of_all_countries",
+      "modified": "2024-01-15T10:30:00Z"
+    }
+  }
+}

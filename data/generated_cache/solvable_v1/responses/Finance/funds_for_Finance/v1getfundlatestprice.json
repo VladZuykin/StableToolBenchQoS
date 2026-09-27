@@ -1,0 +1,12 @@
+{
+  "{\"isin\":\"FR0010037234\"}": {
+    "error": "",
+    "response": {
+      "epochSecs": 1735689600,
+      "humanDate": "2025-01-01",
+      "market": "Euronext Paris",
+      "name": "Amundi Label Actions Europe ISR",
+      "price": 142.37
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "{\"is_id\":\"EVT-2024-0042\"}": {
+    "error": "",
+    "response": {
+      "attendee_count": 194,
+      "description": "An intimate evening of live jazz featuring local artists on the rooftop terrace.",
+      "end_time": "2024-07-12T23:00:00Z",
+      "id": "EVT-2024-0042",
+      "name": "Sunset Jazz Night",
+      "organizer": {
+        "email": "events@camdenlive.example",
+        "id": "org_8890",
+        "name": "Camden Live"
+      },
+      "start_time": "2024-07-12T19:30:00Z",
+      "status": "sold_out",
+      "ticket_types": [
+        {
+          "currency": "GBP",
+          "id": "tt_201",
+          "name": "Standard",
+          "price": 35.0,
+          "quantity_available": 150,
+          "quantity_sold": 150
+        },
+        {
+          "currency": "GBP",
+          "id": "tt_202",
+          "name": "Table for Four",
+          "price": 180.0,
+          "quantity_available": 20,
+          "quantity_sold": 11
+        }
+      ],
+      "timezone": "Europe/London",
+      "url": "https://ticketbud.com/events/EVT-2024-0042",
+      "venue": {
+        "address": "12 Camden High St",
+        "city": "London",
+        "country": "United Kingdom",
+        "latitude": 51.5392,
+        "longitude": -0.1426,
+        "name": "The Rooftop Lounge",
+        "postal_code": "NW1 0JH",
+        "state": ""
+      }
+    }
+  },
+  "{\"is_id\":\"evt_9f3a2b7c\"}": {
+    "error": "",
+    "response": {
+      "attendee_count": 376,
+      "description": "A three-day conference bringing together engineers, founders, and investors from around the world.",
+      "end_time": "2024-09-20T18:00:00Z",
+      "id": "evt_9f3a2b7c",
+      "name": "Global Tech Summit 2024",
+      "organizer": {
+        "email": "hello@techworld.example",
+        "id": "org_5521",
+        "name": "TechWorld Events"
+      },
+      "start_time": "2024-09-18T09:00:00Z",
+      "status": "published",
+      "ticket_types": [
+        {
+          "currency": "USD",
+          "id": "tt_101",
+          "name": "General Admission",
+          "price": 299.0,
+          "quantity_available": 500,
+          "quantity_sold": 312
+        },
+        {
+          "currency": "USD",
+          "id": "tt_102",
+          "name": "VIP",
+          "price": 799.0,
+          "quantity_available": 100,
+          "quantity_sold": 64
+        }
+      ],
+      "timezone": "America/New_York",
+      "url": "https://ticketbud.com/events/evt_9f3a2b7c",
+      "venue": {
+        "address": "429 11th Ave",
+        "city": "New York",
+        "country": "United States",
+        "latitude": 40.7577,
+        "longitude": -74.0027,
+        "name": "Javits Center",
+        "postal_code": "10001",
+        "state": "NY"
+      }
+    }
+  },
+  "{\"is_id\":\"ticketbud_evt_7781\"}": {
+    "error": "",
+    "response": {
+      "attendee_count": 778,
+      "description": "A family-friendly 5K run raising funds for children's education programs.",
+      "end_time": "2024-10-05T11:00:00Z",
+      "id": "ticketbud_evt_7781",
+      "name": "Charity Fun Run 5K",
+      "organizer": {
+        "email": "run@brightfutures.example",
+        "id": "org_3344",
+        "name": "Bright Futures Foundation"
+      },
+      "start_time": "2024-10-05T07:00:00Z",
+      "status": "published",
+      "ticket_types": [
+        {
+          "currency": "USD",
+          "id": "tt_301",
+          "name": "Adult Runner",
+          "price": 25.0,
+          "quantity_available": 1000,
+          "quantity_sold": 487
+        },
+        {
+          "currency": "USD",
+          "id": "tt_302",
+          "name": "Child Runner",
+          "price": 10.0,
+          "quantity_available": 500,
+          "quantity_sold": 203
+        },
+        {
+          "currency": "USD",
+          "id": "tt_303",
+          "name": "Donation Only",
+          "price": 0.0,
+          "quantity_available": null,
+          "quantity_sold": 88
+        }
+      ],
+      "timezone": "America/Los_Angeles",
+      "url": "https://ticketbud.com/events/ticketbud_evt_7781",
+      "venue": {
+        "address": "501 Stanyan St",
+        "city": "San Francisco",
+        "country": "United States",
+        "latitude": 37.7694,
+        "longitude": -122.4862,
+        "name": "Golden Gate Park",
+        "postal_code": "94117",
+        "state": "CA"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "{\"ig\":\"cristiano\"}": {
+    "error": "",
+    "response": {
+      "biography": "Football player.",
+      "external_url": "https://www.cristianoronaldo.com",
+      "followers": 600000000,
+      "following": 500,
+      "full_name": "Cristiano Ronaldo",
+      "is_verified": true,
+      "posts": 3500,
+      "profile_pic_url": "https://instagram.com/cristiano/profile.jpg",
+      "username": "cristiano"
+    }
+  },
+  "{\"ig\":\"nasa\"}": {
+    "error": "",
+    "response": {
+      "biography": "Exploring the universe and our home planet.",
+      "external_url": "https://www.nasa.gov",
+      "followers": 95000000,
+      "following": 80,
+      "full_name": "NASA",
+      "is_verified": true,
+      "posts": 4200,
+      "profile_pic_url": "https://instagram.com/nasa/profile.jpg",
+      "username": "nasa"
+    }
+  },
+  "{\"ig\":\"natgeo\"}": {
+    "error": "",
+    "response": {
+      "biography": "Experience the world through the eyes of National Geographic photographers.",
+      "external_url": "https://www.nationalgeographic.com",
+      "followers": 280000000,
+      "following": 150,
+      "full_name": "National Geographic",
+      "is_verified": true,
+      "posts": 30000,
+      "profile_pic_url": "https://instagram.com/natgeo/profile.jpg",
+      "username": "natgeo"
+    }
+  }
+}

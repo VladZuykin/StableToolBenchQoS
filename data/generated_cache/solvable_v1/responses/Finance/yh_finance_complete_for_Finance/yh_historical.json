@@ -1,0 +1,14 @@
+{
+  "{\"edate\":\"2020-12-31\",\"sdate\":\"2020-12-01\",\"ticker\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "message": "Historical data for MSFT from 2020-12-01 to 2020-12-31: 22 trading days returned."
+    }
+  },
+  "{\"edate\":\"2022-01-14\",\"sdate\":\"2022-01-03\",\"ticker\":\"AAPL\"}": {
+    "error": "",
+    "response": {
+      "message": "Historical data for AAPL from 2022-01-03 to 2022-01-14: 8 trading days returned."
+    }
+  }
+}

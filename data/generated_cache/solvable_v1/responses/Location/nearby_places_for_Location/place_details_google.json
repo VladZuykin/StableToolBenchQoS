@@ -1,0 +1,230 @@
+{
+  "{\"is_id\":\"ChIJN1t_tDeuEmsRUsoyG83frY4\"}": {
+    "error": "",
+    "response": {
+      "address": "48 Pirrama Rd, Pyrmont NSW 2009, Australia",
+      "location": {
+        "lat": -33.866489,
+        "lng": 151.195856
+      },
+      "map_url": "https://maps.google.com/?cid=10281119596374313554",
+      "name": "Google Australia",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "phone": "+61 2 9374 4000",
+      "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+      "types": [
+        "point_of_interest",
+        "establishment",
+        "corporate_office",
+        "finance",
+        "technology_company"
+      ],
+      "website": "https://about.google/"
+    }
+  },
+  "{\"is_id\":\"ChIJVVVVVVdwhlQRIFVwULOI2FM\"}": {
+    "error": "",
+    "response": {
+      "address": "350 Fifth Ave, New York, NY 10118, United States",
+      "location": {
+        "lat": 40.748441,
+        "lng": -73.985664
+      },
+      "map_url": "https://maps.google.com/?cid=12345678901234567890",
+      "name": "Empire State Building",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "0200"
+            },
+            "open": {
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "0200"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0200"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0200"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:00 AM – 2:00 AM",
+          "Tuesday: 8:00 AM – 2:00 AM",
+          "Wednesday: 8:00 AM – 2:00 AM",
+          "Thursday: 8:00 AM – 2:00 AM",
+          "Friday: 8:00 AM – 2:00 AM",
+          "Saturday: 8:00 AM – 2:00 AM",
+          "Sunday: 8:00 AM – 2:00 AM"
+        ]
+      },
+      "phone": "+1 212-736-3100",
+      "place_id": "ChIJVVVVVVdwhlQRIFVwULOI2FM",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment",
+        "landmark",
+        "observation_deck"
+      ],
+      "website": "https://www.esbnyc.com/"
+    }
+  },
+  "{\"is_id\":\"ChIJrTLr-GyuEmsRBfy61i59si0\"}": {
+    "error": "",
+    "response": {
+      "address": "4/1 Macquarie St, Sydney NSW 2000, Australia",
+      "location": {
+        "lat": -33.861481,
+        "lng": 151.210775
+      },
+      "map_url": "https://maps.google.com/?cid=13526559097128345678",
+      "name": "Sydney Opera House",
+      "opening_hours": {
+        "open_now": false,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1700"
+            },
+            "open": {
+              "day": 0,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 8:30 PM",
+          "Saturday: 9:00 AM – 8:30 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "phone": "+61 2 9250 7111",
+      "place_id": "ChIJrTLr-GyuEmsRBfy61i59si0",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment",
+        "performing_arts_theater",
+        "event_venue"
+      ],
+      "website": "https://www.sydneyoperahouse.com/"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "{\"phone\":12025550123}": {
+    "error": "",
+    "response": {
+      "message": "The number 12025550123 is registered on WhatsApp."
+    }
+  },
+  "{\"phone\":34123456789}": {
+    "error": "",
+    "response": {
+      "message": "The number 34123456789 is not registered on WhatsApp."
+    }
+  },
+  "{\"phone\":491234567890}": {
+    "error": "",
+    "response": {
+      "message": "The number 491234567890 is registered on WhatsApp."
+    }
+  }
+}

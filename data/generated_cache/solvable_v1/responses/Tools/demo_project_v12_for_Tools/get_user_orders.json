@@ -1,0 +1,48 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "user_orders",
+      "parameters": [],
+      "response": [
+        {
+          "created_at": "2024-05-14T10:23:00Z",
+          "currency": "USD",
+          "items": [
+            {
+              "price": 19.99,
+              "quantity": 2,
+              "sku": "SKU-88"
+            },
+            {
+              "price": 20.01,
+              "quantity": 1,
+              "sku": "SKU-12"
+            }
+          ],
+          "order_id": "ORD-1001",
+          "status": "shipped",
+          "total": 59.99,
+          "user_id": "U-204"
+        },
+        {
+          "created_at": "2024-05-20T08:05:00Z",
+          "currency": "USD",
+          "items": [
+            {
+              "price": 12.5,
+              "quantity": 1,
+              "sku": "SKU-45"
+            }
+          ],
+          "order_id": "ORD-1002",
+          "status": "processing",
+          "total": 12.5,
+          "user_id": "U-204"
+        }
+      ],
+      "results": 2
+    }
+  }
+}

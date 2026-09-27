@@ -1,0 +1,20 @@
+{
+  "{\"phone\":14155552671}": {
+    "error": "",
+    "response": {
+      "message": "Hey there! I am using WhatsApp."
+    }
+  },
+  "{\"phone\":447700900123}": {
+    "error": "",
+    "response": {
+      "message": "Available Monday to Friday, 9am-5pm GMT."
+    }
+  },
+  "{\"phone\":5511998877665}": {
+    "error": "",
+    "response": {
+      "message": "Welcome to our store! Message us for orders and support."
+    }
+  }
+}

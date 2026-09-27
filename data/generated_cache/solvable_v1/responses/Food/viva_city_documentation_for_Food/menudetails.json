@@ -1,0 +1,191 @@
+{
+  "{\"is_id\":\"7c3f9a12d4e5b67890abcdef\",\"lang\":\"en\"}": {
+    "error": "",
+    "response": {
+      "_id": "7c3f9a12d4e5b67890abcdef",
+      "availability": {
+        "rules": [
+          {
+            "_list_length": 2,
+            "days": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "other": [],
+            "time": {
+              "available24": false,
+              "availableTime": {
+                "close": "22:00",
+                "open": "11:00"
+              },
+              "notAvailable": false
+            }
+          }
+        ],
+        "summary": {
+          "days": {
+            "Friday": {
+              "close": "23:30",
+              "open": "11:00"
+            },
+            "Monday": {
+              "close": "22:00",
+              "open": "11:00"
+            },
+            "Saturday": {
+              "close": "23:30",
+              "open": "10:00"
+            },
+            "Sunday": {
+              "close": "21:00",
+              "open": "10:00"
+            },
+            "Thursday": {
+              "close": "23:00",
+              "open": "11:00"
+            },
+            "Tuesday": {
+              "close": "22:00",
+              "open": "11:00"
+            },
+            "Wednesday": {
+              "close": "22:00",
+              "open": "11:00"
+            }
+          },
+          "other": [
+            [
+              "holiday",
+              "closed"
+            ]
+          ]
+        }
+      },
+      "createdAt": "2023-04-12T08:30:00.000Z",
+      "deleted": false,
+      "description": {
+        "lang": {
+          "en": 0,
+          "zh-hans": 1
+        },
+        "texts": [
+          "Crispy vegetable rolls served with sweet chili sauce",
+          "酥脆蔬菜卷配甜辣酱"
+        ]
+      },
+      "isActive": true,
+      "itemsInSet": 4,
+      "menuType": "food",
+      "menu_category": "Appetizers",
+      "name": {
+        "lang": {
+          "en": 0,
+          "zh-hans": 1
+        },
+        "texts": [
+          "Spring Rolls",
+          "春卷"
+        ]
+      },
+      "order": 1,
+      "orderable": true,
+      "price": 12,
+      "publish": true,
+      "updatedAt": "2024-01-05T14:22:10.000Z"
+    }
+  },
+  "{\"is_id\":\"9b1e2f3a4c5d6e7f8a9b0c1d\",\"lang\":\"zh-hans\"}": {
+    "error": "",
+    "response": {
+      "_id": "9b1e2f3a4c5d6e7f8a9b0c1d",
+      "availability": {
+        "rules": [
+          {
+            "_list_length": 2,
+            "days": [
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "other": [],
+            "time": {
+              "available24": false,
+              "availableTime": {
+                "close": "23:59",
+                "open": "17:00"
+              },
+              "notAvailable": false
+            }
+          }
+        ],
+        "summary": {
+          "days": {
+            "Friday": {
+              "close": "00:00",
+              "open": "17:00"
+            },
+            "Monday": {
+              "close": "23:00",
+              "open": "17:00"
+            },
+            "Saturday": {
+              "close": "00:00",
+              "open": "12:00"
+            },
+            "Sunday": {
+              "close": "22:00",
+              "open": "12:00"
+            },
+            "Thursday": {
+              "close": "23:00",
+              "open": "17:00"
+            },
+            "Tuesday": {
+              "close": "23:00",
+              "open": "17:00"
+            },
+            "Wednesday": {
+              "close": "23:00",
+              "open": "17:00"
+            }
+          },
+          "other": []
+        }
+      },
+      "createdAt": "2023-06-20T10:15:00.000Z",
+      "deleted": false,
+      "description": {
+        "lang": {
+          "en": 0,
+          "zh-hans": 1
+        },
+        "texts": [
+          "Fresh Atlantic salmon with lemon butter sauce",
+          "新鲜大西洋三文鱼配柠檬黄油酱"
+        ]
+      },
+      "isActive": true,
+      "itemsInSet": 6,
+      "menuType": "food",
+      "menu_category": "主菜",
+      "name": {
+        "lang": {
+          "en": 0,
+          "zh-hans": 1
+        },
+        "texts": [
+          "Grilled Salmon",
+          "烤三文鱼"
+        ]
+      },
+      "order": 2,
+      "orderable": true,
+      "price": 28,
+      "publish": true,
+      "updatedAt": "2024-02-18T09:45:30.000Z"
+    }
+  }
+}

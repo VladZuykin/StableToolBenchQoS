@@ -1,0 +1,20 @@
+{
+  "{\"challenge_id\":12345}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag feed retrieved successfully for challenge_id 12345"
+    }
+  },
+  "{\"challenge_id\":5718}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag feed retrieved successfully for challenge_id 5718"
+    }
+  },
+  "{\"challenge_id\":987654}": {
+    "error": "",
+    "response": {
+      "message": "Hashtag feed retrieved successfully for challenge_id 987654"
+    }
+  }
+}

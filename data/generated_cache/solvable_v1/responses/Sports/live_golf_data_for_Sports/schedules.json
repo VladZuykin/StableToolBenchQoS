@@ -1,0 +1,41 @@
+{
+  "{\"orgid\":\"1\",\"year\":\"2024\"}": {
+    "error": "",
+    "response": {
+      "orgId": "1",
+      "schedule": [
+        {
+          "course": "Plantation Course at Kapalua",
+          "endDate": "2024-01-07",
+          "eventId": "pga-2024-001",
+          "location": "Kapalua, HI",
+          "name": "The Sentry",
+          "purse": 20000000,
+          "startDate": "2024-01-04",
+          "winner": "Chris Kirk"
+        },
+        {
+          "course": "Waialae Country Club",
+          "endDate": "2024-01-14",
+          "eventId": "pga-2024-002",
+          "location": "Honolulu, HI",
+          "name": "Sony Open in Hawaii",
+          "purse": 8300000,
+          "startDate": "2024-01-11",
+          "winner": "Grayson Murray"
+        },
+        {
+          "course": "PGA West (Stadium Course)",
+          "endDate": "2024-01-21",
+          "eventId": "pga-2024-003",
+          "location": "La Quinta, CA",
+          "name": "The American Express",
+          "purse": 8400000,
+          "startDate": "2024-01-18",
+          "winner": "Nick Dunlap"
+        }
+      ],
+      "year": "2024"
+    }
+  }
+}

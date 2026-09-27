@@ -1,0 +1,11 @@
+{
+  "{\"bedrooms\":2,\"lat\":40.7128,\"lng\":-74.006,\"maxguestcapacity\":4,\"month\":\"07\",\"range\":1500,\"year\":2025}": {
+    "error": "",
+    "response": {
+      "availabilityPercent": 72.3,
+      "averagePrice": 187.45,
+      "averagePriceAvailableOnly": 203.12,
+      "numberOfProcessedProperties": 148
+    }
+  }
+}

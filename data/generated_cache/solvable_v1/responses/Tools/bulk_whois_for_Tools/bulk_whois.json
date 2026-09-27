@@ -1,0 +1,99 @@
+{
+  "{\"domain\":\"example.com\",\"format\":\"json\"}": {
+    "error": "",
+    "response": {
+      "_id": "example.com",
+      "example.com": [
+        {
+          "creation_date": "1995-08-14T04:00:00Z",
+          "dnssec": "unsigned",
+          "domain": "example.com",
+          "emails": [
+            "abuse@iana.org"
+          ],
+          "expiration_date": "2025-08-13T04:00:00Z",
+          "name_servers": [
+            "a.iana-servers.net",
+            "b.iana-servers.net"
+          ],
+          "org": "Internet Assigned Numbers Authority",
+          "registrar": "RESERVED-Internet Assigned Numbers Authority",
+          "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+          ],
+          "updated_date": "2024-08-14T07:01:34Z",
+          "whois_server": "whois.iana.org"
+        }
+      ]
+    }
+  },
+  "{\"domains\":\"github.com,stackoverflow.com\",\"format\":\"split\"}": {
+    "error": "",
+    "response": {
+      "_id": "github.com,stackoverflow.com",
+      "github.com": [
+        {
+          "creation_date": "2007-10-09T18:20:50Z",
+          "dnssec": "unsigned",
+          "domain": "github.com",
+          "emails": [
+            "abusecomplaints@markmonitor.com"
+          ],
+          "expiration_date": "2026-10-09T18:20:50Z",
+          "name_servers": [
+            "dns1.p08.nsone.net",
+            "dns2.p08.nsone.net",
+            "dns3.p08.nsone.net",
+            "dns4.p08.nsone.net"
+          ],
+          "org": "GitHub, Inc.",
+          "registrar": "MarkMonitor Inc.",
+          "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+          ],
+          "updated_date": "2024-09-07T09:00:00Z",
+          "whois_server": "whois.markmonitor.com"
+        }
+      ],
+      "stackoverflow.com": [
+        {
+          "creation_date": "2003-12-26T00:00:00Z",
+          "dnssec": "unsigned",
+          "domain": "stackoverflow.com",
+          "emails": [
+            "abuse@namecheap.com"
+          ],
+          "expiration_date": "2025-12-26T00:00:00Z",
+          "name_servers": [
+            "ns-1033.awsdns-01.org",
+            "ns-1186.awsdns-20.org",
+            "ns-1569.awsdns-04.co.uk",
+            "ns-358.awsdns-44.com"
+          ],
+          "org": "Stack Exchange, Inc.",
+          "registrar": "NameCheap, Inc.",
+          "status": [
+            "clientTransferProhibited"
+          ],
+          "updated_date": "2024-05-12T00:00:00Z",
+          "whois_server": "whois.namecheap.com"
+        }
+      ]
+    }
+  },
+  "{\"format\":\"raw\",\"ip\":\"8.8.8.8\"}": {
+    "error": "",
+    "response": {
+      "8.8.8.8": [
+        {
+          "raw": "NetRange:       8.8.8.0 - 8.8.8.255\nCIDR:           8.8.8.0/24\nNetName:        GOOGLE-DNS\nNetHandle:      NET-8-8-8-0-1\nParent:         NET8 (NET-8-0-0-0-0)\nNetType:        Direct Allocation\nOriginAS:       AS15169\nOrganization:   Google LLC (GOGL)\nRegDate:        2023-12-28\nUpdated:        2023-12-28\nRef:            https://rdap.arin.net/registry/ip/8.8.8.0\n\nOrgName:        Google LLC\nOrgId:          GOGL\nAddress:        1600 Amphitheatre Parkway\nCity:           Mountain View\nStateProv:      CA\nPostalCode:     94043\nCountry:        US\nRegDate:        2000-03-30\nUpdated:        2019-10-31\nComment:        Please note that the recommended way to file abuse complaints are located in the following links.\nRef:            https://rdap.arin.net/registry/entity/GOGL\n\nOrgAbuseHandle: ABUSE5250-ARIN\nOrgAbuseName:   Abuse\nOrgAbusePhone:  +1-650-253-0000\nOrgAbuseEmail:  network-abuse@google.com\nOrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN\n\nOrgTechHandle: ZG39-ARIN\nOrgTechName:   Google LLC\nOrgTechPhone:  +1-650-253-0000\nOrgTechEmail:  arin-contact@google.com\nOrgTechRef:     https://rdap.arin.net/registry/entity/ZG39-ARIN"
+        }
+      ],
+      "_id": "8.8.8.8"
+    }
+  }
+}

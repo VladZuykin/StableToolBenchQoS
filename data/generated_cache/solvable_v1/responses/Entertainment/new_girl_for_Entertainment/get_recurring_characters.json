@@ -1,0 +1,78 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "recurring_characters": [
+        {
+          "name": "Winston Bishop",
+          "occupation": "Police officer",
+          "portrayed_by": "Lamorne Morris",
+          "seasons": [
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+          ]
+        },
+        {
+          "name": "Schmidt",
+          "occupation": "Marketing executive",
+          "portrayed_by": "Max Greenfield",
+          "seasons": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+          ]
+        },
+        {
+          "name": "Cece Parekh",
+          "occupation": "Model",
+          "portrayed_by": "Hannah Simone",
+          "seasons": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+          ]
+        },
+        {
+          "name": "Nick Miller",
+          "occupation": "Bartender",
+          "portrayed_by": "Jake Johnson",
+          "seasons": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+          ]
+        },
+        {
+          "name": "Jessica Day",
+          "occupation": "Teacher",
+          "portrayed_by": "Zooey Deschanel",
+          "seasons": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+          ]
+        }
+      ]
+    }
+  }
+}

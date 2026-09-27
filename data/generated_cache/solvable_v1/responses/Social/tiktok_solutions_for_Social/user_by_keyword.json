@@ -1,0 +1,233 @@
+{
+  "{\"keyword\":\"cooking\",\"max_cursor\":90}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": 90,
+        "has_more": 1,
+        "input_keyword": "cooking",
+        "qc": "cooking",
+        "type": 1,
+        "user_list": [
+          {
+            "challenges": null,
+            "effects": null,
+            "items": null,
+            "mix_list": null,
+            "musics": null,
+            "position": null,
+            "uniqid_position": null,
+            "user_info": {
+              "avatar_168x168": {
+                "height": 168,
+                "uri": "avatar_168_cook",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_168_cook.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_168_cook_2.jpg"
+                ],
+                "width": 168
+              },
+              "avatar_300x300": {
+                "height": 300,
+                "uri": "avatar_300_cook",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_300_cook.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_300_cook_2.jpg"
+                ],
+                "width": 300
+              },
+              "avatar_larger": {
+                "height": 720,
+                "uri": "avatar_large_cook",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_large_cook.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_large_cook_2.jpg"
+                ],
+                "width": 720
+              },
+              "avatar_medium": {
+                "height": 200,
+                "uri": "avatar_medium_cook",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_medium_cook.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_medium_cook_2.jpg"
+                ],
+                "width": 200
+              },
+              "avatar_thumb": {
+                "height": 100,
+                "uri": "avatar_thumb_cook",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb_cook.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb_cook_2.jpg"
+                ],
+                "width": 100
+              },
+              "avatar_uri": "avatar_uri_cook",
+              "aweme_count": 200,
+              "custom_verify": "Chef",
+              "download_prompt_ts": 0,
+              "follower_count": 89000,
+              "following_count": 410
+            }
+          }
+        ]
+      },
+      "status": "success"
+    }
+  },
+  "{\"keyword\":\"fitness\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": 30,
+        "has_more": 1,
+        "input_keyword": "fitness",
+        "qc": "fitness",
+        "type": 1,
+        "user_list": [
+          {
+            "challenges": null,
+            "effects": null,
+            "items": null,
+            "mix_list": null,
+            "musics": null,
+            "position": null,
+            "uniqid_position": null,
+            "user_info": {
+              "avatar_168x168": {
+                "height": 168,
+                "uri": "avatar_168",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_168.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_168_2.jpg"
+                ],
+                "width": 168
+              },
+              "avatar_300x300": {
+                "height": 300,
+                "uri": "avatar_300",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_300.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_300_2.jpg"
+                ],
+                "width": 300
+              },
+              "avatar_larger": {
+                "height": 720,
+                "uri": "avatar_large",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_large.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_large_2.jpg"
+                ],
+                "width": 720
+              },
+              "avatar_medium": {
+                "height": 200,
+                "uri": "avatar_medium",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_medium.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_medium_2.jpg"
+                ],
+                "width": 200
+              },
+              "avatar_thumb": {
+                "height": 100,
+                "uri": "avatar_thumb",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb_2.jpg"
+                ],
+                "width": 100
+              },
+              "avatar_uri": "avatar_uri_1",
+              "aweme_count": 120,
+              "custom_verify": "Fitness Coach",
+              "download_prompt_ts": 0,
+              "follower_count": 45000,
+              "following_count": 320
+            }
+          }
+        ]
+      },
+      "status": "success"
+    }
+  },
+  "{\"keyword\":\"travel\",\"max_cursor\":60}": {
+    "error": "",
+    "response": {
+      "data": {
+        "cursor": 60,
+        "has_more": 0,
+        "input_keyword": "travel",
+        "qc": "travel",
+        "type": 1,
+        "user_list": [
+          {
+            "challenges": null,
+            "effects": null,
+            "items": null,
+            "mix_list": null,
+            "musics": null,
+            "position": null,
+            "uniqid_position": null,
+            "user_info": {
+              "avatar_168x168": {
+                "height": 168,
+                "uri": "avatar_168_travel",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_168_travel.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_168_travel_2.jpg"
+                ],
+                "width": 168
+              },
+              "avatar_300x300": {
+                "height": 300,
+                "uri": "avatar_300_travel",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_300_travel.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_300_travel_2.jpg"
+                ],
+                "width": 300
+              },
+              "avatar_larger": {
+                "height": 720,
+                "uri": "avatar_large_travel",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_large_travel.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_large_travel_2.jpg"
+                ],
+                "width": 720
+              },
+              "avatar_medium": {
+                "height": 200,
+                "uri": "avatar_medium_travel",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_medium_travel.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_medium_travel_2.jpg"
+                ],
+                "width": 200
+              },
+              "avatar_thumb": {
+                "height": 100,
+                "uri": "avatar_thumb_travel",
+                "url_list": [
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb_travel.jpg",
+                  "https://p16-sign.tiktokcdn.com/avatar_thumb_travel_2.jpg"
+                ],
+                "width": 100
+              },
+              "avatar_uri": "avatar_uri_travel",
+              "aweme_count": 85,
+              "custom_verify": "Travel Blogger",
+              "download_prompt_ts": 0,
+              "follower_count": 120000,
+              "following_count": 540
+            }
+          }
+        ]
+      },
+      "status": "success"
+    }
+  }
+}

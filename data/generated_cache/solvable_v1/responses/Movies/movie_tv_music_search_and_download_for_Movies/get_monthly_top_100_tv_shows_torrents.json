@@ -1,0 +1,80 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "code": "200",
+      "result": [
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "1.4 GB",
+          "title": "The Last of Us S01E01 1080p WEB-DL",
+          "torrent": "magnet:?xt=urn:btih:3f2a9c1b7e4d5a6f8b0c2d3e4f5a6b7c8d9e0f1a"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "2.1 GB",
+          "title": "Succession S04E03 2160p HDR",
+          "torrent": "magnet:?xt=urn:btih:9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "850 MB",
+          "title": "Breaking Bad S05E14 720p BluRay",
+          "torrent": "magnet:?xt=urn:btih:1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c"
+        },
+        {
+          "_list_length": 100,
+          "rate": 7,
+          "size": "3.2 GB",
+          "title": "Stranger Things S04E09 1080p NF WEBRip",
+          "torrent": "magnet:?xt=urn:btih:abcdef1234567890abcdef1234567890abcdef12"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "1.8 GB",
+          "title": "The Bear S02E07 1080p AMZN WEB-DL",
+          "torrent": "magnet:?xt=urn:btih:fedcba0987654321fedcba0987654321fedcba09"
+        },
+        {
+          "_list_length": 100,
+          "rate": 6,
+          "size": "700 MB",
+          "title": "Friends S03E12 480p DVDRip",
+          "torrent": "magnet:?xt=urn:btih:11223344556677889900aabbccddeeff00112233"
+        },
+        {
+          "_list_length": 100,
+          "rate": 8,
+          "size": "2.5 GB",
+          "title": "Game of Thrones S08E05 1080p BluRay",
+          "torrent": "magnet:?xt=urn:btih:99887766554433221100ffeeddccbbaa99887766"
+        },
+        {
+          "_list_length": 100,
+          "rate": 10,
+          "size": "4.0 GB",
+          "title": "Chernobyl S01E04 2160p UHD BluRay",
+          "torrent": "magnet:?xt=urn:btih:556677889900aabbccddeeff1122334455667788"
+        },
+        {
+          "_list_length": 100,
+          "rate": 5,
+          "size": "1.2 GB",
+          "title": "The Office S07E21 720p HDTV",
+          "torrent": "magnet:?xt=urn:btih:aabbccddeeff00112233445566778899aabbccdd"
+        },
+        {
+          "_list_length": 100,
+          "rate": 9,
+          "size": "1.6 GB",
+          "title": "Severance S01E08 1080p ATVP WEB-DL",
+          "torrent": "magnet:?xt=urn:btih:1234567890abcdef1234567890abcdef12345678"
+        }
+      ]
+    }
+  }
+}

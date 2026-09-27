@@ -1,0 +1,26 @@
+{
+  "{\"device\":\"device_42A7\",\"key\":\"tb_live_9f8c2a1b7d\"}": {
+    "error": "",
+    "response": {
+      "data": true,
+      "message": true,
+      "status": 200
+    }
+  },
+  "{\"device\":\"gateway-node-12\",\"key\":\"tb_test_7b1e4f6a8c\"}": {
+    "error": "",
+    "response": {
+      "data": true,
+      "message": false,
+      "status": 200
+    }
+  },
+  "{\"device\":\"pixel-7-pro-01\",\"key\":\"tb_live_3e5d9c0a2f\"}": {
+    "error": "",
+    "response": {
+      "data": false,
+      "message": true,
+      "status": 200
+    }
+  }
+}

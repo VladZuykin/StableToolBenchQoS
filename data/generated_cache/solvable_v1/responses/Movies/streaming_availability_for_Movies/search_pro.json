@@ -1,0 +1,231 @@
+{
+  "{\"country\":\"ca\",\"desc\":true,\"keyword\":\"space\",\"order_by\":\"year\",\"output_language\":\"fr\",\"services\":\"crave.subscription,hulu.free\",\"show_original_language\":\"en\",\"show_type\":\"all\",\"year_max\":2025,\"year_min\":2010}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": null,
+      "shows": [
+        {
+          "cast": [
+            "Joel Kinnaman",
+            "Michael Dorman",
+            "Sarah Jones"
+          ],
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "imdb_id": "tt7772588",
+          "imdb_rating": 8.1,
+          "original_language": "en",
+          "other_availability": [
+            {
+              "link": "https://www.hulu.com/series/for-all-mankind-1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+              "offer_type": "free",
+              "service_id": "hulu"
+            }
+          ],
+          "overview": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+          "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+          "release_year": 2019,
+          "runtime": 60,
+          "streaming_services": [
+            {
+              "link": "https://www.crave.ca/en/tv-shows/for-all-mankind",
+              "offer_type": "subscription",
+              "service_id": "crave"
+            }
+          ],
+          "title": "For All Mankind",
+          "tmdb_id": 87917
+        },
+        {
+          "cast": [
+            "Molly Parker",
+            "Toby Stephens",
+            "Maxwell Jenkins"
+          ],
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "imdb_id": "tt5232792",
+          "imdb_rating": 7.3,
+          "original_language": "en",
+          "other_availability": [],
+          "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape.",
+          "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+          "release_year": 2018,
+          "runtime": 60,
+          "streaming_services": [
+            {
+              "link": "https://www.crave.ca/en/tv-shows/lost-in-space",
+              "offer_type": "subscription",
+              "service_id": "crave"
+            }
+          ],
+          "title": "Lost in Space",
+          "tmdb_id": 75736
+        }
+      ]
+    }
+  },
+  "{\"country\":\"de\",\"desc\":false,\"genres\":\"18,80\",\"genres_relation\":\"and\",\"order_by\":\"original_title\",\"output_language\":\"de\",\"services\":\"prime.subscription,apple.rent\",\"show_original_language\":\"ko\",\"show_type\":\"movie\",\"year_max\":2023,\"year_min\":2018}": {
+    "error": "",
+    "response": {
+      "hasMore": true,
+      "nextCursor": "eyJvZmZzZXQiOjEwfQ==",
+      "shows": [
+        {
+          "cast": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+          ],
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+          ],
+          "imdb_id": "tt6751668",
+          "imdb_rating": 8.5,
+          "original_language": "ko",
+          "other_availability": [
+            {
+              "link": "https://tv.apple.com/de/movie/parasite/umc.cmc.5v9z9z9z9z9z9z9z9z9z9z9z9",
+              "offer_type": "rent",
+              "service_id": "apple"
+            }
+          ],
+          "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+          "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+          "release_year": 2019,
+          "runtime": 132,
+          "streaming_services": [
+            {
+              "link": "https://www.amazon.de/gp/video/detail/B07Y5P7Z7T",
+              "offer_type": "subscription",
+              "service_id": "prime"
+            }
+          ],
+          "title": "기생충",
+          "tmdb_id": 496243
+        },
+        {
+          "cast": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jung"
+          ],
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+          ],
+          "imdb_id": "tt0364569",
+          "imdb_rating": 8.3,
+          "original_language": "ko",
+          "other_availability": [
+            {
+              "link": "https://tv.apple.com/de/movie/oldboy/umc.cmc.1a2b3c4d5e6f7g8h9i0j",
+              "offer_type": "rent",
+              "service_id": "apple"
+            }
+          ],
+          "overview": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+          "poster": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+          "release_year": 2003,
+          "runtime": 120,
+          "streaming_services": [
+            {
+              "link": "https://www.amazon.de/gp/video/detail/B00FZ1Z1Z1",
+              "offer_type": "subscription",
+              "service_id": "prime"
+            }
+          ],
+          "title": "올드보이",
+          "tmdb_id": 670
+        }
+      ]
+    }
+  },
+  "{\"country\":\"gb\",\"desc\":true,\"keyword\":\"dragon\",\"order_by\":\"year\",\"output_language\":\"en\",\"services\":\"netflix,disney.subscription\",\"show_type\":\"series\",\"year_max\":2024,\"year_min\":2015}": {
+    "error": "",
+    "response": {
+      "hasMore": false,
+      "nextCursor": null,
+      "shows": [
+        {
+          "cast": [
+            "Paddy Considine",
+            "Matt Smith",
+            "Emma D'Arcy"
+          ],
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "imdb_id": "tt11198330",
+          "imdb_rating": 8.4,
+          "original_language": "en",
+          "other_availability": [
+            {
+              "link": "https://www.amazon.co.uk/dp/B0B9KZ4Y7T",
+              "offer_type": "buy",
+              "service_id": "prime"
+            }
+          ],
+          "overview": "The story of House Targaryen, set 200 years before the events of Game of Thrones.",
+          "poster": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
+          "release_year": 2022,
+          "runtime": 60,
+          "streaming_services": [
+            {
+              "link": "https://www.netflix.com/title/81505524",
+              "offer_type": "subscription",
+              "service_id": "netflix"
+            },
+            {
+              "link": "https://www.disneyplus.com/series/house-of-the-dragon/4X4gLzG9kK1a",
+              "offer_type": "subscription",
+              "service_id": "disney"
+            }
+          ],
+          "title": "House of the Dragon",
+          "tmdb_id": 94997
+        },
+        {
+          "cast": [
+            "Jeremy Shada",
+            "Julia Stiles",
+            "Marcus Scribner"
+          ],
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "imdb_id": "tt14513986",
+          "imdb_rating": 6.5,
+          "original_language": "en",
+          "other_availability": [],
+          "overview": "A group of misfit kids discover dragons living in a hidden world beneath the Earth's surface.",
+          "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+          "release_year": 2021,
+          "runtime": 23,
+          "streaming_services": [
+            {
+              "link": "https://www.netflix.com/title/81195463",
+              "offer_type": "subscription",
+              "service_id": "netflix"
+            }
+          ],
+          "title": "Dragons: The Nine Realms",
+          "tmdb_id": 114695
+        }
+      ]
+    }
+  }
+}

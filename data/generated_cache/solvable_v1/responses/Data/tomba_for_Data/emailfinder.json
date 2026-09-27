@@ -1,0 +1,28 @@
+{
+  "{\"domain\":\"github.com\",\"first_name\":\"Linus\",\"last_name\":\"Torvalds\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "accept_all": true,
+        "company": "GitHub",
+        "country": "United States",
+        "email": "linus.torvalds@github.com",
+        "first_name": "Linus",
+        "full_name": "Linus Torvalds",
+        "gender": "male",
+        "last_name": "Torvalds",
+        "linkedin": "https://www.linkedin.com/in/linustorvalds",
+        "phone_number": null,
+        "position": "Software Engineer",
+        "score": 95,
+        "sources": [],
+        "twitter": "@Linus__Torvalds",
+        "verification": {
+          "date": "2024-05-14T09:32:11Z",
+          "status": "valid"
+        },
+        "website_url": "https://github.com"
+      }
+    }
+  }
+}

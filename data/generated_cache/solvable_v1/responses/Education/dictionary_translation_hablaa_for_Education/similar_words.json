@@ -1,0 +1,38 @@
+{
+  "{\"lang_code_src_lang_code_dst\":\"de-en\",\"text_to_translate\":\"Wasser\"}": {
+    "error": "",
+    "response": {
+      "translations": [
+        "water",
+        "aqua",
+        "H2O",
+        "liquid",
+        "rain"
+      ]
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"en-es\",\"text_to_translate\":\"happy\"}": {
+    "error": "",
+    "response": {
+      "translations": [
+        "feliz",
+        "contento",
+        "alegre",
+        "dichoso",
+        "satisfecho"
+      ]
+    }
+  },
+  "{\"lang_code_src_lang_code_dst\":\"es-fr\",\"text_to_translate\":\"casa\"}": {
+    "error": "",
+    "response": {
+      "translations": [
+        "maison",
+        "domicile",
+        "foyer",
+        "logement",
+        "résidence"
+      ]
+    }
+  }
+}

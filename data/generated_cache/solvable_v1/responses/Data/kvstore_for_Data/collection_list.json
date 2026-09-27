@@ -1,0 +1,14 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "collections": [
+        "users",
+        "orders",
+        "products",
+        "sessions",
+        "logs"
+      ]
+    }
+  }
+}
