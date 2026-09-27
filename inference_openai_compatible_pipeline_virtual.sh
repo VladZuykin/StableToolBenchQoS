@@ -12,7 +12,7 @@ export SERVICE_URL="${SERVICE_URL:-http://localhost:8080/virtual}"
 
 TOOL_ROOT_DIR="${TOOL_ROOT_DIR:-server/tools}"
 INPUT_QUERY_FILE="${INPUT_QUERY_FILE:-solvable_queries_example/smoke/cache_hit.json}"
-OUTPUT_DIR="${OUTPUT_DIR:-data/answer/agent_smoke/cache_hit}"
+OUTPUT_DIR="${OUTPUT_DIR:-data/answer/agent_smoke/llm_virtual}"
 TOOLBENCH_KEY="${TOOLBENCH_KEY:-dummy}"
 
 if [[ ! -d "$TOOL_ROOT_DIR" ]]; then

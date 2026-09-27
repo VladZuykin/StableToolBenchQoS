@@ -1,0 +1,47 @@
+{
+  "version": "qos-generation-v1",
+  "currency": "cost_units",
+  "empirical_bootstrap": {
+    "success_rate": {
+      "formula": "service_level_times_success_rate",
+      "min": 0.0,
+      "max": 1.0
+    },
+    "expected_latency_ms": {
+      "field": "avgLatency",
+      "min": 1.0,
+      "max": 300000.0
+    }
+  },
+  "synthetic": {
+    "cost_per_call_units": {
+      "distribution": "lognormal",
+      "median": 0.001,
+      "log_sigma": 1.0,
+      "min": 0.00005,
+      "max": 0.05
+    },
+    "latency_log_sigma": {
+      "distribution": "uniform",
+      "min": 0.05,
+      "max": 0.25
+    }
+  },
+  "scenarios": {
+    "normal": {
+      "success_rate_factor": 1.0,
+      "latency_factor": 1.0,
+      "cost_factor": 1.0
+    },
+    "degraded": {
+      "success_rate_factor": 0.6375,
+      "latency_factor": 2.0,
+      "cost_factor": 1.0
+    },
+    "outage": {
+      "success_rate_factor": 0.01,
+      "latency_factor": 4.0,
+      "cost_factor": 1.0
+    }
+  }
+}

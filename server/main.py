@@ -1,35 +1,56 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-from fastapi import FastAPI
-from fastapi.requests import Request
-import uvicorn
-import time
+import ast
 from datetime import datetime
 import json
 import os, yaml
-import requests
+from pathlib import Path
+from pydantic import BaseModel
+import time
 from typing import Union
-from utils import standardize, change_name
+import uvicorn
 
-from fastapi import FastAPI
+from openai import OpenAI
+from utils import standardize, change_name
+from qos_simulator import QoSSimulator, parse_bool
+
 from slowapi.errors import RateLimitExceeded
 from slowapi import Limiter, _rate_limit_exceeded_handler
 from slowapi.util import get_remote_address
-from tenacity import retry, wait_random_exponential, stop_after_attempt
 
 config_file='config.yml'
 CONFIG = yaml.load(open(config_file, 'r'), Loader=yaml.FullLoader)
 CACHE_FOLDER = CONFIG['cache_folder']
+GENERATED_CACHE_FOLDER = CONFIG.get(
+    "generated_cache_folder", "../data/generated_cache/solvable_v1/responses"
+)
 LOG_FILE = os.getenv("SERVER_LOG_FILE") or CONFIG['log_file']
+SERVER_PORT = int(os.getenv("SERVER_PORT") or CONFIG["port"])
 # The API simulator is configured independently from the inference agent.
 # Environment variables take precedence; config.yml is a legacy fallback.
-from openai import OpenAI
 SIMULATOR_API_KEY = os.getenv("SIMULATOR_API_KEY") or CONFIG.get("api_key")
 SIMULATOR_API_BASE = os.getenv("SIMULATOR_API_BASE") or CONFIG.get("api_base") or "https://api.openai.com/v1"
 SIMULATOR_MODEL = os.getenv("SIMULATOR_MODEL") or CONFIG.get("model", "gpt-4-turbo")
-SERVER_MODE = os.getenv("SERVER_MODE", "cache_only").lower()
-if SERVER_MODE not in {"cache_only", "full"}:
-    raise ValueError("SERVER_MODE must be either 'cache_only' or 'full'")
+SIMULATOR_SEED = int(os.getenv("SIMULATOR_SEED") or CONFIG.get("simulator_seed", 42))
+SIMULATOR_TEMPERATURE = float(
+    os.getenv("SIMULATOR_TEMPERATURE") or CONFIG.get("temperature", 0)
+)
+
+SERVER_DIR = os.path.dirname(os.path.abspath(__file__))
+QOS_PROFILES_FILE = os.getenv("QOS_PROFILES_FILE") or CONFIG.get(
+    "qos_profiles_file", "../data/qos/v5/api_qos_profiles.jsonl"
+)
+if not os.path.isabs(QOS_PROFILES_FILE):
+    QOS_PROFILES_FILE = os.path.normpath(os.path.join(SERVER_DIR, QOS_PROFILES_FILE))
+QOS_SIMULATOR = QoSSimulator.from_file(
+    path=Path(QOS_PROFILES_FILE),
+    enabled=parse_bool(os.getenv("QOS_ENABLED"), default=CONFIG.get("qos_enabled", False)),
+    scenario=os.getenv("QOS_PROFILE") or CONFIG.get("qos_profile", "normal"),
+    seed=int(os.getenv("QOS_SEED") or CONFIG.get("qos_seed", 42)),
+    sleep_enabled=parse_bool(
+        os.getenv("QOS_SLEEP_ENABLED"),
+        default=CONFIG.get("qos_sleep_enabled", True),
+    ),
+)
 
 limiter = Limiter(key_func=get_remote_address)
 app = FastAPI()
@@ -44,7 +65,7 @@ class Info(BaseModel):
     strip: str
     toolbench_key: str
 
-def prepare_tool_name_and_url(info):
+def prepare_tool_identifiers(info):
     category = info.category
     standard_category = category.replace(" ", "_").replace(",", "_").replace("/", "_")
     while " " in standard_category or "," in standard_category:
@@ -55,12 +76,48 @@ def prepare_tool_name_and_url(info):
     api_name = change_name(standardize(info.api_name)).split(f"_for_{tool_name}")[0]
     if not tool_name.endswith(f"_for_{standard_category}"):
         tool_name = standardize(info.tool_name)
-        code_string = f"""from my_tools.{standard_category}.{tool_name}.api import {api_name}"""
         tool_name += f"_for_{standard_category}"
-    else:
-        tmp_tool_name = standardize(tool_name.replace(f"_for_{standard_category}", ""))
-        code_string = f"""from my_tools.{standard_category}.{tmp_tool_name}.api import {api_name}"""
-    return tool_name, standard_category, api_name, code_string
+    return tool_name, standard_category, api_name
+
+
+def qos_api_id(standard_category, tool_name, api_name):
+    tool_id = standardize(tool_name.split("_for_")[0])
+    return f"{standard_category}/{tool_id}/{api_name}"
+
+
+def finish_tool_call(info, response, response_type, qos):
+    if isinstance(response, str):
+        response = json.loads(response)
+    response = QOS_SIMULATOR.resolve(response, qos)
+    write_log(request=info, response=response, type=response_type)
+    return response
+
+
+def load_cache_examples(*cache_paths):
+    examples = {}
+    for cache_path in cache_paths:
+        if not os.path.isfile(cache_path):
+            continue
+        try:
+            with open(cache_path, encoding="utf-8") as source:
+                loaded = json.load(source)
+            if isinstance(loaded, dict):
+                examples.update(loaded)
+        except Exception as error:
+            print(f"Loading cache examples error from {cache_path}: {error}")
+    return examples
+
+
+def canonical_tool_input(value):
+    if isinstance(value, str):
+        try:
+            value = ast.literal_eval(value)
+        except (SyntaxError, ValueError):
+            try:
+                value = json.loads(value)
+            except (TypeError, json.JSONDecodeError):
+                return value
+    return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
 
 def write_log(request, response, type):
     log = """\
@@ -80,17 +137,17 @@ RESPONSE: {response}
 
 
 @app.post('/virtual')
-# @retry(wait=wait_random_exponential(min=1, max=40), stop=stop_after_attempt(1))
-def get_virtual_response(request: Request, info: Info):
-    user_key = info.toolbench_key
-    
-    tool_name, standard_category, api_name, code_string = prepare_tool_name_and_url(info)
+def get_virtual_response(info: Info):
+    tool_name, standard_category, api_name = prepare_tool_identifiers(info)
     tool_input = info.tool_input
     tool_name_original = info.tool_name
 
     if api_name == "chat_with_user":
-        write_log(request=info, response=real_response, type="chat_with_user")
-        return {"error": "", "response": "Chat with user."}
+        response_dict = {"error": "", "response": "Chat with user."}
+        write_log(request=info, response=response_dict, type="chat_with_user")
+        return response_dict
+
+    api_id = qos_api_id(standard_category, tool_name_original, api_name)
     
     try:
         tool_input = json.loads(tool_input)
@@ -106,70 +163,21 @@ def get_virtual_response(request: Request, info: Info):
             response_dict = {"error": f"Tool input parse error...\n", "response": ""}
             write_log(request=info, response=response_dict, type="tool_input_parse_error")
             return response_dict
-    if not os.path.exists(CACHE_FOLDER):
-        os.mkdir(CACHE_FOLDER)
 
-    # load from cache
-    cache = {}
-    # prerequisite: to read files correctly, "my_tools_cache" folder and "toolenv/tools/" folder should be available
-    try:
-        if os.path.exists(os.path.join(CACHE_FOLDER, standard_category)):
-            if os.path.exists(os.path.join(CACHE_FOLDER, standard_category, tool_name)):
-                if os.path.exists(os.path.join(CACHE_FOLDER, standard_category, tool_name, api_name+".json")):
-                    tools_cache_record = json.load(open(os.path.join(CACHE_FOLDER, standard_category, tool_name, api_name+".json"), "r"))
-                    cache.update(tools_cache_record)
-                    if str(tool_input) in cache:
-                        print("using cached real response")
-                        response_dict = cache[str(tool_input)]
-                        write_log(request=info, response=response_dict, type="cached_real_response")
-                        return response_dict
-    except Exception as e:
-        print(f"Loading cache error: {e}")
+    qos = QOS_SIMULATOR.prepare_call(api_id)
+    if not QOS_SIMULATOR.should_generate_response(qos):
+        QOS_SIMULATOR.wait_for_latency(qos)
+        return finish_tool_call(info, {}, "qos_rejected_before_llm", qos)
 
-    if SERVER_MODE == "cache_only":
-        response_dict = {"error": "Cache miss", "response": ""}
-        write_log(request=info, response=response_dict, type="cache_miss")
-        return response_dict
-        
-    """
-    Call the real api before generating fake response
-    """
-    
-    headers = {
-    'accept': 'application/json',
-    'Content-Type': 'application/json',
-    'toolbench_key': user_key
-    }
-    os.environ['HTTP_PROXY']= ''
-    if "_for_" in tool_name_original:
-        tool_name_real = tool_name_original.split("_for_")[0]
-    else:
-        tool_name_real = tool_name_original
-    data = {
-        "category": standard_category,
-        "tool_name": tool_name_real,
-        "api_name": api_name,
-        "tool_input": tool_input,
-        "strip": "",
-        "toolbench_key": user_key
-    }
-    
-    real_response = requests.post(CONFIG['toolbench_url'], headers=headers, data=json.dumps(data))
-
-    # Check if the request was successful
-    if real_response.status_code == 200:
-        real_response = real_response.json() 
-        if check_result(real_response):
-            print("returning real_response")
-            write_log(request=info, response=real_response, type="real_response")
-            if CONFIG['is_save']:
-                save_cache(cache, tool_input, real_response, standard_category, tool_name, api_name)
-            return real_response
-
-    """
-    Fake response function here. Use the cached history response for in-context examples.
-    result = fake_response_function(api_doc, api_name, api_parameters, *kwargs)
-    """
+    # Cached responses are optional few-shot examples. They are never returned
+    # directly: every virtual response is generated by the LLM simulator.
+    official_cache_path = os.path.join(
+        CACHE_FOLDER, standard_category, tool_name, api_name + ".json"
+    )
+    generated_cache_path = os.path.join(
+        GENERATED_CACHE_FOLDER, standard_category, tool_name, api_name + ".json"
+    )
+    cache = load_cache_examples(official_cache_path, generated_cache_path)
 
     # parse api_doc
     tool_name_original = standardize(tool_name_original)
@@ -204,26 +212,27 @@ def get_virtual_response(request: Request, info: Info):
     except Exception as e:
         print(f"Loading api_doc error: {e}")
 
-    # get several examples from cache
+    # Use only examples for other inputs. Passing an exact cache match would
+    # let the simulator copy the stored response instead of generating one.
     example_num = 5
-    # get top example_num examples
-    api_example = list(cache.items())[:example_num]
+    tool_input_key = canonical_tool_input(tool_input)
+    api_example = [
+        item
+        for item in cache.items()
+        if canonical_tool_input(item[0]) != tool_input_key
+    ][:example_num]
     while len(str(api_example)) > 2048 and example_num > 1:
         example_num -= 1
         api_example = list(cache.items())[:example_num]
 
-    print(f"api example: {api_example},,, tool_input: {tool_input},,, api_doc: {api_doc},")
+    print(f"generating virtual response for {api_id}; examples={len(api_example)}")
         
+    generation_started = time.monotonic()
     result = fake_response_function_chat(api_example,tool_input,api_doc)
-    print(f"fake result: {result}")
+    generation_elapsed = time.monotonic() - generation_started
+    QOS_SIMULATOR.wait_for_latency(qos, elapsed_seconds=generation_elapsed)
 
-    if CONFIG['is_save']:
-        save_cache(cache, tool_input, result, standard_category, tool_name, api_name)
-    write_log(request=info, response=result, type="fake_response")
-    if not isinstance(result, dict):
-        return json.loads(result)
-    else:
-        return result
+    return finish_tool_call(info, result, "llm_virtual_response", qos)
     
 def is_valid_json(result):
     """
@@ -242,47 +251,6 @@ def is_valid_json(result):
     except Exception as e:
         print(f"Can not parse result into json: {result}")
         return False
-
-def check_result(processes_value: dict):
-    if 'error' not in processes_value or processes_value['error'] != '':
-        return False
-    if 'response' not in processes_value:
-        return False
-    response = str(processes_value['response'])
-    if 'got an unexpected keyword argument' in response.lower():
-        return True
-    elif 'rate limit' in response.lower() or 'time out' in response.lower() or 'timed out' in response.lower() or 'does not exist' in response.lower() or '404' in response.lower() or '504' in response.lower() or '500' in response.lower() or 'internal error' in response.lower() or 'API doesn\'t exists' in response.lower() or "API doesn\'t exists" in response.lower() or response == '{\'message\': "API doesn\'t exists"}' or 'Service Not Found' in response:
-        return False
-    elif 'authoriz' in response.lower() or 'authenticat' in response.lower() or 'unauthorized' in response.lower() or 'blocked user' in response.lower() or 'unsubscribe' in response.lower() or 'blocked' in response.lower() or '401' in response.lower() or '403' in response.lower() or 'credential' in response.lower() or 'unauthenticated' in response.lower() or 'disabled for your subscription' in response.lower() or 'ACCESS_DENIED' in response or 'invalid consumer key' in response.lower():
-        return False
-    elif 'parameter' in response.lower() or 'parse' in response.lower() or 'is not defined' in response.lower():
-        return False
-    elif len(response) == 0:
-        return False
-    elif "status_code=50" in response or "status_code=429" in response:
-        return False
-    return True
-
-def save_cache(cache, tool_input, result, standard_category, tool_name, api_name, save_folder=CACHE_FOLDER):
-    # save cache
-    try:
-        if isinstance(result, dict):
-            cache[str(tool_input)] = result
-        elif isinstance(result, str):
-            try:
-                result_dict = json.loads(result)
-                cache[str(tool_input)] = result_dict
-            except Exception as e:
-                print(f"Load result failed: {e}")
-                return
-
-        if not os.path.exists(os.path.join(save_folder, standard_category)):
-            os.mkdir(os.path.join(save_folder, standard_category))
-        if not os.path.exists(os.path.join(save_folder, standard_category, tool_name)):
-            os.mkdir(os.path.join(save_folder, standard_category, tool_name))    
-        json.dump(cache, open(os.path.join(save_folder, standard_category, tool_name, api_name+".json"), "w"), indent=4)
-    except Exception as e:
-        print(f"Save cache failed: {e}")
 
 def fake_response_function_chat(api_example, tool_input, api_doc):
     '''
@@ -358,7 +326,8 @@ Your will also be given successful examples of API calls and their expected outp
             model = SIMULATOR_MODEL,
             messages=[system_prompt, user_prompt],
             max_tokens = 1024,
-            temperature=CONFIG['temperature'],
+            temperature=SIMULATOR_TEMPERATURE,
+            seed=SIMULATOR_SEED,
             response_format={"type": "json_object"},
         )
         result = response.choices[0].message.content
@@ -380,4 +349,4 @@ Your will also be given successful examples of API calls and their expected outp
         return json.dumps(fake_error)
 
 if __name__ == "__main__":
-    uvicorn.run(app="main:app", host="0.0.0.0", port=CONFIG['port'])
+    uvicorn.run(app="main:app", host="0.0.0.0", port=SERVER_PORT)

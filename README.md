@@ -1,557 +1,446 @@
 # StableToolBenchQoS
 
-Экспериментальный fork [StableToolBench](SOURCE_README.md) для НИР по теме «Разработка алгоритма подбора инструментов для агентных систем среди семантически схожих кандидатов».
+StableToolBenchQoS — экспериментальный форк [StableToolBench](https://github.com/THUNLP-MT/StableToolBench), в котором ответы виртуальных инструментов генерирует LLM, а вероятность успеха, задержка и стоимость моделируются локально.
 
-## Quickstart
+## Ограничения
 
-Ниже приведён минимальный воспроизводимый запуск одного задания через OpenAI-совместимого LLM-агента и локальный StableToolBench в режиме `cache_only`. Команды выполняются из Git Bash в корне репозитория.
+- Ответы инструментов **синтетические**: успешный вызов всегда отправляется внешней LLM, а не реальному API. Не используйте ответы для медицинских, юридических, финансовых или производственных решений.
+- `cost_units` — синтетическая денежная стоимость вызова. Каждый успешный виртуальный вызов при этом действительно расходует токены выбранной модели.
+- Серверу нужен `SIMULATOR_API_KEY`. Если ключ не задан или провайдер несовместим с OpenAI API, запросы к модели будут завершаться ошибкой HTTP 500.
+- Данные `server/tools`, официальный кеш и все результаты в `data/` не хранятся в Git. Их нужно скачать или создать локально.
+- При `QOS_ENABLED=true` сервер обслуживает только API, для которых создан QoS-профиль. В противном случае он возвращает `QoS profile not found` и не вызывает LLM.
+- Одинаковый seed позволяет повторить локальную симуляцию QoS, но не гарантирует дословно одинаковые ответы внешней LLM.
+- Сервер предназначен для локальных экспериментов: `toolbench_key` не проверяется, а аутентификация клиентов не реализована.
 
-### 1. Подготовить окружение и данные
+## Быстрый запуск
+
+Ниже — минимальный проверенный сценарий для Windows, Git Bash и Python 3.11.13. Нужны Git, `curl`, Python и ключ провайдера с API, совместимым с [OpenAI Python SDK](https://github.com/openai/openai-python).
+
+### 1. Установить зависимости и данные
 
 ```bash
+git clone https://github.com/VladZuykin/StableToolBenchQoS.git
+cd StableToolBenchQoS
+
 python -m venv .venv
 source .venv/Scripts/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements_win.txt
 python -m pip check
+
 bash scripts/download_stabletoolbench_cache.sh
 ```
 
-### 2. Запустить виртуальный сервер
+Скрипт скачивает описания инструментов и официальный кеш StableToolBench, а затем создаёт `server/tools/` и `server/tool_response_cache/`. Если обе папки уже существуют, повторно ничего не скачивается.
+
+В PowerShell окружение активируется командой `.\.venv\Scripts\Activate.ps1`, но shell-скрипты проекта всё равно следует запускать через Git Bash или `bash`.
+
+### 2. Запустить сервер
 
 В первом терминале:
 
 ```bash
 source .venv/Scripts/activate
-bash scripts/run_virtual_server.sh
-```
 
-Сервер будет доступен на `http://localhost:8080/virtual`. По умолчанию используются только сохранённые ответы: внешние инструменты и LLM-симулятор не вызываются.
-
-### 3. Запустить агента
-
-Во втором терминале:
-
-```bash
-source .venv/Scripts/activate
-read -s -p "Agent API key: " AGENT_API_KEY
-echo
-export AGENT_API_KEY
-
-# Пример для DeepSeek; можно указать другой OpenAI-совместимый API.
-export AGENT_API_BASE="https://api.deepseek.com"
-export AGENT_MODEL="deepseek-flash"
-
-bash inference_openai_compatible_pipeline_virtual.sh
-```
-
-Smoke-тест содержит одно задание и точный cache hit. Агент должен вызвать `chat_gpt_detector_for_ai_content_detector_v2`, получить вероятности и завершить задачу через `Finish`. Trace сохраняется в:
-
-```text
-data/answer/agent_smoke/cache_hit/900001_CoT@1.json
-```
-
-Запуск использует API агента и обычно требует двух обращений к модели. Сервер останавливается сочетанием `Ctrl+C` в первом терминале.
-
-## Задача проекта
-
-В исходном ToolBench агент выбирает инструмент главным образом по описанию и семантическому соответствию запросу. В этом проекте исследуется выбор среди нескольких похожих инструментов с учётом дополнительных характеристик качества обслуживания (QoS):
-
-- доступности инструмента;
-- задержки ответа;
-- стоимости вызова;
-- успешности предыдущих вызовов;
-- стабильности результата.
-
-Цель — проверить, позволяет ли учёт истории использования и QoS выбирать более подходящий инструмент, чем один только семантический поиск.
-
-## Предполагаемая схема
-
-```text
-Запрос пользователя
-        ↓
-Формирование семантически похожих кандидатов
-        ↓
-Ранжирование кандидатов с учётом QoS и статистики
-        ↓
-Выбор и вызов инструмента
-        ↓
-Обновление статистики по результату вызова
-```
-
-StableToolBench используется как воспроизводимая среда с описаниями инструментов, кэшем их ответов и виртуальным API-сервером. В качестве агента можно использовать любую модель с OpenAI-совместимым API.
-
-## Текущее состояние
-
-- создано виртуальное окружение Python 3.11.13;
-- добавлен набор зависимостей для Windows — `requirements_win.txt`;
-- подключение агента обобщено для OpenAI-совместимых провайдеров;
-- tool calling проверен на DeepSeek `deepseek-flash`;
-- добавлен воспроизводимый скрипт загрузки StableToolBench Cache;
-- выполнен сквозной cache-hit запуск: агент выбрал инструмент, получил ответ виртуального сервера и сохранил полный trace.
-
-## Установка на Windows
-
-Команды ниже выполняются из Git Bash в корне репозитория.
-
-```bash
-python -m venv .venv
-source .venv/Scripts/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements_win.txt
-python -m pip check
-```
-
-Используемая версия Python записана в `.python-version`.
-
-## Настройка и проверка LLM-агента
-
-Ключ передаётся только через переменную окружения и не сохраняется в репозитории:
-
-```bash
-source .venv/Scripts/activate
-read -s -p "Agent API key: " AGENT_API_KEY
-echo
-export AGENT_API_KEY
-export AGENT_API_BASE="https://api.deepseek.com"
-export AGENT_MODEL="deepseek-flash"
-
-python scripts/test_agent_tool_call.py
-```
-
-Здесь DeepSeek приведён только как пример. Можно указать другой OpenAI-совместимый endpoint и модель. При успешной проверке агент должен выбрать тестовую функцию `get_weather` и сформировать её аргументы. Тест обращается к модели через штатный адаптер `ChatGPTFunction` из ToolBench.
-
-## Настройка LLM-симулятора API
-
-```bash
 read -s -p "Simulator API key: " SIMULATOR_API_KEY
 echo
 export SIMULATOR_API_KEY
-export SIMULATOR_API_BASE="https://another-provider.example/v1"
-export SIMULATOR_MODEL="another-model"
+
+# Рабочий пример; можно указать другого OpenAI-совместимого провайдера.
+export SIMULATOR_API_BASE="https://api.deepseek.com"
+export SIMULATOR_MODEL="deepseek-chat"
+export SIMULATOR_SEED="42"
+
+bash scripts/run_virtual_server.sh
 ```
 
-Агент и симулятор — независимые роли: они могут использовать разные модели и даже разных провайдеров. Значения `SIMULATOR_*` имеют приоритет над устаревшими полями `api_key`, `api_base` и `model` в `server/config.yml`, поэтому секретный ключ не нужно сохранять в YAML.
+После сообщения `Uvicorn running on http://0.0.0.0:8080` сервер принимает запросы по адресу `http://127.0.0.1:8080/virtual`.
 
-## Загрузка StableToolBench Cache
+### 3. Отправить запрос
 
-Для запуска виртуального API-сервера нужны описания инструментов и кэш ответов. Они не хранятся в Git из-за размера.
+Во втором Git Bash:
 
 ```bash
-bash scripts/download_stabletoolbench_cache.sh
+curl -sS -X POST "http://127.0.0.1:8080/virtual" \
+  -H "Content-Type: application/json" \
+  --data-binary @- <<'JSON'
+{
+  "category": "Artificial Intelligence/Machine Learning",
+  "tool_name": "ai_content_detector_v2",
+  "api_name": "chat_gpt_detector_for_ai_content_detector_v2",
+  "tool_input": {
+    "text": "Christmas is a time of joy, love, and giving."
+  },
+  "strip": "",
+  "toolbench_key": ""
+}
+JSON
 ```
 
-Скрипт скачивает официальный архив StableToolBench с зафиксированной ревизии Hugging Face, безопасно распаковывает его и создаёт:
+Без QoS ответ имеет вид:
+
+```json
+{
+  "error": "",
+  "response": {
+    "all_tokens": 12,
+    "used_tokens": 12,
+    "real_probability": 0.31,
+    "fake_probability": 0.69
+  }
+}
+```
+
+Содержимое `response` генерируется моделью и может отличаться. Остановить сервер можно через `Ctrl+C`.
+
+## Как устроен вызов
+
+При запросе к `/virtual` сервер выполняет следующие действия:
 
 ```text
-server/tools/
-server/tool_response_cache/
+POST /virtual
+  -> нормализация идентификатора API и входных аргументов
+  -> проверка успешности вызова, если QoS включён
+     -> неуспешный вызов: задержка и ответ с ошибкой, без обращения к LLM
+     -> успешный вызов: до 5 примеров из кеша передаются LLM
+  -> генерация нового JSON-ответа
+  -> ожидание оставшейся части смоделированной задержки
+  -> ответ клиенту и запись в server/server.log
 ```
 
-При наличии обеих папок повторный запуск ничего не скачивает. Другую ревизию можно указать через `STABLETOOLBENCH_CACHE_REVISION`.
+Официальный и дополнительно сгенерированный кеши используются только как примеры для LLM. Если в кеше есть ответ для текущего `tool_input`, он исключается из примеров и не возвращается напрямую.
 
-## Запуск виртуального API-сервера
+## HTTP API
 
-Для первого воспроизводимого эксперимента сервер по умолчанию работает в режиме `cache_only`: возвращает сохранённый ответ при точном совпадении входа и `Cache miss` в остальных случаях. В этом режиме он не обращается к реальному ToolBench и не вызывает LLM-симулятор.
+### `POST /virtual`
 
-```bash
-bash scripts/run_virtual_server.sh
+Генерирует ответ одного API-метода виртуального инструмента.
+
+#### Тело запроса
+
+| Поле | Тип | Обязательное | Значение |
+|---|---:|:---:|---|
+| `category` | string | да | Категория StableToolBench. Пробелы, запятые и `/` нормализуются в `_`. |
+| `tool_name` | string | да | Имя инструмента из запроса ToolBench. |
+| `api_name` | string | да | Имя API. Суффикс `_for_<tool_name>` допустим и удаляется сервером. |
+| `tool_input` | object или string | да | JSON-объект аргументов либо строка, содержащая такой объект. Пустая строка означает `{}`. |
+| `strip` | string | да | Поле совместимости с ToolBench; виртуальный сервер его не использует. |
+| `toolbench_key` | string | да | Поле совместимости; не проверяется и может быть пустым. |
+
+FastAPI проверяет наличие и тип полей запроса. При нарушении схемы возвращается HTTP 422. Если строку `tool_input` невозможно разобрать как JSON, описание ошибки возвращается в поле `error`.
+
+#### Успешный ответ
+
+```json
+{
+  "error": "",
+  "response": {},
+  "qos": {
+    "api_id": "Category/tool/api",
+    "profile": "normal",
+    "profile_found": true,
+    "succeeded": true,
+    "success_rate": 0.94,
+    "latency_ms": 812.42,
+    "expected_latency_ms": 850.0,
+    "latency_distribution": "lognormal",
+    "latency_log_sigma": 0.12,
+    "cost_units": 0.0005,
+    "call_index": 0
+  }
+}
 ```
 
-Сервер будет доступен по адресу `http://localhost:8080/virtual`. Полный режим с обращением к реальному API и последующей симуляцией включается явно:
+Поле `qos` присутствует только при включённой симуляции. Тип `response` зависит от API: это может быть объект, массив, строка, число, логическое значение или `null`.
 
-```bash
-export SERVER_MODE="full"
-bash scripts/run_virtual_server.sh
+#### Поля `qos`
+
+| Поле | Смысл |
+|---|---|
+| `api_id` | Нормализованный ключ `<category>/<tool>/<api>`. |
+| `profile` | Активный сценарий: `normal`, `degraded` или `outage`. |
+| `profile_found` | Найдена ли запись API в загруженном JSONL-файле профилей. |
+| `succeeded` | Успешен ли конкретный вызов. |
+| `success_rate` | Заданная вероятность успеха. Вероятность ошибки равна `1 - success_rate`. |
+| `latency_ms` | Задержка конкретного вызова в миллисекундах. |
+| `expected_latency_ms` | Средняя задержка для этого API. |
+| `latency_distribution` | Сейчас поддерживается только `lognormal`. |
+| `latency_log_sigma` | Разброс задержки: чем больше значение, тем сильнее отдельные вызовы отличаются от среднего. |
+| `cost_units` | Условная стоимость одной попытки, включая неуспешную. |
+| `call_index` | Порядковый номер вызова этого API с момента запуска сервера, начиная с нуля. |
+
+#### Ошибки виртуального инструмента
+
+Смоделированные ошибки возвращаются с HTTP 200, чтобы сохранить контракт ToolBench:
+
+```json
+{
+  "error": "API not working error...",
+  "response": "",
+  "qos": {
+    "profile_found": true,
+    "succeeded": false,
+    "success_rate": 0.01
+  }
+}
 ```
 
-Для основного сравнения рекомендуется отдельно фиксировать режим сервера: смешивание кэшированных, реальных и сгенерированных ответов меняет условия эксперимента.
+| Условие | `error` | Вызывается LLM |
+|---|---|:---:|
+| Вызов оказался неуспешным согласно `success_rate` | `API not working error...` | нет |
+| Профиль API отсутствует | `QoS profile not found for <api_id>` | нет |
+| `tool_input` невозможно разобрать | `Tool input parse error...` | нет |
+| LLM трижды вернула невалидный JSON | `Failed to generate fake response` | да |
+| `api_name` нормализуется в `chat_with_user` | статический `Chat with user.` | нет |
 
-## Аудит инструментов и QoS
+Ошибки авторизации, сети и самого LLM-провайдера обычно приводят к HTTP 500. Подробности выводятся в терминал, где запущен сервер.
 
-После загрузки StableToolBench Cache единый каталог API и агрегированная статистика строятся командой:
+### Интерактивная схема
+
+FastAPI автоматически публикует OpenAPI-интерфейс после запуска:
+
+- Swagger UI: `http://127.0.0.1:8080/docs`
+- OpenAPI JSON: `http://127.0.0.1:8080/openapi.json`
+
+## Настройка виртуального сервера
+
+Переменные окружения имеют приоритет над [server/config.yml](server/config.yml). Секреты в YAML сохранять не следует.
+
+| Переменная | По умолчанию | Назначение |
+|---|---|---|
+| `SIMULATOR_API_KEY` | пусто | Ключ доступа к LLM. |
+| `SIMULATOR_API_BASE` | значение из config или `https://api.openai.com/v1` | Адрес OpenAI-совместимого API. |
+| `SIMULATOR_MODEL` | значение из config или `gpt-4-turbo` | Название модели. |
+| `SIMULATOR_SEED` | `42` | Seed, передаваемый модели. |
+| `SIMULATOR_TEMPERATURE` | `0` | Температура генерации. |
+| `SERVER_LOG_FILE` | `server/server.log` | Путь к текстовому журналу запросов и ответов. |
+| `SERVER_PORT` | `8080` | TCP-порт виртуального сервера. |
+| `QOS_ENABLED` | `false` | Включить симуляцию QoS. |
+| `QOS_PROFILE` | `normal` | Сценарий `normal`, `degraded` или `outage`. |
+| `QOS_SEED` | `42` | Seed локальной симуляции QoS. |
+| `QOS_SLEEP_ENABLED` | `true` | Реально ждать выбранную задержку. При `false` она только возвращается в ответе. |
+| `QOS_PROFILES_FILE` | `data/qos/v5/api_qos_profiles.jsonl` | Альтернативный файл профилей. |
+
+Порт можно изменить через `SERVER_PORT`. Пути к папкам инструментов и кеша задаются в `server/config.yml`. Переменной `SERVER_MODE` нет: успешные ответы всегда создаёт LLM.
+
+## Подготовка QoS-профилей
+
+QoS-профиль — это набор характеристик виртуального API: вероятность успешного вызова, средняя задержка, разброс задержки и условная стоимость. Для каждого API создаются три варианта профиля — `normal`, `degraded` и `outage`. Сервер выбирает нужный вариант через `QOS_PROFILE` и использует его при каждом вызове инструмента.
+
+### 1. Создать каталог API и исходных метрик
 
 ```bash
 python scripts/build_tool_catalog.py
 ```
 
-Результаты сохраняются в игнорируемый Git каталог:
+Результаты:
 
 ```text
 data/catalog/tools.jsonl
 data/catalog/statistics.json
 ```
 
-`tools.jsonl` содержит одну нормализованную запись на API: описание инструмента и метода, параметры, тариф, исходные QoS-поля и количество доступных кэшированных входов. `statistics.json` содержит покрытие описаний, QoS и кэша, их пересечение для формирования экспериментальных кандидатов, распределения категорий, HTTP-методов и тарифов, числовые сводки QoS и найденные ошибки данных.
+В `tools.jsonl` записывается список API из `server/tools` вместе с исходными метриками StableToolBench: `avgLatency`, `avgServiceLevel` и `avgSuccessRate`. В `statistics.json` сохраняется краткая статистика по каталогу и покрытию кеша. Эти файлы использует следующий шаг.
 
-## Семантически похожие кандидаты
-
-После аудита построить группы ближайших API можно командой:
+### 2. Создать QoS-профили для тестового набора
 
 ```bash
-python scripts/build_candidate_groups.py
-```
-
-По умолчанию используется `sentence-transformers/all-MiniLM-L6-v2`. Текст имеет версию `api_first_v2`: название и описание конкретного API и его параметры располагаются перед общим описанием инструмента и категорией, чтобы наиболее важные данные сохранялись при truncation. QoS и тариф не включаются в embedding-текст, чтобы семантический retrieval не получал информацию, предназначенную для последующего ранжирования. Дубли нормализованных API удаляются, а API того же инструмента не используются как его кандидаты; для диагностического запуска их можно вернуть флагом `--allow-same-tool`. Скрипт строит соседей как по всему каталогу, так и внутри категории и сохраняет:
-
-```text
-data/candidates/embeddings.npz
-data/candidates/neighbors.jsonl
-data/candidates/statistics.json
-data/candidates/manual_review.csv
-```
-
-`manual_review.csv` содержит по пять соседей в каждом режиме для 50 воспроизводимо выбранных целевых API. Для обеих сторон пары сохраняются описания, параметры, точное число токенов embedding-текста и число токенов, обрезанных лимитом модели. Поле `manual_relevance_0_1_2` предназначено для ручной оценки: `0` — нерелевантный, `1` — тематически связанный, `2` — функционально взаимозаменяемый.
-
-## Общий retrieval-пул для автоматической разметки
-
-Современные embedding-модели устанавливаются в отдельное окружение, чтобы не обновлять зафиксированные зависимости StableToolBench:
-
-```bash
-python -m venv .venv-retrieval
-source .venv-retrieval/Scripts/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements_retrieval.txt
-```
-
-Для NVIDIA GPU после основной установки следует заменить CPU-сборку PyTorch на зафиксированную CUDA-сборку:
-
-```bash
-python -m pip install --force-reinstall -r requirements_retrieval_cuda.txt
-python -c "import torch; print(torch.__version__, torch.cuda.is_available())"
-```
-
-На проверенной конфигурации используется PyTorch `2.14.0+cu130`; драйвер NVIDIA может поддерживать более новую версию CUDA, поскольку wheel содержит собственный совместимый runtime.
-
-Общий пул кандидатов Qwen3 + BM25 строится командой:
-
-```bash
-python scripts/build_retrieval_pool.py
-```
-
-Для GPU с 4 ГБ памяти следует начать с небольшого batch:
-
-```bash
-python scripts/build_retrieval_pool.py --batch-size 2 --max-seq-length 2048
-```
-
-По умолчанию dense retriever использует `Qwen/Qwen3-Embedding-0.6B`, специальную инструкцию для поиска эквивалентных, включающих и связанных возможностей и `top-30`. Каждый API кодируется Qwen один раз; полученные нормализованные векторы используются для API-to-API поиска. BM25 независимо извлекает ещё `top-30` по названиям, описаниям и параметрам. Обратные и повторяющиеся пары объединяются, но rank, score, направление и метод-источник сохраняются.
-
-Результаты:
-
-```text
-data/retrieval/model_indexes/   # кэш instruction-aware API embeddings
-data/retrieval/catalog.jsonl   # документация API без повторения в каждой паре
-data/retrieval/neighbors.jsonl # top-K каждого метода для каждого API
-data/retrieval/pooled_pairs.jsonl
-data/retrieval/statistics.json
-```
-
-### Анализ пула и пилотная выборка
-
-После полного retrieval-запуска можно получить небольшую воспроизводимую выборку для проверки схемы разметки:
-
-```bash
-python scripts/analyze_retrieval_pool.py --sample-size 500 --seed 42
-```
-
-Скрипт не запускает Qwen повторно и не обращается к LLM. Он читает готовый `pooled_pairs.jsonl`, вычисляет признаки пары и поровну выбирает примеры из восьми диапазонов: взаимные и односторонние соседи Qwen с рангами `1–3`, `4–10` и `11–30`, а также пары только BM25 с рангами `1–10` и `11–30`. Такое распределение нужно для пилотной проверки разных по сложности случаев, а не для оценки естественной доли классов во всём каталоге. Пересечение Qwen и BM25 сохраняется в данных, но не является обязательным условием отбора.
-
-Результаты сохраняются в:
-
-```text
-data/retrieval_analysis/retrieval_analysis.json # размеры слоёв, квоты и квантили score
-data/retrieval_analysis/pilot_pairs.jsonl       # полные записи для последующей LLM-разметки
-data/retrieval_analysis/pilot_review.csv        # плоская таблица для просмотра и ручной проверки
-```
-
-При одинаковых входных файлах и `--seed` будут выбраны те же пары. Поля `manual_relation`, `manual_direction` и `comment` в CSV намеренно оставлены пустыми.
-
-### Пилотная LLM-разметка пар
-
-Разметчик использует любой OpenAI-совместимый API. Настройки называются нейтрально и не привязаны к DeepSeek:
-
-Разметчик запускается в основном окружении StableToolBench, где `openai` уже установлен. Если сейчас активно `.venv-retrieval`, сначала переключитесь:
-
-```bash
-deactivate
-source .venv/Scripts/activate
-```
-
-```bash
-read -s -p "Annotator API key: " ANNOTATOR_API_KEY
-echo
-export ANNOTATOR_API_KEY
-export ANNOTATOR_API_BASE="https://api.deepseek.com"
-export ANNOTATOR_MODEL="deepseek-chat"
-```
-
-Перед платным запуском можно вывести документацию первой пары и итоговый prompt без обращения к API:
-
-```bash
-python scripts/annotate_candidate_pairs.py --dry-run --limit 1
-```
-
-Первый пилотный запуск ограничен 20 парами:
-
-```bash
-python scripts/annotate_candidate_pairs.py --limit 20
-```
-
-Перед применением `--limit` пары чередуются по retrieval-слоям, поэтому небольшой пилот содержит сильные и слабые, взаимные и односторонние Qwen-соседства, а также оба диапазона BM25. Скрипт печатает фактический состав выбранных слоёв перед обращением к модели.
-
-Для каждой пары модель выбирает одно из трёх отношений: `interchangeable`, `contains` или `different_capability`. Точные дубликаты входят в `interchangeable`. `different_capability` объединяет все случаи, где между API не нужно создавать ребро взаимозаменяемости или включения: семантически близкие, относящиеся к одной области, workflow-связанные и полностью несвязанные API. Неопределённость не является отдельным отношением: при недостаточной документации модель выбирает наиболее вероятный класс, снижает `confidence` и устанавливает `needs_human_review=true`. Степень текстовой близости уже хранится в retrieval rank/score. Дополнительно сохраняются направление `contains`, объяснение и признак необходимости ручной проверки.
-
-`interchangeable` требует двусторонней заменяемости: аргументы обеих схем должны получаться из запроса пользователя и друг из друга детерминированным локальным преобразованием. Внешний lookup, geocoding, реестр активов, преобразование provider-specific имени во внутренний ID или доступ к состоянию другой системы запрещают такое объединение. Одинаково документированные login/order/inventory/account endpoints разных stateful-систем также не считаются взаимозаменяемыми. Совпадающий boilerplate, Swagger/OpenAPI sample, схема, путь и примеры не доказывают общий backend: для stateful API требуется явное указание на общий deployment или namespace. `contains` означает функционально более широкий API в любом документированном смысле при общей базовой задаче или ресурсе: больше данных, сценариев, период, детализация, дополнительные поля, режимы входа либо операции. Точное воспроизведение узкого ответа и наличие тех же фильтров не требуются; направление всегда указывает от более широкой возможности к более узкой.
-
-Parameter mappings не создаются и не проверяются вручную. После выбора API исполняющая LLM получает его нативную документацию и самостоятельно формирует аргументы вызова. Workflow-граф и передача идентификаторов также исключены из текущего этапа: необходимые API позже подаются агенту явно.
-
-Успешные ответы немедленно дописываются в `data/annotations/pilot_pair_annotations.jsonl`, а ошибки — в `data/annotations/pilot_pair_annotation_errors.jsonl`. Повтор той же команды пропускает уже успешно обработанные `pair_id`, поэтому прерванный запуск можно безопасно продолжить. Retrieval-score модели не передаются: решение принимается только по документации API.
-
-После общего пилота можно построить отдельную диагностическую выборку сильных и пограничных отношений:
-
-```bash
-python scripts/build_relation_audit_sample.py
-python scripts/annotate_candidate_pairs.py \
-  --input data/retrieval_analysis/relation_audit_pairs.jsonl \
-  --limit 20
-```
-
-Отбор создаёт по пять ещё не размеченных кандидатов для аудита дубликатов, взаимозаменяемости, включения и сложных границ классов. `audit_sampling.target` является названием эвристического набора, а не истинной меткой. Эти подсказки не передаются LLM: модель получает только документацию двух API.
-
-### Последовательное построение графа с ограниченным бюджетом
-
-После ручной проверки пилота граф расширяется в порядке убывания Qwen-score. Ограничение задаётся на фактические HTTP-запросы к разметчику, а не на количество рассмотренных пар:
-
-```bash
-python scripts/expand_relation_graph.py --max-llm-calls 1000 --dry-run
-python scripts/expand_relation_graph.py --max-llm-calls 1000
-```
-
-Скрипт использует последние решения из `human_pair_reviews.jsonl` как начальные рёбра. `interchangeable` объединяет API через Union-Find; известные отношения внутри компоненты, `contains` между компонентами и `different_capability` распространяются без нового обращения к LLM. Поэтому при бюджете 1000 запросов фактически обработанных пар может быть больше. Для каждого прямого и выведенного решения сохраняются Qwen-score, источник решения и идентификаторы опорных рёбер. Повторный запуск восстанавливает граф по прямым решениям, пропускает уже обработанные пары и учитывает запросы из успешных ответов и журнала ошибок, поэтому общий лимит сохраняется между запусками.
-
-Progress bar показывает общий расход HTTP-запросов, число рассмотренных и выведенных пар, текущее количество Qwen-пар, покрытых графом без LLM (`covered`), уже реально сэкономленные вызовы (`saved`) и прирост покрытия после последнего прямого решения (`delta`). Эти же значения сохраняются в `candidate_coverage_impact` каждого нового LLM-решения и в `graph_candidate_coverage` checkpoint.
-
-Результаты:
-
-```text
-data/relation_graph/pair_decisions.jsonl
-data/relation_graph/errors.jsonl
-data/relation_graph/checkpoint.json
-```
-
-API и пары, до которых обработка не дошла в пределах бюджета, остаются отложенными: им не присваивается `different_capability`.
-
-Промежуточный snapshot эксперимента `v16_migrated` (автоматическая разметка, не gold standard): 6000 запросов к LLM-разметчику дали 7003 прямых и выведенных решения. Для 6470 API построено 6142 компоненты взаимозаменяемости, из них 209 содержат более одного API; крупнейшая компонента содержит 18 API. Зафиксировано 633 прямых отношения `contains`, а граф позволил покрыть без дополнительного LLM-вызова 1721 пару из текущего retrieval-пула. Сырые результаты и кэши находятся в игнорируемом каталоге `data/`; числа приведены как ориентир и могут меняться при продолжении запуска или изменении prompt.
-
-Для чистого повторного эксперимента без ручных seed-решений и без смешивания с предыдущим prompt результаты записываются в отдельную папку:
-
-```bash
-python scripts/expand_relation_graph.py \
-  --no-human-seeds \
-  --run-dir data/relation_graph/v13_no_human \
-  --max-llm-calls 200 \
-  --dry-run
-
-python scripts/expand_relation_graph.py \
-  --no-human-seeds \
-  --run-dir data/relation_graph/v13_no_human \
-  --max-llm-calls 200
-```
-
-Существующие результаты других запусков при этом не читаются и не перезаписываются.
-
-После изменения схемы точный набор ранее проверявшихся 80 пар можно полностью переразметить одной командой:
-
-```bash
-python scripts/annotate_candidate_pairs.py \
-  --input data/retrieval_analysis/reannotation_80_pairs.jsonl \
-  --limit 0
-```
-
-Предыдущие результаты v1–v7 сохранены в `data/annotations/archive/pair-relations-v1-v7_2026-09-24/`, а частичный запуск v8 — в `data/annotations/archive/pair-relations-v8_partial_2026-09-24/`. Они не участвуют в новом запуске.
-
-Таблица для ручного аудита всех накопленных аннотаций строится без вызовов LLM:
-
-```bash
-python scripts/build_annotation_review.py
-```
-
-Результат `data/annotations/pilot_annotation_review.csv` объединяет документацию обоих API, retrieval-слой, версию prompt и решение LLM. Диагностические пары располагаются первыми. Человек заполняет `human_relation`, `human_direction`, автоматически вычисляемое `human_relation_correct` и `human_comment`. Скрипт сохраняет уже заполненные ручные поля при пересборке CSV. Исходный JSONL остаётся неизменяемым источником автоматической разметки.
-
-Для удобной проверки через браузер используется отдельное окружение, чтобы современные зависимости Streamlit не конфликтовали со старым стеком StableToolBench. Первоначальная установка:
-
-```bash
-python -m venv .venv-review
-source .venv-review/Scripts/activate
-python -m pip install -r requirements_review.txt
-python -m streamlit run apps/review_annotations.py
-```
-
-В этом репозитории `.venv-review` уже создано. Для последующих запусков достаточно:
-
-```bash
-source .venv-review/Scripts/activate
-python -m streamlit run apps/review_annotations.py
-```
-
-Интерфейс показывает документацию LEFT и RIGHT рядом, параметры, решение и объяснение модели. Доступны фильтры по статусу, версии prompt, классу и диагностической выборке. Кнопка сохранения добавляет событие в `data/annotations/human_pair_reviews.jsonl` и переводит к следующей паре. Файл append-only хранит историю исправлений; актуальным считается последнее решение для `pair_id`. При следующей сборке CSV эти решения подставляются автоматически.
-
-`pooled_pairs.jsonl` является входом следующего этапа — пакетной LLM-классификации отношений между API. QoS не включается в тексты и не показывается аннотатору, чтобы доступность, популярность или задержка не влияли на решение о функциональной связи.
-
-Быстрая проверка без скачивания embedding-модели:
-
-```bash
-python scripts/build_retrieval_pool.py --skip-dense --limit 100 --top-k 5
-```
-
-На Windows по умолчанию используется один поток поиска. После проверки окружения параллелизм можно включить явно, например `--n-jobs 4`.
-
-## Канонические функциональные кластеры
-
-Семантически близкие API планируется объединять в функциональные кластеры, не удаляя конкретные реализации. Кластер описывает общую возможность, а его участники сохраняют собственные параметры, QoS и инфраструктурные ограничения. Это позволяет сначала найти требуемую функцию, а затем выбрать внутри группы конкретный API с учётом доступности, успешности, задержки и стоимости.
-
-Планируемая структура кластера:
-
-```json
-{
-  "cluster_id": "get_current_weather",
-  "canonical_name": "Get current weather",
-  "canonical_description": "Returns current weather conditions for a location.",
-  "use_when": [
-    "The user asks about weather right now",
-    "The user asks for the current temperature or conditions"
-  ],
-  "do_not_use_when": [
-    "The user asks for a future weather forecast",
-    "The user asks for historical weather",
-    "The user asks for long-term climate statistics"
-  ],
-  "required_information": ["location"],
-  "optional_information": ["units", "language"],
-  "canonical_parameters": [
-    {
-      "name": "location",
-      "type": "string",
-      "required": true,
-      "description": "City name or geographic location"
-    }
-  ],
-  "returns": {
-    "description": "Current weather conditions for the requested location",
-    "fields": []
-  },
-  "confusable_with": [
-    {
-      "cluster_id": "weather_forecast",
-      "difference": "Use weather_forecast only for future conditions."
-    },
-    {
-      "cluster_id": "historical_weather",
-      "difference": "Use historical_weather only for past dates or periods."
-    }
-  ],
-  "members": [
-    {
-      "api_id": "provider_current_weather",
-      "provider": "provider_name"
-    }
-  ],
-  "annotation": {
-    "source": "llm",
-    "model": "model-name",
-    "prompt_version": "cluster-v1",
-    "confidence": 0.0,
-    "human_status": "unreviewed"
-  }
-}
-```
-
-`use_when`, `do_not_use_when` и `confusable_with` образуют контрастивную документацию: она не только описывает функцию, но и отделяет её от семантически близких возможностей. Эквивалентные API входят в один функциональный кластер. После выбора конкретного участника исполняющая LLM получает его исходное описание и нативную схему параметров из каталога и самостоятельно формирует вызов.
-
-## План разработки
-
-### 1. Зафиксировать входной каталог и протокол эксперимента
-
-- Версионировать схему нормализованного API, правила фильтрации и fingerprint каталога.
-- Сформировать воспроизводимую выборку целевых API и отдельный human-verified test set.
-- Не использовать тестовую разметку для настройки порогов, prompt и правил кластеризации.
-
-### 2. Построить общий пул кандидатов
-
-- Получить top-30 соседей с помощью `Qwen3-Embedding-0.6B`, `gte-large-en-v1.5` и `all-MiniLM-L6-v2`.
-- Добавить BM25 и точные совпадения имён/сигнатур.
-- Объединить результаты моделей в уникальные неориентированные пары и сохранить rank/score каждого источника.
-- Вынести современные retrieval-зависимости в отдельное окружение, чтобы не конфликтовать с зависимостями StableToolBench.
-
-### 3. Выполнить LLM-разметку пар
-
-- Классифицировать пары как `different_capability`, `contains` или `interchangeable`; точные дубликаты считать частным случаем `interchangeable`.
-- Сохранять структурированный ответ, confidence, объяснение, модель и версию prompt.
-- Поддержать нейтральную OpenAI-compatible конфигурацию LLM через переменные окружения.
-
-### 4. Построить и проверить функциональные кластеры
-
-- Построить граф взаимозаменяемости по отношению `interchangeable` и отдельно учитывать направленные рёбра `contains`.
-- Получить первоначальные компоненты связности.
-- Выявлять нетранзитивные тройки, bridge-рёбра, слишком крупные группы и несовместимые сигнатуры.
-- Выполнять LLM-аудит каждого подозрительного кластера и при необходимости разделять его на подкластеры.
-- Не удалять конкретные API: кластер используется как функциональная группа для последующего выбора реализации.
-
-### 5. Сгенерировать каноническую документацию
-
-- Сформировать `canonical_name`, `canonical_description`, `use_when`, `do_not_use_when` и `confusable_with`.
-- Сохранить нативные схемы параметров участников: исполняющая LLM сама формирует аргументы выбранного API.
-- Индексировать отдельно канонический документ кластера и технические данные его участников.
-
-### 6. Сделать интерфейс ручной проверки
-
-- Показывать кластер целиком, его участников, соседние группы и причины решений LLM.
-- Поддержать принятие, разделение, перенос или исключение API и исправление канонической документации.
-- В первую очередь показывать человеку низкую уверенность, разногласия моделей, bridge-рёбра, нетранзитивность и инфраструктурные конфликты.
-- Дополнительно проверять случайную долю уверенно принятых решений для оценки ошибок автоматической разметки.
-- Хранить provenance всех автоматических и ручных изменений.
-
-### 7. Реализовать retrieval функциональных групп
-
-- Сравнить поиск по исходной документации, каноническому описанию и полной контрастивной документации.
-- Реализовать BM25, dense retrieval и их гибрид.
-- Добавить cross-encoder reranking кандидатов.
-- Для первого эксперимента ограничиться single-tool запросами; multi-tool decomposition добавить отдельным этапом.
-
-### 8. Реализовать выбор API внутри группы
-
-- Зафиксировать baseline: случайный выбор, cosine top-1 и выбор по средней исторической успешности.
-- Реализовать статический QoS-reranker по релевантности, доступности, успешности, задержке и стоимости.
-- Реализовать contextual bandit, обновляющий оценки после наблюдения результата вызова.
-- Добавить воспроизводимый симулятор стационарных, изменяющихся и контекстно-зависимых QoS.
-
-#### Подготовка QoS-профилей
-
-После экспорта актуального графа QoS-профили конкретных API строятся отдельно от функциональных кластеров:
-
-```bash
-python scripts/export_relation_graph.py \
-  --run-dir data/relation_graph/v16_migrated
-
 python scripts/build_qos_profiles.py \
-  --api-to-cluster data/relation_graph/v16_migrated/api_to_cluster.jsonl \
-  --output-dir data/qos/v2 \
-  --monetization-config configs/qos_monetization_v1.json \
+  --catalog data/catalog/tools.jsonl \
+  --generation-config configs/qos_generation_v1.json \
+  --output-dir data/qos/v5 \
   --seed 42
 ```
 
-`data/qos/v2/api_qos_profiles.jsonl` содержит исходные показатели StableToolBench, нормализованные вероятности доступности и успеха, ожидаемую задержку, условную стоимость и профили `normal`, `degraded`, `outage`. Исходные `avgLatency`, `avgServiceLevel`, `avgSuccessRate` и `popularityScore` заданы в StableToolBench на уровне инструмента и поэтому повторяются для его API. Сценарии деградации, latency jitter и монетизация являются параметрами воспроизводимого эксперимента, а не наблюдаемыми денежными ценами.
+Скрипт создаёт два файла:
 
-Монетизация задаётся отдельно в `configs/qos_monetization_v1.json`. Для каждого тарифа детерминированно выбирается один шаблон: бесплатная квота, free-then-pay-as-you-go, подписка с включёнными вызовами и overage либо предоплаченный пакет. Политика хранит `billing_period_steps`, `included_calls`, `upfront_cost_units`, `overage_cost_per_call_units`, `hard_call_limit`, `requests_per_minute`, `concurrent_requests`, срок сгорания пакета и spending cap. Поэтому реальная стоимость следующего вызова является состоянием симулятора, а `reference_cost_per_call_units` используется только для статического сравнения. Конфигурация, формулы и seed сохраняются в `data/qos/v2/metadata.json`.
+- `api_qos_profiles.jsonl` — параметры `normal`, `degraded` и `outage` для каждого API, который используется в заданиях из `solvable_queries` и `solvable_queries_example`;
+- `metadata.json` — настройки запуска и статистика результата.
 
-### 9. Провести сравнение
+Именно `api_qos_profiles.jsonl` загружает виртуальный сервер при включённом QoS.
 
-- Для candidate generation измерить Precision@K, Recall@K, MRR и nDCG@K.
-- Для кластеризации измерить pairwise precision/recall/F1 и B-cubed F1.
-- Для выбора API измерить Success@1, среднюю награду, latency, стоимость, error rate и cumulative regret.
-- Сравнить embedding-модели, варианты документации, retriever/reranker и два алгоритма выбора при одинаковых данных и seed.
+Исходные показатели хранятся в поле `score` файлов `server/tools/<category>/<tool>.json`, а не в кеше ответов. Генератор берёт по одной полной записи на инструмент, а затем для каждого целевого API выбирает показатели другого инструмента. Выбор зависит от `seed` и `api_id`, поэтому повторный запуск с теми же параметрами даёт тот же результат.
 
-## Исходная документация
+Так целевой API не получает собственные исторические показатели, но итоговое распределение `success_rate` и средней задержки остаётся близким к исходным данным StableToolBench. Оба значения берутся у одного инструмента, чтобы не потерять связь между ними.
 
-Оригинальный README проекта StableToolBench сохранён без удаления: [SOURCE_README.md](SOURCE_README.md).
+Для базового профиля используются следующие значения:
+
+```text
+success_rate = (avgServiceLevel / 100) * (avgSuccessRate / 100)
+expected_latency_ms = avgLatency
+```
+
+Сценарий `normal` оставляет эти значения без изменений. В `degraded` вероятность успеха умножается на `0.6375`, а средняя задержка — на `2`. В `outage` используются множители `0.01` и `4` соответственно.
+
+Задержка отдельных вызовов меняется по логнормальному распределению вокруг `expected_latency_ms`. В формуле ниже `m` — это средняя задержка из профиля:
+
+```text
+mu = ln(m) - sigma^2 / 2
+latency_ms ~ LogNormal(mu, sigma)
+```
+
+Для каждого API значение `latency_log_sigma` выбирается из диапазона `0.05..0.25`, заданного в `configs/qos_generation_v1.json`. При одинаковых `seed` и `api_id` результат будет тем же.
+
+### Откуда берётся стоимость
+
+[configs/qos_generation_v1.json](configs/qos_generation_v1.json) задаёт распределение условной стоимости. В StableToolBench нет достаточных данных о реальных ценах, поэтому тариф конкретного инструмента не используется:
+
+```text
+cost_units ~ LogNormal(median=0.001, log_sigma=1.0)
+```
+
+Для каждого API стоимость выбирается один раз и остаётся одинаковой во всех сценариях. Значение ограничено диапазоном от `0.00005` до `0.05`. Это синтетическая денежная стоимость вызова.
+
+### Включить QoS
+
+```bash
+export QOS_ENABLED="true"
+export QOS_PROFILE="normal"
+export QOS_SEED="42"
+export QOS_SLEEP_ENABLED="true"
+bash scripts/run_virtual_server.sh
+```
+
+Сервер определяет результат вызова до обращения к LLM. Если `succeeded=false`, модель не вызывается и её токены не расходуются. При успехе время генерации входит в общую задержку, поэтому сервер ждёт только оставшуюся часть.
+
+При одинаковом `QOS_SEED` последовательность результатов для каждого API повторяется. Если несколько запросов к одному API выполняются одновременно, порядок их `call_index` может отличаться.
+
+## Расширение кеша для тестового набора
+
+Генератор не меняет официальный кеш. Новые примеры сохраняются отдельно в `data/generated_cache/solvable_v1/responses`, а сервер использует оба источника вместе.
+
+Цель по умолчанию:
+
+- три уникальных входа для API с параметрами;
+- один вход `{}` для API без параметров;
+- один LLM-вызов генерирует все недостающие примеры API;
+- повторный запуск продолжает работу по фактическому покрытию.
+
+Чтобы узнать текущее покрытие кеша и количество недостающих примеров, запустите скрипт без `--execute`. В этом режиме он ничего не генерирует и не обращается к LLM:
+
+```bash
+python scripts/build_solvable_response_cache.py
+```
+
+Для проверки можно разрешить только пять обращений к LLM:
+
+```bash
+python scripts/build_solvable_response_cache.py \
+  --execute \
+  --max-llm-calls 5
+```
+
+Чтобы сгенерировать все недостающие примеры:
+
+```bash
+python scripts/build_solvable_response_cache.py --execute
+```
+
+Скрипт использует те же `SIMULATOR_API_KEY`, `SIMULATOR_API_BASE`, `SIMULATOR_MODEL`, `SIMULATOR_SEED` и `SIMULATOR_TEMPERATURE`. Их можно переопределить флагами `--api-key`, `--api-base`, `--model`, `--seed` и `--temperature`.
+
+Основные аргументы:
+
+| Аргумент | По умолчанию | Назначение |
+|---|---|---|
+| `--query-root PATH` | `solvable_queries` и `solvable_queries_example` | Папка с заданиями; флаг можно повторять. |
+| `--tools-root PATH` | `server/tools` | Документация инструментов. |
+| `--official-cache-root PATH` | `server/tool_response_cache` | Папка официального кеша. |
+| `--output-dir PATH` | `data/generated_cache/solvable_v1` | Папка для новых примеров и служебных файлов. |
+| `--min-examples N` | `3` | Цель для API с параметрами. |
+| `--max-llm-calls N` | без лимита | Бюджет текущего запуска. |
+| `--limit N` | без лимита | Ограничить число обрабатываемых API. |
+| `--execute` | выключен | Разрешить платные LLM-вызовы. Без флага выполняется только планирование. |
+
+В той же папке сохраняются `metadata.json`, `checkpoint.json` и `errors.jsonl`. Ключ API в них не записывается. Если модель вернула некорректный или оборванный JSON, ошибка сохраняется в журнале, а при следующем запуске скрипт снова попробует получить недостающие примеры.
+
+## Запуск ToolBench-агента
+
+Агент и симулятор — независимые роли и могут использовать разные модели и провайдеров. Сначала оставьте виртуальный сервер работающим, затем во втором терминале выполните:
+
+```bash
+source .venv/Scripts/activate
+
+read -s -p "Agent API key: " AGENT_API_KEY
+echo
+export AGENT_API_KEY
+export AGENT_API_BASE="https://api.deepseek.com"
+export AGENT_MODEL="deepseek-chat"
+
+bash inference_openai_compatible_pipeline_virtual.sh
+```
+
+Скрипт запускает один пример через `CoT@1`, максимум пять шагов и один поток. Результат по умолчанию записывается в:
+
+```text
+data/answer/agent_smoke/llm_virtual/900001_CoT@1.json
+```
+
+Настройки запуска:
+
+| Переменная | По умолчанию |
+|---|---|
+| `SERVICE_URL` | `http://localhost:8080/virtual` |
+| `TOOL_ROOT_DIR` | `server/tools` |
+| `INPUT_QUERY_FILE` | `solvable_queries_example/smoke/cache_hit.json` |
+| `OUTPUT_DIR` | `data/answer/agent_smoke/llm_virtual` |
+| `TOOLBENCH_KEY` | `dummy` |
+
+Отдельно проверить только вызов инструментов агентом можно командой `python scripts/test_agent_tool_call.py` после задания переменных `AGENT_*`.
+
+## Проверка работы
+
+Локальные тесты не обращаются к внешней LLM:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Тесты проверяют воспроизводимость QoS, распределение задержки, обработку ошибок до вызова LLM, объединение кешей и продолжение прерванной генерации примеров.
+
+Для быстрой ручной проверки без реального ожидания:
+
+```bash
+export QOS_ENABLED="true"
+export QOS_PROFILE="outage"
+export QOS_SLEEP_ENABLED="false"
+bash scripts/run_virtual_server.sh
+```
+
+Затем повторите запрос `curl` из раздела быстрого запуска. При низком `success_rate` часть запросов должна возвращать `API not working error...`.
+
+## Воспроизводимость
+
+Чтобы повторить эксперимент, фиксируйте вместе с результатом:
+
+- Git commit этого репозитория;
+- Python 3.11.13 и установленные версии (`python -m pip freeze`);
+- провайдера, точный ID/версию модели и все `*_SEED`;
+- файлы `metadata.json`, созданные генераторами кеша и QoS;
+- использованные файлы заданий;
+- сценарий QoS и порядок вызовов каждого API.
+
+Если результаты должны точно воспроизводиться позднее, сохраните вывод `python -m pip freeze` и точное название использованной модели. Содержимое облачной модели может со временем измениться, даже если её имя осталось прежним.
+
+## Структура репозитория
+
+| Путь | Назначение |
+|---|---|
+| `server/main.py` | Обработчик `/virtual` и генерация ответов через LLM. |
+| `server/qos_simulator.py` | Симуляция успешности, задержки и стоимости вызова. |
+| `server/config.yml` | Несекретные значения сервера по умолчанию. |
+| `scripts/build_qos_profiles.py` | Воспроизводимое построение QoS-профилей. |
+| `scripts/build_solvable_response_cache.py` | Генерация дополнительных примеров для кеша. |
+| `configs/qos_generation_v1.json` | Настройки генерации вероятности успеха, задержки и стоимости. |
+| `solvable_queries/` | Основной набор тестовых заданий. |
+| `solvable_queries_example/` | Небольшие примеры для проверки запуска. |
+| `tests/` | Изолированные тесты текущей функциональности. |
+| `data/` | Локальные производные артефакты; игнорируются Git. |
+
+## Фоновая информация
+
+- [StableToolBench, ACL Anthology](https://aclanthology.org/2024.findings-acl.664/) — опубликованная версия статьи про Stable бенчмарк.
+- [ToolBench](https://github.com/OpenBMB/ToolBench) и [статья](https://arxiv.org/abs/2307.16789) — исходный бенчмарк.
+
+## Лицензия
+
+Код этого репозитория распространяется по [Apache License 2.0](LICENSE). Данные StableToolBench, модели и внешние API остаются под лицензиями и условиями их владельцев; Apache 2.0 этого репозитория на них автоматически не распространяется.
