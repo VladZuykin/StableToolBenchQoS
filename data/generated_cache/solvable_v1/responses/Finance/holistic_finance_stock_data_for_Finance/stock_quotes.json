@@ -1,0 +1,29 @@
+{
+  "{\"symbols\":\"NVDA,AMD,INTC\"}": {
+    "error": "",
+    "response": {
+      "quotes": [
+        {
+          "change": 2.15,
+          "changePercent": 1.85,
+          "currency": "USD",
+          "exchange": "NASDAQ",
+          "marketCap": 2910000000000,
+          "price": 118.42,
+          "symbol": "NVDA",
+          "volume": 31245000
+        },
+        {
+          "change": -1.34,
+          "changePercent": -0.82,
+          "currency": "USD",
+          "exchange": "NASDAQ",
+          "marketCap": 263000000000,
+          "price": 162.78,
+          "symbol": "AMD",
+          "volume": 48920000
+        }
+      ]
+    }
+  }
+}

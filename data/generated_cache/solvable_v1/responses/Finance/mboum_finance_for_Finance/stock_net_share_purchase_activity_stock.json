@@ -1,0 +1,24 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "netSharePurchaseActivity": [
+        {
+          "insiderNetShares": -125000,
+          "insiderNetValue": -52000000,
+          "institutionalNetShares": 3400000,
+          "institutionalNetValue": 1420000000,
+          "period": "Q1 2024"
+        },
+        {
+          "insiderNetShares": -87000,
+          "insiderNetValue": -36000000,
+          "institutionalNetShares": 2100000,
+          "institutionalNetValue": 880000000,
+          "period": "Q4 2023"
+        }
+      ],
+      "symbol": "MSFT"
+    }
+  }
+}

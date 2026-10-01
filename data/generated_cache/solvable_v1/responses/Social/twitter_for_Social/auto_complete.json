@@ -1,0 +1,34 @@
+{
+  "{\"query\":\"coffee\"}": {
+    "error": "",
+    "response": {
+      "query": "coffee",
+      "results": [
+        {
+          "text": "#coffee",
+          "type": "hashtag"
+        },
+        {
+          "text": "coffeelover",
+          "type": "user"
+        }
+      ]
+    }
+  },
+  "{\"query\":\"spacex\"}": {
+    "error": "",
+    "response": {
+      "query": "spacex",
+      "results": [
+        {
+          "text": "#spacex",
+          "type": "hashtag"
+        },
+        {
+          "text": "SpaceX",
+          "type": "user"
+        }
+      ]
+    }
+  }
+}

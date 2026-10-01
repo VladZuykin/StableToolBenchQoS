@@ -38,7 +38,7 @@ def direct_decisions(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         row
         for row in rows
         if row.get("status") == "ok"
-        and row.get("decision_source") in {"llm", "migrated_seed"}
+        and row.get("decision_source") in {"llm", "migrated_seed", "human"}
     ]
 
 

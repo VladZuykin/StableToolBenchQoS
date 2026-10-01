@@ -1,0 +1,239 @@
+{
+  "{\"city\":\"New York\",\"page\":\"2\",\"state_code\":\"NY\"}": {
+    "error": "",
+    "response": {
+      "agents": [
+        {
+          "agent_address": {
+            "city": "NEW YORK",
+            "country": "US",
+            "line": "",
+            "line2": "",
+            "postal_code": "10016",
+            "state": "",
+            "state_code": "NY"
+          },
+          "agent_bio": "Experienced Manhattan agent specializing in luxury condos and co-ops.",
+          "agent_languages": [
+            "English",
+            "Spanish"
+          ],
+          "agent_mls": [
+            {
+              "abbreviation": "NY_1A2B3C4D",
+              "license_number": "10401234567",
+              "member": {
+                "id": "NY_1399152E133D152E0031"
+              },
+              "primary": true,
+              "type": "A"
+            }
+          ],
+          "agent_photo": "http://p.rdcpix.com/v01/bbb220300-c0o.jpg",
+          "agent_rating": 4.8,
+          "agent_recommendations_count": 12,
+          "agent_reviews_count": 27,
+          "agent_served_areas": [
+            {
+              "name": "Manhattan",
+              "state_code": "NY"
+            },
+            {
+              "name": "Brooklyn",
+              "state_code": "NY"
+            }
+          ],
+          "agent_slogan": "Your NYC real estate partner",
+          "agent_specializations": [
+            {
+              "name": "Buyer"
+            },
+            {
+              "name": "Seller"
+            },
+            {
+              "name": "Luxury"
+            }
+          ],
+          "agent_team_details": {
+            "name": "Empire Realty Group"
+          }
+        },
+        {
+          "agent_address": {
+            "city": "NEW YORK",
+            "country": "US",
+            "line": "",
+            "line2": "",
+            "postal_code": "10011",
+            "state": "",
+            "state_code": "NY"
+          },
+          "agent_bio": "Full-service agent covering Chelsea, Greenwich Village, and Tribeca.",
+          "agent_languages": [
+            "English"
+          ],
+          "agent_mls": [
+            {
+              "abbreviation": "NY_5E6F7G8H",
+              "license_number": "10409876543",
+              "member": {
+                "id": "NY_12D2140114631532"
+              },
+              "primary": true,
+              "type": "A"
+            }
+          ],
+          "agent_photo": "http://p.rdcpix.com/v01/ccc330400-c0o.jpg",
+          "agent_rating": 4.5,
+          "agent_recommendations_count": 8,
+          "agent_reviews_count": 19,
+          "agent_served_areas": [
+            {
+              "name": "Chelsea",
+              "state_code": "NY"
+            },
+            {
+              "name": "Tribeca",
+              "state_code": "NY"
+            }
+          ],
+          "agent_slogan": "Local expertise, global reach",
+          "agent_specializations": [
+            {
+              "name": "Buyer"
+            },
+            {
+              "name": "Investment Properties"
+            }
+          ],
+          "agent_team_details": {
+            "name": "Downtown Partners"
+          }
+        }
+      ],
+      "page": 2,
+      "total_pages": 5
+    }
+  },
+  "{\"city\":\"San Jose\",\"page\":\"3\",\"state_code\":\"CA\"}": {
+    "error": "",
+    "response": {
+      "agents": [
+        {
+          "agent_address": {
+            "city": "SAN JOSE",
+            "country": "US",
+            "line": "",
+            "line2": "",
+            "postal_code": "95126",
+            "state": "",
+            "state_code": "CA"
+          },
+          "agent_bio": "Silicon Valley specialist helping buyers and sellers in Santa Clara County.",
+          "agent_languages": [
+            "English",
+            "Mandarin"
+          ],
+          "agent_mls": [
+            {
+              "abbreviation": "FAR_3C4D5E6F",
+              "license_number": "01987654",
+              "member": {
+                "id": "FAR_1399152E133D152E0032"
+              },
+              "primary": true,
+              "type": "A"
+            }
+          ],
+          "agent_photo": "http://p.rdcpix.com/v01/ddd440500-c0o.jpg",
+          "agent_rating": 4.9,
+          "agent_recommendations_count": 31,
+          "agent_reviews_count": 54,
+          "agent_served_areas": [
+            {
+              "name": "San Jose",
+              "state_code": "CA"
+            },
+            {
+              "name": "Campbell",
+              "state_code": "CA"
+            }
+          ],
+          "agent_slogan": "Tech-savvy real estate guidance",
+          "agent_specializations": [
+            {
+              "name": "Buyer"
+            },
+            {
+              "name": "Seller"
+            },
+            {
+              "name": "First Time"
+            }
+          ],
+          "agent_team_details": {
+            "name": "Bay Area Home Advisors"
+          }
+        },
+        {
+          "agent_address": {
+            "city": "SAN JOSE",
+            "country": "US",
+            "line": "",
+            "line2": "",
+            "postal_code": "95128",
+            "state": "",
+            "state_code": "CA"
+          },
+          "agent_bio": "Dedicated agent with deep knowledge of Willow Glen and Rose Garden neighborhoods.",
+          "agent_languages": [
+            "English"
+          ],
+          "agent_mls": [
+            {
+              "abbreviation": "FAR_7H8I9J0K",
+              "license_number": "01234567",
+              "member": {
+                "id": "FAR_12D2140114631533"
+              },
+              "primary": true,
+              "type": "A"
+            }
+          ],
+          "agent_photo": "http://p.rdcpix.com/v01/eee550600-c0o.jpg",
+          "agent_rating": 4.7,
+          "agent_recommendations_count": 15,
+          "agent_reviews_count": 22,
+          "agent_served_areas": [
+            {
+              "name": "Willow Glen",
+              "state_code": "CA"
+            },
+            {
+              "name": "Rose Garden",
+              "state_code": "CA"
+            }
+          ],
+          "agent_slogan": "Neighborhood expertise you can trust",
+          "agent_specializations": [
+            {
+              "name": "Buyer"
+            },
+            {
+              "name": "Seller"
+            },
+            {
+              "name": "Investment Properties"
+            }
+          ],
+          "agent_team_details": {
+            "name": "Willow Glen Realty"
+          }
+        }
+      ],
+      "page": 3,
+      "total_pages": 4
+    }
+  }
+}

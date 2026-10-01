@@ -14,6 +14,8 @@ TOOL_ROOT_DIR="${TOOL_ROOT_DIR:-server/tools}"
 INPUT_QUERY_FILE="${INPUT_QUERY_FILE:-solvable_queries_example/smoke/cache_hit.json}"
 OUTPUT_DIR="${OUTPUT_DIR:-data/answer/agent_smoke/llm_virtual}"
 TOOLBENCH_KEY="${TOOLBENCH_KEY:-dummy}"
+SINGLE_CHAIN_MAX_STEP="${SINGLE_CHAIN_MAX_STEP:-20}"
+OVERWRITE="${OVERWRITE:-false}"
 
 if [[ ! -d "$TOOL_ROOT_DIR" ]]; then
     echo "Tool directory not found: $TOOL_ROOT_DIR" >&2
@@ -28,6 +30,11 @@ fi
 
 mkdir -p "$OUTPUT_DIR"
 
+EXTRA_ARGS=()
+if [[ "$OVERWRITE" == "true" ]]; then
+    EXTRA_ARGS+=(--overwrite)
+fi
+
 python toolbench/inference/qa_pipeline_multithread.py \
     --tool_root_dir "$TOOL_ROOT_DIR" \
     --backbone_model chatgpt_function \
@@ -39,5 +46,6 @@ python toolbench/inference/qa_pipeline_multithread.py \
     --input_query_file "$INPUT_QUERY_FILE" \
     --output_answer_file "$OUTPUT_DIR" \
     --toolbench_key "$TOOLBENCH_KEY" \
-    --single_chain_max_step 5 \
-    --num_thread 1
+    --single_chain_max_step "$SINGLE_CHAIN_MAX_STEP" \
+    --num_thread 1 \
+    "${EXTRA_ARGS[@]}"

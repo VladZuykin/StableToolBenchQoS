@@ -1,0 +1,36 @@
+{
+  "{\"ids\":\"44196397,155659213,1234567890\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "username": "elonmusk"
+        },
+        {
+          "id": "155659213",
+          "name": "Jack Dorsey",
+          "username": "jack"
+        }
+      ]
+    }
+  },
+  "{\"ids\":\"783214,2244994945\"}": {
+    "error": "",
+    "response": {
+      "data": [
+        {
+          "id": "783214",
+          "name": "Twitter",
+          "username": "Twitter"
+        },
+        {
+          "id": "2244994945",
+          "name": "Twitter Dev",
+          "username": "TwitterDev"
+        }
+      ]
+    }
+  }
+}

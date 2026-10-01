@@ -1,0 +1,22 @@
+{
+  "{\"amount\":\"250\",\"is_from\":\"GBP\",\"to\":\"JPY\"}": {
+    "error": "",
+    "response": {
+      "amount": 250,
+      "converted": 47355.0,
+      "from": "GBP",
+      "rate": 189.42,
+      "to": "JPY"
+    }
+  },
+  "{\"amount\":\"75.5\",\"is_from\":\"USD\",\"to\":\"CAD\"}": {
+    "error": "",
+    "response": {
+      "amount": 75.5,
+      "converted": 102.68,
+      "from": "USD",
+      "rate": 1.36,
+      "to": "CAD"
+    }
+  }
+}

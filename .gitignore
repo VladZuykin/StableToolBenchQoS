@@ -173,3 +173,11 @@ toolenv
 server/server_cache.tar.gz
 .idea
 /server_docker/
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc

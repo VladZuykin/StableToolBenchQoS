@@ -1,0 +1,34 @@
+{
+  "{\"symbol\":\"GOOGL\"}": {
+    "error": "",
+    "response": {
+      "cashAndCashEquivalents": 110916000000,
+      "currentAssets": 164795000000,
+      "currentLiabilities": 81814000000,
+      "fiscalYear": 2023,
+      "period": "FY",
+      "retainedEarnings": 211247000000,
+      "symbol": "GOOGL",
+      "totalAssets": 402392000000,
+      "totalDebt": 28104000000,
+      "totalEquity": 283379000000,
+      "totalLiabilities": 119013000000
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "cashAndCashEquivalents": 22385000000,
+      "currentAssets": 49616000000,
+      "currentLiabilities": 28748000000,
+      "fiscalYear": 2023,
+      "period": "FY",
+      "retainedEarnings": -1234000000,
+      "symbol": "TSLA",
+      "totalAssets": 106618000000,
+      "totalDebt": 9574000000,
+      "totalEquity": 62688000000,
+      "totalLiabilities": 43009000000
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "{\"count\":20,\"is_id\":\"44196397\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline_v2": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineTweet",
+                            "tweet_results": {
+                              "result": {
+                                "__typename": "Tweet",
+                                "core": {
+                                  "user_results": {
+                                    "result": {
+                                      "__typename": "User",
+                                      "id": "VXNlcjo0NDE5NjM5Nw==",
+                                      "legacy": {
+                                        "created_at": "Tue Jun 02 20:12:03 +0000 2009",
+                                        "description": "Example description",
+                                        "followers_count": 150000000,
+                                        "friends_count": 500,
+                                        "media_count": 1200,
+                                        "name": "Elon Musk",
+                                        "screen_name": "elonmusk"
+                                      },
+                                      "rest_id": "44196397"
+                                    }
+                                  }
+                                },
+                                "legacy": {
+                                  "created_at": "Sun Dec 11 08:30:00 +0000 2022",
+                                  "entities": {
+                                    "media": [
+                                      {
+                                        "id_str": "1600000000000000001",
+                                        "media_url_https": "https://pbs.twimg.com/media/example2.jpg",
+                                        "type": "photo"
+                                      }
+                                    ]
+                                  },
+                                  "favorite_count": 50000,
+                                  "full_text": "Example media post",
+                                  "lang": "en",
+                                  "retweet_count": 8000
+                                },
+                                "rest_id": "1600000000000000000"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "profile-conversation-1600000000000000000",
+                        "sortIndex": "1600000000000000000"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "{\"count\":5,\"cursor\":\"DAABCgABF9r8kQoAAgAA\",\"is_id\":\"783214\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "timeline_v2": {
+              "timeline": {
+                "instructions": [
+                  {
+                    "entries": [
+                      {
+                        "content": {
+                          "entryType": "TimelineTimelineItem",
+                          "itemContent": {
+                            "itemType": "TimelineTweet",
+                            "tweet_results": {
+                              "result": {
+                                "__typename": "Tweet",
+                                "core": {
+                                  "user_results": {
+                                    "result": {
+                                      "__typename": "User",
+                                      "id": "VXNlcjoxMjM0",
+                                      "legacy": {
+                                        "created_at": "Tue Feb 20 00:00:00 +0000 2007",
+                                        "description": "Example bio",
+                                        "followers_count": 1200000,
+                                        "friends_count": 300,
+                                        "media_count": 450,
+                                        "name": "Example User",
+                                        "screen_name": "exampleuser"
+                                      },
+                                      "rest_id": "783214"
+                                    }
+                                  }
+                                },
+                                "legacy": {
+                                  "created_at": "Mon Nov 28 12:00:00 +0000 2022",
+                                  "entities": {
+                                    "media": [
+                                      {
+                                        "id_str": "1590000000000000001",
+                                        "media_url_https": "https://pbs.twimg.com/media/example.jpg",
+                                        "type": "photo"
+                                      }
+                                    ]
+                                  },
+                                  "favorite_count": 1500,
+                                  "full_text": "Example media tweet",
+                                  "lang": "en",
+                                  "retweet_count": 200
+                                },
+                                "rest_id": "1590000000000000000"
+                              }
+                            }
+                          }
+                        },
+                        "entryId": "profile-conversation-1590000000000000000",
+                        "sortIndex": "1590000000000000000"
+                      }
+                    ],
+                    "type": "TimelineAddEntries"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

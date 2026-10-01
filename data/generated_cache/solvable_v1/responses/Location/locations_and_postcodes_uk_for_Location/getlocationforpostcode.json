@@ -1,0 +1,18 @@
+{
+  "{\"postcode\":\"EH1 1YZ\"}": {
+    "error": "",
+    "response": {
+      "latitude": 55.953251,
+      "longitude": -3.188267,
+      "postcode": "EH1 1YZ"
+    }
+  },
+  "{\"postcode\":\"SW1A 1AA\"}": {
+    "error": "",
+    "response": {
+      "latitude": 51.501009,
+      "longitude": -0.141588,
+      "postcode": "SW1A 1AA"
+    }
+  }
+}

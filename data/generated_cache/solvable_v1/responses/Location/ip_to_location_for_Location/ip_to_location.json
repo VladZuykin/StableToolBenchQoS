@@ -1,0 +1,44 @@
+{
+  "{\"ip\":\"179.27.93.248\"}": {
+    "error": "",
+    "response": {
+      "host": {
+        "area_code": "1",
+        "city": "Lima",
+        "country": "Peru",
+        "country_code": "PE",
+        "ip_address": "179.27.93.248",
+        "location": [
+          -12.0464,
+          -77.0428
+        ],
+        "prefix_len": 20,
+        "region": "Lima",
+        "status": "active"
+      },
+      "ip": "179.27.93.248",
+      "isp": "Telefonica del Peru"
+    }
+  },
+  "{\"ip\":\"8.8.8.8\"}": {
+    "error": "",
+    "response": {
+      "host": {
+        "area_code": "650",
+        "city": "Mountain View",
+        "country": "United States",
+        "country_code": "US",
+        "ip_address": "8.8.8.8",
+        "location": [
+          37.4056,
+          -122.0775
+        ],
+        "prefix_len": 24,
+        "region": "California",
+        "status": "active"
+      },
+      "ip": "8.8.8.8",
+      "isp": "Google LLC"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "{\"url\":\"https://www.nationalgeographic.com/travel/article/paris-guide\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "qr_code_url": "https://api.example.com/qr/8f3a2b1c.png",
+      "size": "300x300",
+      "url": "https://www.nationalgeographic.com/travel/article/paris-guide"
+    }
+  }
+}

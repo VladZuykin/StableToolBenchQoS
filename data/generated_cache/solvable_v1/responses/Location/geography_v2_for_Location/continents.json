@@ -1,0 +1,37 @@
+{
+  "{\"name\":\"Asia\",\"page\":1,\"pagesize\":5}": {
+    "error": "",
+    "response": {
+      "continents": [
+        {
+          "code": "AS",
+          "id": 1,
+          "name": "Asia"
+        },
+        {
+          "code": "AF",
+          "id": 2,
+          "name": "Africa"
+        }
+      ],
+      "currentPage": 1,
+      "items": 2,
+      "numberOfPages": 1
+    }
+  },
+  "{\"name\":\"Europe\",\"page\":2,\"pagesize\":2}": {
+    "error": "",
+    "response": {
+      "continents": [
+        {
+          "code": "EU",
+          "id": 3,
+          "name": "Europe"
+        }
+      ],
+      "currentPage": 2,
+      "items": 1,
+      "numberOfPages": 1
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "{\"phone\":14155552671}": {
+    "error": "",
+    "response": {
+      "address": "315 Linden St, San Francisco, CA 94102",
+      "business_hours": "Mon-Fri 7:00-18:00, Sat-Sun 8:00-17:00",
+      "category": "Coffee Shop",
+      "description": "Neighborhood coffee shop and roastery",
+      "email": "hello@bluebottlecoffee.com",
+      "is_whatsapp_business": true,
+      "website": "https://bluebottlecoffee.com"
+    }
+  },
+  "{\"phone\":442071234567}": {
+    "error": "",
+    "response": {
+      "address": "12 Charing Cross Rd, London WC2H 0DA",
+      "business_hours": "Mon-Sat 9:00-19:00, Sun 11:00-17:00",
+      "category": "Bookstore",
+      "description": "Independent bookstore with events and cafe",
+      "email": "info@example-bookstore.co.uk",
+      "is_whatsapp_business": false,
+      "website": "https://example-bookstore.co.uk"
+    }
+  }
+}

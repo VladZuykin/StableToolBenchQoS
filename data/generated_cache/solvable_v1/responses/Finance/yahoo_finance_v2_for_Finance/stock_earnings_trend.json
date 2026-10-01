@@ -1,0 +1,86 @@
+{
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/earnings-trend",
+      "parameters": [
+        {
+          "symbol": "MSFT"
+        }
+      ],
+      "response": [
+        {
+          "earningsTrend": [
+            {
+              "earningsEstimate": {
+                "avg": 2.93,
+                "high": 3.05,
+                "low": 2.8,
+                "numberOfAnalysts": 28,
+                "yearAgoEps": 2.69
+              },
+              "growth": 0.12,
+              "period": "0q"
+            },
+            {
+              "earningsEstimate": {
+                "avg": 13.42,
+                "high": 14.1,
+                "low": 12.9,
+                "numberOfAnalysts": 30,
+                "yearAgoEps": 11.8
+              },
+              "growth": 0.14,
+              "period": "+1y"
+            }
+          ],
+          "symbol": "MSFT"
+        }
+      ],
+      "results": 1
+    }
+  },
+  "{\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "errors": [],
+      "get": "stock/earnings-trend",
+      "parameters": [
+        {
+          "symbol": "TSLA"
+        }
+      ],
+      "response": [
+        {
+          "earningsTrend": [
+            {
+              "earningsEstimate": {
+                "avg": 0.72,
+                "high": 0.85,
+                "low": 0.6,
+                "numberOfAnalysts": 24,
+                "yearAgoEps": 0.76
+              },
+              "growth": -0.05,
+              "period": "0q"
+            },
+            {
+              "earningsEstimate": {
+                "avg": 3.55,
+                "high": 4.0,
+                "low": 3.1,
+                "numberOfAnalysts": 26,
+                "yearAgoEps": 2.91
+              },
+              "growth": 0.22,
+              "period": "+1y"
+            }
+          ],
+          "symbol": "TSLA"
+        }
+      ],
+      "results": 1
+    }
+  }
+}
