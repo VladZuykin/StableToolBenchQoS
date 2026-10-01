@@ -169,6 +169,27 @@ data/generated_cache/solvable_v1/*
 !data/generated_cache/solvable_v1/metadata.json
 !data/generated_cache/solvable_v1/responses/
 !data/generated_cache/solvable_v1/responses/**
+
+# Reproducible cluster benchmark artifacts
+!data/relation_graph/
+data/relation_graph/*
+!data/relation_graph/v16_human/
+data/relation_graph/v16_human/*
+!data/relation_graph/v16_human/clusters.jsonl
+!data/relation_graph/v16_human/api_to_cluster.jsonl
+!data/relation_graph/v16_human/graph_summary.json
+!data/relation_graph/v16_human/human_override_metadata.json
+
+!data/benchmark/
+data/benchmark/*
+!data/benchmark/cluster_queries_v1/
+data/benchmark/cluster_queries_v1/*
+!data/benchmark/cluster_queries_v1/queries.json
+!data/benchmark/cluster_queries_v1/metadata.json
+!data/benchmark/cluster_queries_paraphrased_v1/
+data/benchmark/cluster_queries_paraphrased_v1/*
+!data/benchmark/cluster_queries_paraphrased_v1/queries.json
+!data/benchmark/cluster_queries_paraphrased_v1/metadata.json
 toolenv
 server/server_cache.tar.gz
 .idea
