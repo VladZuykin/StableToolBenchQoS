@@ -190,6 +190,14 @@ data/benchmark/cluster_queries_v1/*
 data/benchmark/cluster_queries_paraphrased_v1/*
 !data/benchmark/cluster_queries_paraphrased_v1/queries.json
 !data/benchmark/cluster_queries_paraphrased_v1/metadata.json
+
+# QoS profiles used by the virtual server and cluster benchmark
+!data/qos/
+data/qos/*
+!data/qos/v5/
+data/qos/v5/*
+!data/qos/v5/api_qos_profiles.jsonl
+!data/qos/v5/metadata.json
 toolenv
 server/server_cache.tar.gz
 .idea
