@@ -7,10 +7,12 @@
 - ответы инструментов **синтетические**: успешный вызов всегда уходит в LLM, а не в реальный API;
 - **cost_units** — условная стоимость вызова, но токены выбранной модели при успешном вызове тратятся по-настоящему;
 - серверу нужен **SIMULATOR_API_KEY**, провайдер должен быть совместим с OpenAI API, иначе будет HTTP 500;
-- server/tools, официальный кеш и всё содержимое data/ в Git не лежат, их нужно скачать или сгенерировать;
+- server/tools, официальный кеш в Git не лежат, их нужно скачать;
 - при **QOS_ENABLED=true** сервер отвечает только для API, у которых есть QoS-профиль, иначе возвращает QoS profile not found и LLM не вызывает;
 - одинаковый seed повторяет QoS-симуляцию, но не гарантирует одинаковые ответы LLM;
 - **toolbench_key** не проверяется, аутентификации нет, сервер только для локальных экспериментов.
+
+От StableToolBench сохранены формат запросов, FastAPI-сервер, документация инструментов, официальный кеш и агентный pipeline. Мы заменили способ выполнения виртуального API: теперь он не вызывает реальные инструменты, а генерирует ответы через LLM и моделирует QoS локально. Дополнительно есть скрипты и Streamlit сервис для разметки эквивалетных API, свой дополнительный кеш для этих инструментов и перефразировки заданий на эти инструменты.
 
 ## Быстрый запуск
 
@@ -417,6 +419,342 @@ bash scripts/run_virtual_server.sh
 | solvable_queries_example/ | Маленькие примеры для проверки запуска |
 | tests/ | Тесты |
 | data/ | Локальные артефакты, в Git не лежат |
+
+# Граф API и кластерный benchmark
+
+Этот документ описывает экспериментальную часть StableToolBenchQoS, которая пока не вошла в основной README: поиск похожих API, построение графа функциональных отношений, ручную проверку разметки и подготовку заданий с альтернативными инструментами.
+
+## Что уже подготовлено
+
+В репозитории зафиксированы итоговый граф после ручной проверки и два набора заданий:
+
+| Артефакт | Содержимое |
+|---|---|
+| `data/relation_graph/v16_human/clusters.jsonl` | Кластеры функционально связанных API |
+| `data/relation_graph/v16_human/api_to_cluster.jsonl` | Соответствие API кластеру |
+| `data/relation_graph/v16_human/graph_summary.json` | Статистика итогового графа |
+| `data/relation_graph/v16_human/human_override_metadata.json` | Сводка применения ручной разметки |
+| `data/benchmark/cluster_queries_v1/queries.json` | Исходные задания с добавленными альтернативными API |
+| `data/benchmark/cluster_queries_paraphrased_v1/queries.json` | Исходные задания и их перефразировки |
+| `data/qos/v5/api_qos_profiles.jsonl` | QoS-профили для solvable-набора и API из графа |
+
+Актуальная версия графа содержит 6 470 API и 6 027 кластеров. В 274 кластерах находится больше одного API, максимальный размер кластера — 19 API. Кластерный набор содержит 193 исходных задания из 119 кластеров и 991 добавленную альтернативу. После генерации двадцати перефразировок на задание итоговый набор содержит 4 053 запроса.
+
+## Как устроен граф
+
+Сначала для каждого API находятся кандидаты двумя способами:
+
+- dense retrieval с моделью `Qwen/Qwen3-Embedding-0.6B` и косинусным сходством;
+- BM25 по тексту документации.
+
+Затем LLM классифицирует пары API. Используются три отношения:
+
+| Отношение | Смысл |
+|---|---|
+| `interchangeable` | API выполняют одну функцию и могут заменять друг друга после простой локальной адаптации параметров |
+| `contains` | Возможности одного API включают возможности другого; направление хранится отдельно |
+| `different_capability` | API решают разные задачи |
+
+При экспорте графа `interchangeable` объединяет API в один кластер. Отношение `contains` сохраняется как направленное ребро, но само по себе не объединяет кластеры.
+
+LLM-разметка не считается эталоном. Интерфейс Streamlit позволяет проверять спорные пары, а последние человеческие решения применяются поверх автоматических.
+
+## Зависимости
+
+Основное окружение создаётся по инструкции из `README.md`. Для построения retrieval-кандидатов дополнительно установите зависимости:
+
+```bash
+python -m pip install -r requirements_retrieval.txt
+```
+
+Для интерфейса ручной проверки лучше использовать отдельное окружение, потому что современный Streamlit может обновить версии `starlette`, `uvicorn` и `anyio`, несовместимые со старой версией FastAPI в StableToolBench:
+
+```bash
+python -m venv .venv-review
+source .venv-review/Scripts/activate
+python -m pip install -r requirements_review.txt
+```
+
+## Построение графа с нуля
+
+Полный запуск требует много времени, памяти и платных LLM-вызовов. Готовые итоговые файлы уже находятся в репозитории; повторять весь процесс нужно только для изменения методики или каталога.
+
+### 1. Каталог API
+
+```bash
+python scripts/build_tool_catalog.py
+```
+
+Каталог `data/catalog/tools.jsonl` содержит 49 937 API endpoints, принадлежащих 10 648 инструментам из 50 категорий. Один инструмент может предоставлять несколько endpoints.
+
+### 2. Retrieval-кандидаты
+
+Пилот на небольшой части каталога:
+
+```bash
+python scripts/build_retrieval_pool.py --limit 1000 --device cpu
+```
+
+Полный запуск:
+
+```bash
+python scripts/build_retrieval_pool.py \
+  --model Qwen/Qwen3-Embedding-0.6B \
+  --top-k 30 \
+  --output-dir data/retrieval
+```
+
+Скрипт сравнивает описания API и создаёт список пар потенциально похожих инструментов. Кандидаты находятся двумя способами: по сходству эмбеддингов Qwen и с помощью текстового поиска BM25. Полученные пары объединяются и сохраняются для последующей классификации отношений между API. Эмбеддинги кешируются, поэтому при повторном запуске их не нужно вычислять заново. Для ускорения обработки можно использовать GPU, передав --device cuda.
+
+### 3. LLM-разметка отношений
+
+Используется любой провайдер с OpenAI-совместимым API:
+
+```bash
+export ANNOTATOR_API_KEY="..."
+export ANNOTATOR_API_BASE="https://api.deepseek.com"
+export ANNOTATOR_MODEL="deepseek-chat"
+```
+
+expand_relation_graph.py берёт пары потенциально похожих API из data/retrieval/pooled_pairs.jsonl от Qwen и BM25 и передаёт ещё не обработанные пары в LLM. Модель получает документацию обоих API и определяет отношение между ними: взаимозаменяемость, включение возможностей или различие функций.
+Перед обращением к LLM скрипт проверяет уже сохранённые данные:
+- предыдущие ответы модели в журнале решений;
+- ручные решения (про них написано ниже) из data/annotations/human_pair_reviews.jsonl;
+- checkpoint завершённых запросов.
+Если для пары уже есть решение, повторный LLM-вызов не выполняется. Новые ответы записываются в журнал, ошибки сохраняются отдельно, поэтому остановленный процесс можно продолжить без повторной оплаты уже обработанных пар.
+
+```bash
+python scripts/expand_relation_graph.py \
+  --pairs data/retrieval/pooled_pairs.jsonl \
+  --catalog data/retrieval/catalog.jsonl \
+  --max-llm-calls 1000
+```
+
+Создает 3 файла:
+
+- data/relation_graph/pair_decisions.jsonl — решения по парам API. Для каждой пары записывается отношение (interchangeable, contains, different_capability и т. д.), направление, уверенность и объяснение модели. Сюда также могут попадать решения, выведенные из уже известных связей без нового обращения к LLM.
+- data/relation_graph/errors.jsonl — пары, которые не удалось разметить из-за ошибки LLM, таймаута или некорректного ответа.
+- data/relation_graph/checkpoint.json — сводка запуска: сколько пар обработано, сколько сделано LLM-вызовов, какие отношения получены и где остановилась обработка.
+
+## Ручная проверка
+
+### Подготовить очередь для разметки
+
+Пример очереди из API, которые модель назвала взаимозаменяемыми:
+
+```bash
+python scripts/build_graph_review_queue.py \
+  --decisions data/relation_graph/v16_migrated/pair_decisions.jsonl \
+  --relation interchangeable \
+  --limit 100 \
+  --output data/annotations/graph_review_queue.jsonl
+```
+
+Скрипт исключает уже проверенные пары, если передать один или несколько `--existing-reviews`.
+
+Команда сохраняет очередь на ручную проверку в файл:
+data/annotations/graph_review_queue.jsonl
+
+### Запустить Streamlit
+
+
+```bash
+export REVIEW_CATALOG_PATH="data/retrieval/catalog.jsonl"
+export REVIEW_ANNOTATIONS_PATH="data/annotations/graph_review_queue.jsonl"
+export REVIEW_PILOT_PAIRS_PATH="data/annotations/graph_review_queue.jsonl"
+export REVIEW_AUDIT_PAIRS_PATH="data/annotations/graph_review_queue.jsonl"
+export REVIEW_REVIEWS_PATH="data/annotations/human_graph_reviews.jsonl"
+
+streamlit run apps/review_annotations.py
+```
+
+Интерфейс откроется по адресу <http://localhost:8501>. В нём доступны:
+
+- фильтрация по статусу, классу и версии prompt;
+- нижний и верхний пороги confidence;
+- показ только записей `needs_human_review` (это пишет сама модель, когда составляет пары);
+- поиск по названию и `api_id`;
+- изменение отношения, направления и уверенности;
+- комментарий проверяющего.
+
+Решения дописываются в JSONL-журнал. Повторная проверка не удаляет старую запись: актуальным считается последнее решение для `pair_id`, поэтому сохраняется история изменений.
+
+### Применить ручные решения
+
+```bash
+python scripts/apply_human_graph_reviews.py \
+  --decisions data/relation_graph/v16_migrated/pair_decisions.jsonl \
+  --reviews data/annotations/human_pair_reviews.jsonl \
+  --reviews data/annotations/human_graph_reviews.jsonl \
+  --output-dir data/relation_graph/v16_human
+```
+
+Вручную размечено 302 пары API. Из них 242 присутствовали в используемой версии графа: для 229 пар автоматическая разметка была подтверждена, а для 13 — исправлена. Остальные 60 пар не входили в исходный журнал решений этой версии графа
+
+### Экспортировать кластеры
+
+```bash
+python scripts/export_relation_graph.py \
+  --run-dir data/relation_graph/v16_human \
+  --catalog data/catalog/tools.jsonl
+```
+
+После применения ручных исправлений команда заново строит граф и создаёт три файла:
+- clusters.jsonl — группы взаимозаменяемых API. Каждая строка содержит один кластер: его идентификатор, список входящих API и решения, на основании которых они были объединены.
+- api_to_cluster.jsonl — удобное отображение «API → кластер». Для каждого API указано, к какой группе взаимозаменяемых инструментов он относится. Этот файл используется при построении QoS-профилей и заданий для бенчмарка.
+- graph_summary.json — общая статистика графа: количество API, кластеров и связей, число одиночных и многокомпонентных кластеров, размер крупнейшего кластера и распределение типов отношений.
+
+## Анализ разметки
+
+```bash
+python scripts/analyze_graph_reviews.py \
+  --decisions data/relation_graph/v16_migrated/pair_decisions.jsonl \
+  --queue data/annotations/graph_review_queue.jsonl \
+  --retrieval-pairs data/retrieval/pooled_pairs.jsonl \
+  --reviews data/annotations/human_graph_reviews.jsonl \
+  --output-dir data/review_analysis/graph_reviews_v1
+```
+
+Скрипт рассчитывает следующую статистику.
+Для всех решений модели:
+- общее количество размеченных пар;
+- сколько получено отношений interchangeable, contains и different_capability;
+- распределение этих отношений по диапазонам embedding score;
+- распределение по квартилям BM25 score;
+- количество пар, для которых embedding или BM25 score отсутствует.
+Для пар, проверенных человеком:
+- количество событий разметки и уникальных проверенных пар;
+- количество решений каждого типа после ручной проверки;
+- сколько решений модели подтверждено и сколько оказалось ошибочными;
+- долю ошибок модели;
+- число и долю ошибок в каждом диапазоне embedding score;
+- число и долю ошибок в каждом диапазоне BM25 score;
+- число и долю ошибок для каждого значения confidence LLM;
+- накопленную долю ошибок для порогов confidence, например ≤ 0.70, ≤ 0.80 и ≤ 0.90.
+Создаются два файла:
+data/review_analysis/graph_reviews_v1/
+├── analysis.json  # полные числовые результаты
+└── report.md      # таблицы и краткое описание
+
+Команда:
+
+```bash
+python scripts/analyze_graph_reviews.py
+```
+
+## Задания с альтернативными API
+
+### Исходный набор
+
+```bash
+python scripts/build_cluster_queries.py \
+  --clusters data/relation_graph/v16_human/clusters.jsonl \
+  --catalog data/catalog/tools.jsonl \
+  --output-dir data/benchmark/cluster_queries_v1
+```
+
+Этот скрипт создаёт задания для проверки выбора между взаимозаменяемыми API.
+Он работает так:
+1. Берёт готовые пользовательские задания из StableToolBench.
+2. Находит API, который использовался в каждом задании.
+3. Проверяет, есть ли у этого API взаимозаменяемые варианты в построенном графе.
+4. Если такие варианты есть, добавляет их в список доступных инструментов задания.
+5. Сохраняет полученные задания в:
+data/benchmark/cluster_queries_v1/queries.json
+
+### Перефразировки
+
+Dry run показывает объём работы:
+
+```bash
+python scripts/expand_cluster_queries.py
+```
+
+Пилот на пять запросов к модели:
+
+```bash
+python scripts/expand_cluster_queries.py --execute --max-llm-calls 5
+```
+
+Полная генерация:
+
+```bash
+python scripts/expand_cluster_queries.py --execute
+```
+
+По умолчанию создаётся двадцать перефразировок каждого задания. Используются `PARAPHRASE_API_KEY`, `PARAPHRASE_API_BASE`, `PARAPHRASE_MODEL`; если они не заданы, скрипт берёт соответствующие `SIMULATOR_*` переменные. Промежуточные результаты сохраняются по одному файлу на исходное задание, поэтому повторный запуск продолжает генерацию, а не начинает её заново.
+
+Перефразирование меняет только текст запроса. Список API, параметры, исходный `query_id` и связь с кластером сохраняются в метаданных записи.
+
+## QoS для графа и solvable-набора
+
+QoS генерируется независимо от кластеров. Файл `api_to_cluster.jsonl` расширяет целевой список API и добавляет `cluster_id`, но не влияет на значения success rate, latency или стоимости.
+
+```bash
+python scripts/build_qos_profiles.py \
+  --api-to-cluster data/relation_graph/v16_human/api_to_cluster.jsonl \
+  --output-dir data/qos/v5 \
+  --seed 42
+```
+Аргументы:
+--api-to-cluster сообщает скрипту, какие API входят в построенный граф;
+--output-dir задаёт папку для результата;
+--seed 42 позволяет при повторном запуске получить те же значения.
+
+Текущий профиль охватывает 7 546 API: объединение 2 491 solvable endpoints и 6 470 endpoints графа; пересечение составляет 1 415 API.
+
+## Кеш ответов для кластерного benchmark
+
+Проверить покрытие без обращения к LLM:
+
+```bash
+python scripts/build_solvable_response_cache.py \
+  --query-root data/benchmark/cluster_queries_v1
+```
+
+В кластерных заданиях используется много API. Чтобы сервер мог имитировать их ответы, для каждого API желательно заранее сохранить несколько примеров. Эти примеры используются как контекст при генерации ответа.
+
+Сгенерировать недостающие примеры:
+
+```bash
+python scripts/build_solvable_response_cache.py \
+  --query-root data/benchmark/cluster_queries_v1 \
+  --execute
+```
+
+С флагом --execute скрипт вызывает LLM и сохраняет созданные примеры в:
+data/generated_cache/solvable_v1/responses
+
+Неполное покрытие кеша не блокирует успешный вызов: сервер может сгенерировать ответ без полного набора примеров. Однако качество и стабильность формата такого ответа могут быть ниже.
+
+## Что хранится в Git
+
+data/
+├── relation_graph/v16_human/
+│   ├── clusters.jsonl                 # итоговые кластеры API
+│   ├── api_to_cluster.jsonl           # соответствие API → кластер
+│   ├── graph_summary.json             # статистика графа
+│   ├── human_override_metadata.json   # сведения о ручных исправлениях
+│   └── pair_decisions.jsonl           # решения после ручных исправлений
+│
+├── relation_graph/v16_migrated/
+│   └── pair_decisions.jsonl           # исходные решения модели
+│
+├── benchmark/
+│   ├── cluster_queries_v1/
+│   │   ├── queries.json               # 193 исходных задания для кластеров
+│   │   └── metadata.json
+│   └── cluster_queries_paraphrased_v1/
+│       ├── queries.json               # 3 955 расширенных заданий c переформулировками
+│       └── metadata.json
+│
+├── generated_cache/solvable_v1/
+│   ├── responses/                     # 2 870 сгенерированных примеров ответов для 1 310 API
+│   └── metadata.json
+│
+└── qos/v5/
+    ├── api_qos_profiles.jsonl          # QoS-профили 7 546 API
+    └── metadata.json
 
 ## Ссылки
 
