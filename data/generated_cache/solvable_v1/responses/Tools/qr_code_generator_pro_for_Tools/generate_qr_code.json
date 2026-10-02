@@ -1,0 +1,11 @@
+{
+  "{\"url\":\"https://www.example.org/products/sale\"}": {
+    "error": "",
+    "response": {
+      "content_type": "image/png",
+      "file_name": "qr_code.png",
+      "message": "QR code generated successfully",
+      "url": "https://www.example.org/products/sale"
+    }
+  }
+}

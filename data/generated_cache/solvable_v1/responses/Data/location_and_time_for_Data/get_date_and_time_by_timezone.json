@@ -1,0 +1,20 @@
+{
+  "{\"timezone\":\"Europe/London\"}": {
+    "error": "",
+    "response": {
+      "ctime": "Tue Jun 18 14:32:07 2024",
+      "day": 18,
+      "hour": 14,
+      "local_timezone": "BST",
+      "minute": 32,
+      "month": 6,
+      "second": 7,
+      "seconds_since_epoch": 1718717527,
+      "time": "2024-06-18 14:32:07",
+      "utc_time": "2024-06-18 13:32:07",
+      "week_number": 25,
+      "weekday": "Tuesday",
+      "year": 2024
+    }
+  }
+}

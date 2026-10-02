@@ -1,0 +1,32 @@
+{
+  "{\"username\":\"daily_chef\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2012-03-05T08:15:00Z",
+      "description": "Recipes and cooking tips every day",
+      "followers_count": 128000,
+      "following_count": 540,
+      "id": "987654321",
+      "name": "Daily Chef",
+      "profile_image_url": "https://example.com/chef.jpg",
+      "tweet_count": 15200,
+      "username": "daily_chef",
+      "verified": true
+    }
+  },
+  "{\"username\":\"techreviewer\"}": {
+    "error": "",
+    "response": {
+      "created_at": "2015-06-12T10:20:30Z",
+      "description": "Latest gadget reviews and tech news",
+      "followers_count": 45200,
+      "following_count": 312,
+      "id": "123456789",
+      "name": "Tech Reviewer",
+      "profile_image_url": "https://example.com/avatar.jpg",
+      "tweet_count": 8900,
+      "username": "techreviewer",
+      "verified": false
+    }
+  }
+}

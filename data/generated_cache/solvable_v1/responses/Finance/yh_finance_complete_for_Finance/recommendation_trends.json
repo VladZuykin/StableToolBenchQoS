@@ -1,0 +1,48 @@
+{
+  "{\"symbol\":\"AAPL\"}": {
+    "error": "",
+    "response": [
+      {
+        "buy": 8,
+        "hold": 5,
+        "period": "2024-06-01",
+        "sell": 1,
+        "strongBuy": 22,
+        "strongSell": 0,
+        "symbol": "AAPL"
+      },
+      {
+        "buy": 9,
+        "hold": 6,
+        "period": "2024-05-01",
+        "sell": 1,
+        "strongBuy": 20,
+        "strongSell": 0,
+        "symbol": "AAPL"
+      }
+    ]
+  },
+  "{\"symbol\":\"MSFT\"}": {
+    "error": "",
+    "response": [
+      {
+        "buy": 6,
+        "hold": 3,
+        "period": "2024-06-01",
+        "sell": 0,
+        "strongBuy": 25,
+        "strongSell": 0,
+        "symbol": "MSFT"
+      },
+      {
+        "buy": 7,
+        "hold": 3,
+        "period": "2024-05-01",
+        "sell": 0,
+        "strongBuy": 24,
+        "strongSell": 0,
+        "symbol": "MSFT"
+      }
+    ]
+  }
+}

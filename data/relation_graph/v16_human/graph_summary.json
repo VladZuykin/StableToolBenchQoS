@@ -1,0 +1,28 @@
+{
+  "api_count": 6470,
+  "cluster_count": 6027,
+  "cluster_size_distribution": {
+    "1": 5753,
+    "2": 202,
+    "3": 34,
+    "4": 22,
+    "5": 5,
+    "6": 3,
+    "7": 2,
+    "8": 1,
+    "9": 3,
+    "12": 1,
+    "19": 1
+  },
+  "diagnostic_count": 16,
+  "direct_decision_count": 14287,
+  "edge_count": 13773,
+  "edge_relation_distribution": {
+    "contains": 825,
+    "different_capability": 12948
+  },
+  "largest_cluster_size": 19,
+  "non_singleton_cluster_count": 274,
+  "singleton_cluster_count": 5753,
+  "source_decisions": "data\\relation_graph\\v16_human\\pair_decisions.jsonl"
+}

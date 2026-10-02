@@ -14,11 +14,27 @@ import streamlit as st
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CATALOG_PATH = ROOT / "data/retrieval/catalog.jsonl"
-ANNOTATIONS_PATH = ROOT / "data/annotations/pilot_pair_annotations.jsonl"
-PILOT_PAIRS_PATH = ROOT / "data/retrieval_analysis/pilot_pairs.jsonl"
-AUDIT_PAIRS_PATH = ROOT / "data/retrieval_analysis/relation_audit_pairs.jsonl"
-REVIEWS_PATH = ROOT / "data/annotations/human_pair_reviews.jsonl"
+
+
+def configured_path(variable: str, default: str) -> Path:
+    value = Path(os.getenv(variable, default))
+    return value if value.is_absolute() else ROOT / value
+
+
+CATALOG_PATH = configured_path("REVIEW_CATALOG_PATH", "data/retrieval/catalog.jsonl")
+ANNOTATIONS_PATH = configured_path(
+    "REVIEW_ANNOTATIONS_PATH", "data/annotations/pilot_pair_annotations.jsonl"
+)
+PILOT_PAIRS_PATH = configured_path(
+    "REVIEW_PILOT_PAIRS_PATH", "data/retrieval_analysis/pilot_pairs.jsonl"
+)
+AUDIT_PAIRS_PATH = configured_path(
+    "REVIEW_AUDIT_PAIRS_PATH",
+    "data/retrieval_analysis/relation_audit_pairs.jsonl",
+)
+REVIEWS_PATH = configured_path(
+    "REVIEW_REVIEWS_PATH", "data/annotations/human_pair_reviews.jsonl"
+)
 
 RELATIONS = (
     "interchangeable",
@@ -54,6 +70,8 @@ def load_static_data() -> tuple[
         for row in load_jsonl(path)
     }
     annotations = load_jsonl(ANNOTATIONS_PATH)
+    for row in annotations:
+        pairs.setdefault(row["pair_id"], row)
     annotations.sort(key=lambda record: (
         0 if (pairs.get(record["pair_id"], {}).get("audit_sampling") or {}).get("target") else 1,
         0 if record["annotation"].get("needs_human_review") else 1,
@@ -192,6 +210,22 @@ def main() -> None:
         selected_versions = st.multiselect("Версия prompt", versions, default=versions)
         llm_relations = sorted({canonical_relation(row["annotation"]["relation"]) for row in annotations})
         selected_relations = st.multiselect("Класс от LLM", llm_relations, default=llm_relations)
+        min_confidence = st.slider(
+            "Минимальная уверенность LLM",
+            min_value=0.0,
+            max_value=1.0,
+            value=0.0,
+            step=0.05,
+            help="Показывает пары с confidence не ниже выбранного значения.",
+        )
+        max_confidence = st.slider(
+            "Максимальная уверенность LLM",
+            min_value=0.0,
+            max_value=1.0,
+            value=1.0,
+            step=0.05,
+            help="Показывает пары с confidence не выше выбранного значения.",
+        )
         only_flagged = st.checkbox("Только needs_human_review")
         only_audit = st.checkbox(
             "Только целевой аудит (20 пар)",
@@ -213,6 +247,9 @@ def main() -> None:
         if row["provenance"]["prompt_version"] not in selected_versions:
             continue
         if canonical_relation(row["annotation"]["relation"]) not in selected_relations:
+            continue
+        confidence = float(row["annotation"].get("confidence") or 0.0)
+        if confidence < min_confidence or confidence > max_confidence:
             continue
         if only_flagged and not row["annotation"].get("needs_human_review"):
             continue

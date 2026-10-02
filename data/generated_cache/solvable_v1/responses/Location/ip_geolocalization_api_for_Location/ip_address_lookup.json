@@ -1,0 +1,15 @@
+{
+  "{\"ip\":\"8.8.8.8\"}": {
+    "error": "",
+    "response": {
+      "city": "Mountain View",
+      "country": "United States",
+      "ip": "8.8.8.8",
+      "isp": "Google LLC",
+      "latitude": 37.4056,
+      "longitude": -122.0775,
+      "region": "California",
+      "timezone": "America/Los_Angeles"
+    }
+  }
+}

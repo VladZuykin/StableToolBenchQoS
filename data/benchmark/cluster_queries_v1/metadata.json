@@ -1,0 +1,16 @@
+{
+  "alternatives_added": 991,
+  "catalog": "data/catalog/tools.jsonl",
+  "clusters": "data/relation_graph/v16_human/clusters.jsonl",
+  "eligible_query_count": 193,
+  "limit": null,
+  "missing_catalog_api_count": 0,
+  "multi_api_cluster_count": 274,
+  "output": "data/benchmark/cluster_queries_v1/queries.json",
+  "output_query_count": 193,
+  "query_root": "solvable_queries/test_instruction",
+  "source_fingerprint_sha256": "497437a59795f591e389d920b0fc9e434b901ac5ad2499986c089db8329c53e3",
+  "source_query_count": 765,
+  "used_cluster_count": 119,
+  "version": "cluster-queries-v1"
+}

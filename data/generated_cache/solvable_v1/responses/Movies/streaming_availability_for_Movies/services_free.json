@@ -1,0 +1,57 @@
+{
+  "{}": {
+    "error": "",
+    "response": {
+      "result": {
+        "netflix": {
+          "countries": {
+            "gb": {
+              "addOns": {},
+              "supportedStreamingTypes": {
+                "addon": false,
+                "buy": false,
+                "free": false,
+                "rent": false,
+                "subscription": true
+              }
+            },
+            "us": {
+              "addOns": {},
+              "supportedStreamingTypes": {
+                "addon": false,
+                "buy": false,
+                "free": false,
+                "rent": false,
+                "subscription": true
+              }
+            }
+          },
+          "id": "netflix"
+        },
+        "prime": {
+          "countries": {
+            "us": {
+              "addOns": {
+                "tvs.sbd.1000234": {
+                  "displayName": "HBO Max",
+                  "homePage": "https://www.amazon.com",
+                  "id": "tvs.sbd.1000234",
+                  "image": "https://example.com/hbo.png",
+                  "themeColorCode": "#002be7"
+                }
+              },
+              "supportedStreamingTypes": {
+                "addon": true,
+                "buy": true,
+                "free": false,
+                "rent": true,
+                "subscription": true
+              }
+            }
+          },
+          "id": "prime"
+        }
+      }
+    }
+  }
+}

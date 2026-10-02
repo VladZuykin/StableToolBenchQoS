@@ -1,0 +1,15 @@
+{
+  "{\"from_lat\":48.8566,\"from_lon\":2.3522,\"to_lat\":35.6762,\"to_lon\":139.6503,\"unit\":\"km\"}": {
+    "error": "",
+    "response": {
+      "geodesic": {
+        "distance": 9712.34,
+        "unit": "km"
+      },
+      "greatcircle": {
+        "distance": 9713.02,
+        "unit": "km"
+      }
+    }
+  }
+}

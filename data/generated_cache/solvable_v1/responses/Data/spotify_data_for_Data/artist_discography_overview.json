@@ -1,0 +1,36 @@
+{
+  "{\"is_id\":\"3TVXtAsR1Inumwj472S9r4\"}": {
+    "error": "",
+    "response": {
+      "albums": [
+        {
+          "album_type": "album",
+          "id": "4czdORdCWP9umpbhFXK2fW",
+          "name": "Scorpion",
+          "release_date": "2018-06-29",
+          "total_tracks": 25
+        },
+        {
+          "album_type": "album",
+          "id": "2ODvWsOgouMbaA5xf0RkJe",
+          "name": "Take Care",
+          "release_date": "2011-11-15",
+          "total_tracks": 18
+        }
+      ],
+      "artist": {
+        "followers": {
+          "total": 75000000
+        },
+        "genres": [
+          "canadian hip hop",
+          "rap"
+        ],
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "popularity": 95
+      },
+      "total_albums": 12
+    }
+  }
+}

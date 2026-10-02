@@ -1,0 +1,22 @@
+{
+  "changed_count": 13,
+  "confirmed_count": 229,
+  "created_at": "2026-10-01T03:09:15.791651+00:00",
+  "matched_review_count": 242,
+  "output": "data\\relation_graph\\v16_human\\pair_decisions.jsonl",
+  "relation_changes": {
+    "contains->different_capability": 1,
+    "interchangeable->contains": 6,
+    "interchangeable->different_capability": 6
+  },
+  "review_event_count": 302,
+  "review_files": [
+    "data\\annotations\\human_pair_reviews.jsonl",
+    "data\\annotations\\human_graph_reviews.jsonl"
+  ],
+  "source_decision_count": 16934,
+  "source_decisions": "data\\relation_graph\\v16_migrated\\pair_decisions.jsonl",
+  "unique_review_pair_count": 302,
+  "unmatched_review_count": 60,
+  "version": "human-relation-overrides-v1"
+}

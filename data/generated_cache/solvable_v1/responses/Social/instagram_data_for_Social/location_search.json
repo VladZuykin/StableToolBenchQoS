@@ -1,0 +1,52 @@
+{
+  "{\"location\":\"Eiffel Tower\"}": {
+    "error": "",
+    "response": {
+      "locations": [
+        {
+          "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+          "facebook_places_id": "109876543210987",
+          "id": "2134567890",
+          "lat": 48.8584,
+          "lng": 2.2945,
+          "name": "Eiffel Tower",
+          "slug": "eiffel-tower"
+        },
+        {
+          "address": "1 Avenue Gustave Eiffel, 75007 Paris",
+          "facebook_places_id": "109876543210988",
+          "id": "2134567891",
+          "lat": 48.8583,
+          "lng": 2.2946,
+          "name": "Eiffel Tower Restaurant",
+          "slug": "eiffel-tower-restaurant"
+        }
+      ]
+    }
+  },
+  "{\"location\":\"Tokyo Tower\"}": {
+    "error": "",
+    "response": {
+      "locations": [
+        {
+          "address": "4 Chome-2-8 Shibakoen, Minato City, Tokyo",
+          "facebook_places_id": "108424279189115",
+          "id": "1029384756",
+          "lat": 35.6586,
+          "lng": 139.7454,
+          "name": "Tokyo Tower",
+          "slug": "tokyo-tower"
+        },
+        {
+          "address": "Minato City, Tokyo",
+          "facebook_places_id": "108424279189116",
+          "id": "9876543210",
+          "lat": 35.6587,
+          "lng": 139.7455,
+          "name": "Tokyo Tower Observation Deck",
+          "slug": "tokyo-tower-observation-deck"
+        }
+      ]
+    }
+  }
+}

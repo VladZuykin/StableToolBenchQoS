@@ -1,0 +1,16 @@
+{
+  "api_base": "https://api.deepseek.com",
+  "completed_source_queries": 193,
+  "execute": true,
+  "expected_total_with_originals": 4053,
+  "failures_this_run": 0,
+  "llm_calls_this_run": 0,
+  "model": "deepseek-chat",
+  "output": "data\\benchmark\\cluster_queries_paraphrased_v1\\queries.json",
+  "output_query_count": 4053,
+  "paraphrases_per_query": 20,
+  "pending_llm_calls": 0,
+  "remaining_source_queries": 0,
+  "source_queries": 193,
+  "version": "cluster-query-paraphrases-v1"
+}

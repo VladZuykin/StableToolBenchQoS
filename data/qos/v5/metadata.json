@@ -1,0 +1,82 @@
+{
+  "api_count": 7546,
+  "cluster_mapping": "data\\relation_graph\\v16_human\\api_to_cluster.jsonl",
+  "empirical_pool_summary": {
+    "expected_latency_ms": {
+      "count": 5906,
+      "max": 1012334.0,
+      "mean": 7388.639519133085,
+      "median": 852.0,
+      "min": 5.0
+    },
+    "success_rate": {
+      "count": 5906,
+      "max": 1.0,
+      "mean": 0.6931775143921436,
+      "median": 0.9702,
+      "min": 0.0
+    }
+  },
+  "generated_baseline_summary": {
+    "cost_per_call_units": {
+      "count": 7546,
+      "max": 0.0394845885,
+      "mean": 0.0016625283615690433,
+      "median": 0.00100257495,
+      "min": 5e-05
+    },
+    "expected_latency_ms": {
+      "count": 7546,
+      "max": 300000.0,
+      "mean": 7094.855287569573,
+      "median": 878.0,
+      "min": 5.0
+    },
+    "latency_log_sigma": {
+      "count": 7546,
+      "max": 0.24992386,
+      "mean": 0.15072272508083753,
+      "median": 0.152148525,
+      "min": 0.05006312
+    },
+    "success_rate": {
+      "count": 7546,
+      "max": 1.0,
+      "mean": 0.6931681553140737,
+      "median": 0.9702,
+      "min": 0.0
+    }
+  },
+  "generation": {
+    "catalog": "data\\catalog\\tools.jsonl",
+    "config": "configs\\qos_generation_v1.json",
+    "config_sha256": "0a5dd9b9456df1894795fdc76c1520129d86e42e3b7a4cc5635562a4dd386721",
+    "config_version": "qos-generation-v1",
+    "cost_source": "synthetic_lognormal",
+    "empirical_donor_tool_count": 5906,
+    "kind": "empirical_bootstrap",
+    "success_and_latency_share_donor": true,
+    "uses_endpoint_own_observed_qos": false
+  },
+  "graph_api_count": 6470,
+  "graph_solvable_overlap": 1415,
+  "notes": [
+    "StableToolBench tool-level QoS defines only the empirical source distribution.",
+    "Each target API samples another tool as a deterministic bootstrap donor.",
+    "Success rate equals donor service level times donor conditional success rate.",
+    "Expected latency comes from the same donor to preserve their empirical relationship.",
+    "Per-call latency is log-normal around the generated expected latency.",
+    "Cost is synthetic because StableToolBench contains no numeric price distribution."
+  ],
+  "profile_version": "qos-profiles-v5",
+  "seed": 42,
+  "solvable_api_count": 2491,
+  "solvable_profiles_written": 2491,
+  "solvable_query_count": 769,
+  "solvable_query_roots": [
+    "solvable_queries",
+    "solvable_queries_example"
+  ],
+  "target_fingerprint_sha256": "6d5d9df422fea79dbc7e898abd84dd72791f22a00623d750828cbf955c2e2773",
+  "target_union_api_count": 7546
+}

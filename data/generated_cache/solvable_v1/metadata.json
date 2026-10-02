@@ -1,22 +1,24 @@
 {
   "api_base": "https://api.deepseek.com",
-  "endpoint_count": 2491,
-  "endpoints_already_satisfied": 2464,
-  "endpoints_requiring_generation": 27,
-  "examples_required": 47,
+  "endpoint_count": 918,
+  "endpoints_already_satisfied": 914,
+  "endpoints_requiring_generation": 4,
+  "examples_per_call": null,
+  "examples_required": 6,
   "execute": true,
-  "existing_unique_examples": 31571,
+  "existing_unique_examples": 15820,
   "generator_version": "solvable-response-cache-v3",
+  "max_attempts_per_endpoint": 3,
   "model": "deepseek-chat",
-  "parameterless_endpoint_count": 615,
+  "parameterless_endpoint_count": 212,
   "parameterless_endpoint_target": 1,
-  "prompt_version": "solvable-cache-examples-v2",
-  "query_records": 769,
+  "prompt_version": "solvable-cache-examples-v3",
+  "query_records": 193,
   "query_roots": [
-    "solvable_queries",
-    "solvable_queries_example"
+    "data/benchmark/cluster_queries_v1"
   ],
+  "request_timeout_seconds": 120.0,
   "seed": 42,
-  "source_fingerprint_sha256": "7051ab49643eab3cee9e50c675e80c075a8ff988698118a7d8d336bc42d20f51",
+  "source_fingerprint_sha256": "aa1357c231d073245a38c197589a88aa8b1566fb1c3ff9650873fc0be0eb2704",
   "target_examples_per_endpoint": 3
 }

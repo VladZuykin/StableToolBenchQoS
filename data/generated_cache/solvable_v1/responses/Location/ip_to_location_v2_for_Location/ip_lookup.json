@@ -1,0 +1,52 @@
+{
+  "{\"ip\":\"198.51.100.77\"}": {
+    "error": "",
+    "response": {
+      "geo": {
+        "area": 0,
+        "city": "Berlin",
+        "country": "DE",
+        "eu": "1",
+        "ll": [
+          52.52,
+          13.405
+        ],
+        "metro": 0,
+        "range": [
+          198,
+          51,
+          100,
+          0
+        ],
+        "region": "Berlin",
+        "timezone": "Europe/Berlin"
+      },
+      "ip": "198.51.100.77"
+    }
+  },
+  "{\"ip\":\"203.0.113.45\"}": {
+    "error": "",
+    "response": {
+      "geo": {
+        "area": 0,
+        "city": "Los Angeles",
+        "country": "US",
+        "eu": "0",
+        "ll": [
+          34.0522,
+          -118.2437
+        ],
+        "metro": 803,
+        "range": [
+          203,
+          0,
+          113,
+          0
+        ],
+        "region": "California",
+        "timezone": "America/Los_Angeles"
+      },
+      "ip": "203.0.113.45"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "{\"language\":\"de\",\"period\":\"QUARTERLY\",\"symbol\":\"TSLA\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "balance_sheet": [
+          {
+            "cash_and_short_term_investments": 29094000000,
+            "currency": "USD",
+            "price_to_book": 9.7,
+            "return_on_assets_percent": 11.4,
+            "return_on_capital_percent": 18.2,
+            "shares_outstanding": 3190000000,
+            "total_assets": 122070000000,
+            "total_equity": 73680000000,
+            "total_liabilities": 48390000000,
+            "year": 2024
+          },
+          {
+            "cash_and_short_term_investments": 29094000000,
+            "currency": "USD",
+            "price_to_book": 14.1,
+            "return_on_assets_percent": 15.3,
+            "return_on_capital_percent": 24.6,
+            "shares_outstanding": 3170000000,
+            "total_assets": 106618000000,
+            "total_equity": 63609000000,
+            "total_liabilities": 43009000000,
+            "year": 2023
+          }
+        ],
+        "period": "QUARTERLY",
+        "symbol": "TSLA",
+        "type": "stock"
+      },
+      "request_id": "req_bs_0002",
+      "status": "ok"
+    }
+  },
+  "{\"language\":\"en\",\"period\":\"ANNUAL\",\"symbol\":\"MSFT:NASDAQ\"}": {
+    "error": "",
+    "response": {
+      "data": {
+        "balance_sheet": [
+          {
+            "cash_and_short_term_investments": 111262000000,
+            "currency": "USD",
+            "price_to_book": 12.4,
+            "return_on_assets_percent": 17.6,
+            "return_on_capital_percent": 28.9,
+            "shares_outstanding": 7432000000,
+            "total_assets": 411976000000,
+            "total_equity": 206223000000,
+            "total_liabilities": 205753000000,
+            "year": 2023
+          },
+          {
+            "cash_and_short_term_investments": 104750000000,
+            "currency": "USD",
+            "price_to_book": 11.8,
+            "return_on_assets_percent": 19.2,
+            "return_on_capital_percent": 30.1,
+            "shares_outstanding": 7450000000,
+            "total_assets": 364840000000,
+            "total_equity": 166542000000,
+            "total_liabilities": 198298000000,
+            "year": 2022
+          }
+        ],
+        "period": "ANNUAL",
+        "symbol": "MSFT:NASDAQ",
+        "type": "stock"
+      },
+      "request_id": "req_bs_0001",
+      "status": "ok"
+    }
+  }
+}

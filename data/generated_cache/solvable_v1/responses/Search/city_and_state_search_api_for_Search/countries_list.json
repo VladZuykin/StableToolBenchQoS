@@ -1,0 +1,56 @@
+{
+  "{\"limit\":3,\"sortby\":\"iso2\",\"sortorder\":\"desc\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "iso2": "ZW",
+          "iso3": "ZWE",
+          "name": "Zimbabwe"
+        },
+        {
+          "iso2": "ZM",
+          "iso3": "ZMB",
+          "name": "Zambia"
+        },
+        {
+          "iso2": "YE",
+          "iso3": "YEM",
+          "name": "Yemen"
+        }
+      ]
+    }
+  },
+  "{\"limit\":5,\"sortby\":\"name\",\"sortorder\":\"asc\"}": {
+    "error": "",
+    "response": {
+      "countries": [
+        {
+          "iso2": "AU",
+          "iso3": "AUS",
+          "name": "Australia"
+        },
+        {
+          "iso2": "BR",
+          "iso3": "BRA",
+          "name": "Brazil"
+        },
+        {
+          "iso2": "CA",
+          "iso3": "CAN",
+          "name": "Canada"
+        },
+        {
+          "iso2": "DK",
+          "iso3": "DNK",
+          "name": "Denmark"
+        },
+        {
+          "iso2": "EG",
+          "iso3": "EGY",
+          "name": "Egypt"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "{\"link\":\"https://example.com/products/42\"}": {
+    "error": "",
+    "response": "<binary JPEG image data>"
+  },
+  "{\"link\":\"https://myblog.dev/posts/hello-world?ref=qr\"}": {
+    "error": "",
+    "response": "<binary JPEG image data>"
+  }
+}

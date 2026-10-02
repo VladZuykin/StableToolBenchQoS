@@ -1,0 +1,86 @@
+{
+  "{\"limit\":10,\"page\":\"1\"}": {
+    "error": "",
+    "response": {
+      "entries": 10,
+      "next": "/actors?page=2&limit=10",
+      "page": 1,
+      "results": [
+        {
+          "_id": "nm0000102",
+          "birthYear": 1958,
+          "deathYear": 0,
+          "knownForTitles": "tt0087277,tt0099699,tt0104257,tt0116282",
+          "nconst": "nm0000102",
+          "primaryName": "Kevin Bacon",
+          "primaryProfession": "actor,producer,director"
+        },
+        {
+          "_id": "nm0000151",
+          "birthYear": 1937,
+          "deathYear": 0,
+          "knownForTitles": "tt0111161,tt0107207,tt0120689,tt0114369",
+          "nconst": "nm0000151",
+          "primaryName": "Morgan Freeman",
+          "primaryProfession": "actor,producer,director"
+        }
+      ]
+    }
+  },
+  "{\"limit\":2,\"page\":\"2\"}": {
+    "error": "",
+    "response": {
+      "entries": 2,
+      "next": "/actors?page=3&limit=2",
+      "page": 2,
+      "results": [
+        {
+          "_id": "nm0000129",
+          "birthYear": 1962,
+          "deathYear": 0,
+          "knownForTitles": "tt0116695,tt0092099,tt0120755,tt0181689",
+          "nconst": "nm0000129",
+          "primaryName": "Tom Cruise",
+          "primaryProfession": "actor,producer,writer"
+        },
+        {
+          "_id": "nm0000138",
+          "birthYear": 1974,
+          "deathYear": 0,
+          "knownForTitles": "tt0120338,tt1375666,tt0407887,tt0993846",
+          "nconst": "nm0000138",
+          "primaryName": "Leonardo DiCaprio",
+          "primaryProfession": "actor,producer,writer"
+        }
+      ]
+    }
+  },
+  "{\"limit\":5,\"page\":\"3\"}": {
+    "error": "",
+    "response": {
+      "entries": 5,
+      "next": "/actors?page=4&limit=5",
+      "page": 3,
+      "results": [
+        {
+          "_id": "nm0000209",
+          "birthYear": 1956,
+          "deathYear": 0,
+          "knownForTitles": "tt0109830,tt0120815,tt0162222,tt0112384",
+          "nconst": "nm0000209",
+          "primaryName": "Tom Hanks",
+          "primaryProfession": "actor,producer,writer"
+        },
+        {
+          "_id": "nm0000190",
+          "birthYear": 1937,
+          "deathYear": 0,
+          "knownForTitles": "tt0102926,tt0114369,tt0077651,tt0104257",
+          "nconst": "nm0000190",
+          "primaryName": "Anthony Hopkins",
+          "primaryProfession": "actor,producer,composer"
+        }
+      ]
+    }
+  }
+}

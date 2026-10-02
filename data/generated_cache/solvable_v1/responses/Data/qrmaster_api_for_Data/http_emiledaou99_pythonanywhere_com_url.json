@@ -1,0 +1,20 @@
+{
+  "{\"url\":\"https://mybusiness.com/contact\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "qr_code_url": "https://api.qrmaster.com/qr/4e7d6c5b2a.png",
+      "size": 300,
+      "url": "https://mybusiness.com/contact"
+    }
+  },
+  "{\"url\":\"https://www.example.com/products/sale\"}": {
+    "error": "",
+    "response": {
+      "format": "png",
+      "qr_code_url": "https://api.qrmaster.com/qr/8f3a2b1c9d.png",
+      "size": 300,
+      "url": "https://www.example.com/products/sale"
+    }
+  }
+}

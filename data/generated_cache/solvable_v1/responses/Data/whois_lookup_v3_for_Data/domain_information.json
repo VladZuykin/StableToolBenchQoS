@@ -1,0 +1,40 @@
+{
+  "{\"search\":\"example.com\"}": {
+    "error": "",
+    "response": {
+      "creation_date": "1995-08-14",
+      "dnssec": "unsigned",
+      "domain": "example.com",
+      "expiration_date": "2025-08-13",
+      "ip": "93.184.216.34",
+      "name_servers": [
+        "a.iana-servers.net",
+        "b.iana-servers.net"
+      ],
+      "registrar": "RESERVED-Internet Assigned Numbers Authority",
+      "status": [
+        "clientTransferProhibited"
+      ],
+      "updated_date": "2024-08-14"
+    }
+  },
+  "{\"search\":\"openai.com\"}": {
+    "error": "",
+    "response": {
+      "creation_date": "2015-12-11",
+      "dnssec": "signed",
+      "domain": "openai.com",
+      "expiration_date": "2026-12-11",
+      "ip": "104.18.33.45",
+      "name_servers": [
+        "ns1.cloudflare.com",
+        "ns2.cloudflare.com"
+      ],
+      "registrar": "Cloudflare, Inc.",
+      "status": [
+        "clientTransferProhibited"
+      ],
+      "updated_date": "2024-11-05"
+    }
+  }
+}
