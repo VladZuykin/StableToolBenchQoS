@@ -729,6 +729,8 @@ data/generated_cache/solvable_v1/responses
 
 ## Что хранится в Git
 
+
+```text
 data/
 ├── relation_graph/v16_human/
 │   ├── clusters.jsonl                 # итоговые кластеры API
@@ -755,6 +757,7 @@ data/
 └── qos/v5/
     ├── api_qos_profiles.jsonl          # QoS-профили 7 546 API
     └── metadata.json
+```
 
 ## Ссылки
 
